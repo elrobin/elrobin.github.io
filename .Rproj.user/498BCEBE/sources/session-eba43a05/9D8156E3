@@ -1,26 +1,26 @@
 {
-    "id": "C9C47A20",
-    "path": "~/GitHub/elrobin.github.io/talks.Rmd",
-    "project_path": "talks.Rmd",
+    "id": "9D8156E3",
+    "path": "~/GitHub/elrobin.github.io/index.Rmd",
+    "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "1131283959",
+    "hash": "3864817732",
     "contents": "",
     "dirty": false,
-    "created": 1683412106234.0,
+    "created": 1683408875419.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "54,0",
-        "scrollLine": "0"
+        "cursorPosition": "49,0",
+        "scrollLine": "38"
     },
     "folds": "",
-    "lastKnownWriteTime": 1683413127,
+    "lastKnownWriteTime": 1683971392,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1683413128029,
+    "last_content_update": 1683971392222,
     "read_only": false,
     "read_only_alternatives": []
 }
