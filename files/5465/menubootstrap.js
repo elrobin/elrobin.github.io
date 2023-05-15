@@ -1,0 +1,14 @@
+(function($){
+    $(document).ready(function(){
+        $('.navButton').click(function(){
+            if($('.navLanguage').hasClass('in')){
+                $('.navLanguage').collapse('hide');
+            }
+        });
+        $('.langButton').click(function(){
+            if($('.navHeaderCollapse').hasClass('in')){
+                $('.navHeaderCollapse').collapse('hide');
+            }
+        });
+    });
+})(jQuery)

@@ -1,0 +1,13 @@
+function OAS_RICH(position) {
+if (position == 'Right1') {
+document.write ('<div class="ad"><div STYLE="color: #52819B; font-size: 10px; text-align: center;" >ADVERTISEMENT</div><br />\n');
+document.write ('<a href="http://oascentral.sciencemag.org/RealMedia/ads/click_lx.ads/www.sciencemag.org/content/342/6163/1169.2/L26/1578059681/Right1/AAAS/SOL-AAASHouse-Advertorial-Right1/Careers_TopEmployers_Survey2013-2.html/1?1578059681" target="_blank"><img src="http://imagec14.247realmedia.com/RealMedia/ads/Creatives/AAAS/SOL-AAASHouse-Advertorial-Right1/Careers_TopEmployers_Survey2013.png" BORDER=0 WIDTH=160 HEIGHT=150 alt="Advertisement"></a></div>\n');
+}
+if (position == 'Right2') {
+document.write ('<div class="ad"><div STYLE="color: #52819B; font-size: 10px; text-align: center;" >ADVERTISEMENT</div><br />\n');
+document.write ('<a href="http://oascentral.sciencemag.org/RealMedia/ads/click_lx.ads/www.sciencemag.org/content/342/6163/1169.2/L26/1303512590/Right2/AAAS/SOL-Life-Technologies-Webinar-House-Ad-131119-COPY/Life-Tech-2-Tower-Post.html/1?1303512590" target="_blank"><img src="http://imagec14.247realmedia.com/RealMedia/ads/Creatives/AAAS/SOL-Life-Technologies-Webinar-House-Ad-131119-COPY/Life-Tech-2-Tower-Post.jpg" BORDER=0 WIDTH=160 HEIGHT=600 alt="Advertisement"></a></div>\n');
+}
+if (position == 'Top') {
+document.write ('<A HREF="http://oascentral.sciencemag.org/RealMedia/ads/click_lx.ads/www.sciencemag.org/content/342/6163/1169.2/L26/288408334/Top/AAAS/SOL-CAR-SIG-E-AlertsHseAd-7.6.09/J-2470_AlertBanner-Ldrbd_Fresh.jpg/1?x" target="new"><IMG SRC="http://imagec14.247realmedia.com/RealMedia/ads/Creatives/AAAS/SOL-CAR-SIG-E-AlertsHseAd-7.6.09/J-2470_AlertBanner-Ldrbd_Fresh.jpg/1246895017"  ALT="Science E Alerts" width=728 height=90 BORDER="0"></A>');
+}
+}

@@ -1,0 +1,392 @@
+
+Skip to main content
+bioRxiv
+
+    Home
+    About
+    Submit
+    News & Notes
+    ALERTS / RSS
+    Channels
+        4D Nucleome
+        Advances in Genome Biology and Technology (AGBT) General Meeting 2016 #AGBT16
+        Allen Institute for Cell Science
+        Biology of Genomes 2016 #BOG16
+        Central Oxford Structural Microscopy and Imaging
+        Chan Zuckerberg Biohub
+        DREAM
+        Drug Development and Clinical Therapeutics
+        ENCODE
+        European Molecular Biology Laboratory (EMBL)
+        Francis Crick Institute
+        Harvard Program in Therapeutic Sciences
+        Human Cell Atlas
+        IMO Workshop
+        Mathematical Oncology
+        Micron Oxford
+        NCI Human Tumor Atlas Network
+        Simons Foundation Autism Research Initiative (SFARI)
+        Society for Molecular Biology and Evolution #SMBE2016
+        The Sainsbury Laboratory
+
+Search for this keyword
+Advanced Search
+bioRxiv is receiving many new papers on coronavirus SARS-CoV-2.   A reminder: these are preliminary reports that have not been peer-reviewed. They should not be regarded as conclusive, guide clinical practice/health-related behavior, or be reported in news media as established information.
+New Results Comment on this paper
+Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 literature
+View ORCID Profile Daniel Torres-Salinas , View ORCID Profile Nicolas Robinson-Garcia , View ORCID Profile Pedro A. Castillo-Valdivieso
+doi: https://doi.org/10.1101/2020.04.23.057307
+This article is a preprint and has not been certified by peer review [ what does this mean? ].
+Daniel Torres-Salinas
+1 Departamento de Información y Comunicación, Medialab UGR, Unidad de Excelencia Iberlab, y Ec3metrics spin off. Campus Cartuja , s/n. 18071 Granada, España , E-mail:
+
+    Find this author on Google Scholar
+    Find this author on PubMed
+    Search for this author on this site
+    ORCID record for Daniel Torres-Salinas
+    For correspondence: torressalinas@go.ugr.es
+
+Nicolas Robinson-Garcia
+2 Delft Institute of Applied Mathematics , TU Delft, Delft, Netherlands
+
+    Find this author on Google Scholar
+    Find this author on PubMed
+    Search for this author on this site
+    ORCID record for Nicolas Robinson-Garcia
+    For correspondence: elrobinster@gmail.com
+
+Pedro A. Castillo-Valdivieso
+3 Departamento de Arquitectura y Tecnologia de Computadores, University of Granada , Granada, Spain E-mail:
+
+    Find this author on Google Scholar
+    Find this author on PubMed
+    Search for this author on this site
+    ORCID record for Pedro A. Castillo-Valdivieso
+    For correspondence: pacv@ugr.es
+
+    Abstract
+    Full Text
+    Info/History
+    Metrics
+    Preview PDF
+
+Loading
+Abstract
+
+We present an analysis on the uptake of open access on COVID-19 related literature as well as the social media attention they gather when compared with non OA papers. We use a dataset of publications curated by Dimensions and analyze articles and preprints. Our sample includes 11,686 publications of which 67.5% are openly accessible. OA publications tend to receive the largest share of social media attention as measured by the Altmetric Attention Score. 37.6% of OA publications are bronze, which means toll journals are providing free access. MedRxiv contributes to 36.3% of documents in repositories but papers in BiorXiv exhibit on average higher AAS. We predict the growth of COVID-19 literature in the following 30 days estimating ARIMA models for the overall publications set, OA vs. non OA and by location of the document (repository vs. journal). We estimate that COVID-19 publications will double in the next 20 days, but non OA publications will grow at a higher rate than OA publications. We conclude by discussing the implications of such findings on the dissemination and communication of research findings to mitigate the coronavirus outbreak.
+Competing Interest Statement
+
+The authors have declared no competing interest.
+
+Paper in collection COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv
+Copyright 
+The copyright holder for this preprint is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY 4.0 International license .
+Tweets referencing this article:
+1,229 followers
+Nicolás Robinson
+@nrobinsongarcia
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+07:22AM
+Reply Retweet Favourite
+1,364 followers
+Enrique Orduña Malea
+@eomalea
+
+Felicidades @nrobinsongarcia por la mención y sobre todo por el trabajo! :)
+05:32PM
+Reply Retweet Favourite
+1,229 followers
+Nicolás Robinson
+@nrobinsongarcia
+
+@ScienceMagazine mentions our work on the analysis of #COVID19 literature w @torressalinas & @pacastillo https://t.co/q5v2Kdwdu9 news piece by @JeffreyBrainard https://t.co/tyFB5KQmxu
+05:22PM
+Reply Retweet Favourite
+187 followers
+OpenSci Talk
+@OpenSciTalk
+
+RT @LevyLibPress : Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 related literature https://t.co/U5Xrq6FGb …
+06 May 2020
+Reply Retweet Favourite
+84 followers
+Levy Library Press
+@LevyLibPress
+
+Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 related literature https://t.co/U5Xrq6FGb9 #openaccess #altmetrics #OpenScience https://t.co/wewNVbuEkJ
+06 May 2020
+Reply Retweet Favourite
+8,816 followers
+Open Science
+@_open_science_
+
+RT @Levy_Library : Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 related literature https://t.co/R2uJ9yhbo …
+30 Apr 2020
+Reply Retweet Favourite
+2,164 followers
+The Levy Library at Icahn School of Medicine
+@Levy_Library
+
+Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 related literature https://t.co/R2uJ9yhbob #openaccess #altmetrics #OpenScience https://t.co/1PPZ1Sg6ti
+30 Apr 2020
+Reply Retweet Favourite
+1,382 followers
+Pakay
+@Pakay20
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+28 Apr 2020
+Reply Retweet Favourite
+601 followers
+e k
+@phoenixemk
+
+RT @autismcrisis : In their haste, authors generate COVID-819, by incorporating line numbers in their abstract (jour-14nals & mit-22igate to…
+28 Apr 2020
+Reply Retweet Favourite
+1,042 followers
+Outbreak Science
+@outbreaksci
+
+Contribute a rapid review or request one for "Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 related l..." ( https://t.co/cVNVz91tzW ). "Add" or "Request" w/DOI (10.1101/2020.04.23.057307) at https://t.co/RnurTL3DyM @outbreaks
+27 Apr 2020
+Reply Retweet Favourite
+1,042 followers
+Outbreak Science
+@outbreaksci
+
+New #COVID19 preprint: Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 related literature https://t.co/cVNVz91tzW
+27 Apr 2020
+Reply Retweet Favourite
+18 followers
+echocrank
+@echocrank1
+
+Getting writing!
+27 Apr 2020
+Reply Retweet Favourite
+717 followers
+Rebecca Weitzel
+@rweitzel0913
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+2,879 followers
+Dr. Safa Mote
+@SafaMote
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+6,091 followers
+Michelle Dawson
+@autismcrisis
+
+In their haste, authors generate COVID-819, by incorporating line numbers in their abstract (jour-14nals & mit-22igate too) https://t.co/v9R27ohFl7 preprint, autism-irrelevant, sorry
+27 Apr 2020
+Reply Retweet Favourite
+109,407 followers
+Brenda Hill Skylstad
+@BSkylstad
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+846 followers
+John De Vos
+@_jdevos_
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+2,671 followers
+priya joseph
+@ayirpelle
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+309 followers
+COVID-19_arXiv
+@COVID19arXiv
+
+𝗧𝗶𝘁𝗹𝗲: Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 related literature. 𝗔𝘂𝘁𝗵𝗼𝗿𝘀: Torres-Salinas, D.; Robinson-Garcia, N.; Castillo-Valdivieso, P. A. https://t.co/kfm90bDvI6 https://t.co/62i1mFiby5
+27 Apr 2020
+Reply Retweet Favourite
+24 followers
+dav mantonelli
+@dav_manton
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+955 followers
+Justin Briggs
+@Briggsly
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+2,554 followers
+Diana E. Jaalouk
+@Diana_Jaalouk
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+184 followers
+Gray Wolf
+@GreyWol27926578
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+1,895 followers
+GlutenGluten
+@1979F100
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+370 followers
+Diego Felipe
+@diegofelp
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+8,314 followers
+Dr. Faris Durmo MD., BSc.
+@Dr_FarrisD
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+1,421 followers
+Guillaume Méric
+@phylogeo
+
+RT @GaetanBurgio : This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To…
+27 Apr 2020
+Reply Retweet Favourite
+11,453 followers
+Dr Gaetan Burgio, MD, PhD.
+@GaetanBurgio
+
+This paper look at the number of #COVID19 publication, how many are #OpenAccess , cited => numbers are truly insane ! To date > 12,000 papers !!! 68% #OpenAccess , ave citation/paper 2.32, ave @altmetric score 117 for #OA 152 projection 27,000 papers
+27 Apr 2020
+Reply Retweet Favourite
+438 followers
+Pooled Sequencing
+@pooledseq
+
+bioArXiv_ Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 related literature https://t.co/0NjfjAmkPJ
+26 Apr 2020
+Reply Retweet Favourite
+25 followers
+Scientific communication & education Papers
+@Science_comedu
+
+Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 related literature https://t.co/ujHZEEVO4u
+26 Apr 2020
+Reply Retweet Favourite
+55,680 followers
+bioRxiv
+@biorxivpreprint
+
+Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 related literature https://t.co/IFX5g4XYSF #bioRxiv
+26 Apr 2020
+Reply Retweet Favourite
+Back to top
+Previous Next
+Posted April 26, 2020.
+Download PDF
+XML
+Email
+Share
+Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 literature
+Daniel Torres-Salinas , Nicolas Robinson-Garcia , Pedro A. Castillo-Valdivieso
+bioRxiv 2020.04.23.057307; doi: https://doi.org/10.1101/2020.04.23.057307
+This article is a preprint and has not been certified by peer review [ what does this mean? ].
+Share This Article: Copy
+Digg logo Reddit logo Twitter logo Facebook logo Google logo Mendeley logo
+Citation Tools
+
+    Tweet Widget
+
+COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv
+Subject Area
+
+    Scientific Communication and Education
+
+Subject Areas
+All Articles
+
+    Animal Behavior and Cognition (1871)
+    Biochemistry (3353)
+    Bioengineering (2267)
+    Bioinformatics (11564)
+    Biophysics (4784)
+    Cancer Biology (3779)
+    Cell Biology (5359)
+    Clinical Trials* (137)
+    Developmental Biology (3246)
+    Ecology (5136)
+    Epidemiology* (2047)
+    Evolutionary Biology (7949)
+    Genetics (6003)
+    Genomics (7588)
+    Immunology (2909)
+    Microbiology (8945)
+    Molecular Biology (3535)
+    Neuroscience (21153)
+    Paleontology (153)
+    Pathology (566)
+    Pharmacology and Toxicology (920)
+    Physiology (1381)
+    Plant Biology (3177)
+    Scientific Communication and Education (766)
+    Synthetic Biology (1003)
+    Systems Biology (3136)
+    Zoology (532)
+
+* The Clinical Trials and Epidemiology subject categories are now closed to new submissions following the completion of bioRxiv's clinical research pilot project and launch of the dedicated health sciences server medRxiv (submit.medrxiv.org) . New papers that report results of Clinical Trials must now be submitted to medRxiv. Most new Epidemiology papers also should be submitted to medRxiv, but if a paper contains no health-related information, authors may choose to submit it to another bioRxiv subject category (e.g., Genetics or Microbiology).
+Email this Article close
+
+Thank you for your interest in spreading the word about bioRxiv.
+
+NOTE: Your email address is requested solely to identify you as the sender of this article.
+Your Email *
+Your Name *
+Send To *
+Enter multiple addresses on separate lines or separate them with commas.
+You are going to email the following Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 literature
+Message Subject (Your Name) has forwarded a page to you from bioRxiv
+Message Body (Your Name) thought you would like to see this page from the bioRxiv website.
+Your Personal Message
+CAPTCHA
+This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
+Citation Tools close
+Open Access and Altmetrics in the pandemic age: Forescast analysis on COVID-19 literature
+Daniel Torres-Salinas , Nicolas Robinson-Garcia , Pedro A. Castillo-Valdivieso
+bioRxiv 2020.04.23.057307; doi: https://doi.org/10.1101/2020.04.23.057307
+This article is a preprint and has not been certified by peer review [ what does this mean? ].
+Citation Manager Formats
+
+    BibTeX
+    Bookends
+    EasyBib
+    EndNote (tagged)
+    EndNote 8 (xml)
+    Medlars
+    Mendeley
+    Papers
+    RefWorks Tagged
+    Ref Manager
+    RIS
+    Zotero
+
+We use cookies on this site to enhance your user experience. By clicking any link on this page you are giving your consent for us to set cookies.
+Continue Find out more

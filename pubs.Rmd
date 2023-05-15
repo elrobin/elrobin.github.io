@@ -4,36 +4,25 @@ image: "nick.jpg"
 links:
   - label: Home
     url: "https://elrobin.github.io/"
-  - label: Twitter
-    url: "https://twitter.com/nrobinsongarcia"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=Jd6KNkQAAAAJ&hl=en"
   - label: ORCID
     url: "http://orcid.org/0000-0002-0585-7359"
+  - label: ResearcherID
+    url: "https://www.webofscience.com/wos/author/rid/B-3590-2012" 
+  - label: Twitter
+    url: "https://twitter.com/nrobinsongarcia"
+  - label: Github
+    url: "https://github.com/elrobin" 
   - label: EC3 Research Group
     url: "https://ec3-research.com" 
 output:
   postcards::trestles
+bibliography: pubs.bib
+csl: 'associacao-brasileira-de-normas-tecnicas.csl'
+nocite: '@*'
 ---
  
-## Bio
+## Publications
 
-Nicolas Robinson-Garcia is a Ramón y Cajal fellow in the field of bibliometrics and research evaluation at the University of Granada. He is director of the EC3 Research Group, Associate Editor on Open Science and New Metrics for the journal Scientometrics, and member of the Steering Committee of the European Summer School for Scientometrics. His lines of research are altmetrics, author-level metrics and open science. He is also member of the editorial board of Research Evaluation and Quantitative Science Studies, and member of the Advisory Board of the International Center for the Study of Research.
-
-## Research
-
-**Massachusetts Institute of Technology** | Cambridge, MA
-
-Ph.D. in Computer Science | September 2009 - May 2014
-
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
-
-## Teaching
-
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
-
-## Outreach
+Find my complete publication record. For latest updates check out my [Google Scholar profile](https://scholar.google.es/citations?hl=en&user=Jd6KNkQAAAAJ&view_op=list_works&sortby=pubdate)

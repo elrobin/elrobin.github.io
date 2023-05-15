@@ -1,0 +1,619 @@
+ 
+Skip to main content 
+ 
+    Submit 
+    About 
+        Editorial Board 
+        PNAS Staff 
+        FAQ 
+        Rights and Permissions 
+        Site Map 
+    Contact 
+    Journal Club 
+    Subscribe 
+        Subscription Rates 
+        Subscriptions FAQ 
+        Open Access 
+        Recommend PNAS to Your Librarian 
+ 
+    Log in 
+    Log out 
+    My Cart 
+ 
+    Main menu 
+    User menu 
+    Search 
+ 
+Main menu 
+ 
+    Home 
+    Articles 
+        Current 
+        Latest Articles 
+        Special Features 
+        Colloquia 
+        Collected Articles 
+        PNAS Classics 
+        Archive 
+    Front Matter 
+    News 
+        For the Press 
+        Highlights from Latest Articles 
+        PNAS in the News 
+    Podcasts 
+    Authors 
+        Information for Authors 
+        Purpose and Scope 
+        Editorial and Journal Policies 
+        Submission Procedures 
+        For Reviewers 
+        Author FAQ 
+ 
+    Submit 
+    About 
+        Editorial Board 
+        PNAS Staff 
+        FAQ 
+        Rights and Permissions 
+        Site Map 
+    Contact 
+    Journal Club 
+    Subscribe 
+        Subscription Rates 
+        Subscriptions FAQ 
+        Open Access 
+        Recommend PNAS to Your Librarian 
+ 
+User menu 
+ 
+    Log in 
+    Log out 
+    My Cart 
+ 
+Search 
+Search for this keyword 
+Search 
+ 
+    Advanced search 
+ 
+Home 
+Home 
+Search for this keyword 
+Search 
+ 
+Advanced Search 
+ 
+    Home 
+    Articles 
+        Current 
+        Latest Articles 
+        Special Features 
+        Colloquia 
+        Collected Articles 
+        PNAS Classics 
+        Archive 
+    Front Matter 
+    News 
+        For the Press 
+        Highlights from Latest Articles 
+        PNAS in the News 
+    Podcasts 
+    Authors 
+        Information for Authors 
+        Purpose and Scope 
+        Editorial and Journal Policies 
+        Submission Procedures 
+        For Reviewers 
+        Author FAQ 
+ 
+New Research In 
+Physical Sciences 
+Featured Portals 
+ 
+    Physics 
+    Chemistry 
+    Sustainability Science 
+ 
+Articles by Topic 
+ 
+    Applied Mathematics 
+    Applied Physical Sciences 
+    Astronomy 
+    Computer Sciences 
+    Earth, Atmospheric, and Planetary Sciences 
+    Engineering 
+    Environmental Sciences 
+    Mathematics 
+    Statistics 
+ 
+Social Sciences 
+Featured Portals 
+ 
+    Anthropology 
+    Sustainability Science 
+ 
+Articles by Topic 
+ 
+    Economic Sciences 
+    Environmental Sciences 
+    Political Sciences 
+    Psychological and Cognitive Sciences 
+    Social Sciences 
+ 
+Biological Sciences 
+Featured Portals 
+ 
+    Sustainability Science 
+ 
+Articles by Topic 
+ 
+    Agricultural Sciences 
+    Anthropology 
+    Applied Biological Sciences 
+    Biochemistry 
+    Biophysics and Computational Biology 
+    Cell Biology 
+    Developmental Biology 
+    Ecology 
+    Environmental Sciences 
+    Evolution 
+    Genetics 
+    Immunology and Inflammation 
+    Medical Sciences 
+    Microbiology 
+    Neuroscience 
+    Pharmacology 
+    Physiology 
+    Plant Biology 
+    Population Biology 
+    Psychological and Cognitive Sciences 
+    Sustainability Science 
+    Systems Biology 
+ 
+The misleading narrative of the canonical faculty productivity trajectory 
+Samuel F. Way , Allison C. Morgan , Aaron Clauset , and Daniel B. Larremore 
+PNAS October 31, 2017 114 (44) E9216-E9223; first published October 17, 2017 https://doi.org/10.1073/pnas.1702121114 
+Samuel F. Way 
+a Department of Computer Science, University of Colorado , Boulder, CO 80309; 
+ 
+    Find this author on Google Scholar 
+    Find this author on PubMed 
+    Search for this author on this site 
+    For correspondence: daniel.larremore@colorado.edu samuel.way@colorado.edu 
+ 
+Allison C. Morgan 
+a Department of Computer Science, University of Colorado , Boulder, CO 80309; 
+ 
+    Find this author on Google Scholar 
+    Find this author on PubMed 
+    Search for this author on this site 
+ 
+Aaron Clauset 
+a Department of Computer Science, University of Colorado , Boulder, CO 80309; b BioFrontiers Institute, University of Colorado , Boulder, CO 80303; c Santa Fe Institute , Santa Fe, NM 87501 
+ 
+    Find this author on Google Scholar 
+    Find this author on PubMed 
+    Search for this author on this site 
+ 
+Daniel B. Larremore 
+a Department of Computer Science, University of Colorado , Boulder, CO 80309; b BioFrontiers Institute, University of Colorado , Boulder, CO 80303; c Santa Fe Institute , Santa Fe, NM 87501 
+ 
+    Find this author on Google Scholar 
+    Find this author on PubMed 
+    Search for this author on this site 
+    ORCID record for Daniel B. Larremore 
+    For correspondence: daniel.larremore@colorado.edu samuel.way@colorado.edu 
+ 
+    Edited by Kenneth W. Wachter, University of California, Berkeley, CA, and approved September 18, 2017 (received for review February 13, 2017) 
+ 
+    Article 
+    Figures & SI 
+    Info & Metrics 
+    PDF 
+ 
+Loading 
+Significance 
+ 
+Scholarly productivity impacts nearly every aspect of a researcher’s career, from their initial placement as faculty to funding and tenure decisions. Historically, expectations for individuals rely on 60 years of research on aggregate trends, which suggest that productivity rises rapidly to an early-career peak and then gradually declines. Here we show, using comprehensive data on the publication and employment histories of an entire field of research, that the canonical narrative of “rapid rise, gradual decline” describes only about one-fifth of individual faculty, and the remaining four-fifths exhibit a rich diversity of productivity patterns. This suggests existing models and expectations for faculty productivity require revision, as they capture only one of many ways to have a successful career in science. 
+Abstract 
+ 
+A scientist may publish tens or hundreds of papers over a career, but these contributions are not evenly spaced in time. Sixty years of studies on career productivity patterns in a variety of fields suggest an intuitive and universal pattern: Productivity tends to rise rapidly to an early peak and then gradually declines. Here, we test the universality of this conventional narrative by analyzing the structures of individual faculty productivity time series, constructed from over 200,000 publications and matched with hiring data for 2,453 tenure-track faculty in all 205 PhD-granting computer science departments in the United States and Canada. Unlike prior studies, which considered only some faculty or some institutions, or lacked common career reference points, here we combine a large bibliographic dataset with comprehensive information on career transitions that covers an entire field of study. We show that the conventional narrative confidently describes only one-fifth of faculty, regardless of department prestige or researcher gender, and the remaining four-fifths of faculty exhibit a rich diversity of productivity patterns. To explain this diversity, we introduce a simple model of productivity trajectories and explore correlations between its parameters and researcher covariates, showing that departmental prestige predicts overall individual productivity and the timing of the transition from first- to last-author publications. These results demonstrate the unpredictability of productivity over time and open the door for new efforts to understand how environmental and individual factors shape scientific productivity. 
+ 
+    data analysis 
+    career trajectory 
+    computer science 
+    productivity 
+    sociology 
+ 
+Footnotes 
+ 
+    ↵ 1 To whom correspondence may be addressed. Email: daniel.larremore@colorado.edu or samuel.way@colorado.edu . 
+ 
+    ↵ 2 A.C. and D.B.L. contributed equally to this work. 
+ 
+    Author contributions: S.F.W., A.C., and D.B.L. designed research; S.F.W., A.C.M., and D.B.L. performed research; S.F.W., A.C.M., and D.B.L. analyzed data; and S.F.W., A.C.M., A.C., and D.B.L. wrote the paper. 
+ 
+    The authors declare no conflict of interest. 
+ 
+    This article is a PNAS Direct Submission. 
+ 
+    This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.1073/pnas.1702121114/-/DCSupplemental . 
+ 
+Published under the PNAS license . 
+References 
+ 
+    ↵ 
+        Way SF , 
+        Larremore DB , 
+        Clauset A 
+    ( 2016 ) Gender, productivity, and prestige in computer science faculty hiring networks . Proc 25th Intl Conf World Wide Web , 1169 – 1179 . 
+    Google Scholar 
+    ↵ 
+        Cole S , 
+        Cole JR 
+    ( 1967 ) Scientific output and recognition: A study in the operation of the reward system in science . Am Socio Rev 32 : 377 – 390 . 
+    Find it @ GA Tech Google Scholar 
+    ↵ 
+        Massy WF , 
+        Wilger AK 
+    ( 1995 ) Improving productivity: What faculty think about it—and its effect on quality . Change 27 : 10 – 20 . 
+    Find it @ GA Tech Google Scholar 
+    ↵ 
+        Stephan PE 
+    ( 1996 ) The economics of science . J Econ Lit 34 : 1199 – 1235 . 
+    Find it @ GA Tech Google Scholar 
+    ↵ 
+        Lehman HC 
+    ( 1954 ) Men’s creative production rate at different ages and in different countries . Sci Mon 78 : 321 – 326 . 
+    Find it @ GA Tech Google Scholar 
+    ↵ 
+        Dennis W 
+    ( 1956 ) Age and productivity among scientists . Science 123 : 724 – 725 . 
+    Find it @ GA Tech FREE Full Text Google Scholar 
+    ↵ 
+        Diamond AM 
+    ( 1986 ) The life-cycle research productivity of mathematicians and scientists . J Gerontol 41 : 520 – 525 . 
+    Find it @ GA Tech CrossRef PubMed Google Scholar 
+    ↵ 
+        Horner KL , 
+        Rushton JP , 
+        Vernon PA 
+    ( 1986 ) Relation between aging and research productivity of academic psychologists . Psychol Aging 1 : 319 – 324 . 
+    Find it @ GA Tech CrossRef PubMed Google Scholar 
+    ↵ 
+        Bayer AE , 
+        Dutton JE 
+    ( 1977 ) Career age and research-professional activities of academic scientists: Tests of alternative nonlinear models and some implications for higher education faculty policies . J Higher Educ 48 : 259 – 282 . 
+    Find it @ GA Tech Google Scholar 
+    ↵ 
+        Simonton DK 
+    ( 1997 ) Creative productivity: A predictive and explanatory model of career trajectories and landmarks . Psychol Rev 104 : 66 – 89 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Levin SG , 
+        Stephan PE 
+    ( 1991 ) Research productivity over the life cycle: Evidence for academic scientists . Am Econ Rev 81 : 114 – 132 . 
+    Find it @ GA Tech Google Scholar 
+    ↵ 
+        Rinaldi S , 
+        Cordone R , 
+        Casagrandi R 
+    ( 2000 ) Instabilities in creative professions: A minimal model . Nonlinear Dyn Psychol Life Sci 4 : 255 – 273 . 
+    Find it @ GA Tech Google Scholar 
+    ↵ 
+        Cole S 
+    ( 1979 ) Age and scientific performance . Am J Sociol 84 : 958 – 977 . 
+    Find it @ GA Tech Google Scholar 
+    ↵ 
+        Symonds MR , 
+        Gemmell NJ , 
+        Braisher TL , 
+        Gorringe KL , 
+        Elgar MA 
+    ( 2006 ) Gender differences in publication output: Towards an unbiased metric of research performance . PLoS One 1 : e127 . 
+    Find it @ GA Tech CrossRef PubMed Google Scholar 
+    ↵ 
+        Malmgren R , 
+        Ottino J , 
+        Nunes AL 
+    ( 2010 ) The role of mentorship in protégé performance . Nature 465 : 622 – 626 . 
+    Find it @ GA Tech CrossRef PubMed Google Scholar 
+    ↵ 
+        Quetelet LAJ 
+    ( 1835 ) Sur l’Homme et le Développement de ses Facultés: Ou, Essai de Physique Sociale ; trans Knox R (2013) [ A Treatise on Man and the Development of his Faculties ], ed Simbert T (Cambridge Univ Press, New York) . 
+    Google Scholar 
+    ↵ 
+        Kaplan H , 
+        Hill K , 
+        Lancaster J , 
+        Hurtado AM 
+    ( 2000 ) A theory of human life history evolution: Diet, intelligence, and longevity . Evol Anthropol 9 : 156 – 185 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Clauset A , 
+        Larremore DB , 
+        Sinatra R 
+    ( 2017 ) Data-driven predictions in the science of science . Science 355 : 477 – 480 . 
+    Find it @ GA Tech Abstract / FREE Full Text Google Scholar 
+    ↵ 
+        Caplow T , 
+        McGee RJ 
+    ( 1958 ) The Academic Marketplace ( Basic Books, Inc. New York ). 
+    Google Scholar 
+    ↵ 
+        Crane D 
+    ( 1965 ) Scientists at major and minor universities: A study of productivity and recognition . Am Sociol Rev 30 : 699 – 714 . 
+    Find it @ GA Tech CrossRef PubMed Google Scholar 
+    ↵ 
+        Reskin BF 
+    ( 1979 ) Academic sponsorship and scientists’ careers . Sociol Educ 52 : 129 – 146 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Long JS , 
+        Allison PD , 
+        McGinnis R 
+    ( 1979 ) Entrance into the academic career . Am Sociol Rev 44 : 816 – 830 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Chubin DE , 
+        Porter AL , 
+        Boeckmann ME 
+    ( 1981 ) Career patterns of scientists: A case for complementary data . Am Sociol Rev 46 : 488 – 496 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Zuckerman HA 
+    ( 1970 ) Stratification in American science . Sociol Inq 40 : 235 – 257 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Long JS 
+    ( 1978 ) Productivity and academic position in the scientific career . Am Sociol Rev 43 : 889 – 908 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Clauset A , 
+        Arbesman S , 
+        Larremore DB 
+    ( 2015 ) Systematic inequality and hierarchy in faculty hiring networks . Sci Adv 1 : e1400005 . 
+    Find it @ GA Tech FREE Full Text Google Scholar 
+    ↵ 
+        Allison PD , 
+        Long JS 
+    ( 1990 ) Departmental effects on scientific productivity . Am Sociol Rev 55 : 469 – 478 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Pelz DC , 
+        Andrews FM 
+    ( 1976 ) Scientists in Organizations: Productive Climates for Research and Development ( Institute for Social Research , Ann Arbor, MI ). 
+    Google Scholar 
+    ↵ 
+        Dey EL , 
+        Milem JF , 
+        Berger JB 
+    ( 1997 ) Changing patterns of publication productivity: Accumulative advantage or institutional isomorphism? Sociol Educ 70 : 308 – 323 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Larsen PO , 
+        Von Ins M 
+    ( 2010 ) The rate of growth in scientific publication and the decline in coverage provided by science citation index . Scientometrics 84 : 575 – 603 . 
+    Find it @ GA Tech CrossRef PubMed Google Scholar 
+    ↵ 
+        Lotka AJ 
+    ( 1926 ) The frequency distribution of scientific productivity . J Wash Acad Sci 16 : 321 – 322 . 
+    Find it @ GA Tech Google Scholar 
+    ↵ 
+        Shockley W 
+    ( 1957 ) On the statistics of individual variations of productivity in research laboratories . Proc IRE 45 : 279 – 290 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Cole JR 
+    ( 1979 ) Fair Science: Women in the Scientific Community ( Free Press , New York ). 
+    Google Scholar 
+    ↵ 
+        Reskin BF 
+    ( 1978 ) Scientific productivity, sex, and location in the institution of science . Am J Sociol 83 : 1235 – 1243 . 
+    Find it @ GA Tech Google Scholar 
+    ↵ 
+        Fox MF 
+    ( 1983 ) Publication productivity among scientists: A critical review . Soc Stud Sci 13 : 285 – 305 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Duch J , et al. 
+    ( 2012 ) The possible role of resource requirements and academic career-choice risk on gender differences in publication rate and impact . PLoS One 7 : e51332 . 
+    Find it @ GA Tech CrossRef PubMed Google Scholar 
+    ↵ 
+        Long JS 
+    ( 1992 ) Measures of sex differences in scientific productivity . Soc Forces 71 : 159 – 178 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Xie Y , 
+        Shauman KA 
+    ( 1998 ) Sex differences in research productivity: New evidence about an old puzzle . Am Sociol Rev 63 : 847 – 870 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Fox MF 
+    ( 2005 ) Gender, family characteristics, and publication productivity among scientists . Soc Stud Sci 35 : 131 – 150 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Zeng XHT , et al. 
+    ( 2016 ) Differences in collaboration patterns across discipline, career stage, and gender . PLoS Biol 14 : e1002573 . 
+    Find it @ GA Tech PubMed Google Scholar 
+    ↵ 
+        Pezzoni M , 
+        Mairesse J , 
+        Stephan P , 
+        Lane J 
+    ( 2016 ) Gender and the publication output of graduate students: A case study . PLoS One 11 : e0145146 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Link AN , 
+        Swann CA , 
+        Bozeman B 
+    ( 2008 ) A time allocation study of university faculty . Econ Educ Rev 27 : 363 – 374 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+    ↵ 
+        Sinatra R , 
+        Wang D , 
+        Deville P , 
+        Song C , 
+        Barabási AL 
+    ( 2016 ) Quantifying the evolution of individual scientific impact . Sci 354 : aaf5239 . 
+    Find it @ GA Tech Abstract / FREE Full Text Google Scholar 
+    ↵ 
+        Newman MEJ 
+    ( 2009 ) The first-mover advantage in scientific publication . Europhys Lett 86 : 68001 . 
+    Find it @ GA Tech CrossRef Google Scholar 
+ 
+View Full Text 
+Previous Next 
+Back to top 
+Article Alerts 
+Email Article 
+Citation Tools 
+Request Permissions 
+Share 
+Revisiting trends in science faculty productivity 
+Samuel F. Way , Allison C. Morgan , Aaron Clauset , Daniel B. Larremore 
+Proceedings of the National Academy of Sciences Oct 2017, 114 (44) E9216-E9223; DOI: 10.1073/pnas.1702121114 
+Share This Article: Copy 
+del.icio.us logo Digg logo Reddit logo Twitter logo CiteULike logo Facebook logo Google logo Mendeley logo 
+ 
+    Tweet Widget 
+    Mendeley logo Mendeley 
+ 
+Proceedings of the National Academy of Sciences: 116 (41) 
+Current Issue 
+ 
+Submit 
+Sign up for Article Alerts 
+Sign up 
+Article Classifications 
+ 
+    Social Sciences 
+    Social Sciences 
+ 
+Jump to section 
+ 
+    Article 
+        Abstract 
+        Collection of CV Data 
+        Results 
+        General Trends in Productivity Data 
+        Modeling Framework 
+        Sensitivity to Timing of Publications 
+        Model Selection 
+        Detection of Alphabetized Publication Venues 
+        Least-Squares Fit of f(t) 
+        Discussion 
+        Acknowledgments 
+        Footnotes 
+        References 
+    Figures & SI 
+    Info & Metrics 
+    PDF 
+ 
+You May Also be Interested in 
+In trying to rescue amphibians from a global fungus epidemic, researchers are finding that bacteria may be their best allies. Image credit: Flickr/Brian Gratwicke. 
+News Feature: Fighting a fungal scourge 
+In trying to rescue amphibians from a global fungus epidemic, researchers are finding that bacteria may be their best allies. 
+Image credit: Flickr/Brian Gratwicke. 
+Recycling atmospheric CO2 into liquid methanol using artificial marine floating islands. Image courtesy of Novaton. 
+Solar methanol islands 
+Recycling atmospheric CO 2 into liquid methanol using artificial marine floating islands. 
+Image courtesy of Novaton. 
+Proteins in the blood of mice may underlie the cognition-enhancing properties of young blood. Image courtesy of Kathlyn J. Gan. 
+Synapse-boosting factors in young blood 
+Proteins in the blood of mice may underlie the cognition-enhancing properties of young blood. 
+Image courtesy of Kathlyn J. Gan. 
+A study explores the genetic diversity of plague bacteria in the First Pandemic. Image courtesy of Pixabay/fernandozhiminaicela. 
+Genetic diversity of plague in First Pandemic 
+A study explores the genetic diversity of plague bacteria in the First Pandemic. 
+Image courtesy of Pixabay/fernandozhiminaicela. 
+QnAs with agricultural scientist Elizabeth Ainsworth. Reprinted with permission from the RIPE project. 
+Featured QnAs 
+QnAs with agricultural scientist Elizabeth Ainsworth 
+Reprinted with permission from the RIPE project. 
+Similar Articles 
+ 
+    Quantitative and empirical demonstration of the Matthew effect in a study of career longevity 
+    Success-breeds-success experiments 
+ 
+See more 
+Site Logo 
+Powered by HighWire 
+ 
+    Submit Manuscript 
+    Twitter 
+    Facebook 
+    RSS Feeds 
+    Email Alerts 
+ 
+Articles 
+ 
+    Current Issue 
+    Latest Articles 
+    Archive 
+ 
+PNAS Portals 
+ 
+    Classics 
+    Front Matter 
+    Teaching Resources 
+    Anthropology 
+    Chemistry 
+    Physics 
+    Sustainability Science 
+ 
+Information 
+ 
+    Authors 
+    Editorial Board 
+    Reviewers 
+    Press 
+    Site Map 
+    PNAS Updates 
+ 
+Feedback      Privacy/Legal 
+ 
+Copyright © 2019 National Academy of Sciences. Online ISSN 1091-6490 
+Alerts for this Article close 
+User Name * 
+Password * 
+Submit 
+Email this Article close 
+ 
+Thank you for your interest in spreading the word on PNAS. 
+ 
+NOTE: We only request your email address so that the person you are recommending the page to knows that you wanted them to see it, and that it is not junk mail. We do not capture any email address. 
+Your Email * 
+Your Name * 
+Send To * 
+Enter multiple addresses on separate lines or separate them with commas. 
+You are going to email the following The misleading narrative of the canonical faculty productivity trajectory 
+Message Subject (Your Name) has sent you a message from PNAS 
+Message Body (Your Name) thought you would like to see the PNAS web site. 
+Your Personal Message 
+Send Message 
+Citation Tools close 
+Revisiting trends in science faculty productivity 
+Samuel F. Way , Allison C. Morgan , Aaron Clauset , Daniel B. Larremore 
+Proceedings of the National Academy of Sciences Oct 2017, 114 (44) E9216-E9223; DOI: 10.1073/pnas.1702121114 
+Citation Manager Formats 
+ 
+    BibTeX 
+    Bookends 
+    EasyBib 
+    EndNote (tagged) 
+    EndNote 8 (xml) 
+    Medlars 
+    Mendeley 
+    Papers 
+    RefWorks Tagged 
+    Ref Manager 
+    RIS 
+    Zotero 
+ 
+We use cookies on this site to enhance your user experience. By clicking any link on this page you are giving your consent for us to set cookies. 
+Continue Find out more 
+ 
+    Open in new tab 
+    Download original movie 
+ 

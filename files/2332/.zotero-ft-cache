@@ -1,0 +1,176 @@
+    Inicio
+    Último número
+    Números Anteriores
+    Buscar
+    Acerca de...
+    Anuncios
+
+    Revistas-CSIC
+    Registrarse
+
+Inicio > Vol 37, No 1 (2014) > Torres-Salinas
+Tamaño de la letra:  Pequeña   Mediana   Grande
+Analysis of the coverage of the Data Citation Index – Thomson Reuters: disciplines, document types and repositories
+
+ 
+
+NOTAS Y EXPERIENCIAS / NOTES AND EXPERIENCES
+
+ANALYSIS OF THE COVERAGE OF THE DATA CITATION INDEX – THOMSON REUTERS: DISCIPLINES, DOCUMENT TYPES AND REPOSITORIES
+
+Daniel Torres-Salinas*, Alberto Martín-Martín**, Enrique Fuente-Gutiérrez***
+
+* Grupo Evaluación de la Ciencia y la Comunicación Científica, Centro para la Investigación Médica Aplicada, Universidad de Navarra. Correo-e: torressalinas@gmail.com
+
+** Grupo Evaluación de la Ciencia y la Comunicación Científica, Facultad de Comunicación y Documentación. Universidad de Granada. Correo-e: albertomartin101@gmail.com
+
+*** Grupo Evaluación de la Ciencia y la Comunicación Científica, Facultad de Comunicación y Documentación. Universidad de Granada. Correo-e: enfun02@gmail.com
+
+ 
+
+ABSTRACT
+
+In the past years, the movement of data sharing has been enjoying great popularity. Within this context, Thomson Reuters launched at the end of 2012 a new product inside the Web of Knowledge family: the Data Citation Index. The aim of this new database is to enable discovery and access, from a single place, to data from a variety of data repositories from different subject areas and from around the world. In short note we present some results from the analysis of the Data Citation Index. Specifically, we address the following issues: discipline coverage, data types present in the database and repositories that were included at the time of the study.
+
+ANÁLISIS DE LA COBERTURA DEL DATA CITATION INDEX – THOMSON REUTERS: DISCIPLINAS, TIPOLOGÍAS DOCUMENTALES Y REPOSITORIOS
+
+RESUMEN
+
+En los últimos años, el movimiento conocido como “data sharing”, es decir compartir lo datos de investigación, está cobrando una gran popularidad. Dentro de este contexto Thomson Reuters lanzó a finales de 2012 un nuevo producto dentro de su plataforma Web of Knowledge: el Data Citation Index. El objetivo de esta nueva base de datos es facilitar el acceso desde un único punto a los datos indexados en diferentes repositorios de datos de todo el mundo. En esta nota se presentan los resultados del análisis del Data Citation Index y más concretamente se analiza la cobertura de este producto atendiendo a las disciplinas, las tipologías documentales indexadas y los repositorios que se encuentran disponibles en el momento de la realización del estudio.
+
+Received: 23-07-2013; 2 nd version: 18-09-2013; Accepted: 20-10-2013.
+
+Citation/Cómo citar este artículo : Torres-Salinas, D.; Martín-Martín, A.; Fuente-Gutiérrez, E. (2014). Analysis of the coverage of the Data Citation Index – Thomson Reuters: disciplines, document types and repositories . Revista Española de Documentación Científica , 37 (1): e036, doi: http://dx.doi.org/10.3989/redc.2014.1.1114
+
+PALABRAS CLAVE: Datos; datos de investigación; acceso abierto; data sharing; comunicación científica; bases de datos; indices de citas; Thomson Reuters.
+
+KEYWORDS: Data; research data; open access; data sharing; scientific communication; databases; citation indexes; Web of Science; Thomson Reuters.
+
+Copyright: © 2014 CSIC. Este es un artículo de acceso abierto distribuido bajo los términos de la licencia Creative Commons Attribution-Non Commercial (by-nc) Spain 3.0.
+
+CONTENIDOS
+RESUMEN
+ABSTRACT
+1. INTRODUCTION 
+2. METHODOLOGY  
+3. RESULTS 
+4. CONCLUDING REMARKS 
+5. NOTES 
+6. REFERENCES
+
+ 
+
+1. INTRODUCTION  Top
+
+During the last decade, there has been a heated debate among the scientific community about the need of releasing research data, a movement commonly referred to as data sharing. Although the practice of sharing data has been present among researchers for a long time (Hrynaszkiewicz, Altman, 2009 Hrynaszkiewicz, I.; Altman, D.G. (2009). Towards an agreement on best practice for publishing raw clinical trial data. Trials , 10 (17), http://dx.doi.org/10.1186/1745-6215-10-17, PMid:19296844 PMCid:PMC2662833. ), the movement of data sharing is currently enjoying great popularity due to the convergence of a number of circumstances, two of the most important being the development of the information technologies, and researcher’s ever more open attitude towards their findings (as exemplified by movements like Open Access). 
+
+The benefits of data sharing have already been studied and identified (Arzberger et al., 2004 Arzberger, P.; Schroeder, P.; Beaulieu, A.; Bowker, G.; Casey, K.; Laaksonen, L.; Moorman, D.; Uhlir, P.; Wouters, P. (2004). An international framework to promote access to data. Science , 303 (5665), pp. 1777-1778, http://dx.doi.org/10.1126/science.1095958, PMid:15031482. ; Vickers, 2006 Vickers, A.J. (2006). Whose data set is it anyway? Sharing raw data from randomized trials. Trials , 7 (15), http://dx.doi.org/10.1186/1745-6215-7-15, http://dx.doi.org/10.1186/1745-6215-7-30,PMid:17022818 PMCid:PMC1609186. ). In the first place, data sharing contributes to make the most of the funds invested in science because it helps prevent duplication of efforts and also because it makes possible the development of new studies that reuse these data. This is worth considering in the present situation of economic crisis, especially when research is government funded. Secondly, these data can be used as a tool to detect fraud, since they would enable other researchers to verify or disprove the results of an experiment through its replication (Renolls, 1997 Rennolls, K. (1997). Science demands data sharing. British Medical Journal , 315 (7106), pp. 486-487. ). Thirdly, there is evidence that published studies whose data are openly available receive more citations (Piwowar, Day, Fridsma, 2007 Piwowar, H.A.; Day, R.S.; Fridsma, D. B. (2007). Sharing detailed research data is associated with increased citation rate. Plos One , 2 (3), e308. http://dx.doi.org/10.1371/journal.pone.0000308, PMid:17375194 PMCid:PMC1817752. ). Lastly, it is possible that these practices open the way for the creation of data metrics that complement existing indicators for scientific evaluation (Wouters and Schröder, 2003 Wouters, P.; Schröder, P. (2003). Promise and practice in data sharing: the public domain of digital research data . The Netherlands: NIWI-KNAW. ; Costas et al., 2013 Costas, R.; Meijer, I.; Zahedi, Z.; Wouters, P. (2013). The Value of Research Data - Metrics for datasets from a cultural and technical point of view. A Knowledge Exchange Report , Available from: www.knowledge-exchange.info/datametrics. [Accessed on July 15 2013]. ). 
+
+Currently there are a large number of initiatives, commonly called data banks or data repositories, dedicated to store, describe and disseminate scientific data. Unlike pre-prints or post-prints repositories, which deal only with one bibliographic format for the items they contain, there is a great variety of data repositories and the solutions adopted are different in each case, and often this makes them difficult to use to people without knowledge of the data bank’s subject area (Torres-Salinas et al., 2012 Torres-Salinas, D.; Robinson-García, N.; Cabezas-Clavijo, Á. (2012). Compartir los datos de investigación: introducción al data sharing. El Profesional de la Información , 21 (2), pp. 173-184, http://dx.doi.org/10.3145/epi.2012.mar.08. ). 
+
+Within the context described above, Thomson Reuters has added a new member to the Web of Knowledge family of databases: the Data Citation Index (henceforth DCI). The DCI, released in November 2012, is described as a tool to discover and access, from a single place, data from a variety of repositories from the three major subject areas (Science & Technology, Social Sciences, and Arts & Humanities) and from around the world. In order to be included in the DCI, a data repository must first undergo a process of evaluation in which a number of factors are considered, including the repository’s basic publishing standards, its editorial content, the international diversity of its authorship, and the citation data associated with it (Thomson Reuters, 2012 Thomson Reuters (2012). Repository Evaluation, Selection, and Coverage Policies for the Data Citation Index within Thomson Reuters Web of Knowledge , Available from: http://wokinfo.com/media/pdf/DCI_selection_essay.pdf [Accessed on July 15 2013]. ). At the same time, records in the DCI are linked to the publications they inform, thus providing citation information for the data sets, and opening the way to data citation analysis. However, even though the DCI is the first tool that allows us to quantify the impact and reutilization of research data, it is as of yet a young product that needs to be assessed in order to comprehend its strengths and limitations. This assessment will allow bibliometricians, librarians, and the rest of potential users of this tool to better understand for what purposes it may be used and how. 
+
+For this reason in this note we present an analysis of this new database; more specifically we address the following questions:  
+
+Question 1.What is the discipline and subject area coverage in the DCI?  
+
+Question 2. What kinds of data types are present in the DCI, and what is their statistical distribution? 
+
+Question 3. Which repositories contribute a larger share of records to the DCI and what are their basic characteristics (data type, country, etc..)? 
+
+These results are interesting since they are the first empiric results obtained from an analysis of the DCI as a scientific information and evaluation tool. We should also mention that this note is based on a previous working paper deposited in Arxiv in June 2013 (Torres-Salinas et al., 2013 Torres-Salinas, D.; Robinson-García, N.; Campanario, J.M.; Delgado López-Cózar, E. (2013). Coverage, field specialization and impact of scientific publishers indexed in the ‘Book Citation Index’. Online Information Review , [In Press]. ).  
+
+ 
+
+2. METHODOLOGY   Top
+
+For the purpose of this analysis, all records from the Data Citation Index were downloaded in April-May 2013, using the DCI web interface. The resulting text files were processed and added to a relational database, using the Accession Number Field (UT) as the primary key for the data records. The rest of the fields analyzed were: Document Type (DT), Publication Year (PY), and Web of Science Category (WC). Regarding the issue of discipline coverage, two classification systems have been used in order to assign categories to the records: one of them comprises four major subject areas (Science, Social Sciences, Humanities & Arts, and Engineering & Technology), and the other is the one proposed by Moed ( 2005 Moed, H.F. (2005). Citation Analysis in Research Evaluation . Dordrecht: Springer. ), with thirteen disciplines. These systems were built by aggregating Web of Science categories, in the same way as we did in other studies analyzing products by Thomson Reuters (Torres-Salinas et al., 2013 Torres-Salinas, D.; Robinson-García, N.; Campanario, J.M.; Delgado López-Cózar, E. (2013). Coverage, field specialization and impact of scientific publishers indexed in the ‘Book Citation Index’. Online Information Review , [In Press]. ). 
+
+ 
+
+3. RESULTS  Top
+
+3.1. General description and distribution per area and scientific field 
+
+At the time of the download, the Data Citation Index held a total of 2.623.528 records. The oldest of them can be traced back to the year 1800 ( Figure 1 ) but, as expected, this database mainly deals with contemporary data, and 92% of records are dated between 2000 and 2013. The year where we can find more records is 2009, with a total of 365,381. If we attend to their subject areas, it is clear that most of the records belong to the area of Science, with a crushing 80% ( Figure 2 ), well ahead of the Social Sciences with 18%, and Humanities & Arts with 2%. The presence of records in the area of Engineering & Technology is almost non-existent, with less than 0.1%. These results are consistent with the known issue of the under-representation of the Social Sciences and Arts & Humanities in other multidisciplinary databases of the Web of Science family. 
+
+Figure 1 . Record distribution in the Data Citation Index by year of publication
+Record distribution in the Data Citation Index by year of publication
+
+[Descargar tamaño completo]
+	 
+
+Figure 2 . Record distribution in the Data Citation per discipline and scientific field
+Record distribution in the Data Citation per discipline and scientific field
+
+[Descargar tamaño completo]
+	 
+
+If we consider the classification system proposed by Moed ( Figure 2 ), Clinical Medicine is the discipline that accounts for the largest share of the records (50.86%), closely followed by Molecular Biology and Biochemistry with 47.96%, and, at some distance, Geosciences with 20.12% (note that a record may be assigned to several disciplines).  
+
+3.2. Distribution per type of document 
+
+The Data Citation Index contains at the moment three different document types: data repositories, data studies, and data sets (Thomson Reuters, 2012 Thomson Reuters (2012). Repository Evaluation, Selection, and Coverage Policies for the Data Citation Index within Thomson Reuters Web of Knowledge , Available from: http://wokinfo.com/media/pdf/DCI_selection_essay.pdf [Accessed on July 15 2013]. ). Data sets are the basic unit of information and are usually, but not necessarily, part of a data study. Thomson Reuters define data set as a single or coherent set of data or a data file provided by the repository, as part of a collection, data study or experiment. As for data studies they are, according to Thomson Reuters, description of studies or experiments held in repositories with the associated data which have been used in the data study. The distribution of all records among each of these document types is presented in Table I , broken down by subject areas. There are a total of 2,475,534 records in the data set category, which makes it the most common document type in the database by far, with 94% of the total number of records. Only 159,280 are classified as a data study (6%) and 96 as a data repository. As shown in Table I , Science accumulates 81% of all the data sets and 73.92% of data studies. Data sets are also the predominant typology in every major subject area. It is also worth noticing that there seems to be a larger presence of data studies in the areas of Engineering & Technology, and Humanities & Arts (around 13% of the total of records in both areas) which doubles the average percentage for that document type if we consider the entire database (6%). 
+
+Table I . Document type distribution by field in the Data Citation Index
+Document type distribution by field in the Data Citation Index
+
+[Descargar tamaño completo]
+	 
+
+3.3. Main repositories and distribution 
+
+Lastly, in Table II we present the names and record count of the main repositories that are indexed in the DCI. We only consider those repositories which contain at least 4000 records, regardless of the document type. Only 29 repositories met this requirement. Also we found 64 repositories that contain at least 100 records. As can be seen, there is a very high concentration of records in a set of four repositories, which account for 75% of records in the DCI: Gene Expression Omnibus, UniProt Knowledgebase, PANGAEA and U.S. Census Bureau TIGER/Line Shapefiles. Regarding disciplines the first two repositories belong to Biochemistry & Molecular Biology, and Genetics & Heredity, while the other two fall within the scope of Geosciences, Social Sciences, and Geography. The best represented disciplines in the DCI in terms of number of repositories are Genetics & Heredity (24), Biochemistry & Molecular Biology (16), Social Sciences, Interdisciplinary (13), Astronomy & Astrophysics (9) and Geosciences, Multidisciplinary (9). Other interesting aspects are that most of the repositories in Table II are specialized in data sets, there exists a predominance of repositories managed by universities (45%) and most of them are located in the United States (59%). 
+
+Table II . Main repositories in the Data Citation Index sorted by number of records
+Main repositories in the Data Citation Index sorted by number of records
+
+[Descargar tamaño completo]
+	 
+
+ 
+
+4. CONCLUDING REMARKS  Top
+
+In this note we have presented some preliminary results based on the analysis of the Data Citation Index. We have shown discipline coverage, the data repositories and document types that can be found in this new database. The main conclusions and findings about the DCI can be summarized as follows: 
+
+    It is heavily oriented towards the hard sciences; Science accounts for 80% of the records in the database. Within this area, the best represented disciplines are Clinical Medicine, Genetics & Heredity, and Biochemistry & Molecular Biology. 
+
+    The DCI uses three document types (data set, data study and repository). There are 96 data repositories, and the predominant typology is the data set, with 2,475,534 records, which is 94% of the entire database. 
+
+    Even though there are a total of 29 repositories that contain at least 4000 records, a total of 64 repositories that contain at least 100 records, there are four repositories that contain 75% of all the records in the database: Gene Expression Omnibus, UniProt Knowledgebase, PANGAEA, and U.S. Census Bureau TIGER/Line Shapefiles. 
+
+ 
+
+5. NOTES  Top
+
+This article is based on a previous working paper deposited in Arxiv in June 2013: Torres-Salinas, D.; Martín-Martín, A.; Fuente-Gutiérrez, E. ( 2013 Torres-Salinas, D.; Martín-Martín, A.; Fuente-Gutiérrez, E. (2013). An introduction to the coverage of the Data Citation Index (Thomson-Reuters): disciplines, document types and repositories. EC3 Working Papers (11) , June 2013. http://arxiv.org/ftp/arxiv/papers/1306/1306.6584.pdf [Accessed on July 15 2013]. ). An introduction to the coverage of the Data Citation Index (Thomson-Reuters): disciplines, document types and repositories. EC3 Working Papers (11), June 2013. http://arxiv.org/ftp/arxiv/papers/1306/1306.6584.pdf [Accessed on July 15 2013] 
+
+This article was written as part of the University of Granada´s “Introduction to Scientific Research” Grant Program. 
+
+This article has been translated by Alberto Martín-Martín and Nicolás Robinson-García. 
+
+ 
+
+6. REFERENCES Top
+○ 	Arzberger, P.; Schroeder, P.; Beaulieu, A.; Bowker, G.; Casey, K.; Laaksonen, L.; Moorman, D.; Uhlir, P.; Wouters, P. (2004). An international framework to promote access to data. Science , 303 (5665), pp. 1777-1778, http://dx.doi.org/10.1126/science.1095958 , PMid:15031482.
+○ 	Costas, R.; Meijer, I.; Zahedi, Z.; Wouters, P. (2013). The Value of Research Data - Metrics for datasets from a cultural and technical point of view. A Knowledge Exchange Report , Available from: www.knowledge-exchange.info/datametrics . [Accessed on July 15 2013].
+○ 	Hrynaszkiewicz, I.; Altman, D.G. (2009). Towards an agreement on best practice for publishing raw clinical trial data. Trials , 10 (17), http://dx.doi.org/10.1186/1745-6215-10-17 , PMid:19296844 PMCid:PMC2662833.
+○ 	Moed, H.F. (2005). Citation Analysis in Research Evaluation . Dordrecht: Springer.
+○ 	Piwowar, H.A.; Day, R.S.; Fridsma, D. B. (2007). Sharing detailed research data is associated with increased citation rate. Plos One , 2 (3), e308. http://dx.doi.org/10.1371/journal.pone.0000308 , PMid:17375194 PMCid:PMC1817752.
+○ 	Rennolls, K. (1997). Science demands data sharing. British Medical Journal , 315 (7106), pp. 486-487.
+○ 	Thomson Reuters (2012). Repository Evaluation, Selection, and Coverage Policies for the Data Citation Index within Thomson Reuters Web of Knowledge , Available from: http://wokinfo.com/media/pdf/DCI_selection_essay.pdf [Accessed on July 15 2013].
+○ 	Torres-Salinas, D.; Robinson-García, N.; Cabezas-Clavijo, Á. (2012). Compartir los datos de investigación: introducción al data sharing. El Profesional de la Información , 21 (2), pp. 173-184, http://dx.doi.org/10.3145/epi.2012.mar.08
+○ 	Torres-Salinas, D.; Robinson-García, N.; Campanario, J.M.; Delgado López-Cózar, E. (2013). Coverage, field specialization and impact of scientific publishers indexed in the ‘Book Citation Index’. Online Information Review , [In Press].
+○ 	Torres-Salinas, D.; Martín-Martín, A.; Fuente-Gutiérrez, E. (2013). An introduction to the coverage of the Data Citation Index (Thomson-Reuters): disciplines, document types and repositories. EC3 Working Papers (11) , June 2013. http://arxiv.org/ftp/arxiv/papers/1306/1306.6584.pdf [Accessed on July 15 2013].
+○ 	Vickers, A.J. (2006). Whose data set is it anyway? Sharing raw data from randomized trials. Trials , 7 (15), http://dx.doi.org/10.1186/1745-6215-7-15 , http://dx.doi.org/10.1186/1745-6215-7-30 ,PMid:17022818 PMCid:PMC1609186.
+○ 	Wouters, P.; Schröder, P. (2003). Promise and practice in data sharing: the public domain of digital research data . The Netherlands: NIWI-KNAW.
+
+
+Hacer doble click sobre cualquier palabra para realizar una búsqueda.
+
+
+
+Contacte con la revista redc.cchs@cchs.csic.es
+
+Soporte técnico soporte.tecnico.revistas@csic.es

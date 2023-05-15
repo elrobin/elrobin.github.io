@@ -1,0 +1,727 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>Project MUSE - The Ambiguous Origins of the Archival Principle of “Provenance”</title>
+  <link rel="search" type="application/opensearchdescription+xml" title="Search Project MUSE from your browser's Searchbar" href="/plugins/muse-opensearch.xml">
+              
+  <script type="text/javascript" src="/plugins/installsearch.js"></script>
+  <link rel="shortcut icon" href="/favicon.ico">
+ 
+ <link href="/template2011/css/detail.css?v=1.1" rel="stylesheet" type="text/css">
+   <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/template2011/css/detail_ie7.css" />
+  <![endif]-->
+  <!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="/template2011/css/detail_ie6.css" />
+  <![endif]-->
+ 
+  <script type="text/javascript" src="/template2011/js/jquery.js"></script>
+  <!--<script type="text/javascript" src="/template2011/js/jquery-1.5.1.min.js"></script>-->
+  <script type="text/javascript" src="/template2011/js/jquery-ui-1.8.1.min.js"></script>
+  <script type="text/javascript" src="/template2011/js/jquery.selectbox-0.5.js"></script>
+  <script type="text/javascript" src="/template2011/js/header.js"></script>
+  <script type="text/javascript" src="/template2011/js/jquery.qtip2.min.js"></script>
+  <link href="/template2011/css/jquery.qtip2.css" rel="stylesheet" type="text/css">
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  <script type="text/javascript">
+  
+var surpressAddressChange = false; //Used to prevent double post when address hash is set for the first time
+var supressReload = false;
+var hostName = window.location.hostname;
+var supressNewSearch = false;
+  
+    $(document).ready(function() {
+	
+	
+	
+	$(".toggle_container").hide();
+
+	$("h2.trigger").click(function(){
+		$(this).toggleClass("active").next().slideToggle("slow");
+	});
+	$("h4.trigger").click(function(){
+		$(this).toggleClass("active").next().slideToggle("slow");
+	});
+	  $(".tab_content").hide(); 
+      $("ul.tabs li:first").addClass("active").show(); 
+      $(".tab_content:first").show();  
+
+      $("ul.tabs li").click(function() {
+        $("ul.tabs li").removeClass("active"); 
+        $(this).addClass("active"); 
+        $(".tab_content").hide(); 
+
+        var activeTab = $(this).find("a").attr("href"); 
+        $(activeTab).fadeIn(); 
+        return false;
+      });
+	  
+      
+    
+   });   
+  </script>
+  
+
+<script type="text/javascript" src="/template2011/js/jquery.truncator.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    trunc_descriptions();
+  });
+    
+  function trunc_descriptions() {
+    var moretext = "show more";
+    var lesstext = "show less";
+    
+    var display_length = 650;
+    
+    $('.description').truncate({
+      max_length: display_length,
+      more: moretext,
+      less: lesstext
+    });
+  }
+</script>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('#recommend_email').submit(
+      function( evt ) {
+        var email = $('#email_address').val();
+        var ajax = '1';
+        var eid = $('#eid').val();
+        var result = $.post('/cgi-bin/email_link.cgi', {
+          'email': email,
+          'eid': eid,
+          'ajax':ajax
+        },
+        function( data, txtStatus ) {
+          $('#email_result').text(data);
+        });
+        
+        evt.preventDefault();
+    });
+  });
+</script>
+
+<script type="text/javascript">
+  var addthis_config = {
+    "data_track_clickback":true,
+    ui_508_compliant: true,
+    services_exclude:'email'
+  };
+  addthis_config.data_use_cookies = false;
+
+  var addthis_share = { 
+      templates: {
+        twitter: 'check out {{url}} (from @ProjectMUSE)'
+      }
+  }	
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pubid=ra-4ecb5479089cb81a"></script>
+
+
+
+  
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('#browse_hover').qtip({
+		content: '<div class="tab_listings" id="flyout">  <div class="browse_tab_bar">    <ul style="font-family: Arial,Arial,Helvetica,sans-serif; font-size: 15px;" class="select_tabs">      <li class="active">Research Areas</li>      <li><a href="/browse_titles.html">Titles</a></li>      <li><a href="/browse_publishers.html">Publishers</a></li>      <li><a href="/browse/titles/all?browse_view_type=list&limit_content_type=book">Books</a></li>      <li><a href="/browse/titles/all?browse_view_type=list&limit_content_type=journal">Journals</a></li>    </ul>  </div>  <div class="listing">    <div class="left">          <span style="font-size: 13px"><a href="/browse/area_and_ethnic_studies">Area and Ethnic Studies</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/art_and_architecture">Art and Architecture</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/creative_writing">Creative Writing</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/education">Education</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/film_theater_and_performing_arts">Film, Theater, and Performing Arts</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/history">History</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/language_and_linguistics">Language and Linguistics</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/library_science_and_publishing">Library Science and Publishing</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/literature">Literature</a></span><br /><br />        </div>    <div class="right">          <span style="font-size: 13px"><a href="/browse/medicine_and_health">Medicine and Health</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/music">Music</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/philosophy">Philosophy</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/religion">Religion</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/science_technology_and_mathematics">Science, Technology, and Mathematics</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/social_sciences">Social Sciences</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/studies_by_time_period">Studies by Time Period</a></span><br /><br />          <span style="font-size: 13px"><a href="/browse/womens_studies_gender_and_sexuality">Women\'s Studies, Gender, and Sexuality</a></span><br /><br />        </div>   <div class="clear"></div>  </div></div>',
+		show: {
+			event: "mouseover"
+		},
+		hide: {
+			fixed: true,
+			delay: 300,
+			event: "mouseout"
+		},
+		position: {
+			my: "topCenter",
+			at: "topCenter",
+			target: $('.site_block')
+		},
+		style: {
+			tip: false,
+			border: 15,
+			width: "91%",
+			classes: "ui-tooltip-light ui-tooltip-rounded ui-tooltip-shadow"
+		}
+	});
+  });
+</script>
+
+
+
+
+<!-- ACCESS STATEMENT -->
+<script type="text/javascript">
+  $(document).ready(function() {
+    $.ajax({
+      url: '/cgi-bin/access_statement_ajax.cgi',
+      type: 'POST',
+      data: {
+        object_type : 'summary'
+      },
+      datatype: 'json',
+      success: function(json) {
+        var response = jQuery.parseJSON(json);
+
+        $('#access_message').html(response.access_statement);
+
+        if (response.has_object_access == 1) {
+          $('#title_access_icon').addClass('access_yes');
+        } else {
+          $('#title_access_icon').addClass('access_no');
+        }
+
+        $('#title_access_icon').show();
+      }
+	  });
+  });
+</script>
+<!-- ACCESS STATEMENT -->
+
+
+
+
+
+
+<!-- google -->
+<meta name="citation_publisher" content="University of Texas Press">
+<meta name="citation_journal_title" content="Libraries &amp; the Cultural Record">
+<meta name="citation_title" content="The Ambiguous Origins of the Archival Principle of &quot;Provenance&quot;">
+<meta name="citation_author" content="Shelley Sweeney">
+<meta name="citation_volume" content="43">
+<meta name="citation_issue" content="2">
+<meta name="citation_firstpage" content="193">
+<meta name="citation_lastpage" content="213">
+<meta name="citation_year" content="2008">
+<meta name="citation_issn" content="2166-3033">
+<meta name="citation_fulltext_html_url" content="http://muse.jhu.edu/journals/libraries_and_culture/v043/43.2.sweeney.html">
+<meta name="citation_pdf_url" content="http://muse.jhu.edu/journals/libraries_and_culture/v043/43.2.sweeney.pdf">
+<meta name="citation_doi" content="10.1353/lac.0.0017">
+<meta name="citation_reference" content="citation_author=Michel Duchein; citation_title=&quot;Theoretical Principles and Practical Problems of Respect des fonds in Archival Science,&quot;; citation_journal_title=Archivaria; citation_volume=16; citation_firstpage=64; citation_year=1983">
+<meta name="citation_reference" content="citation_author=Heartsill Young; citation_title=The ALA Glossary of Library and Information Science; citation_firstpage=181; citation_year=1983; citation_publisher=ALA">
+<meta name="citation_reference" content="citation_author=Ray Prytherch; citation_title=Harrod's Librarians' Glossary and Reference Book; citation_firstpage=595; citation_year=2000; citation_publisher=Gower">
+<meta name="citation_reference" content="citation_title=Descriptive Cataloging of Rare Materials (Books); citation_firstpage=146; citation_year=2007; citation_publisher=Library of Congress">
+<meta name="citation_reference" content="citation_author=John Carter; citation_author=Nicolas Barker; citation_title=ABC for Book Collectors; citation_firstpage=178; citation_year=2004; citation_publisher=Oak Knoll Press">
+<meta name="citation_reference" content="citation_author=Tom Nesmith; citation_title=Canadian Archival Studies and the Rediscovery of Provenance; citation_year=1993; citation_publisher=Scarecrow Press">
+<meta name="citation_reference" content="citation_author=Kerstin Abukhanfusa; citation_author=Jan Sydbeck; citation_title=The Principle of Provenance: Report from the First Stockholm Conference on Archival Theory and the Principle of Provenance; citation_year=1994; citation_publisher=Centraltryckeriet">
+<meta name="citation_reference" content="citation_author=Peter Walne; citation_title=Dictionary of Archival Terminology: English and French with Equivalents in Dutch, German, Italian, Russian and Spanish; citation_year=1984">
+<meta name="citation_reference" content="citation_author=Maynard Brichford; citation_title=&quot;The Provenance of Provenance in Germanic Areas,&quot;; citation_journal_title=Provenance; citation_volume=7; citation_firstpage=56; citation_year=1989">
+<meta name="citation_reference" content="citation_author=Antonia Heredia Herrera; citation_title=Archivística general: Teoría y práctica; citation_year=1991; citation_publisher=Publicaciones de la Exma, Diputación provincial de Sevilla">
+<meta name="citation_reference" content="citation_author=Horsman; citation_firstpage=53">
+<meta name="citation_reference" content="citation_author=Herrera; citation_title=Archivística general; citation_firstpage=33">
+<meta name="citation_reference" content="citation_author=Peter Horsman; citation_author=Eric Ketelaar; citation_author=Theo Thomassen; citation_title=&quot;New Respect for the Old Order: The Context of the Dutch Manual,&quot;; citation_journal_title=American Archivist; citation_volume=66; citation_firstpage=252; citation_year=2003">
+<meta name="citation_reference" content="citation_author=TR Schellenberg; citation_title=Modern Archives: Principles and Techniques; citation_firstpage=173; citation_year=1956; citation_publisher=F. W. Cheshire">
+<meta name="citation_reference" content="citation_author=Ernst Posner; citation_author=Ken Munden; citation_title=Archives and the Public Interest: Selected Essays by Ernst Posner; citation_year=2006; citation_publisher=SAA">
+<meta name="citation_reference" content="citation_author=Brichford; citation_title=&quot;Provenance of Provenance&quot;; Michel Duchein, &quot;The History of European Archives and the Development of the Archival Profession in Europe,&quot;; citation_journal_title=American Archivist; citation_volume=55; citation_firstpage=19; citation_year=1992">
+<meta name="citation_reference" content="citation_author=Michael Roper; citation_author=Barbara Craig; citation_title=The Archival Imagination: Essays in Honour of Hugh Taylor; citation_firstpage=134; citation_year=1992; citation_publisher=Association of Canadian Archivists">
+<meta name="citation_reference" content="citation_author=Ernst Posner; citation_author=Munden; citation_title=Archives and the Public Interest; citation_firstpage=25">
+<meta name="citation_reference" content="citation_author=Peter Horsman; citation_title=&quot;The Last Dance of the Phoenix, or the De-discovery of the Archival Fonds,&quot;; citation_journal_title=Archivaria; citation_volume=54; citation_firstpage=9; citation_year=2002">
+<meta name="citation_reference" content="citation_author=G Desjardins; citation_title=Le services des Archives départementales; citation_firstpage=30; citation_year=1890">
+<meta name="citation_reference" content="citation_author=Lawrence D Geller; citation_title=&quot;Joseph Cuvelier, Belgian Archival Education and the First International Congress of Archivists, Brussels, 1910,&quot;; citation_journal_title=Archivaria; citation_volume=16; citation_firstpage=26; citation_year=1983">
+<meta name="citation_reference" content="citation_author=Erik Aerts; citation_author=Lieve De Mecheleer; citation_title=&quot;Le césar des archives: Archivistiek en historiografie in de eeuw van Gachard&quot;; citation_journal_title=Bibliotheeken archiefgids—Vlaamse vereniging voor bibliotheek-, archief-, en documentatiewezen; citation_volume=79; citation_firstpage=24; citation_year=2003">
+<meta name="citation_reference" content="citation_author=TR Schellenberg; citation_title=&quot;Archival Principles of Arrangement,&quot;; citation_journal_title=American Archivist; citation_volume=24; citation_firstpage=11; citation_year=1961">
+<meta name="citation_reference" content="citation_author=Samuel Muller; citation_author=Johan Feith; citation_author=Robert Fruin; citation_title=Handleiding voor het ordenen en beschrijven van archiven (Manual for the Arrangement and Description of Archives); citation_year=1898; citation_publisher=Erven B. Van der Kamp">
+<meta name="citation_reference" content="citation_author=Samuel Muller; citation_author=Johan Feith; citation_author=Robert Fruin; citation_author=Arthur H Leavitt; citation_title=Manual for the Arrangement and Description of Archives; citation_firstpage=50; citation_year=1968; citation_publisher=H. W. Wilson Company">
+<meta name="citation_reference" content="citation_author=Marjorie Rabe Barritt; citation_title=&quot;Coming to America: Dutch Archivistiek and American Archival Practice,&quot;; citation_journal_title=Archival Issues; citation_volume=18; citation_firstpage=44; citation_year=1993">
+<meta name="citation_reference" content="citation_author=Eric Ketelaar; citation_title=&quot;Muller, Feith and Fruin,&quot;; citation_journal_title=Miscellanea Carlos Wyffels: Archives et Bibliothèques de Belgique; citation_volume=57; citation_firstpage=256; citation_year=1986">
+<meta name="citation_reference" content="citation_author=Hilary Jenkinson; citation_title=A Manual of Archive Administration Including the Problems of War Archives and Archives Making; citation_year=1922; citation_publisher=Clarendon Press">
+<meta name="citation_reference" content="citation_author=Eugenio Casanova; citation_title=Archivistica; citation_year=1928; citation_publisher=Lazzeri">
+<meta name="citation_reference" content="citation_author=E Lodolini; citation_title=Archivistica: Principi e problemi; citation_firstpage=129; citation_year=1984; citation_publisher=Franco Angeli">
+<meta name="citation_reference" content="citation_author=Lester K Born; citation_title=&quot;Baldassare Bonifacio and his Essay De Archivis,&quot;; citation_journal_title=American Archivist; citation_volume=4; citation_firstpage=221; citation_year=1941">
+<meta name="citation_reference" content="citation_author=Anne Gilliland-Swetland; citation_title=Enduring Paradigm, New Opportunities: The Value of the Archival Perspective in the Digital Environment; citation_year=2000; citation_publisher=Council on Library and Information Resources">
+<meta name="citation_reference" content="citation_author=TR Schellenberg; citation_title=The Management of Archives; citation_firstpage=44; citation_year=1965; citation_publisher=Columbia University Press">
+<meta name="citation_reference" content="citation_author=Rodney A Ross; citation_title=American Archivist; citation_firstpage=267; citation_year=1983">
+<meta name="citation_reference" content="citation_author=James Corsaro; citation_title=&quot;Arnold Johan Ferdinand Van Laer, New York State Archivist: Some Biographical Notes,&quot;; citation_journal_title=Society of American Archivists Archival History Newsletter; citation_year=1990">
+<meta name="citation_reference" content="citation_author=Nancy Bartlett; citation_title=Bibliographical Foundations of French Historical Studies; citation_firstpage=234; citation_year=1991">
+<meta name="citation_reference" content="citation_author=Oliver W Holmes; citation_title=&quot;Archival Arrangement—Five Different Operations at Five Different Levels,&quot;; citation_journal_title=American Archivist; citation_volume=27; citation_firstpage=26; citation_year=1964">
+<meta name="citation_reference" content="citation_author=Charles M Gates; citation_title=&quot;The Administration of State Archives,&quot;; citation_journal_title=American Archivist; citation_volume=1; citation_firstpage=139; citation_year=1938">
+<meta name="citation_reference" content="citation_author=Angelika Menne-Haritz; citation_title=&quot;Ernst Posner's Archives and the Public Interest,&quot;; citation_journal_title=American Archivist; citation_volume=68; citation_firstpage=323; citation_year=2005">
+<meta name="citation_reference" content="citation_author=Tom Nesmith; citation_title=Archival Studies in English-Speaking Canada and the North American Rediscovery of Provenance; citation_firstpage=1; citation_year=1993; citation_publisher=Scarecrow Press">
+<meta name="citation_reference" content="citation_author=Carol Couture; citation_author=Jean-Yves Rousseau; citation_author=David Homel; citation_title=The Life of a Document: A Global Approach to Archives and Records Management; citation_year=1987; citation_publisher=Véhicule Press">
+<meta name="citation_reference" content="citation_author=PJ Scott; citation_title=&quot;The Record Group Concept: A Case for Abandonment,&quot;; citation_journal_title=American Archivist; citation_volume=29; citation_firstpage=493; citation_year=1966">
+<meta name="citation_reference" content="citation_author=Laura Millar; citation_title=&quot;The Death of the Fonds and the Resurrection of Provenance: Archival Context in Space and Time,&quot;; citation_journal_title=Archivaria; citation_volume=53; citation_firstpage=1; citation_year=2002">
+<meta name="citation_reference" content="citation_author=Thornton W Mitchell; citation_title=Norton on Archives: The Writings of Margaret Cross Norton on Archival &amp; Records Management; citation_firstpage=28; citation_year=1975; citation_publisher=Society of American Archivists">
+<meta name="citation_reference" content="citation_author=Margaret Cross Norton; citation_title=&quot;Archives and Historical Manuscripts,&quot;; citation_journal_title=Illinois Libraries; citation_volume=25; citation_firstpage=399; citation_year=1943">
+<meta name="citation_reference" content="citation_author=Adolf Brenneke; citation_title=Archivkunde; citation_year=1953; citation_publisher=Köhler &amp; Amelang">
+<meta name="citation_reference" content="citation_author=Terry Cook; citation_title=&quot;What Is Past Is Prologue: A History of Archival Ideas since 1898, and the Future Paradigm Shift,&quot;; citation_journal_title=Archivaria; citation_volume=43; citation_firstpage=17; citation_year=1997">
+<meta name="citation_reference" content="citation_author=Debra Barr; citation_title=&quot;The Fonds Concept in the Working Group on Archival Descriptive Standards Report,&quot;; citation_journal_title=Archivaria; citation_volume=25; citation_firstpage=163; citation_year=1987–88">
+<meta name="citation_reference" content="citation_title=&quot;Protecting Provenance: Response to the Report of the Working Group on Description at the Fonds Level,&quot;; citation_journal_title=Archivaria; citation_volume=28; citation_firstpage=141; citation_year=1989">
+<meta name="citation_reference" content="citation_author=Max J Evans; citation_title=&quot;Authority Control: An Alternative to the Record Group Concept,&quot;; citation_journal_title=American Archivist; citation_volume=49; citation_firstpage=249; citation_year=1986">
+<!-- /google -->
+
+
+
+
+
+
+
+
+<base href="http://muse.jhu.edu/journals/lac/summary/v043/43.2.sweeney.html"></head>
+<body>
+
+<div class="header">
+
+
+<div id="access_statement">
+  <span id="access_message">
+  
+    We are unable to display your institutional affiliation without JavaScript turned on. <a href="/cgi-bin/login.cgi" class="login_status">(Log In)</a>
+  
+  </span>
+  
+</div>
+
+
+<a href="/">
+<img src="/template2011/images/logo.png" class="logo" alt="Project MUSE" height="97" width="217"></a>
+
+<div class="utility">
+	<ul>
+		<li><a href="/about/index.html">About</a></li>
+		<li><a href="/about/contact.html">Contact</a></li>
+		<li><a href="/about/tools/help.html">Help</a></li>
+		<li><a href="/about/tools/index.html">Tools</a></li>
+		<li><a href="/about/order/index.html">Order</a></li>
+		<li><a class="hugbox utility-last" href="/cgi-bin/export_citations.cgi">Saved Citations (<span id="saved_citation_count">0</span>)</a></li>
+	</ul>
+</div>
+
+<div class="about_nav">
+	<ul>
+		<!--<li><a href="/about/tools/index.html">for Researchers</a></li>-->
+		<li><a href="/about/librarians/index.html">for Librarians</a></li>
+		<li><a href="/about/publishers/index.html">for Publishers</a></li>
+		<li><a href="/search/advanced#firstLoad" id="advanced_search">Advanced Search</a></li>
+	</ul>
+</div>
+
+<div class="function">
+	<div class="func_fields">
+		<div>
+      		<a href="/browse"><img id="browse_hover" class="browse" alt="Browse Book and Journal Content on Project MUSE" src="/template2011/images/browse.gif"></a>
+      		<div class="or">OR</div>
+
+      		<form method="post" action="/search" class="searchform" id="search">
+				<fieldset class="main_search">
+          			<div class="search">
+            			<input type="hidden" name="searchtype" value="regular">
+            			<input tabindex="1" type="text" value="Search" class="search_box" id="main_search" name="search_term">
+            			<select class="search_select" name="filtered_content" id="filtered_content">
+							<option value="content">Content</option>
+							<option value="title">Title</option>
+							<option value="author">Author</option>
+							<option value="publisher">Publisher</option>
+					  	</select>
+            			<input class="go" type="image" alt="Go" src="/template2011/images/search_go.gif">
+           			</div>
+       			</fieldset>
+       			
+      		</form>
+    	</div>
+	</div><!--func_fields -->
+</div><!--function -->
+
+</div><!--header -->
+
+
+
+
+<div class="site">
+  <div class="site_block">
+    <div class="breadcrumb">
+     <a href="/browse_research.html">Browse</a> &gt;
+     
+       <a href="/browse/library_science_and_publishing">Library Science and Publishing</a> &gt; 
+     
+       <a href="/browse/library_science_and_publishing/library_and_information_science">Library and Information Science</a>
+     
+    </div>
+
+    <div class="content">
+      
+      
+      <p class="format format_icon"><a href="/journals/libraries_and_culture/v043/43.2.sweeney.html">View HTML<img src="/template2011/images/html_icons.png" class="format_icon"></a></p>
+      
+      
+      <p class="format format_icon" style="clear:both"><a href="/journals/libraries_and_culture/v043/43.2.sweeney.pdf">Download PDF<img src="/template2011/images/pdf.png" class="format_icon" style="clear:both"></a></p>
+      
+      
+
+      
+      
+      
+
+      
+      
+      <div id="article-title" style="font-family:Georgia,Georgia,serif;border-bottom: medium none;color: #4C3D16;font-size: 21px; font-weight: normal;margin: 0; padding: 0 0 5px;">The Ambiguous Origins of the Archival Principle of “Provenance”</div>
+      <div class="contrib" style="font-size: 15px;">
+        
+        
+          
+          <a href="/results?section1=author&amp;search1=Shelley Sweeney">Shelley Sweeney</a>
+        
+      </div>
+
+      <div class="designation" style="clear:both;border-top:  1px solid #D0C7AF;border-bottom:  1px solid #D0C7AF; margin: 10px 0;padding: 1px 0;">
+        <p style="margin: 0; padding:0;font-size:11px;"><span style="font-weight:bold;">From: </span> 
+          <a href="/journals/libraries_and_culture">Libraries &amp; the Cultural Record</a> <br><a href="/journals/libraries_and_culture/toc/lac.43.2.html">Volume 43, Number 2, 2008</a>
+          <br>
+          pp. 193-213 | 10.1353/lac.0.0017
+        </p>
+      </div>
+
+      
+      <div class="abstract">
+        <span style="font-weight:bold;margin:0;font-size:14px;">In lieu of an abstract, here is a brief excerpt of the content:</span>
+        <p style="margin:0;">
+</p><blockquote>
+<p>Like many principles… [provenance] is easier to state than to
+define and easier to define than to put into practice.</p>
+<div>—Michel Duchein<a><sup>1</sup></a></div>
+</blockquote>
+<p>Broadly speaking, the word “provenance,” whether used by a rare
+book librarian, an archaeologist, an art curator, or an archivist,
+refers to the origins of an information-bearing entity or
+artifact.<a><sup>2</sup></a> But there the consensus ends. On close
+examination, the application of the term turns out to be
+significantly different depending on the field.</p>
+<p>With regard to books, <span>The ALA Glossary of Library and
+Information Science</span> defines provenance as “information
+concerning the transmission or ownership, as of a
+book.”<a><sup>3</sup></a><span>Harrod’s Librarians’ Glossary and
+Reference Book</span> adds: “A special binding, bookplate, or
+inscription may indicate previous owners, collections, or libraries
+through which a particular book has passed.”<a><sup>4</sup></a> The
+intent of capturing such information is to provide proof of a
+continuous chain of custody and therefore authenticity of the
+work—that the edition of <span>x</span> is what it purports to be.
+Another probably more common reason for securing such information
+is to highlight the prestige of the copy in hand by enumerating
+illustrious past owners. Even so, capturing the provenance for rare
+books is not always considered noteworthy. The authors of the
+manual <span>Descriptive Cataloging of Rare Materials
+(Books)</span> enjoin catalogers to “make a local note to describe
+details of an item’s provenance, <span>if considered
+important</span>.”<a><sup>5</sup></a> They do observe, however,
+that the names of former owners and other “individuals of interest”
+and their approximate dates should be added whenever possible. John
+Carter and Nicolas Barker in the <span>ABC for Book
+Collectors</span> state that “the generally laudable attention paid
+to provenance… is occasionally pushed to a length which, if not in
+itself slightly ridiculous, has in recent years begun to be
+indiscriminate.”<a><sup>6</sup></a> While the provenance of a rare
+book may assist in determining an acquisition, it almost never is
+used for retrieval.</p>
+<p>In the museum field of archaeology, provenance (or provenience)
+is “the place where an object was found or recovered in modern
+times; the findspot.”<a><sup>7</sup></a> This is vital for
+determining authenticity and dating the remains in hand as well as
+the objects associated with it. When an item from a dig is written
+up, the findspot must be recorded in order to obtain maximum
+information from the artifact.</p>
+<p>In contrast to librarianship and archaeology, in the archival
+field provenance is the basis not only for establishing
+authenticity and sometimes for dating records but also for their
+acquisition, appraisal, arrangement and description, and retrieval.
+Thus, what constitutes provenance is critically important to the
+archivist. Yet this important concept, developing over centuries of
+practice, has never been defined clearly. Its origins are
+ambiguous, and over the years the principle has been introduced,
+reintroduced, applied in part, applied in full, studied, and
+debated without end.<a><sup>8</sup></a> While archival theorists
+continue to disagree about what constitutes the principle of
+provenance and how it should be applied, they concur that
+provenance (whatever the word may mean) is a necessary theoretical
+construct for the functions of archival practice.</p>
+<p>With the goal of clarifying the debate and relating usage in the
+archival to that in the other fields, this essay presents the
+current definition of provenance in the archival context, considers
+the somewhat murky origins and subsequent history of the concept,
+and touches lightly on the contemporary state of archival
+understanding of the principle and the direction in which the
+debate is heading.</p>
+<h1>The Definition of Provenance in the Archival Context</h1>
+<p>The <span>Dictionary of Archival Terminology</span> of the
+International Council on Archives states that the principle of
+provenance means that records of the same origin (or provenance)
+must not be “intermingled” with those of any other provenance.
+Provenance is defined as being the “agency, institution,
+organization or individual that created, accumulated and maintained
+records… in the conduct of its business prior to their transfer to
+a records centre/archives.”<a><sup>9</sup></a></p>
+<p>The whole of the records created and accumulated by an agency,
+institution, organization, or individual is known as the fonds of
+that creator. Many writers refer to the principle of <span>respect
+des fonds</span>—respecting the records of a single creator by not
+intermingling those records with the fonds...</p>
+<p></p>
+      </div>
+      
+
+    
+      <br class="clearBoth">
+      <img id="fullsizepdfpreview" src="/images/journals/pdfpreviews/libraries_and_culture/v043/43.2.sweeney.gif" height="648" width="432" alt="" style="display:block; margin:auto;box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3); border: 1px solid; margin-top: 20px">
+    
+     <!-- As much as I like this, Google won't allow us to do it on the login page, but I'm saving the code and using it on the summary screens anyway BLW -->
+      <script type="text/javascript">
+        $('#fullsizepdfpreview').hide(); 
+        $('div.abstract').css({ float: 'left',
+                                width: '50%' });
+	$('<div id="thumbsizepdfpreview" class="summary_pdf"><p class="summary_pdfcaption">Preview of first page</p><img width="250" height="350" alt="" class="summary_pdfimg" src="/images/journals/pdfpreviews/libraries_and_culture/v043/43.2.sweeney.gif"></div>').insertAfter('div.abstract');
+	$('#thumbsizepdfpreview').click( function() {
+              $('div.abstract').css({ width: '100%' });
+	      $('#thumbsizepdfpreview').hide();
+              $('#fullsizepdfpreview').show();
+	});
+      </script>
+    
+    
+      <br class="clearBoth">
+
+      
+    
+    
+    </div>
+
+    <!-- right nav -->
+
+
+<div class="right_nav">
+  
+   
+ 
+
+  
+  <div class="pub_image">
+    <img class="shadow" src="/images/colophon/texas.jpg">
+  </div>
+  
+
+
+
+  
+  <h2 class="rightnav box-nav research_areas_rightnav" id="research"><a title="Reasearch Areas" id="research" href="#">Research Areas</a></h2>
+  <ul class="rightnav" id="research-box">
+  
+    <li><a href="/browse/library_science_and_publishing/library_and_information_science">Library Science and Publishing &gt; Library and Information Science</a></li>
+  
+  </ul>
+  
+
+
+  
+
+ 
+  <h2 class="rightnav box-nav" id="recommend"><a title="Recommend" id="recommend" href="#">Recommend</a></h2>
+  <ul class="rightnav" id="recommend-box">
+    <li class="email">Email a link to this page
+      <form action="/email_link" class="email" id="recommend_email">
+        <div>
+          <input type="hidden" name="eid" id="eid" value="236988">
+          <input type="hidden" name="ajax" id="ajax" value="">
+          <input type="text" name="email" id="email_address">
+           <input type="submit" onclick="formSubmit()" value="Send" class="send_email">
+          <p id="email_result"></p>
+        </div>
+      </form>
+    </li>
+  </ul>
+
+ 
+  
+
+  
+  
+    
+
+   	<ul class="addthis_toolbox addthis_default_style rightnav_links_share" addthis:url="http://muse.jhu.edu/journals/lac/v043/43.2.sweeney.html" addthis:title="Project MUSE -  The Ambiguous Origins of the Archival Principle of “Provenance” ">
+  
+		<li><a class="addthis_button_citeulike"></a>
+		<a class="addthis_button_facebook"></a>
+		<a class="addthis_button_delicious"></a> 
+		<a class="addthis_button_twitter" tw:screen_name="ProjectMUSE"></a> 
+		<a class="addthis_button_google"></a> 
+		<a href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4ecac55a1fd58a05" class="addthis_button_compact"></a></li>
+
+   
+      
+      <li class="rightsconnect">
+       
+	   
+	   
+           <a href="http://www.copyright.com/OpenURL/?sid=pd_pm21648034&amp;servicename=all&amp;issn=21648034&amp;WT.mc_id=pd_pm21648034"><img src="/template2011/images/rightsconnect.gif" alt="Get Permissions" width="101" height="15"></a>
+     </li>
+   
+   </ul>   
+   
+  <ul class="nav_links">
+    
+    <!--<li><a href="">Sign up for Alerts</a></li>-->
+    
+
+  	
+ 
+    <!--li><a href="">Collections</a></li-->
+    
+  </ul>
+ 
+ 
+
+ 
+ 
+  
+
+  
+  <h2 class="rightnav box-nav" id="related"><a title="Related Content" id="related" href="#">Related Content</a></h2>
+  <div class="related" id="related-box">
+    
+      <p>
+        <a href="/journals/portal_libraries_and_the_academy/toc/pla3.3.html"><img src="/images/journals/coverImages/placoversmall.jpg" alt="A History of the Farmington Plan (review)" class="shadow"></a> <br>
+        <a href="/journals/portal_libraries_and_the_academy/toc/pla3.3.html">A History of the Farmington Plan (review)</a> <br>
+      </p>
+    
+      <p>
+        <a href="/journals/portal_libraries_and_the_academy/toc/pla7.3.html"><img src="/images/journals/coverImages/placoversmall.jpg" alt="Doctoral Students' Engagement with Information: An American-Australian Perspective" class="shadow"></a> <br>
+        <a href="/journals/portal_libraries_and_the_academy/toc/pla7.3.html">Doctoral Students' Engagement with Information: An American-Australian Perspective</a> <br>
+      </p>
+    
+      <p>
+        <a href="/journals/libraries_and_culture/toc/lac.44.3.html"><img src="/images/journals/coverImages/laccoversmall.jpg" alt="&lt;i&gt;Beyond the Archives: Research as a Lived Process&lt;/i&gt; (review)" class="shadow"></a> <br>
+        <a href="/journals/libraries_and_culture/toc/lac.44.3.html"><i>Beyond the Archives: Research as a Lived Process</i> (review)</a> <br>
+      </p>
+    
+  </div>
+  
+  <div class="legend">
+    <ul>
+      <li class="access">You have access to this content</li>
+      <li class="free">Free sample </li>
+      <li class="open">Open Access</li>
+      <li class="none">Restricted Access </li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+<!-- right nav -->
+
+    
+    <div class="clear"></div>
+
+  </div>
+</div>
+
+
+
+<div class="footer">
+
+<div class="additional_footer">
+<div class="left">
+<h2>Welcome to Project MUSE</h2>
+<p style="font-size: 13px">
+Use the Search box at the top of the page to find book and journal
+content.
+Refine results with the filtering options on the left side of the results page. 
+Use the Browse box to browse a selection of books and journals.
+</p>
+</div>
+
+
+<div class="right">
+  <h2> Connect with Project MUSE </h2>
+
+  <ul>
+    <li class="facebook"><a href="http://facebook.com/projectmuse">Join our Facebook Page</a></li>
+    <li class="twitter"><a href="https://twitter.com/ProjectMUSE">Follow us on Twitter</a></li>
+  </ul>
+</div>
+
+</div> <!-- footer -->
+  <div class="main_footer">
+    <p>
+      Project MUSE | 2715 North Charles Street | Baltimore, Maryland USA 21218 | (410) 516-6989 |
+      <a href="/about/index.html">About</a> |
+      <a href="/about/contact.html">Contact</a> |
+      <a href="/about/tools/help.html">Help</a> |
+      <a href="/about/tools/index.html">Tools</a> |
+      <a href="/about/order/index.html">Order</a>
+    </p>
+
+<p>©2013 Project MUSE.  Produced by <a href="http://www.press.jhu.edu/">The Johns Hopkins University Press</a>  in collaboration with <a href="http://www.library.jhu.edu/">The Milton S. Eisenhower Library.</a>
+    </p>
+  </div>
+</div> <!-- footer -->
+
+<div id="cover1_content" style="display: none">
+  <h3>Cover 1</h3>
+</div>
+
+<div id="cover2_content" style="display: none">
+  <h3>Cover 2</h3>
+</div>
+
+<div id="cover3_content" style="display: none">
+  <h3>Cover 3</h3>
+</div>
+
+<script type="text/javascript" src="/template2011/js/muse.js"></script>
+
+
+
+<div id="searchProgress" style="display: none;
+                                width: 170px;
+                                height: 55px;
+                                background-color: #fff;
+                                border: 2px solid #c4c4c4;
+                                margin: 13% 35%;
+				position: fixed;
+                                padding: 20px;
+                                z-index: 99999;
+                                /*--CSS3 Box Shadows--*/
+                                box-shadow: 0 0 10px rgba(100, 100, 100, 5); 
+                            -webkit-box-shadow: 0 0 10px rgba(100, 100, 100, 5); 
+                            -moz-box-shadow: 0 0 10px rgba(100, 100, 100, 5);
+                                /*--CSS3 Rounded Corners--*/
+                                -webkit-border-radius: 7px;
+                                -moz-border-radius: 7px;
+                                border-radius: 7px;
+				top: 25%;
+				left: 50%;
+				margin-left: -90px;
+				text-align: center;">
+<img src="/template2011/images/ajax-loader.gif">
+<p style="margin-top: 10px;
+          color: #888;
+          font: normal 800 1em Arial, sans-serif;">
+
+
+Please wait . . .
+</p>
+</div>
+
+ 
+
+ 
+
+
+
+</body></html>

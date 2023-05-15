@@ -1,0 +1,1012 @@
+Skip to Main Content
+Wiley Online Library
+Log in / Register
+Log In
+E-Mail Address
+Password
+
+Forgotten Password?
+Remember Me
+
+    Register
+    Institutional Login
+
+Advertisement
+
+    Home >
+    Computer Science >
+    General & Introductory Computer Science >
+    Journal of the American Society for Information Science and Technology >
+    Vol 61 Issue 8 >
+    Abstract
+
+JOURNAL TOOLS
+
+    Get New Content Alerts
+    Get RSS feed
+    Save to My Profile
+
+JOURNAL MENU
+
+    Journal Home
+
+FIND ISSUES
+
+    All Issues
+    Virtual Issues
+
+FIND ARTICLES
+
+    Early View
+    Most Accessed
+    Most Cited
+
+GET ACCESS
+
+    Subscribe / Renew
+
+FOR CONTRIBUTORS
+
+    OnlineOpen
+    Author Guidelines
+    Submit an Article
+
+ABOUT THIS JOURNAL
+
+    Overview
+    Editorial Board
+    Permissions
+    Advertise
+    Contact
+
+SPECIAL FEATURES
+
+    ASIS&T Digital Library
+    Articles in the Advances in Information Science
+    Wiley Job Network
+    Bulletin of the American Society for Information Science and Technology
+    Proceedings of the American Society for Information Science and Technology
+    Annual Review of Information Science and Technology
+    Virtual Issue on Knowledge Management
+    Virtual Issue on Bibliometrics
+    Jobs
+
+Advertisement Advertisement
+
+Research Article
+You have full text access to this content
+A bibliometric classificatory approach for the study and assessment of research performance at the individual level: The effects of age on productivity and impact
+
+    Rodrigo Costas 1 ,
+    Thed N. van Leeuwen 1 ,
+    María Bordons 2
+
+Article first published online: 26 APR 2010
+
+DOI: 10.1002/asi.21348
+
+© 2010 ASIS&T
+
+Issue
+Journal of the American Society for Information Science and Technology
+Journal of the American Society for Information Science and Technology
+
+Volume 61 , Issue 8 , pages 1564–1581 , August 2010
+
+Additional Information (Show All)
+
+How to Cite Author Information Publication History
+How to Cite
+
+Costas, R., van Leeuwen, T. N. and Bordons, M. (2010), A bibliometric classificatory approach for the study and assessment of research performance at the individual level: The effects of age on productivity and impact. J. Am. Soc. Inf. Sci., 61: 1564–1581. doi: 10.1002/asi.21348
+Author Information
+
+    1
+
+    Center for Science and Technology Studies (CWTS), Universiteit Leiden, Wassenaarseweg 62A, 2333 AL Leiden, The Netherlands
+    2
+
+    Instituto de Estudios Documentales sobre Ciencia y Tecnología (IEDCYT), Center for Human and Social Sciences (CCHS), CSIC, Albasanz 26-28, 28037 Madrid, Spain
+
+Email: Rodrigo Costas (rcostas@cwts.leidenuniv.nl), Thed N. van Leeuwen (leeuwen@cwts.leidenuniv.nl), María Bordons (maria.bordons@cchs.csic.es)
+Publication History
+
+    Issue published online: 9 JUL 2010
+    Article first published online: 26 APR 2010
+    Manuscript Revised: 1 MAR 2010
+    Manuscript Accepted: 1 MAR 2010
+    Manuscript Received: 8 SEP 2009
+
+SEARCH
+Search Scope
+Search String
+
+    Advanced >
+    Saved Searches >
+
+SEARCH BY CITATION
+Volume:
+Issue:
+Page:
+ARTICLE TOOLS
+
+    Get PDF (11131K)
+    Save to My Profile
+    E-mail Link to this Article
+    Export Citation for this Article
+    Get Citation Alerts
+    Request Permissions
+
+More Sharing Services Share | Share on citeulike Share on connotea Share on delicious Share on www.mendeley.com Share on twitter
+
+    Abstract
+    Article
+    References
+    Cited By
+
+Get PDF (11131K)
+Abstract
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+    Appendix: Research performance of scientists by scientific class and area
+
+The authors set forth a general methodology for conducting bibliometric analyses at the micro level. It combines several indicators grouped into three factors or dimensions, which characterize different aspects of scientific performance. Different profiles or “classes” of scientists are described according to their research performance in each dimension. A series of results based on the findings from the application of this methodology to the study of Spanish National Research Council scientists in Spain in three thematic areas are presented. Special emphasis is made on the identification and description of top scientists from structural and bibliometric perspectives. The effects of age on the productivity and impact of the different classes of scientists are analyzed. The classificatory approach proposed herein may prove a useful tool in support of research assessment at the individual level and for exploring potential determinants of research success.
+
+Introduction
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+    Appendix: Research performance of scientists by scientific class and area
+
+Bibliometric indicators are increasingly used for research policy purposes since they have proved useful to monitor the development of scientific and technological activities. These indicators, drawn from scientific publications, can be applied at different levels of analysis, which range from countries (macro level), regions, centers or areas (meso level) to research teams or individual researchers (micro level). 1 1 In this article, we focus on micro-level analysis, and more specifically on the individual level because studies targeted on this unit of analysis can contribute significantly to improve our understanding of the research process and support research assessment decisions on staff recruitment, the promotion of scientists, and/or the granting of scientific awards.
+
+With regard to the study of the scientific process, bibliometric indicators at the micro level constitute a very useful tool for the analysis of different issues, such as publication and collaborative habits of scientists by disciplines or the study of the determinants of successful research (Dietz & Bozeman, 2005 ; Martin, 1978 ; Prpic, 1996 ). The influence of personal factors, such as sex or age, on research performance (Bonaccorsi & Daraio, 2003 ; Cole, 1979 ; Dennis, 1956 ; González-Bambrila & Veloso, 2007 ; Levin & Stephan, 1989 , 1991 ) and the effects of collaboration on productivity and impact of research (see for example, Lee & Bozeman, 2005 ) are some of the topics which have attracted special attention within the scientific community.
+
+However, the utility of bibliometric indicators in research assessment processes has been probably the key factor in the current trend of rising interest and demand for bibliometric studies at the micro level. Because these types of indicator are supposed to increase objectivity in peer decisions, they are increasingly demanded by policy makers, research managers, and scientists themselves to support research assessment processes. Unfortunately, a described side effect of this increasing demand is the risk of abuse and uncritical use of bibliometric indicators (Weingart, 2005 ). In this regard, the introduction of inappropriate research assessment methodologies and especially the misuse of bibliometric indicators may result in undesired modifications of the behavior of scientists, such as changes in their selection of research topics (selecting more secure topics and lower-risk fields, favoring disciplinary approaches instead of interdisciplinary ones, etc.), giving preference to quantity over quality and encouraging inappropriate publication strategies (massive publication, hyperauthorship, Cronin, 2001 ; honorary authorship, Kempers, 2002 ; “salami slicing”, Abraham, 2000; Bornmann & Hans-Dieter, 2007 , etc.). To avoid this inappropriate and uncritical use, and to prevent negative consequences for science and scientists alike, the most common and rational suggestion is not only to combine different indicators to obtain more comprehensive pictures of the scientific performance of researchers (Martin, 1996 ; van Leeuwen et al., 2003 ), but also to combine bibliometric indicators with peer review in what has been dubbed “informed peer review” (Aksnes & Taxt, 2004 ; Nederhof & van Raan, 1987 ).
+
+In addition to the former caveats, the development of bibliometric analyses at the micro level requires special caution due to the lower validity of statistical analysis applied to small units. Moreover, special diligence and precision is required for the collection and cleaning-up of data, the calculation of indicators, and the final interpretation of results (Costas & Bordons, 2005 ). Challenges we are confronted with in the collection and management of data worth noting include the lack of normalization of author and institutional names (Borgman & Siegfried, 1992 ; Fernández, Cabrero, Zulueta, & Gómez, 1993 ; Ruíz-Pérez, Delgado López-Cózar, & Jiménez-Contreras, 2002 ), problems in the identification of scientists due to common names (Wooding, Wilcox-Jay, Lewison, & Grant, 2006 ) or scientist mobility (Cañibano, Otamendi, J., & Andújar, 2008 ), and inaccuracy of data gathered by databases (Araújo Ruiz, van Hooydonk, Torricella Morales, & Arencibia Jorge, 2005 ).
+
+Due to the above-mentioned problems, obtaining precise and reliable measures of the research performance of individual scientists is a difficult and delicate task. In particular, the construction of rankings of scientists has raised strong debates within the scientific community (Macri & Sinha, 2006 ) because small losses of information may have an important influence on the results, differences in relative positions are frequently not significant and the value of rankings based on a single criterion is very limited. This statement also holds for the case of new single indicators introduced for the assessment of individual researchers (see for example, Egghe, 2006 ; Hirsch, 2005 ) the proper use and value of which is still under scientific debate (Meyer, 2009 ; Vinkler, 2007 ) although analyses based solely on these indicators start to proliferate elsewhere.
+
+We must acknowledge that, to date, there are no clear methodologies or suggestions on how to use bibliometric indicators at the micro level, nor clear conclusions on what bibliometric indicators should be used to adequately support the evaluation of scientists and research teams (van Raan, 2005 ). Accordingly, there is an important need to develop methodologies and instruments in support of individual research assessment, avoiding as much as possible the limitations mentioned above and providing useful and manageable information for research managers to duly inform their decision processes.
+
+In this article, a general methodology for informing the analysis of research performance of individual scientists is laid out, highlighting its main advantages and properties by means of its application to the study of a set of scientists working at the Spanish National Research Council (CSIC). Our approach relies on a classificatory scheme, which provides a quick and straightforward view of the position of scientists in the context of their area of activity with regard to their research performance, avoiding rankings and unidimensional measures. In a previous article (Costas & Bordons, 2007a ), a preliminary classificatory scheme for the analysis at the micro level was introduced. Such methodology is hereby enhanced through the introduction of new indicators and the simplification of the dimensions finally included. The methodology proposed hereunder is intended to contribute to the assessment of the research performance of scientists (evaluative purposes), but also to the study of different aspects of their behavior (descriptive purposes). We believe that the combination of bibliometric indicators and personal data of researchers (i.e., age, tenure, professional status, years of experience, etc.) can provide a rich picture of the performance of scientists from a micro-level perspective.
+Objectives
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+    Appendix: Research performance of scientists by scientific class and area
+
+The main purpose of this article is to present a general methodology for obtaining relevant bibliometric indicators for studying and supporting the assessment of the research performance of individual scientists. Our aim is to develop a classificatory scheme which will enable us (a) to characterize and describe different profiles or classes of scientists, with special emphasis on the identification of “top researchers” as a specific class, and (b) to explore different aspects of the research process and whether they might differ among scientists according to their class.
+
+Against this backdrop, the following are some of the questions addressed in this article: Who are top scientists from a bibliometric point of view? Is there a good match between the bibliometric classification of scientists presented herein and the one based on the professional categories? What are the effects of age on productivity and impact of scientists and to what extent do these effects change from one class of scientists to another?
+
+This article is organized as follows. First, the methodology section includes a detailed description of the main bibliometric indicators used, as well as the presentation of the classificatory scheme developed for grouping scientists in classes according to their research performance in three different dimensions. Second, the main results of the application of the methodology are put forward: primary features of the research performance of top, medium and low scientists are described; the matching between professional categories and scientific classes is discussed and the main characteristics of top researchers in terms of age, professional category, and stays abroad are pointed out. The effects of age on productivity and impact are analyzed as well as the influence of the scientific class. Finally, the results are commented on in relation to previous literature on the topic.
+Methodology
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+    Appendix: Research performance of scientists by scientific class and area
+
+The CSIC is organized in eight scientific areas. 2 2 This study focuses on the three areas with the higher number of scientists, Biology & Biomedicine (388 scientists; 36%), Materials Science (327; 31%), and Natural Resources (349; 33%), which altogether (a total of 1,064 researchers) account for 45% of CSIC scientists. The CSIC area of Biology & Biomedicine includes research on the molecular basis of cancer and the immune response, neurobiology, genetics of development, structural biology, virology, and biotechnology. Main research lines in the CSIC Materials Science area refer to new materials with particular properties or for specific functions (i.e., health-related) including design, modeling, and simulation of materials. Finally, Natural Resources comprises three main lines of activity: biology of organisms and terrestrial systems, sciences of the earth and atmosphere, and marine sciences and aquaculture (for further information on these CSIC's areas, see Gómez, Fernández, Bordons, Morillo, & González, 2003 ; Costas, Bordons, van Leeuwen, & van Raan, 2009 ).
+
+The study of the scientific activity of fulltime researchers with a permanent position in the institution in 2005 in the three mentioned areas is addressed below. To get tenure at the CSIC scientists need to be doctorate holders and succeed in a selection process in which their merits and previous research experience are assessed. Permanent scientists at the CSIC belong to one of three professional categories (see below), and they can be promoted from one category to the one above according to their merits and performance. These three categories are the following:
+
+    Tenured scientists—the basic category—usually newcomers to the organization start in this category. Five hundred fifty-eight researchers of our population are tenured scientists (52%).
+
+    Research scientists—the middle category—this is the intermediate professional scientific category at the CSIC. Two hundred sixty-eight scientists of our study are research scientists (25%).
+
+    Research professors—the upper category—this is the highest category that can be achieved at the CSIC, which is obtained by researchers with large experience and/or scientific merits. It is equivalent to the “Professorship” rank at University. Two hundred thirty-seven researchers belong to this category in our study (22%).
+
+For each individual researcher, all of his or her publications were collected to build his or her bibliometric profile. Thus, a thorough methodology for obtaining all publications of scientists, calculating their bibliometric profiles and classifying them as compared to their peers in the same research area at the organization was developed. The main procedural stages of this methodology are presented below.
+
+    1.
+    Data Downloading and Document Allocation to Scientists
+    Documents published by the studied scientists during the 1994–2004 period were downloaded from the Web of Science (Thomson Scientific, Philadelphia, PA) and gathered in a relational database (Fernández et al., 1993 ). All types of publications covered by the Web of Science were retrieved. An 11-year period was retained considering that it would be long enough for obtaining reliable results and providing meaningful conclusions.
+    To be sure that all scientists were active during the whole period and make interscientist comparisons possible, their total production throughout the entire eleven-year period was collected. It included for each scientist: (a) documents developed at the CSIC; (b) documents with a Spanish address different from CSIC's for those scientists who had joined the institution at any given year during the period of reference because in these cases their previous output during the period was also considered; and (c) documents with a foreign address, which were the result of a research stay abroad.
+    A wide range of different name variations of researchers were included in the search strategy following the methodology suggested by Costas and Bordons ( 2006 ). The accuracy of our methodology in the identification and assignment of articles to researchers was checked in a sample of 405 scientists whose curricula vitae were available on the Internet. On average, 98% of the publications of researchers were detected and correctly assigned to their authors.
+    2.
+    Individual Bibliometric Profiles
+    For each individual researcher, a bibliometric profile comprising several indicators was produced. Some of said indicators are based on the CWTS 3 3 standard methodology (van Raan, 2004 ).
+        a.
+        Total number of publications ( P ) during the period 1994–2004. This indicator is slightly different from the CWTS standard indicator because we are considering all document types and not only articles, letters, notes and reviews to have the complete production of scientists on our records and explore their publication strategy. Full counting has been used for the calculation of this indicator when multiauthored articles are considered.
+        b.
+        Total number of citations ( C ) received by publications ( P ) during the period 1994–2004. Note that the citation window is variable and shorter for the most recent publications (e.g., for publications from 1994, citations from 1994 to 2004 are considered; whereas for publications from 2004, only citations in 2004 are taken into account). On the other hand, it should be noted that author self-citations (the self-citations that an author gives to his or her own publications) have been excluded whereas co-author self-citations (self-citations given by the co-authors of the researcher under analysis) were not removed. 4 4
+        c.
+        Citations per publication ( CPP ). This is the citation-per-document rate for each researcher. This indicator is again slightly different from the original CPP by CWTS as it is based on C , as defined before (excluding only author-self-citations, whereas the same CWTS indicator excludes all self-citations—both author and co-author self-citations), divided by P .
+        d.
+        Percentage of highly cited papers ( %HCP ). Highly cited papers (HCP) are those publications cited above the 80-percentile in their respective CSIC research areas. As research areas we have selected each of the three CSIC areas where individual researchers are assigned at the organization (Biology & Biomedicine, Materials Science, and Natural Resources). In other words, HCP are those articles among the 20% most cited within each of the three CSIC areas.
+        e.
+        h-index . A scientist's h-index is the highest number of articles that he or she has published, which have each amassed at least the same number of citations (Hirsch, 2005 ). For the calculation of this indicator, the number of publications considered was P (as defined above) while citations were defined as in C (see above).
+        f.
+        Median impact factor of publications ( IF med ). Considering all the articles published by each researcher, the median value of the publication journal Impact Factor (as defined by Garfield, 1955 , 2003 ) distribution is calculated. The median has been preferred to the mean due to the reported “skewness” of this indicator (Seglen, 1997 ; Solari & Magri, 2000 ). The Impact Factor is obtained through the Journal Citation Reports ( JCR ) as published by Thomson Reuters (New York, NY).
+        g.
+        Normalized journal position ( NJP ). This is a measure of the average position of the publication journals in their scientific categories (Thomson subject categories) according to their impact factor (Bordons & Barrigón, 1992 ). Unlike the IF med , it allows for interfield comparisons as it is a field-normalized indicator.
+        h.
+        CPP/FCSm . This indicator measures the impact of a research unit (in this case, individual researchers), compared to the world citation average in the subfields in which the unit is active (van Raan, 2004 ). The rate of citations per publication ( CPP ; self-citations removed) is compared with the field citation score mean ( FCSm ) that is the field-based worldwide average impact used as reference. Here again we use the definition of fields based on the classification of scientific journals into categories developed by Thomson Reuters. Although this classification is not perfect, it provides a clear and fixed consistent field definition suitable for automated procedures within any given data-system.
+        i.
+        JCSm/FCSm . This indicator measures the impact of the publication journals within their scientific fields. The journal-based worldwide average impact (journal citation score mean— JCSm ) for an individual researcher is compared to the average citation score of the subfields ( FCSm ).
+        Note that for the last two indicators, only articles, letters, notes and reviews (excluding book reviews) are considered, and only external citations (citations that are not produced by the authors of the source document) were taken into account.
+    3.
+    Indicator Reduction
+    In accordance with the section above, a bibliometric profile composed of nine variables was built for every researcher. With the aim of reducing the number of variables and simplifying the analysis, related variables were grouped into a smaller number of homogeneous factors by means of factor analysis. Factor analysis is a statistical method to reduce the dimensionality of the data, in order to discover the underlying structure of data and interpret dependencies among sets of variables. It has been frequently used in the scientific literature of our field to study the relationships and dependencies among bibliometric indicators (Bornmann, Mutz, & Daniel, 2009 ; Costas & Bordons, 2007b , 2008 ) as well as for the construction of composite indicators (Franceschet, 2009 ). In this study, the nine indicators described were standardized through the square root and grouped in three factors or dimensions, which account for 87% of the total variance (Table 1 ). The following dimensions were obtained:
+
+        The first dimension deals with the “observed impact.” It comprises the percentage of highly cited papers ( %HCP ), the internationally normalized impact ( CPP/FCSm ) and the citations per publication ( CPP ) and it accounts for 29% of total variance.
+
+        The second dimension may be labeled as “Journal Quality dimension” and includes the median Impact Factor ( IF med ), the normalized journal position ( NJP ), and the JCSm/FCSm , accounting for 29% of the variance. Researchers try to publish their documents in the best journals within their research fields (van Raan, 2001 ) and the extent of their achievements in this respect is thus analyzed. In this regard, this dimension deals with the success of researchers in selecting high-impact journals and positioning their manuscripts in them.
+
+        Finally, the “production dimension” accounts for 28% of the total variance. It groups the total number of publications ( P ), the total number of citations ( C ), and the h-index . This dimension shows the highest size-dependent nature (the size-dependence of the h-index has been previously described by van Raan, 2006 , Costas & Bordons, 2007b , and Vinkler, 2007 ).
+    It should be noted that this analysis has been conducted in the three research areas under study, and the same results were obtained in all cases as regards the reduction of indicators and the final three dimensions, thereby confirming the sound consistency of the methodology being developed.
+    4.
+    Indicator Standardization
+    Three different composite indicators were built, which correspond to each of the factors previously described. The main advantage drawn from the use of these indicators is that we keep most of the information provided by the nine initial variables, but in a more structured way. The fact that the variables are now organized in three factors and each of them represents a specific conceptual dimension of scientific performance is particularly noteworthy.
+    Because the different variables presented above have different scales, standardization was necessary to have them all framed within the same range of values. Every value of each indicator was divided by the maximum value in that indicator. As a result, all standardized indicators are ranged between 0 and 1. Finally, the following composite indicators were built for each scientist:
+        equation image
+    In the development of the composite indicators, the same weight was given to the different variables involved because we decided to allocate the same level of importance to each of them. Other weighting options (see Franceschet, 2009 ) could be explored in the future after analyzing the results of the present approach and depending on the objectives pursued.
+    5.
+    Classification of Researchers
+    As a result of the process described in the section above, the research performance of every scientist was characterized through three composite indicators. Obtaining a final score as a properly weighted combination of the three indicators and ranking scientists accordingly was feasible. However, we consider that a single number can hardly reflect the complexity and multidimensionality of the research performance of scientists (van Leeuwen et al., 2003 ). Moreover, the fact that very often there are no significant differences among the scores obtained by authors located in close positions has been criticized in rankings, thus advising us to refrain from using them (Butler, 2007 ; van Raan, 2005 ). To cope with these problems, this study proposes the introduction of a classificatory scheme categorizing researchers according to their performance in the three dimensions mentioned above. Research performance of a given scientist was compared with that of his or her colleagues in his or her corresponding (CSIC) research area and classified accordingly.
+    Percentiles 25 and 75 were calculated for each of the three composite indicators (other studies have also used quartiles and percentiles for the analysis and use of bibliometric indicators: Buela-Casal, 2007 ; Lewison et al., 1999 ; Nicolini & Nozza, 2008 ). Researchers were classified into 3 zones according to the following criteria:
+
+        Zone 1: values lower or equal to P25. Final score=1.
+
+        Zone 2: values higher than P25 and lower or equal to P75. Final score=2.
+
+        Zone 3: values higher than P75. Final score=3.
+    Therefore, a general classification in three zones was considered convenient for the purposes of distinguishing between “high,” “medium,” and “low” performers. We could have established three classes of equal size (33% of scientists in each class), but we decided to expand the medium zone (50%) and set percentiles 25 and 75 as its lower and upper boundaries, with the aim of setting a more strict threshold for qualifying as “high” or “low” performers. It would have also been possible to create more than three classes, but from our perspective that would have substantially increased the complexity of the analysis.
+    Under this methodological approach, every scientist was characterized through a three-value vector which describes his or her position in each dimension (see Table 2 ).
+    Researchers may obtain “pure” vectors, with the same score in the three dimensions (for example, Researchers A, C, and F in Table 2 ), or “mixed” vectors (combining 3/2/1, see Researchers B, D, and E) in their final classification.
+    A substantial number of different classes emerge from the previous classification as a result of the different potential combinations of three values and three dimensions. To simplify bibliometric analysis, the resulting classes were grouped in two different levels of aggregation: Classification 1 (three classes) and Classification 2 (eight classes; Table 3 ).
+    As can be inferred from Table 3 , Classification 1 provides a broad grouping of scientists into three main classes: top class (TOP), medium class (MC), and low class (LC; Columns 1 and 4 in Table 3 ).
+    On the other hand, Classification 2 is made up of eight classes: two classes within the former top class (Top 1 and Top 2); three classes within the former medium class (MC1, MC2, and MC3), and three classes within the former low class (LC1, LC2, and LC3) (Columns 2 and 3 in Table 3 —shaded columns). This is a more detailed classification designed to offer a deeper insight of the behavior of scientists in their areas and is meant to be a helpful and informative tool for descriptive and evaluative processes (especially for research managers). In this study, this second classification (Classification 2) has not been used for the subsequent analysis, although it will be considered for future studies to conduct more detailed surveys on the performance of individual researchers.
+    The distribution of scientists by classes enables us to locate a given author's position in relation to his/her colleagues in the area and allows interarea comparisons of scientists according to their relative positions in their areas.
+    6.
+    Scientific Class-Based Analysis of Research Performance
+    Once scientists were distributed by scientific classes, the average behavior of scientists within each class was described through the nine bibliometric indicators used (basic descriptive statistics); the matching between scientific classes and professional categories was explored (contingency tables); and the main features of top researchers as regards age, stays abroad, and number of years at the CSIC were analyzed (test for nonparametric variables). Statistical analysis was carried out using SPSS software (version 17.0).
+
+Table 1.  Factor analysis: Rotated component matrix.
+
+    equation image
+
+Table 2.  Three-vector scheme for the classification of scientists. Scientists 	Production dimension 	Observed impact dimension 	Journal quality dimension
+Researcher A 	3 	3 	3
+Researcher B 	2 	3 	3
+Researcher C 	2 	2 	2
+Researcher D 	2 	1 	2
+Researcher E 	1 	1 	2
+Researcher F 	1 	1 	1
+… 	… 	… 	…
+Table 3.  General classificatory schemes of scientists.   	  	Classification 2 	Classification 1
+Classif. 1 	Classif. 2 	Criteria a 	No. scientists 	% 	No. scientists 	%
+
+    a
+
+    a “All 3 scores” described for TOP1 scientists means that they get a “3” score in each of the three dimensions. “Two 3/one 2” described for TOP2 scientists means that they get a “3” score in two dimensions and a “2” score in the remaining one. The criteria for the rest of the classes can be read likewise.
+    b
+
+    b “Any blank” stands for scientists with no data in any of the three factors.
+
+Top class (TOP) 	TOP1 	All 3 scores 	73 	6.86 	206 	19.36
+  	TOP2 	Two 3/one 2 	133 	12.50 	  	 
+Medium class (MC) 	MC1 	Two 2/one 3 	170 	15.98 	596 	56.02
+  	MC2 	All 2 scores 	217 	20.39 	  	 
+  	MC3 	Two 3 or 2/one 1 	209 	19.64 	  	 
+Low class (LC) 	LC1 	One 2 or 3/two 1 	127 	11.94 	262 	24.62
+  	LC2 	All 1 scores 	90 	8.46 	  	 
+  	LC3 	Any blank b 	45 	4.23 	  	 
+Total number of scientists 	  	  	1,064 	  	  	 
+
+As regards the study of age, it is important to note that it is cross-sectional. This means that we do not analyze changes in the performance of specific individuals as they get older (longitudinal analysis), but focus on the behavior of scientists in different age brackets.
+Results
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+    Appendix: Research performance of scientists by scientific class and area
+
+General Description of Areas
+
+The three areas analyzed comprise a total aggregate of 24,982 publications: 9,660 in Materials Science, 9,318 in Biology & Biomedicine, and 6,102 in Natural Resources; receiving 80,546, 189,699, and 56,940 citations, respectively. Table 4 shows a general description of the three areas from the individual perspective by means of the indicators defined above.
+Table 4.  Research performance of scientists by research areas. Scientific area 	P 	C 	h-index 	%HCP 	CPP 	CPP/FCSm 	IF med 	NJP 	JCSm/FCSm
+
+    Note. P =number of publications; C =citations; HCP =Highly cited papers; CPP =citations per publication; FCSm =field citation score mean; IF med =median impact factor; NJP =normalized journal position; JCSm =journal citation score mean; N =number of scientists. 96% of scientists in Materials Science and Natural Resources and 99% of scientists in Biology & Biomedicine had at least 1 publication in the period under analysis. Data expressed as M ± SD Mdn.
+
+Natural 	24.17±19.69 	242.21±282.32 	8.03±4.55 	22.59±15.11 	7.31±5.11 	0.89±0.54 	1.273±0.541 	0.64±0.14 	0.99±0.36
+Resources 	21 	163 	8 	19.84 	6.63 	0.83 	1.18 	0.67 	0.98
+( N =349) 	  	  	  	  	  	  	  	  	 
+Biology & 	30.64±23.33 	627.4±610.89 	11.82±5.73 	24.97±15.21 	19.03±16.66 	1.17±0.89 	4.645±2.223 	0.8±0.1 	1.39±0.55
+Biomedicine 	25 	466.5 	11 	21.37 	14.21 	0.97 	4.12 	0.82 	1.34
+( N =388) 	  	  	  	  	  	  	  	  	 
+Materials 	47.83±38.68 	427.44±508.4 	9.96±5.16 	20.22±11.51 	6.3±5.13 	1.02±0.81 	1.576±0.756 	0.72±0.11 	1.2±0.39
+Science 	40 	261 	9 	18.68 	4.89 	0.84 	1.44 	0.74 	1.21
+( N =327) 	  	  	  	  	  	  	  	  	 
+Total 	33.8±29.64 	441.66±518.14 	10.03±5.43 	22.69±14.19 	11.36±12.43 	1.04±0.78 	2.626±2.136 	0.72±0.13 	1.21±0.47
+( N =1064) 	27 	270 	9 	20 	7.86 	0.87 	1.81 	0.75 	1.15
+
+Researchers in Materials Science show the highest average number of articles, while Biology & Biomedicine researchers obtain the highest impact values, including both citation and impact-factor-based indicators ( C , h-index , %HCP , CPP , CPP/FCSm , and also Median Impact Factor , NJP , and JCSm/FCSm ). Finally, Natural Resources researchers obtain the lowest scores in all indicators.
+Research Performance by Scientific Class
+
+Research performance of scientists by scientific class is described for each area in Table 5 (see a data breakdown by areas in the Appendix). As shown below, productivity and impact-based indicators tend to increase with scientific class. Top researchers are those scientists with the highest scores in each and every indicator included in the analysis. Therefore, they present a high and well-balanced research performance (Table 5 ). This pattern was observed in each of the three areas under analysis.
+Table 5.  Research performance of scientists by scientific class (all areas combined). Class 	P 	C 	h-index 	% HCP 	CPP 	CPP/FCSm 	IF med 	NJP 	JCSm/FCSm
+
+    Note. P =number of publications; C =citations; HCP =Highly cited papers; CPP =citations per publication; FCSm =field citation score mean; IF med =median impact factor; NJP =normalized journal position; JCSm =journal citation score mean; N =number of scientists. Data expressed as M ± SD Mdn.
+
+Top 	47.72±36.27 	944±713.31 	15.1±5.1 	37.82±11.98 	22.62±20.01 	1.92±1.06 	3.776±2.702 	0.81±0.07 	1.65±0.49
+( N =206) 	37.5 	716.5 	14 	36.36 	14.56 	1.56 	2.711 	0.81 	1.57
+Medium 	36.95±28.01 	406.1±385.53 	10.29±4.4 	19.42±10.62 	10.37±7.79 	0.97±0.47 	2.589±1.968 	0.74±0.1 	1.21±0.36
+( N =596) 	30 	283 	10 	17.39 	7.71 	0.88 	1.678 	0.75 	1.15
+Low 	15.68±15.83 	93±134.22 	4.79±2.88 	10.24±12.26 	4.04±3.34 	0.45±0.30 	1.635±1.285 	0.6±0.17 	0.8±0.34
+( N =262) 	12 	60.5 	4 	6.98 	3.11 	0.40 	1.042 	0.63 	0.78
+Total 	33.8±29.64 	441.66±518.14 	10.03±5.43 	22.69±14.19 	11.36±12.43 	1.04±0.78 	2.626±2.136 	0.72±0.13 	1.21±0.47
+( N =1064) 	27 	270 	9 	20 	7.86 	0.87 	1.81 	0.75 	1.15
+
+We are aware that these differences among top, medium, and low scientists were somehow expected because the indicators described in Table 5 were also used for the delimitation of classes. However, it is important to highlight that differences between classes are statistically significant for all indicators and in the three areas under analysis ( p <0.05).
+Scientific Class versus Professional Category
+
+Can we anticipate a fine match between scientific class and professional category? In other words, to what extent have top scientists been rewarded with promotion to the highest professional category? The relationship between the classification of scientists and their current professional category at the CSIC is shown in Table 6 .
+Table 6.  Scientists by professional category and scientific class (all areas combined).   	Professional category 	 
+Scientific class 	Tenured scientists 	Research scientists 	Research professors 	Total
+
+    Note. χ 2 =25.43; p <0.001.
+
+Top class 	96 	52 	58 	206
+  	(17.2%) 	(19.3%) 	(24.5%) 	(19.4%)
+Medium class 	297 	151 	148 	596
+  	(53.2%) 	(56.1%) 	(62.4%) 	(56.0%)
+Low class 	165 	66 	31 	262
+  	(29.6%) 	(24.5%) 	(13.1%) 	(24.6%)
+Total 	558 	269 	237 	1064
+  	(100%) 	(100%) 	(100%) 	(100%)
+
+According to Table 6 , the hypothesis of independence between scientific class and professional category should be rejected ( p <0.05). In other words, the professional category is related to the scientific class of researchers. Although there is not a perfect match between scientific class and professional category, the percentage of top researchers raises in tune with their professional category: 25% of research professors are top class vs. only 17% of tenured scientists; moreover, only 13% of research professors are low class vs. 30% of tenured scientists.
+
+We are aware that other facets of research performance different from the one related to scientific publications are usually considered in support of promotion decisions. In fact, we do not know to what extent promotion can be explained by means of bibliometric indicators. To answer this question, we have analyzed which of the different bibliometric indicators used for the classification of researchers are the best predictors of the professional category of scientists. Discriminant analysis using the stepwise method was conducted by areas, entering those variables that minimize Wilks's lambda values.
+
+The importance of size-dependent indicators is clear in two consecutive analyses with different number of variables. First, we considered the nine bibliometric variables used for the classification and the number of publications ( P ) emerged as the one that contributes the most to the discrimination between professional categories. Around 50% of the scientists were correctly classified under this first approach based only in the number of publications (“bibliometric-based analysis”; Table 7 ). Because this percentage of scientists correctly classified is not very high, a second analysis was undertaken. 5 5
+Table 7.  Discriminant analysis: Variables entered. Scientific area 	Indicators 	Wilks's λ 	Exact F 	Sig.
+
+    Note. P =number of publications; NJP =normalized journal position; CSIC=Spanish National Research Council.
+
+Bibliometric-based analysis 	  	  	 
+Biology & Biomedicine 	  	  	  	 
+ Step 1 	P 	0.794 	49.050 	0.000
+Materials Science 	  	  	  	 
+ Step 1 	P 	0.836 	30.029 	0.000
+Natural Resources 	  	  	  	 
+ Step 1 	P 	0.909 	16.048 	0.000
+Extended analysis 	  	  	  	 
+Biology & Biomedicine 	  	  	  	 
+ Step 1 	Years at CSIC 	0.787 	51.097 	0.000
+ Step 2 	h-index 	0.566 	62.006 	0.000
+Materials Science 	  	  	  	 
+ Step 1 	Years at CSIC 	0.729 	56.983 	0.000
+ Step 2 	P 	0.554 	52.559 	0.000
+ Step 3 	NJP 	0.533 	37.646 	0.000
+Natural Resources 	  	  	  	 
+ Step 1 	Years at CSIC 	0.884 	21.177 	0.000
+ Step 2 	P 	0.729 	27.439 	0.000
+
+In the second analysis (see the “extended analysis” included in Table 7 ), the number of years at the CSIC of each scientist was included in the study in addition to the nine bibliometric variables, and in this case two to three variables entered in the model depending on the area (two variables in Biology & Biomedicine and Natural Resources and three variables in Materials Science). Seniority at the CSIC is the variable that contributes most to the discrimination between professional categories because it is the first variable entered (Step 1), followed by size-dependent bibliometric indicators such as the number of publications in two areas and by the h-index in the third area (Step 2). The NJP, which is a measure of journal prestige, is also introduced in Materials Science (Step 3). The percentage of scientists correctly classified in the extended analysis rose up to 60–70%. Detailed results from this second analysis are shown in Tables 8 and 9 .
+Table 8.  Discriminant analysis: Classification function coefficients (extended analysis).   	Professional category
+Scientific area 	Tenured scientist 	Research scientist 	Research professor
+
+    Note. P =number of publications; NJP =normalized journal position; CSIC=Spanish National Research Council.
+
+    Fisher's linear discriminant functions.
+
+Biology & Biomedicine 	  	  	 
+ h index 	19.31 	21.23 	23.67
+ Years at CSIC 	10.42 	12.10 	13.48
+ (Constant) 	−35.20 	−44.01 	−54.39
+Materials Science 	  	  	 
+  P 	9.24 	10.45 	11.62
+  NJP 	206.96 	214.70 	218.32
+ Years at CSIC 	16.65 	18.87 	20.18
+ (Constant) 	−92.27 	−106.61 	−117.16
+Natural Resources 	  	  	 
+  P 	8.75 	9.65 	10.70
+ Years at CSIC 	7.34 	8.49 	9.18
+ (Constant) 	−22.29 	−27.92 	−33.38
+Table 9.  Discriminant analysis: Classification results (extended analysis).   	  	Predicted group membership 	 
+Scientific area 	Professional category 	Tenured scientist 	Research scientist 	Research professor 	Total
+Biology & Biomedicine 	Tenured scientist (185) 	67.6 	27.0 	5.4 	100.0
+  	Research scientist (105) 	20.0 	48.6 	31.4 	100.0
+  	Research professor (95) 	4.2 	22.1 	73.7 	100.0
+Materials Science 	Tenured scientist (155) 	74.2 	20.0 	5.8 	100.0
+  	Research scientist (79) 	13.9 	63.3 	22.8 	100.0
+  	Research professor (81) 	6.2 	21.0 	72.8 	100.0
+Natural Resources 	Tenured scientist (199) 	68.3 	21.6 	10.1 	100.0
+  	Research scientist (80) 	22.5 	33.8 	43.8 	100.0
+  	Research professor (58) 	12.1 	19.0 	69.0 	100.0
+
+Looking at the coefficients of the discriminant functions we can see a clear ascending pattern from Tenured Scientist to Research Professor in all variables (Table 8 ). Interestingly, scientists in the lowest and highest categories (Tenured Scientist and Research Professor) are more likely to be correctly classified than those in the middle category (Research Scientist) (Table 9 ).
+
+The fact that the number of years at the institution shows the highest predictive value suggests that promotion tends to reward long professional careers, although not all scientists with a long career attain the highest category because having a high number of publications is a crucial factor. 6 6 It is worth noting that impact is also taken into account: the absolute number of citations received (in terms of the h-index) is the most relevant factor in Biology & Biomedicine, whereas publishing in high-impact factor journals seems to be more influential in Materials Science.
+
+To summarize, it seems that the value of the bibliometric indicators used for predicting the professional category of researchers is only moderate, and it increases when additional factors, such as the number of years at the institution, are considered. Scientists with an outstanding performance from a bibliometric perspective (Top scientists) are more likely to pertain to the higher professional categories, but it seems that some factors, other than quantity and impact of publications strongly influence promotion. Therefore, once the fact that top scientists are not concentrated on the highest category has been ascertained, we wonder what the main characteristics of this set of outperforming scientists are.
+Who Are Top Researchers?
+Top researchers are the youngest.
+
+The distribution of researchers by age and scientific class in the three areas (Figure 1a ) enables us to conclude that top scientists are younger than the other two scientific classes. By professional category, we can see that Research Professors are the oldest in the three areas (Figure 1b ).
+thumbnail image
+
+Figure 1. Age distribution of researchers by scientific class (left), professional category (right), and both combined (bottom).
+
+Download figure to PowerPoint
+
+Significant statistical differences in the age of scientists by scientific classes and professional categories were observed ( p <0.05; Figures 1a and 1b ). As we can see, top researchers are aged 45 or thereabouts, medium-class researchers between 45 and 50, and low-class researchers around 55. On the other hand, the average age of Research Professors is 55 compared to an average age of 50 and 45 for Research Scientists and Tenured Scientists, respectively.
+
+It is interesting to observe that top scientists are the youngest within each professional category (Figure 1c ). This explains why the average age of top scientists (Figure 1a ) is lower than that of the remaining scientific classes despite the greater proportion of Research Professors—who tend to be older—in the Top class. It can be stated that although Research Professors show the highest average age, professors who are top scientists are the youngest within their category.
+Top researchers show a lower number of years in their professional category.
+
+Top-class researchers have the shortest experience at the institution and also the shortest tenure period in the same professional category. In other words, top researchers have joined the institution or have been promoted more recently than other researchers (Figure 2 ).
+thumbnail image
+
+Figure 2. Experience at the Spanish National Research Council (CSIC; left) and years in the same professional category (right) by scientific class.
+
+Download figure to PowerPoint
+Top researchers have been abroad.
+
+Top researchers also present a higher number of documents published by foreign centers (with no address in Spain) than scientists in the other classes (Figure 3 ). This may be in connection with the younger age of these scientists because postdoctoral research stays in international centers of prestige is considered at present an essential stage of a scientist's training (Jonkers & Tijssen, 2008 ) and an important mechanism of socialization in the international scientific community (Cruz-Castro and Sanz-Menéndez, 2010 ). In fact, our data show that scientists under 46 present the highest rates of documents from foreign centers (Figure 4 ). These stays may contribute to increase the collaboration, productivity, and impact of researchers and may well partially explain the higher performance of young scientists.
+thumbnail image
+
+Figure 3. Average individual percentage of publications abroad by scientific class.
+
+Download figure to PowerPoint
+thumbnail image
+
+Figure 4. Percentage of documents abroad by age of researchers (all areas combined).
+
+Download figure to PowerPoint
+
+The above-mentioned features of top scientists may be put in connection with the fact that the process for entering the CSIC has become increasingly competitive over the years. Due to the scarce number of vacancies offered by the institution in recent years (see left chart in Figure 5 ), only scientists with very outstanding curricula vitae are recruited. In this sense, a connection may also be made with the current ascending trend of the age of access to a permanent position at the CSIC (see chart on the right of Figure 5 ) because a longer scientific career is frequently linked to more solid curricula vitae. The current older age of new recruits has also been observed at the Italian National Research Council (CNR; Bonaccorsi & Daraio, 2003 ). Some of the aspects assessed for getting a tenured position at the CSIC worth mentioning include scientific productivity, publications in prestigious journals, relevance of the research measured through citation-based indicators and peer judgments, stays in foreign research centers, and international collaboration.
+thumbnail image
+
+Figure 5. Evolution of the number of new positions (left) and the age of tenure (right) at the Spanish National Research Council (CSIC).
+
+Download figure to PowerPoint
+Effects of Age on Productivity and Impact
+
+Our results indicate that age can be an influential factor on the research performance of scientists. This has been extensively investigated, and a number of studies have pointed out that research productivity declines with age (see for example, Falagas, Ierodiakonou, & Alexiou, 2008 ), an aspect that has also been observed in many other human activities (Skirbekk, 2003 ). Within the framework of science policy, identifying the age at which scientists produce their best research and the extent of the decline in their production and/or impact as they grow older are matters of great concern. For the purposes hereof, we focus on whether the age factor affects scientists differently according to their scientific class.
+
+An analysis of the scientific production of researchers by age has been conducted and the mean number of documents and CPP (with a 3-year citation window) by researcher was calculated for different age brackets (Figure 6 ).
+thumbnail image
+
+Figure 6. Number of publications (left) and citations per publication values (right) by age of researchers (1994–2004).
+
+Download figure to PowerPoint
+
+The distribution of the number of publications per researcher by age (see left chart in Figure 6 ) corresponds to an inverted U-shape curve in Biology & Biomedicine and Materials Science, just as Gingras, Larivière, Macaluso, and Robitaille ( 2008 ) also found in the case of Canadian researchers. A descending pattern in production by age in Natural Resources is also apparent. Materials Science and Biology & Biomedicine researchers attain their highest productivity in the 50–54 age bracket, whereas in Natural Resources the peak is reached for researchers under the 40–44 age bracket.
+
+On the other hand, the trend of the CPP rate by age is decreasing in all three scientific areas; such a decline is especially steep for Biology & Biomedicine researchers (see right chart in Figure 6 ). In all areas researchers under 45 present the highest values of citation per publication.
+What Is the Age-Related Pattern of Productivity and Citation Rate for Scientists in the Different Scientific Classes?
+
+The graphic representation of the average values of the number of publications and citations per publication variables is shown in Figure 7 . Interestingly, top-class researchers present an upward trend in the number of documents by age in all areas, although a downturn is revealed for older scientists (presenting an inverted U-shape curve). A similar trend, albeit with lower production is observed for medium class researchers. As for low class researchers, a decreasing trend in production with age is observed in all three areas (see left charts in Figure 7 ).
+thumbnail image
+
+Figure 7. Number of publications and citations per publication values by age of researchers and scientific class.
+
+Download figure to PowerPoint
+
+With regard to the average impact of documents ( CPP 3-year citation window) a decreasing pattern is observed in the three scientific areas and for the three scientific classes, but the pattern is more evident for top scientists due to the extremely high values obtained by the youngest researchers in this class (see right charts in Figure 7 ).
+Discussion and Conclusions
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+    Appendix: Research performance of scientists by scientific class and area
+
+The use of bibliometric indicators at the macro and meso levels is widely extended and generally accepted at present, whereas micro-level studies (teams or individuals) have always been surrounded by controversy and debate, especially due to a series of limitations identified for the indicators at this level of analysis (Costas & Bordons, 2005 ; Sandström & Sandström, 2009 ). This notwithstanding, bibliometric indicators at the micro and particularly at the individual level have a special interest for policy makers and research managers. On the one hand, they are a helpful support tool for the assessment of the research performance of scientists (evaluative purposes) and, on the other hand, they are useful for the study of the scientific behavior of researchers (descriptive purposes) because they allow us to detect different working strategies (Nederhof, 2008 ), identify research teams or invisible colleges (Bordons, Zulueta, Cabrero, & Barrigón, 1995 ) and explore the determinants of research success (Hornbostel, Bohmer, Klinsporn, Neufeld, & von Ins, 2009 ; Licea de Arenas, Valles, & Arenas, 1999 ).
+
+Because all indicators present drawbacks, relying on a single indicator for the research assessment of scientists must be avoided (Martin & Irvine, 1983 ) even in the case of very new indicators, such as the h-index or g-index (Costas & Bordons, 2008 ; Vinkler, 2007 ). The combined use of several indicators is strongly recommended (van Leeuwen et al., 2003 ), but, to date, there are no practical suggestions of specific methodologies dealing with the use of bibliometric indicators at the micro level. Our purpose here is to shed some light on this matter.
+
+The methodology developed in this study for the classification of scientists according to their bibliometric profile has three main advantages: completeness in the collection of data, multidimensionality in the analysis and simplicity of usage and interpretation. In addition, it can hardly be manipulated by scientists and encourages them to improve their publication habits. This methodology allows for the conduct of studies for descriptive and evaluative purposes. It can be applied at the individual level, but also for the study of research teams, which can be particularly relevant due to the increasing role of teams in research development in many disciplines, thus becoming a focal issue for further future development.
+
+The methodology is based on the assumption that researchers need to be compared with their more similar colleagues. Within each area, scientists can be compared with their closer peers (“like with like” comparisons), and classified according to their performance. The distribution of scientists by classes enables us to locate a given author's position in relation to his or her colleagues in the area. Moreover, the individual vectors provide relevant information for sound comparisons of researchers (a scientist with a 3-3-3 profile is a “better” performer—bibliometrically speaking—than a scientist with a 2-2-2 profile), as well as for informing scientists on which are the dimensions where their performance is weaker and could be improved. As a result, comparisons among researchers from different scientific areas are possible because we can compare the relative position of scientists in their areas. The classificatory scheme provides a quick and straightforward view of the position of individuals in the context of their area of activity, which could be useful for research managers, policy makers, and scientists themselves.
+
+In this article, we focus on the study of researchers working at the Spanish CSIC, but we believe that this methodology can also be applied in other academic or governmental settings as well as in other countries. In fact, the CSIC is one of the most internationally oriented actors within the Spanish research system (García & Sanz-Menéndez, 2005 ; Gómez et al., 2003 ) and some of the results here have also been described for other countries and organizations (Bonaccorsi & Daraio, 2003 ; Gingras et al., 2008 ; Jensen, Rouquier, & Croissant, 2009 ; Turner & Mairese, 2002 ). Whatever the case, the organizational and research policy context to which the analyzed individuals are subject should be taken into account for the appropriate understanding of the results of any given study. The development of future studies focused on researchers from other organizations, fields and/or countries will contribute to obtain more comprehensive pictures of the research performance process and a better understanding of scientific performance at the individual level.
+Assessing Research Performance
+
+The methodology set forth in this article offers a classification of scientists based on a balanced analysis of their research performance, outstripping other approaches based on single indicators (e.g., the h-index) that only measure the most size-dependent (absolute) aspects of the research production (i.e., the total number of documents and the total number of citations) and ignore relative indicators. Our approach enables us to characterize different classes of scientists according to their global performance, instead of providing linear rankings of scientists based either on a single indicator (which only provides a partial view of their research performance) or on indicators aggregated into a composite score (whose construction is frequently a bone of contention). The methodology outlined in this article prioritizes classes over rankings, considering that differences among the relative positions of scientists in rankings are frequently not statistically significant. We uphold the view that the distribution of scientists by classes can be useful for science policy purposes, but also for researchers themselves who may identify weaknesses and strengths in their performance and introduce changes in their publication strategy if necessary.
+
+Professional promotion in many institutions, as in the case of the CSIC, is based on peer assessment. A number of shortcomings have been repeatedly pointed out in the literature in connection with this system (King, 1987 ), such as the subjectivity inherent to expert judgment or the fact that potential conflicts of interest among researchers may influence their final decisions. This notwithstanding, the value and usefulness of expert judgments in assessing the relevance, originality, and merit of scientific achievements within their area of expertise is widely accepted, provided that the influence of extrascientific factors is minimized. Moreover, a good correlation between peer review and bibliometrics has been reported in different studies (Anderson, Narin, & McAllister, 1978 ; Rinia, van Leeuwen, van Vuren, & van Raan, 1998 ; van Raan, 1996 ). From this point of view, the barely moderate matching between our classification on scientific classes and professional categories is somewhat intriguing because one might expect to find a “top” profile for those ranked highest. However, different factors may contribute to explain our finding. First of all, young scientists—and top scientists tend to be young—may be particularly aware of the importance of good publications to build a solid scientific career and win a tenure award. Second, bibliometric indicators are based on scientific publications, which only measure one facet of research performance, whereas other facets in which senior scientists might be more involved than their juniors, such as training of doctoral candidates, research management, innovation, or consultancy, are also taken into account in promotion decisions. Our results suggest that promotion tends to reward long scientific track records. Thus, among those scientists with a remarkable bibliometric research profile the older ones are more likely to appear in the upper professional category.
+
+With regard to bibliometric indicators, our study shows that the number of Web of Science publications is the one that best discriminates among professional categories, although impact-based indicators also play a relevant role. Other studies have reported that absolute indicators (the h-index, the total number of documents, and the total number of citations) are the best predictors for the professional promotion of researchers (i.e., Bornmann, Wallon, & Ledin, 2008 ; Jensen et al., 2009 ). Our classificatory scheme goes beyond the number of publications and other absolute indicators. To be classified as a top scientist, an outstanding performance is required not only in the number of publications, but also in the publication quality of the journals, as well as in the influence of the research measured by means of relative impact indicators. Our results show that this type of performance is mainly accomplished by young scientists who have joined the CSIC after a stay of several years in a foreign research center.
+
+In summary, the present methodology enables us to characterize different classes of scientists in a given community, identifying outstanding individuals (top scientists) from a bibliometric perspective. This approach can inform and support peer decisions regarding different types of rewards among its members. Because bibliometrics provides a partial measurement of the research performance of scientists, its relative weight amid other measurements dealing with other dimensions of the scientific activity needs to be established in each case by the specific panels or institutional actors involved.
+Exploring the Research Process
+
+The usefulness of this methodology to delve into the study of the research process is analyzed in this article by addressing the characterization of top scientists.
+
+The study reveals that outstanding scientists from a bibliometric point of view (top scientists) tend to be younger than the rest. Can it be inferred, therefore, that young scientists are active in specific subfields or topics (i.e., hot topics) in which access to a “top” profile is easier? The influence of the selection of research topics must not be ruled out, but the fact that a lower age of top scientists was observed in all three CSIC research areas led us to think that there are other major underlying factors at play.
+
+The increasingly competitive process for the award of tenures at the CSIC, partly due to the scarce number of vacancies offered in recent years, might probably contribute to explain the “top-tier” research profile of some young scientists, also described by Rey Rocha, Garzón-García, and Martín-Sempere ( 2006 ). Moreover, CSIC's strategic plans stress the importance of recruiting the “best” researchers with the aim of fostering excellence and consolidating the position of the institution at an international level (Spanish National Research Council (CSIC), 2006 ). In brief, over the last few years, new recruits have been required to have a more competitive curricula vitae including, as a general rule, high productivity, high visibility of research, and research stays abroad (Sanz-Menéndez, 2003 ). At present, experience abroad is considered a key factor in the professional career of researchers because scientific mobility has a beneficial impact on the training and productivity of researchers (De Filippo, Sanz-Casado, & Gómez, 2007 ; Zubieta, 2009 ). Based on this assumption, different programs of mobility such as Joint Action Program ( Acciones Integradas ; Granadino, Plaza, & Vidal, 2005 ) or the Ramon y Cajal Programme (Cañibano et al., 2008 ) have been implemented in Spain to help researchers gain international experience, establish valuable contacts, and participate in specific-domain international networks.
+
+Another interesting result is that the experience of top researchers at the CSIC is shorter than that of medium or low class researchers. Moreover, top researchers present the shortest time of tenure in the same professional category, which means that they have only very recently joined the institution or that they have been promoted in recent years. This result raises the question of the strong relationship between high performance—from a bibliometric perspective—and recognition. It suggests that recent recognition such as a tenure award or a promotion has a positive effect over the research performance of scientists, something that has also been pointed out by other authors (Allison & Long, 1990 ; Carayol & Matt, 2004 ; Tien & Blackburn, 1996 ). This is also in line with the idea that tenure and promotion reward scientists with new demands and opportunities in what Sugimoto, Russell, Meho, & Marchionini ( 2008 ) defined as the “surge of the academic life cycle” meaning that the products created during the pretenure/promotion period reward the individual scientists with academic dividends in the form of citations, awards, students, and general visibility within their discipline.
+
+Overall, productivity shows an inverted U-shape distribution with age in two areas, while it decreases with age in Natural Resources. In all three areas, the lowest productivity corresponds to the oldest scientists. In terms of impact, a declining pattern by age is observed in the three areas under analysis. Several arguments have been raised in prior studies to explain the lower productivity of older scientists:
+
+    As researchers grow older they are involved in an increasing range of different tasks (administration, teaching, research assessment, project management, funding, supervision of PhD students, etc.), implying a reduction in the time they can devote to conduct research and thus decreasing productivity. Along the same line, we can also postulate that researchers may change their communicative habits as they get older and are more established, increasing their involvement in document types not covered by the Web of Science database, such as books, book chapters, reports, etc.
+
+    The lack of incentives may contribute to the lower performance of some scientists as they grow older (Turner & Mairesse, 2002 ); in fact, Cole ( 1979 ) suggested that the relationship between age and scientific performance is more influenced by the reward system than by a real loss of productivity with age. Those researchers who are not rewarded for their research may lose motivation for maintaining high productivity. Cronin and Meho ( 2007 ) suggest that the creativity of researchers does not decrease with age, but is expressed in different ways, at different times, and with different intensities and it has been argued that the creation of incentive policies for researchers at different professional stages can contribute to keep their production rate up during their whole professional life (González-Bambrila & Veloso, 2007 ).
+
+    Older researchers may be more reluctant to steer their research into new scientific problems and their skills may become obsolete. As a result, the relevance and impact of their research may dwindle (“obsolescence effect”; Kyvik & Olsen, 2008 ).
+
+    The importance of “generation effects” has been pointed out by different authors (Kyvik & Olsen, 2008 ), who note that changes in the cultural, social, and technical environment of individuals as they grow older may contribute to the decline in their productivity.
+
+Interestingly, Kyvik and Olsen ( 2008 ) have suggested that the increasing involvement in administration and management identified for older scientists does not necessarily justify their lower productivity. On the contrary, it may lead to further their conditions of access to resources and increased activity (Kyvik & Olsen, 2008 ). This train of thought is consistent with our data: productivity of top and medium scientists increases with age until the 50–54 age bracket (in Materials Science) or the 55–59 one (in Biology & Biomedicine and Natural Resources). Team work and collaboration may become key factors in taking advantage of this improvement of their means of access to resources because it allows scientists to cope with new projects and research activities.
+
+What is the contribution of the scientific class-based approach to the study of the effects of age on productivity and impact? Interestingly, our study shows that the productivity of top and medium scientists increases or remains stable with age and only decreases for older scientists. On the contrary, productivity of low class researchers tends to decrease with age. Lack of resources and/or motivation could be some explanatory factors for the declining trend in performance observed for low class scientists. In relation to top and medium class scientists, some age-related problems that threaten productivity could be overcome if research is tackled as a collective enterprise. Collaboration between scientists from different ages could reduce the obsolescence and generation effects described above. Further analysis of collaboration practices at the individual level in our three areas of analysis would be needed for an in-depth study of these aspects.
+
+As for impact, the mean impact of documents declines with age for all scientists and especially for top class researchers, although the latter show the highest values for any given age-bracket. Several hypotheses can contribute to explain the marked downturn in the impact of top scientists. First, top researchers can benefit at the early stage of their careers from the publications produced abroad during their postdoctoral stays because a high impact of international co-authored documents has been described in various studies (Glänzel & Schubert, 2001 ). Another explanation can be the bias towards quantitative indicators in the promotion process. Scientists may have the perception or feeling that they need to improve their output instead of their impact to increase their possibilities of being promoted. Finally, the difficulty in maintaining high values of relative impact with increasing rates of production has been put forward by different authors (“dilution effect”; Costas et al., 2009 ; van Raan, 2008 ). Fostering quality over quantity is still an objective to be pursued and rewarded.
+
+To conclude, we consider bibliometric studies at the micro level a very useful tool for the study of the research process and its main determinants, as well as for supporting research assessment procedures. The classification of scientists provided herein may be a source of valid information for these purposes and support the implementation of research policies aimed at the different types of researchers.
+
+Future research will focus on furthering knowledge on the main determinants of the research performance of individual scientists. Moreover, due attention shall be paid to the analysis of the advantages and limitations of the use of “Classification 2” for the study of individual scientific performance.
+Acknowledgments
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+    Appendix: Research performance of scientists by scientific class and area
+
+We are profoundly grateful to two anonymous referees whose comments and suggestions have significantly contributed to this article.
+
+    1
+
+    For the definition of micro-level we follow Vinkler (1988) who considers as micro-level the study of “persons” or “research teams” (see also Costas & Bordons, 2005 ; Sandström & Sandström, 2009 ).
+    2
+
+    Agriculture; Biology & Biomedicine; Chemistry; Food, Science & Technology; Materials Science; Natural Resources; Physics; and Social Sciences & Humanities.
+    3
+
+    CWTS-Center for Science and Technology Studies (Centrum voor Wetenschaps-en Technologie Studies).
+    4
+
+    For a broader explanation on the differences between author and co-author self-citations, see Costas et al. ( 2010 ).
+    5
+
+    Detailed results of the bibliometric-based analysis are not shown due to its barely moderate predictive value.
+    6
+
+    It is important to mention that serving a particular amount of time before promotion is not explicitly required for the promotion of researchers (they can be promoted at any time of their careers), although our results suggest that it positively influences promotion if supported by scientific output.
+
+References
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+    Appendix: Research performance of scientists by scientific class and area
+
+    Abraham, P. ( 2002 ). Duplicate and salami publications . Journal of Postgraduate Medicine , 46 ( 2 ), 67 – 69 .
+    Aksnes, D.W. , & Taxt, R.E. ( 2004 ). Peer reviews and bibliometric indicators: A comparative study at Norwegian university . Research Evaluation , 13 ( 1 ), 33 – 41 .
+        CrossRef ,
+        Web of Science® Times Cited: 21
+    Allison, P.D. , & Long, J.S. ( 1990 ). Departmental effects on scientific productivity . American Sociological Review , 55 ( 4 ), 469 – 478 .
+        CrossRef ,
+        Web of Science® Times Cited: 79
+    Anderson, R.C. , Narin, F. , & McAllister, P. ( 1978 ). Publication ratings versus peer rating of universities . Journal of the American Society for Information Science , 29 ( 2 ), 91 – 103 .
+    Direct Link:
+        Abstract
+        PDF(971K)
+        References
+        Web of Science® Times Cited: 61
+    Araújo Ruiz, J.A. , van Hooydonk, G. , Torricella Morales, R.G. , & Arencibia Jorge, R. ( 2005 ). Cuban scientific articles in ISI Citation Indexes and CubaCiencias databases (1988–2003) . Scientometrics , 65 ( 2 ), 161 – 171 .
+        CrossRef ,
+        Web of Science® Times Cited: 5
+    Bonaccorsi, A. , & Daraio, C. ( 2003 ). Age effects in scientific productivity. The case of the Italian National Research Council (CNR) . Scientometrics , 58 ( 1 ), 49 – 90 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 15
+    Bordons, M. , & Barrigón, S. ( 1992 ). Bibliometric analysis of publication of Spanish pharmacologists in the SCI (1984–89). Part II . Scientometrics , 25 ( 3 ), 195 – 206 .
+        CrossRef ,
+        Web of Science® Times Cited: 16
+    Bordons, M. , Zulueta, M.A. , Cabrero, A. , & Barrigón, S. ( 1995 ). Research performance at the micro level: Analysis of structure and dynamics of pharmacological research teams . Research Evaluation , 5 ( 2 ), 137 – 142 .
+    Borgman, C.L. , & Siegfried, S.L. ( 1992 ). Getty's synoname and its cousins: A survey of applications on personal name-matching algorithms . Journal of the American Society for Information Science , 43 ( 7 ), 459 – 76 .
+    Direct Link:
+        Abstract
+        PDF(2403K)
+        References
+        Web of Science® Times Cited: 28
+    Bornmann, L. , & Hans-Dieter, D. ( 2007 ). Multiple publication on a simple research study: Doesn't it pay? The influence of number of research articles on total citation counts in Biomedicine . Journal of the American Society for Information Science and Technology , 58 ( 8 ), 1100 – 1107 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(308K)
+        References
+        Web of Science® Times Cited: 9
+    Bornmann, L. , Mutz, R. , & Daniel, H.-D. ( 2009 ). Do we need the h index and its variants in addition to standard bibliometric measures ? Journal of the American Society for Information Science and Technology , 60 ( 6 ), 1286 – 1289 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(64K)
+        References
+        Web of Science® Times Cited: 4
+    Bornmann, L. , Wallon, G. , & Ledin, A. ( 2008 ). Does the committee peer review select the best applicants for funding? An investigation of the selection process for two European molecular biology organization programmes . PLoS ONE , 3 ( 10 ), e3480.
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 5 ,
+        ADS
+    Buela-Casal, G. ( 2007 ). Comparative study of international academic rankings of universities . Scientometrics , 71 ( 3 ), 349 – 365 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 13
+    Butler, D. ( 2007 ). Academics strike back at spurious rankings . Nature , 447 ( 31 ), 514 – 515 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 2 ,
+        ADS
+    Cañibano, C. , Otamendi, J. , & Andújar, I. ( 2008 ). Measuring and assessing researcher mobility from CV analysis: The case of the Ramon y Cajal programme in Spain . Research Evaluation , 17 ( 1 ), 17 – 31 .
+        CrossRef ,
+        Web of Science® Times Cited: 8
+    Carayol, N. , & Matt, M. ( 2004 ). Individual and collective determinants of academic scientists' productivity . Information Economics and Policy , 18 ( 1 ), 55 – 72 .
+        CrossRef ,
+        Web of Science® Times Cited: 7
+    Cole, S. ( 1979 ). Age and scientific performance . American Journal of Sociology , 84 ( 4 ), 958 – 977 .
+        CrossRef ,
+        Web of Science® Times Cited: 127
+    Costas, R. , & Bordons, M. ( 2005 ). Bibliometric indicators at the micro-level: Some results in the area of natural resources at the Spanish CSIC . Research Evaluation , 14 ( 2 ), 110 – 120 .
+        CrossRef ,
+        Web of Science® Times Cited: 11
+    Costas, R. , & Bordons, M. ( 2006 ). Algorithms to solve the lack of normalization in author names in bibliometric studies . Investigacion bibliotecologica , 21 ( 42 ), 13 – 32 .
+        Web of Science® Times Cited: 5
+    Costas, R. , & Bordons, M. ( 2007a ). A classificatory scheme for the analysis of bibliometric profiles at the micro level . In D.Torres-Salinas & H.F.Moed (Eds.), Proceedings of the 11th International Conference of the International Society for Scientometrics and Informetrics (ISSI 2007) (pp. 226 – 230 ). Madrid, Spain : CINDOC-CSIC.
+    Costas, R. , & Bordons, M. ( 2007b ). The h-index: Advantages, limitations and its relation with other bibliometric indicators at the micro-level . Journal of Informetrics , 1 ( 3 ), 193 – 203 .
+        CrossRef ,
+        Web of Science® Times Cited: 26
+    Costas, R. , & Bordons, M. ( 2008 ). Is g-index better than h-index? An exploratory study at the individual level . Scientometrics , 77 ( 2 ), 267 – 288 .
+        CrossRef ,
+        Web of Science® Times Cited: 8
+    Costas, R. , Bordons, M. , & van Leeuwen, Th.N. ( 2010 ). Self-citations at the meso and individual levels: Effects of different calculation methods . Scientometrics , 82 ( 3 ), 517 – 537 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science®
+    Costas, R. , Bordons, M. , van Leeuwen, Th.N. , & van Raan, A.F.J. ( 2009 ). Scaling rules in the scientific system: Influence of field-specific citation characteristics on the impact of individual researchers . Journal of the American Society for Information Science and Technology , 60 ( 4 ), 740 – 753 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(579K)
+        References
+        Web of Science® Times Cited: 3
+    Cronin, B. ( 2001 ). Hyperauthorship: A postmodern perversion on evidence of a structural shift in scholarly communication practices ? Journal of the American Society for Information Science and Technology , 52 ( 7 ), 558 – 569 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(98K)
+        References
+        Web of Science® Times Cited: 40
+    Cronin, B. , & Meho, I. ( 2007 ). Timelines of creativity: A study of intellectual innovators in information science . Journal of the American Society for Information Science and Technology , 58 ( 13 ), 1948 – 1959 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(303K)
+        References
+        Web of Science® Times Cited: 7
+    Cruz-Castro, L. , & Sanz-Menéndez, L. ( 2010 ). Mobility versus job stability: Assessing tenure and productivity outcomes . Research Policy , 39 , 27 – 38 .
+        CrossRef ,
+        Web of Science®
+    De Filippo, D. , Sanz-Casado, E. , & Gòmez, I. ( 2007 ). Impact of the research stays on the scientific output . In D.Torres-Salinas & H.F.Moed (Eds.), Proceedings of the 11th International Conference of the International Society for Scientometrics and Informetrics (ISSI 2007) (pp. 848 – 849 ). Madrid, Spain : CINDOC-CSIC.
+    Dennis, W. ( 1956 ). Age and productivity among scientists . Science , 123 ( 3200 ), 724 – 725 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 48 ,
+        ADS
+    Dietz, J.S. , & Bozeman, B. ( 2005 ). Academic careers, patents, and productivity: Industry experience as scientific and technical human capital . Research Policy , 34 ( 3 ), 349 – 367 .
+        CrossRef ,
+        Web of Science® Times Cited: 37
+    Egghe, L. ( 2006 ). Theory and practise of the g-index . Scientometrics , 69 ( 1 ), 131 – 152 .
+        CrossRef ,
+        Web of Science® Times Cited: 137
+    Falagas, M.E. , Ierodiakonou, V. , & Alexiou, V. ( 2008 ). At what age do biomedical scientists do their best work ? The FASEB Journal , 22 , 1 – 4 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 2
+    Fernández, M.T. , Cabrero, A. , Zulueta, M.A. , & Gómez, I. ( 1993 ). Constructing a relational database for bibliometric analysis . Research Evaluation , 3 ( 1 ), 55 – 62 .
+    Franceschet, M. ( 2009 ). A cluster analysis of scholar and biliometric indicators . Journal of the American Society for Information Science and Technology , 60 ( 10 ), 1950 – 1964 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(140K)
+        References
+        Web of Science® Times Cited: 1
+    García, C.E. , & Sanz-Menéndez, L. ( 2005 ). Competition for funding as an indicator of research competitiveness . Scientometrics , 64 ( 3 ), 271 – 300 .
+        CrossRef ,
+        Web of Science® Times Cited: 5
+    Garfield, E. ( 1955 ). Citation indexes to science: A new dimension in documentation through association of ideas . Science , 122 , 108 – 111 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 460 ,
+        ADS
+    Garfield, E. ( 2003 ). The meaning of impact factor . International Journal of Clinical and Health Psychology , 3 ( 2 ), 363 – 369 .
+    Gingras, Y. , Larivière, V. , Macaluso, B. , & Robitaille, J.-P. ( 2008 ). The effects of aging on researchers' publication and citation patterns . Plos ONE , 3 ( 12 ), e4048 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 3 ,
+        ADS
+    Glänzel, W. , & Schubert, A. ( 2001 ). Double effort=double impact? A critical view at international co-authorship in chemistry . Scientometrics , 50 ( 2 ), 199 – 214 .
+        CrossRef ,
+        Web of Science® Times Cited: 50
+    Gómez, I. , Fernández, M.T. , Bordons, M. , Morillo, F. , & González, E. ( 2003 ). La actividad científica del CSIC a través del Science Citation Index, Social Sciences Citation Index y Arts & Humanities Citation Index . Estudio bibiométrico del periodo 1981–2001 [The scientific activity of the CSIC through the Science Citation Index, Social Sciences Citation Index and Arts & Humanities Citation Index. Bibliometric study of the period 1981–2001] . Madrid, Spain : CINDOC.
+    González-Bambrila, C. , & Veloso, F.M. ( 2007 ). The determinants of research output and impact: A study of Mexican researchers . Research Policy , 36 , 1035 – 1051 .
+        CrossRef ,
+        Web of Science® Times Cited: 7
+    Granadino, B. , Plaza, L.M. , & Vidal, C. ( 2005 ). Analysis of Spanish scientific output following the Joing Action Program (Acciones Integradas) of the Ministry of Science and Technology (MCYT) . Research Evaluation , 14 ( 2 ), 97 – 102 .
+        CrossRef ,
+        Web of Science® Times Cited: 2
+    Hirsch, J.E. ( 2005 ). An index to quantify an individual's scientific research output . Proceedings of the National Academy of Sciences of the United States of America , 102 ( 46 ), 16569 – 16572 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 555 ,
+        ADS
+    Hornbostel, S. , Bohmer, S. , Klinsporn, B. , Neufeld, J. , & von Ins, M. ( 2009 ). Funding of young scientists and scientific excellence . Scientometrics , 79 ( 1 ), 171 – 190 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 1
+    Jensen, P. , Rouquier, J.-B. , & Croissant, Y. ( 2009 ). Testing bibliometric indicators by their prediction of scientists' promotion . Scientometrics , 78 ( 3 ), 467 – 479 .
+        CrossRef ,
+        CAS ,
+        Web of Science®
+    Jonkers, K. , & Tijssen, R. ( 2008 ). Chinese researchers returning home: Impacts on international mobility on research collaboration and scientific productivity . Scientometrics , 77 ( 2 ), 309 – 333 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 5
+    Kempers, R.D. ( 2002 ). Ethical issues in biomedical publications . Fertility and Sterility , 77 ( 5 ), 883 – 888 .
+        CrossRef ,
+        PubMed ,
+        Web of Science® Times Cited: 9
+    King, J. ( 1987 ). A review of bibliometric and other science indicators and their role in research evaluation . Journal of Information Science , 13 , 261 – 276 .
+        CrossRef ,
+        Web of Science® Times Cited: 107
+    Kyvik, S. , & Olsen, T.B. ( 2008 ). Does the ageing of tenured academic staff affect the research performance of universities ? Scientometrics , 76 ( 3 ), 439 – 455 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 2
+    Lee, S. , & Bozeman, B. ( 2005 ). The impact of research collaboration on scientific productivity . Social Studies of Science , 35 ( 5 ), 673 – 702 .
+        CrossRef ,
+        Web of Science® Times Cited: 52
+    Levin, S.G. , & Stephan, P. ( 1989 ). Age and research productivity of academic scientists . Research of Higher Education , 30 ( 5 ), 531 – 549 .
+        CrossRef ,
+        Web of Science® Times Cited: 14
+    Levin, S.G. , & Stephan, P.E. ( 1991 ). Research productivity over the life cycle: Evidence for academic scientists . The American Economic Review , 81 ( 1 ), 114 – 132 .
+        Web of Science® Times Cited: 104
+    Lewison, G. , Cottrel, R. , & Dixon, D. ( 1999 ). Bibliometric indicators to assist the peer review process in grant decisions . Research Evaluation , 8 ( 1 ), 47 – 52 .
+        CrossRef
+    Licea de Arenas, J. , Valles, J. , & Arenas, M. ( 1999 ). Profile of the Mexican health sciences elite: A bibliometric analysis of research performance . Scientometrics , 46 ( 3 ), 539 – 547 .
+        CrossRef
+    Macri, J. , & Sinha, D. ( 2006 ). Rankings methodology for international comparisons of institutions and individuals: An application to economics in Australia and New Zealand . Journal of Economic Surveys , 20 ( 1 ), 111 – 156 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(264K)
+        References
+        Web of Science® Times Cited: 8
+    Martin, B. ( 1978 ). The determinants of scientific behavior . Society for Interdisciplinary Studies Review , 2 ( 4 ), 112 – 118 .
+    Martin, B.R. ( 1996 ). The use of multiple indicators in the assessment of basic research . Scientometrics , 36 ( 3 ), 343 – 362 .
+        CrossRef ,
+        Web of Science® Times Cited: 66
+    Martin, B.R. , & Irvine, J. ( 1983 ). Assessing basic research: Some partial indicators of scientific progress in radio astronomy . Research Policy , 12 , 61 – 90 .
+        CrossRef ,
+        Web of Science® Times Cited: 189
+    Meyer, V.R. ( 2009 ). The h Index—help or hype ? Chimia , 63 ( 1–2 ), 66 – 68 .
+        CrossRef ,
+        CAS ,
+        Web of Science®
+    Nicolini, C. , & Nozza, F. ( 2008 ). Objective assessment of scientific performances world-wide . Scientometrics , 76 ( 3 ), 527 – 541 .
+        CrossRef ,
+        CAS ,
+        Web of Science®
+    Nederhof, A.J. ( 2008 ). Policy impact of bibliometric ranking of research performance of departments and individuals in economics . Scientometrics , 74 ( 1 ), 163 – 174 .
+        CrossRef ,
+        Web of Science® Times Cited: 5
+    Nederhof, A.J. , & van Raan, A.F.J. ( 1987 ). Peer review and bibliometric indicators of scientific performance: A comparison of cum laude doctorates with ordinary doctorates in physics . Scientometrics , 11 ( 5–6 ), 333 – 350 .
+        CrossRef ,
+        Web of Science® Times Cited: 21
+    Prpic, K. ( 1996 ). Characteristics and determinants of eminent scientists' productivity . Scientometrics , 36 ( 2 ), 185 – 206 .
+        CrossRef ,
+        Web of Science® Times Cited: 15
+    Rey-Rocha, J. , Garzón-García, B. , & Martín-Sempere, M.J. ( 2006 ). Scientists' performance and consolidation of research teams in biology and biomedicine at the Spanish Council for Scientific Research . Scientometrics , 62 ( 2 ), 183 – 212 .
+        CrossRef ,
+        Web of Science® Times Cited: 3
+    Rinia, E.J. , van Leeuwen, T.N. , van Vuren, H.G. , & van Raan, A.F.J. ( 1998 ). Comparative analysis of a set of bibliometric indicators and central peer review criteria: Evaluation of condensed matter physics in the Netherlands . Research Policy , 27 , 95 – 107 .
+        CrossRef ,
+        Web of Science® Times Cited: 41
+    Ruíz-Pérez, R. , Delgado López-Cózar, D. , & Jiménez-Contreras, E. ( 2002 ). Spanish personal name variations in national and international biomedical databases: Implications for information retrieval and bibliometric studies . Journal of Medical Library Association , 90 ( 4 ), 411 – 430 .
+    Sandström, U. , & Sandström, E. ( 2009 , July). Meeting the micro-level challenges: Bibliometrics at the individual level . Paper presented at the 12th International Conference on Scientometrics and Informetrics, Rio de Janeiro, Brazil.
+    Sanz-Menéndez, L. ( 2003 ). Coping with researchers' labour market problems through public policy: The Spanish Ramon y Cajal Programme (Working Paper 03-15). Retrieved January 12, 2009, from http://www.iesam.csic.es/doctrab2/dt-0315.pdf
+    Seglen, P.O. ( 1997 ). Why the impact factor of journals should not be used for evaluating research . British Medical Journal , 314 , 498 – 502 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 408
+    Skirbekk, V. ( 2003 ). Age and individual productivity: A literature survey . Rostock, Germany : Max Planck Institute for Demographic Research.
+    Solari, A. , & Magri, M.H. ( 2000 ). A new approach to the SCI Journal Citation Reports , a system for evaluating scientific journals . Scientometrics , 47 ( 3 ), 605 – 625 .
+        CrossRef ,
+        Web of Science® Times Cited: 17
+    Spanish National Research Council (CSIC) . ( 2006 ). Action plan 2006–2009. Madrid: Author. Retrieved February 22, 2010, from http://www.csic.es/documentos/Plan_de_Actuacion_2006-2009_English.pdf
+    Sugimoto, C.R. , Russell, T.G. , Meho, L.I. , & Marchionini, G. ( 2008 ). MPACT and citation impact: Two sides of the same scholarly coin ? Library & Information Science Research , 30 , 273 – 281 .
+        CrossRef ,
+        PubMed ,
+        Web of Science®
+    Tien, F.F. , & Blackburn, R.T. ( 1996 ). Faculty rank system, research motivation, and faculty research productivity . The Journal of Higher Education , 67 ( 1 ), 2 – 22 .
+        CrossRef ,
+        Web of Science® Times Cited: 20
+    Turner, L. , & Mairesse, J. ( 2002 ). Explaining individual productivity differences in public research: How important are non-individual determinants?: An econometric study of French physicists' publications (1986–1997). Cahiers de la MSE, 66. Retrieved January 12, 2009, from ftp://mse.univ-paris1.fr/pub/mse/cahiers2002/V02066.pdf
+    Van Leeuwen, T.N. , Visser, M.S. , Moed, H.F. , Nederhof, T.J. , & van Raan, A.F.J. ( 2003 ). The Holy Grail of science policy: Exploring and combining bibliometrics in search of scientific excellence . Scientometrics , 57 ( 2 ), 257 – 280 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 28
+    Van Raan, A.F.J. ( 1996 ). Advanced bibliometric methods as quantitative core of peer review based evaluation and foresight exercises . Scientometrics , 36 ( 3 ), 397 – 420 .
+        CrossRef
+    Van Raan, A.F.J. ( 2001 ). Competition amongst scientists for publication status: Toward a model for scientific publication and citation distribution . Scientometrics , 51 ( 1 ), 347 – 357 .
+        CrossRef ,
+        Web of Science® Times Cited: 14
+    Van Raan, A.F.J. ( 2004 ). Measuring Science . In H.F.Moed & W.Glänzel (Eds.), Handbook of quantitative science and technology research (pp. 19 – 50 ). Alphen aan den Rijn , the Netherlands : Kluwer.
+    Van Raan, A.F.J. ( 2005 ). Fatal attraction: Conceptual and methodological problems in the ranking of universities by bibliometric methods . Scientometrics , 62 ( 1 ), 133 – 143 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 80
+    Van Raan, A.F.J. ( 2006 ). Comparison of the Hirsch-index with standard bibliometric indicators and with peer judgment of 147 chemistry research groups . Scientometrics , 67 ( 3 ), 491 – 502 .
+        CAS ,
+        Web of Science® Times Cited: 111
+    Van Raan, A.F.J. ( 2008 ). Scaling rules in the science system: Influence of field-specific citation characteristics on the impact of research groups . Journal of the American Society for Information Science and Technology , 59 ( 4 ), 565 – 576 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(577K)
+        References
+        Web of Science® Times Cited: 7
+    Vinkler, P. ( 2007 ). Eminence of scientists in the light of the h-index and other scientometric indicators . Journal of Information Science , 33 ( 4 ), 481 – 491 .
+        CrossRef ,
+        Web of Science® Times Cited: 26
+    Weingart, P. ( 2005 ). Impact of bibliometrics upon the science system: Inadvertent consequences ? Scientometrics , 62 ( 1 ), 117 – 131 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 47
+    Wooding, S. , Wilcox-Jay, K , Lewison, G. , & Grant, J. ( 2006 ). Co-author inclusion: A novel recursive algorithmic method for dealing with homonyms in bibliometric analysis . Scientometrics , 66 ( 1 ), 11 – 21 .
+        CrossRef ,
+        Web of Science® Times Cited: 1
+    Zubieta, A.F. ( 2009 ). Recognition and weak ties: Is there a positive effect of postdoctoral position on academic performance and careers development ? Research Evaluation , 18 ( 2 ), 105 – 115 .
+        CrossRef ,
+        Web of Science®
+
+Appendix: Research performance of scientists by scientific class and area
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+    Appendix: Research performance of scientists by scientific class and area
+
+ 
+Table  .  Class 	P 	C 	h-index 	% HCP 	CPP 	CPP/FCSm 	IF med 	NJP 	JCSm/FCSm
+
+    Note. P =number of publications; C =citations; HCP =Highly cited papers; CPP =citations per publication; FCSm =field citation score mean; IF med =median impact factor; NJP =normalized journal position; JCSm =journal citation score mean; N =number of scientists. Data expressed as M ± SD Mdn.
+
+Natural Resources 	  	  	  	  	  	  	  	  	 
+Top 	39.35±25.07 	580.89±421.64 	13.39±4.42 	35.84±11.41 	13.18±6.09 	1.44±0.50 	1.836±0.616 	0.77±0.06 	1.34±0.32
+( N =66) 	35 	511.5 	13 	33.33 	11.6 	1.28 	1.727 	0.77 	1.3
+Medium 	26.12±15.95 	210.71±144.91 	8.12±2.88 	18.26±11.89 	7.04±3.16 	0.91±0.44 	1.257±0.375 	0.66±0.09 	1.01±0.27
+( N =191) 	24 	174 	8 	16.47 	6.48 	0.83 	1.18 	0.67 	0.99
+Low 	9.24±10.12 	38±42.01 	3.14±2.02 	17.83±24.43 	3.12±3.13 	0.41±0.30 	0.787±0.31 	0.49±0.15 	0.66±0.28
+( N =92) 	6 	21 	3 	7.18 	2.63 	0.37 	0.756 	0.5 	0.67
+Total 	24.17±19.69 	242.21±282.32 	8.03±4.55 	22.59±15.11 	7.31±5.11 	0.89±0.54 	1.273±0.541 	0.64±0.14 	0.99±0.36
+( N =349) 	21 	163 	8 	19.84 	6.63 	0.83 	1.181 	0.67 	0.98
+Biology & Biomedicine 	  	  	  	  	  	  	  	  	 
+Top 	31.24±19.77 	1224.34±823.77 	15.81±5.57 	43±13.95 	41.43±23.81 	2.32±1.16 	74±2.194 	0.87±0.04 	2.03±0.53
+( N =70) 	25 	993.5 	14 	42.71 	35.8 	2.08 	6.95 	0.88 	1.93
+Medium 	35.14±24.59 	620.44±464.82 	12.59±5.04 	21.58±11.21 	16.93±8.55 	1.09±0.52 	4.541±1.848 	0.82±0.06 	1.4±0.39
+( N =231) 	29 	482 	12 	19.35 	14.8 	0.99 	4.136 	0.82 	1.36
+Low 	18.2±17.56 	154.69±195.58 	6.38±3.26 	9.37±4.92 	6.31±3.46 	0.45±0.30 	2.88±1.224 	0.69±0.13 	0.86±0.32
+( N =87) 	15 	115 	6 	8.01 	5.85 	0.38 	2.76 	0.7 	0.82
+Total 	30.64±23.33 	627.4±610.89 	11.82±5.73 	24.97±15.21 	19.03±16.66 	1.17±0.89 	4.645±2.223 	0.8±0.1 	1.39±0.55
+( N =388) 	25 	466.5 	11 	21.37 	14.21 	0.97 	4.116 	0.82 	1.34
+Materials Science 	  	  	  	  	  	  	  	  	 
+Top 	72.1±44.5 	1006.01±675.18 	16±4.86 	34.52±8.18 	12.72±6.68 	1.96±1.16 	2.377±0.598 	0.8±0.05 	1.57±0.29
+( N =70) 	56.5 	764.5 	15 	33.33 	10.33 	1.49 	2.421 	0.81 	1.56
+Medium 	51.26±35.72 	336.01±304.08 	9.6±3.31 	17.82±7.59 	5.32±2.29 	0.87±0.37 	1.461±0.551 	0.73±0.07 	1.18±0.29
+( N =174) 	43 	277 	9 	16.77 	4.8 	0.80 	1.407 	0.73 	1.18
+Low 	20.17±16.93 	81.11±66.09 	4.66±2.01 	7.55±4.67 	2.37±1.33 	0.48±0.29 	1.037±0.711 	0.63±0.16 	0.88±0.37
+( N =83) 	17 	74 	5 	6.67 	2.3 	0.44 	0.881 	0.63 	0.82
+Total 	47.83±38.68 	427.44±508.4 	9.96±5.16 	20.22±11.51 	6.3±5.13 	1.02±0.82 	1.576±0.756 	0.72±0.11 	1.2±0.39
+( N =327) 	40 	261 	9 	18.68 	4.89 	0.84 	1.444 	0.74 	1.21
+Get PDF (11131K)
+More content like this
+Find more content:
+
+    like this article
+
+Find more content written by:
+
+    Rodrigo Costas
+    Thed N. van Leeuwen
+    María Bordons
+    All Authors
+
+    Publications
+    Browse by Subject
+    Resources
+
+    About Us
+    Help
+    Contact Us
+    Agents
+    Advertisers
+    Media
+    Privacy
+    Cookies
+    Terms & Conditions
+    Site Map
+
+Copyright © 1999-2014 John Wiley & Sons, Inc. All Rights Reserved.
+
+    About Wiley
+    Wiley.com
+    Wiley Job Network
+    Wiley
+

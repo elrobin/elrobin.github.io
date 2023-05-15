@@ -1,0 +1,188 @@
+Screen reader users, click here to load entire article This page uses JavaScript to progressively load the article content as a user scrolls. Screen reader users, click the load entire article button to bypass dynamically loaded article content.
+ScienceDirect will be phasing out support for Internet Explorer 7. Click here to upgrade to a higher version. Close
+ 
+
+    Register
+    Login Login
+
+OpenAthens login
+Login via your institution
+Other institution login
+Remote access activation
+Click here to activate
+Login using your ScienceDirect credentials
+Username:
+Password:
+Remember me
+| Not Registered?
+Forgotten username or password?
+
+    Home
+    Publications
+    Search
+    My settings
+    My alerts
+
+    Help
+
+    Download PDF
+    Export citation
+    More options...
+            eReader format   What's this?
+              ePub
+              Mobipocket
+        Email article
+        Signed up for  [ remove ]
+        Alert me about new volumes of this
+        Failure
+        Your selection(s) could not be saved due to an internal error. Please try again.
+        Show thumbnail images
+
+Search
+Articles Articles 	    All fields 		    Author 					Advanced search
+Images Images 	    Journal/Book title 		    Volume 		  Issue 		  Page 			Search tips
+Show thumbnails in outline
+Alert message
+JavaScript is disabled on your browser.
+Please enable JavaScript to use all the features on this page.
+
+    Abstract
+    Keywords
+    1. Introduction
+    2. Conceptualization and objectives
+    2.1. Conceptualization
+    Table 1
+    2.2. Objectives of the study and structure of the paper
+    3. Materials and methods
+    3.1. Download from catalogs and creation of an off-line database
+    3.2. Indicators
+    3.2.1. Number of titles (NT)
+    3.2.2. Catalog inclusions (CI)
+    3.2.3. Catalog inclusion rate (CIR)
+    3.2.4. Relative Catalog Inclusion Rate (RCIR)
+    3.2.5. Diffusion rate (DR)
+    4. Results
+    4.1. General database description
+    Table 2
+    Table 3
+    Table 4
+    4.2. Distribution of book titles among catalogs
+    Table 5
+    Table 6
+    4.3. Publication language, number of authors per title, and number of edited works
+    Table 7
+    Table 8
+    4.4. Thematic mapping using co-word analysis
+    4.5. Publisher performance
+    Table 9
+    4.6. National performance
+    Table 10
+    Table 11
+    Table 12
+    4.7. Institutional performance
+    Table 13
+    Table 14
+    Table 15
+    5. Discussion and conclusions
+    Acknowledgements
+    References
+
+JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page.
+
+Journal of Informetrics
+
+Volume 3, Issue 1 , January 2009, Pages 9–26
+Cover image Cover image
+Library Catalog Analysis as a tool in studies of social sciences and humanities: An exploratory study of published book titles in Economics
+
+    Daniel Torres-Salinas a , E-mail the corresponding author E-mail the corresponding author ,
+    Henk F. Moed b , Corresponding author contact information Corresponding author contact information , E-mail the corresponding author E-mail the corresponding author
+
+    a Evaluación de la Ciencia y de la Comunicación Científica, Centro de Investigación Médica Aplicada, Universidad de Navarra, Pamplona, Spain
+    b Centre for Science and Technology Studies (CWTS), Leiden University, The Netherlands
+
+    Received 1 August 2008
+    Accepted 22 October 2008
+    Available online 30 December 2008
+
+Abstract
+
+This paper explores the use of Library Catalog Analysis (LCA), defined as the application of bibliometric or informetric techniques to a set of library online catalogs, to describe quantitatively a scientific-scholarly field on the basis of published book titles. It focuses on its value as a tool in studies of Social Sciences and Humanities, especially its cognitive structures, main book publishers and the research performance of its actors. The paper proposes an analogy model between traditional citation analysis of journal articles and Library Catalog Analysis of book titles. It presents the outcomes of an exploratory study of book titles in Economics included in 42 academic library catalogs from 7 countries. It describes the process of data collection and cleaning, and applies a series of indicators and thematic mapping techniques. It illustrates how LCA can be fruitfully used to assess book production and research performance at the level of an individual researcher, a research department, an entire country and a book publisher. It discusses a number of issues that should be addressed in follow-up studies and concludes that LCA of published book titles can be developed into a powerful and useful tool in studies of Social Sciences and Humanities.
+Keywords
+
+    Library catalogs ;
+    Scientific-scholarly books ;
+    Social sciences and humanities ;
+    Book publishers ;
+    Bibliometric indicators ;
+    Economics
+
+1. Introduction
+
+Over the years bibliometrics has proven to be a valid tool in the study of scientific disciplines, especially in Natural and Life Sciences. However the bibliometric methodology, based on counting publications in scientific journals covered by Thomson Scientific's Web of Science and the citations they received has not been effective in many parts of Social Sciences and Humanities. The main reason is that these domains of human scholarship have a series of characteristics and practices that make them different from other research disciplines. Moed (2005) has presented evidence that the coverage of the Web of Science is moderate in sociology, political science, anthropology and educational sciences, and particularly in humanities. A principal cause of this moderate coverage is the importance of sources other than international journals, especially books. Moreover, language or national barriers play a much greater role than they do in other domains of science and scholarship. In addition, research activities may be fragmented into distinct schools of thought, each with their own ‘paradigms’. He concluded that it would be a great challenge to systematically explore alternative data sources and methodologies for research performance assessments in social sciences and humanities.
+
+Van Leeuwen also concluded that the level of reliability and validity of Web of Science based indicators in these areas is low ( Van Leeuwen, 2006 ). Other authors underline the important role of the national orientation of the research ( Hicks, 1999 ) and differences in citation practices ( Glanzel & Schoepflin, 1999 ). Several citation studies confirm the important role of books in the communication of research findings in Social Sciences and Humanities (e.g., Wolfe Thompson, 2002 ). Books tend to be more frequently cited than papers in scientific journals, although there are significant differences across disciplines, for instance between Philosophy and the Sociology ( Lindhom-Romantschuk &Warner, 1996 ). A review of six studies on various disciplines in Social Science and Humanities conducted by Hicks (1999) concluded that the average numbers of citations received by the books were always higher than those obtained by other types of scientific publications.
+
+The outcomes of these studies reflect a dual situation. On the one hand they stress the importance of books as media of scientific communication, but on the other hand their assessments were mainly based upon an analysis of citations collected from scientific journals. Another fundamental difference between studies of the role of books as compared to that of scientific journals is that the former tend to be based upon collections of books published by individual scholars in universities ( Villagrá Rubio, 1992 ), small research units ( Cherchye & Vanden Abeele, 2005 ) or small disciplines ( Lewison, 2001 ). There are no studies covering the production of books at the macro level.
+
+Bibliometric studies of books are mainly small scale studies because no databases are readily available that allow a systematic, computerised analysis of large sets of books. Although one can find products such as those developed on a commercial basis by Bowker and databases developed by national agencies such as the ISBN database books published in Spain , these information sources have several severe limitations from a bibliometric point of view. Their primary purpose is to provide information about books for sale; they do not distinguish between scientific and popular books; their interfaces are not ready for downloading records; and they do not give useful information about the affiliations of the publishing authors.
+
+But other bibliographic information sources are available as well. A most important group is formed by virtual library catalogs or OPACS ( Online Public Access Catalogs ). Since the assimilation of the Z39.50 protocol (further explained in Section 3.1 ) catalogs complying with this protocol have been combined to become large databases with millions of records. The most obvious example of this trend is WorldCat , a global online network of library catalogs created by the Online Computer Library Center (OCLC). It is no surprise that research on OPACs and library collections constitutes one of the traditional research fronts in Library Science. These studies have been conducted from multiple perspectives, including that of information retrieval and transactional log analysis. But perhaps the world of bibliometrics is more familiar with the use of citation analysis for the development and optimization of academic library collections ( Edward, 1999 , Pancheshnikov, 2007  and  Swygart-Hobaugh, 2004 ).
+
+Although the latter research topic marks a common point of interest between Library Science (especially the study of library collections) and bibliometrics (especially citation analysis), the exchange of knowledge and research techniques between these two research areas has been rather unidirectional. To the best of our knowledge, bibliometric researchers have never used at a large scale scientific-scholarly library collections in the study of scientific-scholarly development, structure and performance.
+2. Conceptualization and objectives
+2.1. Conceptualization
+
+Price (1970) conjectured that if a research paper is the expression of one or more persons working at a research front, the papers they produced would be able to provide insight into their research activities and their ties at the time of publication. This premise can be extended to university libraries catalogs in the following way. According to Calhoun (2006) the main mission of library catalogs is to advance the state of knowledge within a library community, and the university library online catalogs reflect a portion of the universe of scholarly information ( Calhoun, 2006 ). While national and international subject bibliographies provide insight into the entire spectrum of what is published, academic library catalogs inform in the first place on the presence of book titles in academic libraries, and therefore primarily reflect the consumption in the academic community rather than the production of book titles.
+
+The base assumptions underlying the approach proposed in this paper is that the inclusion of a book in academic libraries is an expression of its utility for the academic community, and therefore that an academic library catalog may provide insight into the state of the scientific-scholarly community at a particular time. The larger a collection, the better it approximates a bibliography of a discipline. Combining a number of well selected, specialized library catalogs one may obtain an approximate representation of the production and consumption of information within this discipline. Since the information recorded in the catalogs is adapted to a large number of standards (e.g., Anglo-American Cataloguing Rules , Library of Congress Subject Headings ), one can use the same tools and methods as those applied by bibliometricians to analyse large databases of library catalogs. One could speak of a new type of bibliometric analysis: Library Catalog Analysis (LCA).
+
+LCA can be defined as the application of bibliometric techniques to a set of library online catalogs. In this paper LCA is used to describe quantitatively a scientific-scholarly discipline and its actors, on the basis of an analysis of published book titles. Linmans (2008) explored the use of WorldCat in an assessment of book titles published by Humanities scholars at Leiden University. The current study further develops and extends this approach. Table 1 establishes an analogy between traditional citation analysis of journal articles and Library Catalog Analysis of book titles.
+Elsevier homepage (opens in a new window)
+
+    About ScienceDirect
+
+    About Elsevier
+
+    Contact and support
+
+    Information for advertisers
+
+    Terms and conditions
+
+    Privacy policy
+
+Copyright © 2014 Elsevier B.V. except certain content provided by third parties. ScienceDirect® is a registered trademark of Elsevier B.V.
+Cookies are used by this site. To decline or learn more, visit our Cookies page
+
+    http://dx.doi.org/10.1016/j.joi.2008.10.002 
+    Get rights and content 
+
+Bibliographic information
+Citing and recommended articles
+Recommended articles
+
+    No articles found.
+
+Cited by ( )
+
+    This article has not been cited.
+
+Related reference work articles
+
+    No articles found.
+
+Applications and tools
+
+Workspace
+
+No content has been selected.
+Close
+ScienceDirect article suggestions
+ScienceDirect
+
+    Recommended articles
+
+People who downloaded this article also downloaded these articles. Learn more
+Do not show again
+

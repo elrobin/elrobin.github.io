@@ -1,0 +1,1600 @@
+
+We use cookies to enhance your experience on our website.By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. Find out more Skip to Main Content
+Oxford University Press
+
+    Search
+    Account Menu
+    Menu
+    Universidad de Granada - Historia de las Ciencias
+        Universidad de Granada - Historia de las Ciencias
+    elrobinster@gmail.com
+
+Navbar Search Filter This issue All Research Evaluation All Journals Mobile Microsite Search Term
+
+    elrobinster@gmail.com
+    Universidad de Granada - Historia de las Ciencias
+        Universidad de Granada - Historia de las Ciencias
+
+    Issues
+    Advance articles
+    Submit
+        Author Guidelines
+        Submission Site
+        Open Access
+    Purchase
+    Alerts
+    About
+        About Research Evaluation
+        Editorial Board
+        Advertising and Corporate Services
+        Journals Career Network
+        Policies
+        Self-Archiving Policy
+        Dispatch Dates
+
+Research Evaluation
+
+    Issues
+    Advance articles
+    Submit
+        Author Guidelines
+        Submission Site
+        Open Access
+    Purchase
+    Alerts
+    About
+        About Research Evaluation
+        Editorial Board
+        Advertising and Corporate Services
+        Journals Career Network
+        Policies
+        Self-Archiving Policy
+        Dispatch Dates
+
+Close
+search filter This issue All Research Evaluation All Journals search input
+Advanced Search
+Article Navigation
+Close mobile search navigation
+Article Navigation
+Issue Cover
+Volume 28
+Issue 3
+July 2019
+Article Contents
+
+    Abstract
+    1. Introduction
+    2. Literature review
+    3. Materials and methods
+    4. Results
+    5. Discussion and policy implications
+    6. Concluding remarks
+    Acknowledgements
+    References
+
+    < Previous
+    Next >
+
+Article Navigation
+Mining university rankings: Publication output and citation impact as their basis
+Nicolas Robinson-Garcia
+INGENIO (CSIC-UPV), Universitat Politècnica de València, Camí de Vera s/n, Valencia, Spain
+School of Public Policy, Georgia Institute of Technology, 685 Cherry Street, Atlanta, GA, USA
+Corresponding author. Email: elrobinster@gmail.com
+  http://orcid.org/0000-0002-0585-7359
+Search for other works by this author on:
+Oxford Academic
+Google Scholar
+Nicolas Robinson-Garcia ,
+Daniel Torres-Salinas
+University of Granada (EC3metrics & Medialab UGR), Gran Vía 48, Granada, Spain
+Search for other works by this author on:
+Oxford Academic
+Google Scholar
+Daniel Torres-Salinas ,
+Enrique Herrera-Viedma
+Department of Computer Science and Artificial Intelligence, University of Granada, Gran Vía 48, Granada, Spain
+Search for other works by this author on:
+Oxford Academic
+Google Scholar
+Enrique Herrera-Viedma ,
+Domingo Docampo
+atlanTTic Research Center for Communications, University of Vigo, E Vigo, Spain
+Search for other works by this author on:
+Oxford Academic
+Google Scholar
+Domingo Docampo
+Research Evaluation , Volume 28, Issue 3, July 2019, Pages 232–240, https://doi.org/10.1093/reseval/rvz014
+Published:
+20 June 2019
+
+    pdf PDF
+    Split View
+    Views
+        Article contents
+        Figures & tables
+    Cite
+    Citation
+
+    Nicolas Robinson-Garcia, Daniel Torres-Salinas, Enrique Herrera-Viedma, Domingo Docampo, Mining university rankings: Publication output and citation impact as their basis, Research Evaluation , Volume 28, Issue 3, July 2019, Pages 232–240, https://doi.org/10.1093/reseval/rvz014
+
+    Download citation file:
+        Ris (Zotero)
+        EndNote
+        BibTex
+        Medlars
+        ProCite
+        RefWorks
+        Reference Manager
+
+    © 2019 Oxford University Press
+    Close
+    Permissions Icon Permissions
+    Share
+        Email
+        Twitter
+        Facebook
+        More
+
+Navbar Search Filter This issue All Research Evaluation All Journals Mobile Microsite Search Term
+
+    elrobinster@gmail.com
+    Universidad de Granada - Historia de las Ciencias
+        Universidad de Granada - Historia de las Ciencias
+
+Close
+search filter This issue All Research Evaluation All Journals search input
+Advanced Search
+Abstract
+
+World university rankings have become well-established tools that students, university managers, and policy makers read and use. Each ranking claims to have a unique methodology capable of measuring the ‘quality’ of universities. The purpose of this article is to analyze to which extent these different rankings measure the same phenomenon and what it is that they are measuring. For this, we selected a total of seven world university rankings and performed a principal component analysis. After ensuring that despite their methodological differences, they all come together to a single component; we hypothesized that bibliometric indicators could explain what is being measured. Our analyses show that ranking scores from whichever of the seven league tables under study can be explained by the number of publications and citations received by the institution. We conclude by discussing policy implications and opportunities on how a nuanced and responsible use of rankings can help decision-making at the institutional level
+1. Introduction
+
+More than a decade has gone by since the launch of the Shanghai Ranking in 2003. Nowadays, world university rankings are well-established tools that students, university managers, researchers, and policy makers read and use ( Hazelkorn 2008 ). Despite a general consensus within the bibliometric community with regard to their limitations and simplistic view of the global higher education system ( Van Raan 2005 ; Billaut et al. 2009 ; Rauhvargers 2014 ), world university rankings have succeeded mainly because they help to navigate the complex landscape of worldwide higher education. Such is their success that international classifications have become a market niche. In fact, the main bibliometric data producers, Elsevier (Scopus) and Clarivate Analytics (Web of Science), have partnered with the main world rankings to provide the raw data for their indicators ( Robinson-Garcia and Jiménez-Contreras 2017 ).
+
+Each ranking employs its own methodology and indicators. For instance, the Leiden Ranking ( Waltman et al. 2012 ) focuses only on research performance and only uses scientific production data. The Shanghai Ranking introduces as well as publication and citation data, variables related to the number of Nobel Prizes or full-time equivalent staff ( Liu and Cheng 2005 ). The Times Higher Education (THE) World Universities Ranking includes staff-student ratios and a reputational survey within its variables ( Bookstein et al. 2010 ). Still, all rankings render similar results, evidencing some level of agreement as to what they are measuring ( Aguillo et al. 2010 ). In this article, we question what university rankings are measuring, if measuring anything at all. We investigate what really lies behind the forest of university rankings, which does not allow policy makers to see what is fundamental to make decisions. Specifically, we compare the results gathered through the use of a few well-known bibliometric indicators with those offered by world university rankings and hypothesize that the weight given by all rankings to publication output and citation impact tends to overrule other methodological choices.
+
+This article is structured as follows. Section 2 reviews previous literature on university rankings. We divide our review into two parts: one focused on methodological aspects and a second one focused on how they are used in university management. Section 3 describes the materials and methods used in our investigation. Next, we present the statistical results obtained after a series of principal component analyses have been carried out on the dataset. In Section 5, we discuss our findings and their policy implications. Finally, we discuss our main conclusions.
+2. Literature review
+
+The demand for university rankings responds to two phenomena. First, the development of so-called New Public Management in higher education, especially through the 1980s and 1990s ( De Boer et al. 2007 ) has created the demand for building quantitative tools and indicators to help policymakers and university managers to make informed decisions. Added to this phenomenon, the globalization of the higher education market has led countries and universities, not only to monitor and assess their own performance, but also to compete with other higher education models and institutions worldwide ( Hazelkorn 2011 ). Rankings producers have been quick in grasping the opportunity of fulfilling the need for analytical tools. As a result, they have positioned rankings as a comprehensive method to enable meaningful comparisons among international academic institutions and national higher education systems. At a first stage, the rise of world rankings led to discussions about methodological choices and the criteria employed at assessing universities ( Van Raan 2005 ) derived from the difficulty of comparing such heterogeneous institutions ( Collini 2012 ). At the same time, rankings were seen as black boxes ( Florian 2007 ; Mutz and Daniel 2015 ) which needed to be deciphered ( Docampo 2013 ) and explained ( Waltman et al. 2012 ).
+2.1 Methodological aspects
+
+Bibliometricians have focused their efforts on developing advanced and nuanced methodologies to assess and benchmark the research performance of universities, but have failed in developing an intuitively, easy to interpret tool. However, simplicity does not come without a cost; hence, much of the literature regarding rankings has focused on the limitations of rankings to help in making informed decisions. Let us briefly discuss the main limitations identified in the literature. First of all, there are inherent methodological issues on the data collection process which cannot be solved through a top-down approach ( Van Raan 2005 ; Waltman et al. 2012 ). Second, rankings fully or partially based on bibliometric data introduce a disciplinary bias which benefits certain institutions ( Calero-Medina et al. 2008 ), a bias that cannot be fully overcome by developing rankings by fields and disciplines ( Robinson-Garcia and Calero-Medina 2014 ). Institutional size and country location also affect the rank of institutions ( Frenken et al. 2017 ). Most importantly, rankings consider universities as homogeneous entities which follow the same objectives and are therefore, comparable ( Collini 2012 ). What is more, the allocation of resources by each national system influences the pertinence of the variables used to assess universities, increasing the complexity of the task ( Docampo and Cram 2017 ).
+
+A more pragmatic path is that adopted by a second stream of literature focused on developing a nuanced understanding on how to interpret university rankings. By acknowledging the inevitability of preventing university managers from using rankings, these studies focus their efforts on analyzing underlying factors behind the positioning of universities. In this case, studies tend to either be ranking-specific (e.g. Bornmann et al. 2013 ; Docampo and Cram 2015 ; Mutz and Daniel 2015 ; Frenken et al. 2017 ) or compare a set of rankings to identify discrepancies and common elements between them ( Safón 2013 ; Moed 2017a ). These studies have found that country differences explain in many cases the scores achieved by universities, even beyond university differences ( Bornmann et al. 2013 ), with rankings being geographically biased toward different regions ( Moed 2017a ). The influence of English-speaking countries is especially noticeable in the THE Ranking ( Moed 2017a ). On the other hand, Academic Ranking of World Universities (ARWU) is strongly biased toward US universities ( Safón 2013 ). Furthermore, institutional size, geographical characteristics such as cities’ size, research orientation, or annual income, influence greatly universities’ research performance in league tables ( Safón 2013 ; Frenken et al. 2017 ).
+
+A critical aspect has to do with discrepancies in scores and positioning found between rankings ( Olcay and Bulu 2017 ; Moed 2017a ) and whether these differences respond to measures of different aspects or prove the ineffectiveness of rankings. These studies point toward the central question of this study, which brings in a large set of university rankings to better understand the specific weight bibliometric indicators have on the final scores provided by rankings.
+2.2 The use of rankings in university management
+
+Rankings’ limitations have not prevented university managers and science policy makers from employing university rankings in their daily practice. In fact, more than 90% of university managers want to improve their position in national and international rankings ( Hazelkorn 2008 : 196). They see these tools as a means to improve the public image of the institution, students’ recruitment, and attraction of talent. What is more, they introduce institutional policies directed at improving their position ( Hazelkorn 2008 ). Other times, national governments may introduce formulas to improve the positioning of their institutions or use them in their political discourse as a mention of pride or critique ( Salmi and Saroyan 2007 ). Rankings produce a reaction to the different stakeholders of the higher education system introducing external pressures which make them impossible to ignore ( Sauder and Espeland 2009 ).
+
+The use of rankings as a means to set strategic goals has also led to arguable practices such as the suggestion of merging institutions as a way to improve the overall position of the resulting university. Such practices are rooted in the undisputable effect size bears on ranking tables ( Zitt and Filliatreau 2007 ; Docampo and Cram 2015 ). An example of this is the case of France, in which the so-called ‘Initiatives d’excellence’, has pushed toward institutional mergers to increase the international visibility of the French higher education system ( Docampo et al. 2015 ). There is a rationale for merging institutions, such as reuniting the pieces of what was formerly a single institution (as the four projects in Paris are trying to accomplish with the heirs of ‘Université de Paris’). Still, rankings should not, by and large, be a decisive factor, not only on the grounds that they may result in just a moderate improvement of the merging institutions, but also mainly because mergers per se do not necessarily guarantee better research performance ( Moed et al. 2011 ).
+
+On the other hand, a responsible use of these tools can lead to positive changes and strategies at the institutional and national level ( Dill and Soo 2005 ). World university rankings facilitate useful and enlightening comparisons among national higher education systems ( Docampo 2011 ), while providing a solid ground to analyze different models of governance ( Aghion et al. 2010 ) or gain a proper insight into perceptions of reputation and prestige ( Moed 2017a ).
+3. Materials and methods
+3.1 Data
+
+This study analyzes a number of world university rankings and compares them through the use of well-known bibliometric indicators of widespread use. The selection of rankings was determined based on two criteria so that the study was methodologically viable. First, rankings should encompass the global higher education landscape; hence all national rankings were discarded. Second, rankings should offer a composite indicator to classify institutions. The Leiden Ranking was therefore discarded, as it does not offer or propose an indicator by which universities should be ranked but rather offers a battery of indicators that can be used by the reader to establish comparisons. Also, the Quacquarelli Symonds (QS) Top World Universities Rankings were disregarded since they do not offer complete information on all the scores universities receive. The same reasoning applied to the SCImago Institutions Rankings, which were also excluded. Table 1 includes a list of the rankings analyzed in this article, along with a link to their website, the weight bibliometric indicators have on the final score used to rank institutions, and the database used to extract publication and citation data.
+Table 1.
+
+General overview of selected rankings based on their 2016 edition
+Ranking  	Website  	Weight of bibliometric indicators (%)  	Bibliometric data source 
+Shanghai Ranking  	http://shanghairanking.com   	60  	Web of Science 
+THE World University Rankings  	https://www.timeshighereducation.com/world-university-rankings/   	38.5  	Scopus 
+US News Best Global Universities  	https://www.usnews.com/education/best-global-universities/rankings   	75  	Web of Science 
+NTU  	http://nturanking.lis.ntu.edu.tw/   	100  	Web of Science 
+CWUR Rankings  	http://cwur.org/   	20  	Web of Science 
+URAP  	http://www.urapcenter.org/2017/   	100  	Web of Science 
+Round University Rankings  	http://roundranking.com/   	26  	Web of Science 
+Ranking  	Website  	Weight of bibliometric indicators (%)  	Bibliometric data source 
+Shanghai Ranking  	http://shanghairanking.com   	60  	Web of Science 
+THE World University Rankings  	https://www.timeshighereducation.com/world-university-rankings/   	38.5  	Scopus 
+US News Best Global Universities  	https://www.usnews.com/education/best-global-universities/rankings   	75  	Web of Science 
+NTU  	http://nturanking.lis.ntu.edu.tw/   	100  	Web of Science 
+CWUR Rankings  	http://cwur.org/   	20  	Web of Science 
+URAP  	http://www.urapcenter.org/2017/   	100  	Web of Science 
+Round University Rankings  	http://roundranking.com/   	26  	Web of Science 
+
+NTU: National Taiwan University.
+View Large
+Table 1.
+
+General overview of selected rankings based on their 2016 edition
+Ranking  	Website  	Weight of bibliometric indicators (%)  	Bibliometric data source 
+Shanghai Ranking  	http://shanghairanking.com   	60  	Web of Science 
+THE World University Rankings  	https://www.timeshighereducation.com/world-university-rankings/   	38.5  	Scopus 
+US News Best Global Universities  	https://www.usnews.com/education/best-global-universities/rankings   	75  	Web of Science 
+NTU  	http://nturanking.lis.ntu.edu.tw/   	100  	Web of Science 
+CWUR Rankings  	http://cwur.org/   	20  	Web of Science 
+URAP  	http://www.urapcenter.org/2017/   	100  	Web of Science 
+Round University Rankings  	http://roundranking.com/   	26  	Web of Science 
+Ranking  	Website  	Weight of bibliometric indicators (%)  	Bibliometric data source 
+Shanghai Ranking  	http://shanghairanking.com   	60  	Web of Science 
+THE World University Rankings  	https://www.timeshighereducation.com/world-university-rankings/   	38.5  	Scopus 
+US News Best Global Universities  	https://www.usnews.com/education/best-global-universities/rankings   	75  	Web of Science 
+NTU  	http://nturanking.lis.ntu.edu.tw/   	100  	Web of Science 
+CWUR Rankings  	http://cwur.org/   	20  	Web of Science 
+URAP  	http://www.urapcenter.org/2017/   	100  	Web of Science 
+Round University Rankings  	http://roundranking.com/   	26  	Web of Science 
+
+NTU: National Taiwan University.
+View Large
+3.2 Description of selected rankings
+
+Next, we briefly describe the set of rankings selected for our analysis as well as the main methodological differences observed between them. The Shanghai Ranking and the THE World University Rankings (THE Rankings hereafter) are among the first world rankings ever established ( Aguillo et al. 2010 ), launched in 2003 and 2004, respectively, and are widely known and used. While the former combines bibliometric indicators with Nobel prizes, Field Medals, and institutional census data, the THE Rankings are widely known for combining survey data with publication, economic, and institutional census data. The US News Best Global Universities league tables are more recent (2014) although they are developed by the US News & World Report, a reputed company on the elaboration of university rankings. US News & World Report is mostly known for publishing annually since 1983 the America’s Best Colleges report with league tables for US higher education institutions. In this case, reputational data from surveys is also retrieved and combined along with bibliometric data. The National Taiwan University (NTU) Ranking, also known as the Performance Ranking of Scientific Papers for World Universities, is developed by the National Taiwan University and released since 2007. This ranking uses uniquely bibliometric data.
+
+CWUR Rankings stands for Center for World University Rankings. This center, currently headquartered in the United Arab Emirates, launched its first edition in 2010. This ranking uses similar criteria to those employed by the Shanghai Ranking. It adds patent publication data, does not include staff data and the weight of bibliometric data is ostensibly lower. Along with the NTU Rankings, URAP (University Ranking by Academic Performance) is one of the three rankings in our selection which only employs bibliometric data. In this case, and similarly to what the Shanghai Ranking does, it employs the bibliometric suite InCites. It is produced by the URAP center, a non-profit organization and launched its first edition in 2010. It ranks more than 2500 higher education institutions worldwide. Finally, the last ranking selected is the Round University Rankings (RUR), founded in 2013 by the RUR Rankings Agency, based in Russia. This ranking uses 20 indicators and claims to measure four areas of universities’ activities: teaching, research, international diversity, and financial sustainability. It combines bibliometric data with statistical and reputational (survey) data.
+3.3 Bibliometric indicators used in the article
+
+Along with data collected on the seven rankings, we used a set of bibliometric indicators that bear different degrees of dependence on the size of institutions. These were retrieved from the Clarivate’s Web of Science database: the bibliometric suite InCites. This means that when establishing comparisons with results from rankings using Elsevier’s Scopus as their bibliometric data source, some differences can be explained due to differences in the databases. We expect to find more similarities between bibliometric indicators and rankings based on data extracted from the Web of Science.
+
+We use the following indicators to compare them against rankings’ scores:
+
+Publications (PUB): Total number of citable documents indexed in the Web of Science database (articles and reviews) authored by an institution in the 2011–2014 period.
+
+H-Index: The H-index (also known as Hirsch index) was introduced by J. Hirsch in 2005. Here, we calculate this indicator at the institutional level. Therefore, a university will have an H-index of h if it has at least h of its publications have received at least h citations.
+
+CNCI: Category Normalized Citation Impact of the records used to compute indicator PUB. It is calculated by dividing the actual count of citing items by the expected citation rate (baseline) for publications with the same document type, year of publication, and subject area. When a document is assigned to more than one subject area, an average of the ratios of the actual to expected citations is used. Therefore, we will consider that universities with a CNCI above 1 will have a higher impact than the world average, and below 1 will have a lower impact than the world average.
+3.4 Methodological design
+
+Scores on seven rankings from a sample of 356 universities are available for inspection and analysis. Altogether, we take the scores as seven sub-scales from a broader scale that would encompass the measures taken by the seven rankings. Conceptually, a scale is composed of several values to measure a single construct. The items within the scale should be interchangeable so that they can be taken as different ways to inquire about the same underlying characteristic that is difficult to measure directly.
+
+We are interested in gauging the dimensionality of the scale using principal component analysis (PCA), a powerful technique to extract a small set of meaningful components that summarize the correlation among a set of variables ( Tabachnick and Fidell 2007 ). Rather than providing a theoretical explanation of the phenomenon under investigation, PCA helps on understanding the internal structure of the data, a good starting point for a further conceptual analysis.
+
+PCA was used to elucidate whether the seven rankings selected were measuring the same phenomenon. That is, whether there is a single coherent variable that contributes to explain the population variance to such an extent as to be taken as a measure of a unique underlying trait that captures most of the correlations among the variables. If we were to find that one principal component accounts for a large share of the variance of the sample, it would show that the scale (composed of the seven ranking measures) is unidimensional. Therefore, the first stage of our research will be related to the number and nature of the principal components, and their importance as far as the explanation of variance is concerned.
+
+To test the validity of a scale we should first assess its reliability, for example its internal consistency, and then answer the question of whether the scale represents the theoretical construct it is meant to measure. We have examined the internal consistency of the scale using standard reliability measures.
+
+Further investigation is needed to assess the validity of the construct resulting from the interpretation of the principal components arising from PCA. We would need a different measure of the same theoretical construct in order to make the appropriate comparisons. Based on our hypothesis that the underlying factor is related to research performance, we use the bibliometric indicators described in Section 2.3, which we know are connected to research outcomes in terms of publications and citations. We begin by adding the H-index to our pool of seven measures, to assess the validity of the constructed scale. Finally, to refine our analysis, we introduce the other two indicators: PUB, which is size-dependent, and CNCI, which is size-independent. This will provide a better understanding of our research question.
+3.5 Secondary analysis: the teaching component
+
+As shown in Section 4, we have not been able to identify a teaching component in our analyses. To shed some light on this issue, we did the following experiment. Using the initial scale of seven ranking measures, we removed the THE rankings and added its Research and Teaching scores instead. The results of this analysis are included in the end of Section 4.3.
+4. Results
+4.1 Objective of the study
+
+Despite using different methodologies, results rendered by most world universities rankings are similar, suggesting that they are measuring, each on their own way, a similar phenomenon. However, to our knowledge, no other study has analyzed if this is the case empirically, other than showing a high correlation between the scores universities receive in each ranking ( Aguillo et al. 2010 ). Therefore, our first research question is as follows: Are all world university rankings measuring the same phenomenon, whichever that is?
+
+If this is so, the next question to address is what it is that rankings are measuring. For this second part, we hypothesize that, despite methodological differences as well as differences on weights assigned to publication and citation data, all of these rankings tend to measure a combination between the size of output and relative citation impact of universities. Therefore, despite claims on the accuracy and reliability each rankings make on their methodology, bibliometric indicators combining these two aspects can offer a very similar image of the higher education landscape as the one shown by university rankings.
+
+This would have important policy implications for university managers, as it means that rankings reflect a very specific aspect of universities’ performance, allowing to use these tools in an informed way, acknowledging the well-known limitations and opportunities bibliometric indicators have to offer when monitoring research performance ( Hicks et al. 2015 ).
+4.2 Exploratory PCA
+
+Two main issues concerning the suitability of our dataset for factor analysis should first be sorted out, namely: sample size and strength of the correlation among the items (ranking scores). The length of our sample seems to be large enough. Tabachnick and Fidell (2007) have extensively reviewed this issue and concluded that ‘it is comforting to have at least 300 cases for factor analysis’ (p. 613). To complete the analysis of the suitability of the dataset for exploratory factor analysis we need to check the correlation matrix. After inspecting the correlation structure of the seven scores ( Table 2 ), we observe that all the correlation coefficients are highly significant (P < 0.001, 1-tailed). Sampling adequacy was addressed through the Kaiser–Meyer–Olkin (KMO-MSA) statistic, a measure of the proportion of variance among variables that might be common variance, showing a range of values from 0 to 1. The larger the proportion of common variance, the higher the value of the KMO test and the more suited the data for factor analysis ( Kaiser and Rice 1974 ). The value for our sample was 0.87, showing that the correlation matrix is appropriate for factor analysis ( Dziuban and Shirkey 1974 ).
+Table 2.
+
+Pearson correlation matrix of selected rankings
+  	ARWU  	THE  	NTU  	CWUR  	RUR  	URAP 
+USN  	0.87  	0.83  	0.83  	0.80  	0.73  	0.80 
+ARWU  	1.00   	0.82  	0.90  	0.89  	0.70  	0.88 
+THE  	  	1.00   	0.81  	0.70  	0.85  	0.77 
+NTU  	  	  	1.00   	0.80  	0.71  	0.98 
+CWUR  	  	  	  	1.00   	0.60  	0.77 
+RUR  	  	  	  	  	1.00   	0.66 
+  	ARWU  	THE  	NTU  	CWUR  	RUR  	URAP 
+USN  	0.87  	0.83  	0.83  	0.80  	0.73  	0.80 
+ARWU  	1.00   	0.82  	0.90  	0.89  	0.70  	0.88 
+THE  	  	1.00   	0.81  	0.70  	0.85  	0.77 
+NTU  	  	  	1.00   	0.80  	0.71  	0.98 
+CWUR  	  	  	  	1.00   	0.60  	0.77 
+RUR  	  	  	  	  	1.00   	0.66 
+
+ARWU: Academic Ranking of World Universities; NTU: National Taiwan University; USN: US News Best Global Universities.
+View Large
+Table 2.
+
+Pearson correlation matrix of selected rankings
+  	ARWU  	THE  	NTU  	CWUR  	RUR  	URAP 
+USN  	0.87  	0.83  	0.83  	0.80  	0.73  	0.80 
+ARWU  	1.00   	0.82  	0.90  	0.89  	0.70  	0.88 
+THE  	  	1.00   	0.81  	0.70  	0.85  	0.77 
+NTU  	  	  	1.00   	0.80  	0.71  	0.98 
+CWUR  	  	  	  	1.00   	0.60  	0.77 
+RUR  	  	  	  	  	1.00   	0.66 
+  	ARWU  	THE  	NTU  	CWUR  	RUR  	URAP 
+USN  	0.87  	0.83  	0.83  	0.80  	0.73  	0.80 
+ARWU  	1.00   	0.82  	0.90  	0.89  	0.70  	0.88 
+THE  	  	1.00   	0.81  	0.70  	0.85  	0.77 
+NTU  	  	  	1.00   	0.80  	0.71  	0.98 
+CWUR  	  	  	  	1.00   	0.60  	0.77 
+RUR  	  	  	  	  	1.00   	0.66 
+
+ARWU: Academic Ranking of World Universities; NTU: National Taiwan University; USN: US News Best Global Universities.
+View Large
+
+In a well-constructed and meaningful scale, the magnitude of the correlations between its items should be relatively large, as it happens to the broad scale composed of the seven ranking scores. Reliability, a measure of the internal consistency of the data from the seven rankings in our sample, can be dealt with through the computation of Cronbach’s Alpha to assess the homogeneity of the items comprising the scale ( DeVellis 2003 ). In the sample, the Cronbach’s coefficient was 0.95. We can, therefore, conclude that the scale composed of the seven ranking scores shows excellent internal consistency.
+
+Then, we assessed the properties of the scale constructed with the seven ranking scores by examining data for 356 institutions to conduct a PCA. The PCA reveals the existence of just one principal component that explains over 82% of the variance of the dataset ( Table 3 ).
+Table 3.
+
+PCA results. Total variance explained and loadings of ranking indicators are only shown for Component 1
+Component  	Total eigenvalue  	% Variance 
+Component 1  	5,791  	82,733 
+ 
+Ranking  	Loading for the component 1  	Communalities 
+% of variance explained by the component 1 
+ 
+USN  	0.92  	0.85 
+ARWU  	0.96  	0.91 
+THE  	0.91  	0.82 
+NTU  	0.95  	0.91 
+CWUR  	0.88  	0.77 
+RUR  	0.82  	0.67 
+URAP  	0.92  	0.85 
+Component  	Total eigenvalue  	% Variance 
+Component 1  	5,791  	82,733 
+ 
+Ranking  	Loading for the component 1  	Communalities 
+% of variance explained by the component 1 
+ 
+USN  	0.92  	0.85 
+ARWU  	0.96  	0.91 
+THE  	0.91  	0.82 
+NTU  	0.95  	0.91 
+CWUR  	0.88  	0.77 
+RUR  	0.82  	0.67 
+URAP  	0.92  	0.85 
+
+ARWU: Academic Ranking of World Universities; NTU: National Taiwan University; USN: US News Best Global Universities.
+View Large
+Table 3.
+
+PCA results. Total variance explained and loadings of ranking indicators are only shown for Component 1
+Component  	Total eigenvalue  	% Variance 
+Component 1  	5,791  	82,733 
+ 
+Ranking  	Loading for the component 1  	Communalities 
+% of variance explained by the component 1 
+ 
+USN  	0.92  	0.85 
+ARWU  	0.96  	0.91 
+THE  	0.91  	0.82 
+NTU  	0.95  	0.91 
+CWUR  	0.88  	0.77 
+RUR  	0.82  	0.67 
+URAP  	0.92  	0.85 
+Component  	Total eigenvalue  	% Variance 
+Component 1  	5,791  	82,733 
+ 
+Ranking  	Loading for the component 1  	Communalities 
+% of variance explained by the component 1 
+ 
+USN  	0.92  	0.85 
+ARWU  	0.96  	0.91 
+THE  	0.91  	0.82 
+NTU  	0.95  	0.91 
+CWUR  	0.88  	0.77 
+RUR  	0.82  	0.67 
+URAP  	0.92  	0.85 
+
+ARWU: Academic Ranking of World Universities; NTU: National Taiwan University; USN: US News Best Global Universities.
+View Large
+Table 4.
+
+Correlation of the H-index with selected rankings
+  	USN  	ARWU  	THE  	NTU  	CWUR  	RUR  	URAP 
+H-Index  	0.86  	0.91  	0.84  	0.96  	0.78  	0.75  	0.93 
+P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001 
+  	USN  	ARWU  	THE  	NTU  	CWUR  	RUR  	URAP 
+H-Index  	0.86  	0.91  	0.84  	0.96  	0.78  	0.75  	0.93 
+P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001 
+
+ARWU: Academic Ranking of World Universities; NTU: National Taiwan University; USN: US News Best Global Universities.
+View Large
+Table 4.
+
+Correlation of the H-index with selected rankings
+  	USN  	ARWU  	THE  	NTU  	CWUR  	RUR  	URAP 
+H-Index  	0.86  	0.91  	0.84  	0.96  	0.78  	0.75  	0.93 
+P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001 
+  	USN  	ARWU  	THE  	NTU  	CWUR  	RUR  	URAP 
+H-Index  	0.86  	0.91  	0.84  	0.96  	0.78  	0.75  	0.93 
+P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001  	P << 0.001 
+
+ARWU: Academic Ranking of World Universities; NTU: National Taiwan University; USN: US News Best Global Universities.
+View Large
+
+Loadings on this component are relevant for all variables ( Table 3 ). Loadings are related to the degree of correlation between each indicator and the component. Communalities (share of variance explained by the component) associated with the first factor ( Table 3 ), reveal that the variance of the seven rankings is adequately accounted for by the first principal component, albeit in a relatively moderate way in the case of the RUR Ranking. This indicates that the seven rankings under analysis compose a one-dimensional scale.
+4.3 Hypothesis testing: Bibliometric indicators and university rankings
+
+Given the fact that all the rankings make use of indicators related to the scientific production of academic institutions, both in quantity and quality, we hypothesize that what all the ranking are actually measuring, that is the factor underlying the one-dimensional character of the dataset, is related to publication output and citation impact. As a first step in our analysis of the validity of the scale composed of the seven scores, we propose the inclusion of a well-known measure that bundles output and citation impact, the institutional H-index, directly in the indicators, in a ‘fiducial’ approach to principal components analysis ( Docampo and Cram 2014 ). Hence, we now have eight variables in the dataset, the scores from the seven rankings and the H-index (computed for publications within the 2011–2015 period). As observed in Table 4 , all correlation coefficients remain highly significant (P < 0.001, 1-tailed). The KMO-MSA value is even larger, 0.89. Besides, in the new dataset of eight variables, the Cronbach’s coefficient was larger as well, 0.96; we can, therefore, conclude that the H-index shows an excellent consistency with the group of the seven ranking scores.
+
+The results of the PCA on the new dataset reveal the existence of just one principal component, this time explaining almost 84% of the variance ( Table 5 ). The loadings on the first principal component reveal that the variance of the seven rankings continues to be adequately accounted for by the first principal component; The first component extracts 93% of the variance of the H-index (peak value), confirming our hypothesis that rankings by and large measure a combination of quantity and quality of the scientific production.
+Table 5.
+
+Total variance explained and loadings of ranking indicators for Component 1 after introducing the H-Index in the PCA
+Component  	Total eigenvalue  	% Variance 
+Component 1  	6.71  	83.8% 
+ 
+Ranking  	Loading for the component 1  	Communalities 
+% of variance explained by the component 1 
+ 
+USN  	0.92  	0.84 
+ARWU  	0.96  	0.91 
+THE  	0.90  	0.82 
+NTU  	0.96  	0.92 
+CWUR  	0.87  	0.76 
+RUR  	0.82  	0.67 
+URAP  	0.93  	0.87 
+H-Index  	0.96  	0.93 
+Component  	Total eigenvalue  	% Variance 
+Component 1  	6.71  	83.8% 
+ 
+Ranking  	Loading for the component 1  	Communalities 
+% of variance explained by the component 1 
+ 
+USN  	0.92  	0.84 
+ARWU  	0.96  	0.91 
+THE  	0.90  	0.82 
+NTU  	0.96  	0.92 
+CWUR  	0.87  	0.76 
+RUR  	0.82  	0.67 
+URAP  	0.93  	0.87 
+H-Index  	0.96  	0.93 
+
+ARWU: Academic Ranking of World Universities; NTU: National Taiwan University; USN: US News Best Global Universities.
+View Large
+Table 5.
+
+Total variance explained and loadings of ranking indicators for Component 1 after introducing the H-Index in the PCA
+Component  	Total eigenvalue  	% Variance 
+Component 1  	6.71  	83.8% 
+ 
+Ranking  	Loading for the component 1  	Communalities 
+% of variance explained by the component 1 
+ 
+USN  	0.92  	0.84 
+ARWU  	0.96  	0.91 
+THE  	0.90  	0.82 
+NTU  	0.96  	0.92 
+CWUR  	0.87  	0.76 
+RUR  	0.82  	0.67 
+URAP  	0.93  	0.87 
+H-Index  	0.96  	0.93 
+Component  	Total eigenvalue  	% Variance 
+Component 1  	6.71  	83.8% 
+ 
+Ranking  	Loading for the component 1  	Communalities 
+% of variance explained by the component 1 
+ 
+USN  	0.92  	0.84 
+ARWU  	0.96  	0.91 
+THE  	0.90  	0.82 
+NTU  	0.96  	0.92 
+CWUR  	0.87  	0.76 
+RUR  	0.82  	0.67 
+URAP  	0.93  	0.87 
+H-Index  	0.96  	0.93 
+
+ARWU: Academic Ranking of World Universities; NTU: National Taiwan University; USN: US News Best Global Universities.
+View Large
+
+To complete the analysis, we try to discern the influence of institutional size on the positioning of rankings. For this, we now introduce two indicators that point into or away from that direction: number of articles of a university recorded in the Web of Science (PUB), a size-dependent measure and average number of citations of the publications of a university, normalized for field and publication year (CNCI), a size-independent measure. We add those results to our dataset, which is now composed by 10 variables. The correlation matrix of the indicators with rankings is shown in Table 6 . The KMO-MSA value is now 0.9, while the Cronbach’s coefficient is 0.96. We can therefore conclude that the both PUB and CNCI show an excellent consistency with the seven ranking scores and the H-index.
+Table 6.
+
+Correlation matrix results including bibliometric indicators
+  	USN  	ARWU  	THE  	NTU  	CWUR  	RUR  	URAP  	H-Index  	Nr Pubs  	MNCS 
+H-Index  	0.86  	0.91  	0.84  	0.96  	0.78  	0.75  	0.93  	1.00   	0.88  	0.69 
+PUB  	0.72  	0.83  	0.68  	0.93  	0.71  	0.61  	0.96  	  	1.00   	0.35 
+CNCI  	0.71  	0.63  	0.77  	0.59  	0.55  	0.61  	0.50  	  	  	1.00  
+  	USN  	ARWU  	THE  	NTU  	CWUR  	RUR  	URAP  	H-Index  	Nr Pubs  	MNCS 
+H-Index  	0.86  	0.91  	0.84  	0.96  	0.78  	0.75  	0.93  	1.00   	0.88  	0.69 
+PUB  	0.72  	0.83  	0.68  	0.93  	0.71  	0.61  	0.96  	  	1.00   	0.35 
+CNCI  	0.71  	0.63  	0.77  	0.59  	0.55  	0.61  	0.50  	  	  	1.00  
+
+ARWU: Academic Ranking of World Universities; MNCS: mean normalized citation score; NTU: National Taiwan University; PUB: publications; USN: US News Best Global Universities.
+View Large
+Table 6.
+
+Correlation matrix results including bibliometric indicators
+  	USN  	ARWU  	THE  	NTU  	CWUR  	RUR  	URAP  	H-Index  	Nr Pubs  	MNCS 
+H-Index  	0.86  	0.91  	0.84  	0.96  	0.78  	0.75  	0.93  	1.00   	0.88  	0.69 
+PUB  	0.72  	0.83  	0.68  	0.93  	0.71  	0.61  	0.96  	  	1.00   	0.35 
+CNCI  	0.71  	0.63  	0.77  	0.59  	0.55  	0.61  	0.50  	  	  	1.00  
+  	USN  	ARWU  	THE  	NTU  	CWUR  	RUR  	URAP  	H-Index  	Nr Pubs  	MNCS 
+H-Index  	0.86  	0.91  	0.84  	0.96  	0.78  	0.75  	0.93  	1.00   	0.88  	0.69 
+PUB  	0.72  	0.83  	0.68  	0.93  	0.71  	0.61  	0.96  	  	1.00   	0.35 
+CNCI  	0.71  	0.63  	0.77  	0.59  	0.55  	0.61  	0.50  	  	  	1.00  
+
+ARWU: Academic Ranking of World Universities; MNCS: mean normalized citation score; NTU: National Taiwan University; PUB: publications; USN: US News Best Global Universities.
+View Large
+
+The PCA reveals the existence of two principal components, explaining over 88% of the variance ( Table 7 ). The first, dominant component is associated with the size-dependent bibliometric indicator chosen, PUB, whereas the second component appears to be linked to the size-independent bibliometric indicator chosen, CNCI ( Figure 1 ). Table 7 shows that after varimax rotation the first component explains around 52% of the variance, while the second explains around 36% of the variance. Shares of variance for each variable explained by the first and second principal components are shown in Table 8 . The effect of the size-independent component is higher for those international classifications that make use of at least one indicator related to the average number of citations per paper from an institution.
+Figure 1.
+Scatterplot of PCA results. Cases in black and circle are university rankings. Cases in red denote bibliometric indicators.
+View large Download slide
+
+Scatterplot of PCA results. Cases in black and circle are university rankings. Cases in red denote bibliometric indicators.
+Figure 1.
+Scatterplot of PCA results. Cases in black and circle are university rankings. Cases in red denote bibliometric indicators.
+View large Download slide
+
+Scatterplot of PCA results. Cases in black and circle are university rankings. Cases in red denote bibliometric indicators.
+Table 7.
+
+Results of PCA including all bibliometric indicators
+  	Initial eigenvalues   	Varimax rotation  
+  	Total  	% of Variance  	Cum. %  	Total  	% of Variance  	Cum. % 
+Component 1  	7.95  	79.54  	79.54  	5.214  	52.138  	52.138 
+Component 2  	0.90  	9.02  	88.55  	3.642  	36.416  	88.554 
+  	Initial eigenvalues   	Varimax rotation  
+  	Total  	% of Variance  	Cum. %  	Total  	% of Variance  	Cum. % 
+Component 1  	7.95  	79.54  	79.54  	5.214  	52.138  	52.138 
+Component 2  	0.90  	9.02  	88.55  	3.642  	36.416  	88.554 
+View Large
+Table 7.
+
+Results of PCA including all bibliometric indicators
+  	Initial eigenvalues   	Varimax rotation  
+  	Total  	% of Variance  	Cum. %  	Total  	% of Variance  	Cum. % 
+Component 1  	7.95  	79.54  	79.54  	5.214  	52.138  	52.138 
+Component 2  	0.90  	9.02  	88.55  	3.642  	36.416  	88.554 
+  	Initial eigenvalues   	Varimax rotation  
+  	Total  	% of Variance  	Cum. %  	Total  	% of Variance  	Cum. % 
+Component 1  	7.95  	79.54  	79.54  	5.214  	52.138  	52.138 
+Component 2  	0.90  	9.02  	88.55  	3.642  	36.416  	88.554 
+View Large
+Table 8.
+
+Total variance explained for the two components identified after introducing CNCI and PUB in the PCA model
+  	Loading for the component 1 and 2   	Communalities  
+% of variance explained by the component 1 and 2  
+  	Component 1  	Component 2  	TOTAL  	Component 1 (%)  	Component 2 (%) 
+PUB a   	0.92  	0.04  	0.96  	96  	4 
+URAP b   	0.85  	0.12  	0.97  	88  	12 
+NTU b   	0.77  	0.20  	0.97  	79  	21 
+CWUR b   	0.52  	0.22  	0.74  	70  	30 
+ARWU b   	0.62  	0.29  	0.91  	68  	32 
+H-Index a   	0.63  	0.32  	0.94  	66  	34 
+USN b   	0.40  	0.46  	0.86  	46  	54 
+THE b   	0.28  	0.62  	0.90  	31  	69 
+RUR b   	0.21  	0.52  	0.73  	29  	71 
+CNCI a   	0.03  	0.85  	0.88  	3  	97 
+  	Loading for the component 1 and 2   	Communalities  
+% of variance explained by the component 1 and 2  
+  	Component 1  	Component 2  	TOTAL  	Component 1 (%)  	Component 2 (%) 
+PUB a   	0.92  	0.04  	0.96  	96  	4 
+URAP b   	0.85  	0.12  	0.97  	88  	12 
+NTU b   	0.77  	0.20  	0.97  	79  	21 
+CWUR b   	0.52  	0.22  	0.74  	70  	30 
+ARWU b   	0.62  	0.29  	0.91  	68  	32 
+H-Index a   	0.63  	0.32  	0.94  	66  	34 
+USN b   	0.40  	0.46  	0.86  	46  	54 
+THE b   	0.28  	0.62  	0.90  	31  	69 
+RUR b   	0.21  	0.52  	0.73  	29  	71 
+CNCI a   	0.03  	0.85  	0.88  	3  	97 
+a
+
+Bibliometric indicators.
+b
+
+Ranking.
+View Large
+Table 8.
+
+Total variance explained for the two components identified after introducing CNCI and PUB in the PCA model
+  	Loading for the component 1 and 2   	Communalities  
+% of variance explained by the component 1 and 2  
+  	Component 1  	Component 2  	TOTAL  	Component 1 (%)  	Component 2 (%) 
+PUB a   	0.92  	0.04  	0.96  	96  	4 
+URAP b   	0.85  	0.12  	0.97  	88  	12 
+NTU b   	0.77  	0.20  	0.97  	79  	21 
+CWUR b   	0.52  	0.22  	0.74  	70  	30 
+ARWU b   	0.62  	0.29  	0.91  	68  	32 
+H-Index a   	0.63  	0.32  	0.94  	66  	34 
+USN b   	0.40  	0.46  	0.86  	46  	54 
+THE b   	0.28  	0.62  	0.90  	31  	69 
+RUR b   	0.21  	0.52  	0.73  	29  	71 
+CNCI a   	0.03  	0.85  	0.88  	3  	97 
+  	Loading for the component 1 and 2   	Communalities  
+% of variance explained by the component 1 and 2  
+  	Component 1  	Component 2  	TOTAL  	Component 1 (%)  	Component 2 (%) 
+PUB a   	0.92  	0.04  	0.96  	96  	4 
+URAP b   	0.85  	0.12  	0.97  	88  	12 
+NTU b   	0.77  	0.20  	0.97  	79  	21 
+CWUR b   	0.52  	0.22  	0.74  	70  	30 
+ARWU b   	0.62  	0.29  	0.91  	68  	32 
+H-Index a   	0.63  	0.32  	0.94  	66  	34 
+USN b   	0.40  	0.46  	0.86  	46  	54 
+THE b   	0.28  	0.62  	0.90  	31  	69 
+RUR b   	0.21  	0.52  	0.73  	29  	71 
+CNCI a   	0.03  	0.85  	0.88  	3  	97 
+a
+
+Bibliometric indicators.
+b
+
+Ranking.
+View Large
+
+An interest finding is the lack of a teaching component in our analyses. Figure 2 shows the result of splitting the THE ranking (the only one with a teaching score) into two rankings: research and teaching scores. By forcing two principal components we observe that the first principal component still explains over 80% of the variance in the sample. Two principal components extract almost 90% of the variance. In spite of that, it is not possible to tell apart the two indicators from the THE ranking, showing that teaching and research reputation go together. Note that the x -axis starts on 0.8 due to visualization issues.
+Figure 2.
+Scatterplot of PCA results differentiating THE research and teaching scores. Only university rankings are included.
+View large Download slide
+
+Scatterplot of PCA results differentiating THE research and teaching scores. Only university rankings are included.
+Figure 2.
+Scatterplot of PCA results differentiating THE research and teaching scores. Only university rankings are included.
+View large Download slide
+
+Scatterplot of PCA results differentiating THE research and teaching scores. Only university rankings are included.
+5. Discussion and policy implications
+
+We began the article by acknowledging the currency that international academic classifications are gaining nowadays. We have described a number of global rankings based on different methodologies and indicators. In spite of differences in methodologies, it is commonly agreed that rankings provide compatible results. We therefore posed a legitimate research question. One that, if solved, would shed light on what university rankings are measuring, if measuring something at all.
+
+We selected an empirical framework for our correlational study, conceptualizing the dataset of measures (scores) from the seven international rankings selected as the results of a scale of which we want to find out whether it is reliable and valid. Using PCA we have been able to elucidate our research question; we have found that the scale is one-dimensional, and we have also found that what rankings measure is in one way or another related to counts of publications and citations. We have been able to articulate our answers by using straightforward bibliometric indicators that helped us in explaining how rankings end up measuring a compact of size-dependent and independent research variables in a coherent way.
+
+There are a number of different features, including teaching-related measures, that rankings include in their portfolio of indicators. What we maintain here is not that those features are not measured, but rather that their influence in the final score becomes highly overshadowed by the bibliometric information, no matter the weights used on the different sets of indicators. We were particularly puzzled by the fact that teaching indicators would not be identified as characteristics related to a different underlying factor. Our answer to that conundrum is that teaching scores by and large rely on surveys and our hunch is that academics respond indistinctly to surveys on teaching or research. This was further confirmed by performing additional experiments ( Figure 2 ). Consequently, our research shows that although the rankings apparently use different evaluation criteria, publications and citations are the basis for all of them.
+
+Our analysis also confirms that size matters when explaining institutional league tables, a well-known issue which presents important limitations when using rankings in university management ( Docampo and Cram 2015 ). This also implies that all limitations attributed to bibliometric indicators and bibliometric databases (i.e. disciplinary biases, Mathew effect) will also be present in university rankings. Furthermore, the influence of size brings in associated factors, such as annual income or reputation, as noted elsewhere ( Safón 2013 ). Still, the empirical demonstration of these issues does not necessarily diminish the potential usefulness of university rankings for policy makers. The high relationship between the H-Index and ranking scores can help university managers to better interpret factors explaining their institutions positioning. By doing so, the university manager can use rankings in an informed way and therefore benefit from the tool in combination with their own judgment in what is usually referred to as ‘informed peer review’ ( Moed 2007 ). For instance, one could plot universities based on their ranking scores and their institutional H-Index as observed in Figure 3 as a means to analyze if their institution is ‘living above or under its expectations’ based on their position with respect to the tendency line. Depending on the location of the university under observation, university managers would be able to look in the different indicators employed by the rankings on factors that could differences between their expected and observed position. Furthermore, these types of analyze can reveal methodological inconsistencies of the ranking itself [e.g. full-time equivalent counts for specific universities in the Shanghai Ranking ( Docampo 2013 ) or institutional gaming ( Moed 2017a ].
+Figure 3.
+Scatterplot of universities according to their score in the Shanghai Ranking and their institutional H-Index.
+View large Download slide
+
+Scatterplot of universities according to their score in the Shanghai Ranking and their institutional H-Index.
+Figure 3.
+Scatterplot of universities according to their score in the Shanghai Ranking and their institutional H-Index.
+View large Download slide
+
+Scatterplot of universities according to their score in the Shanghai Ranking and their institutional H-Index.
+6. Concluding remarks
+
+University rankings, despite concerns on their validity, have now become highly regarded tools by university managers ( Leydesdorff et al. 2016 ), and the bibliometric community should not disregard their large expansion. Hence, the key importance of developing methods, techniques, and recommendations of their use, to ensure that they are employed in an informed and intelligent way. Simple analyses such as the one deployed in Figure 3 can greatly enrich ranking consumers’ experience and help them take a more critical look at the information provided by these tools ( Moed 2017b : 149).
+
+While it is not the goal of this article nor we encourage the use of university rankings for decision-making, we do acknowledge that they are important sources of information which have the potential to inform university managers when used intelligently. Hood (2012) discusses that two opposed perspectives generally emerge in public management: that which relies entirely on numbers, and second one which rejects them entirely. While the former positioning can lead, and has led, as reviewed earlier, to ill-informed decisions in university management, an informed and critical use of university rankings can improve decision-making and ease university managers’ work.
+Acknowledgements
+
+The authors would like to thank two anonymous reviewers for their comments and suggestions. Nicolas Robinson-Garcia acknowledges financial support from a Juan de la Cierva-Incorporación grant from the Spanish Ministry of Science, Innovation and Universities.
+
+Conflict of interest statement. None declared.
+References
+Aghion
+P.
+et al.  (
+2010
+) ‘
+The Governance and Performance of Universities: Evidence from Europe and the US
+’,
+Economic Policy
+ ,
+25
+/
+61
+:
+7
+–
+59
+.
+WorldCat
+ 
+Aguillo
+I. F.
+et al.  (
+2010
+) ‘
+Comparing University Rankings
+’,
+Scientometrics
+ ,
+85
+/
+1
+:
+243
+–
+56
+.
+WorldCat
+ 
+Billaut
+J.-C.
+,
+Bouyssou
+D.
+,
+Vincke
+P.
+(
+2009
+) ‘
+Should You Believe in the Shanghai Ranking?: An MCDM View
+’,
+Scientometrics
+ ,
+84
+/
+1
+:
+237
+–
+63
+.
+WorldCat
+ 
+Bookstein
+F. L.
+et al.  (
+2010
+) ‘
+Too Much Noise in the Times Higher Education Rankings
+’,
+Scientometrics
+ ,
+85
+/
+1
+:
+295
+–
+9
+.
+Google Scholar
+PubMed
+WorldCat
+ 
+Bornmann
+L.
+,
+Mutz
+R.
+,
+Daniel
+H.-D.
+(
+2013
+) ‘
+Multilevel-Statistical Reformulation of Citation-Based University Rankings: The Leiden Ranking 2011/2012
+’,
+Journal of the American Society for Information Science and Technology
+ ,
+64
+/
+8
+:
+1649
+–
+58
+.
+WorldCat
+ 
+Calero-Medina
+C.
+et al.  (
+2008
+) ‘
+Important Factors When Interpreting Bibliometric Rankings of World Universities: An Example from Oncology
+’,
+Research Evaluation
+ ,
+17
+/
+1
+:
+71
+–
+81
+.
+WorldCat
+ 
+Collini
+S.
+(
+2012
+)
+What Are Universities for?
+ 
+UK
+:
+Penguin
+.
+Google Preview
+WorldCat
+COPAC
+ 
+De Boer
+H.
+,
+Enders
+J.
+,
+Schimank
+U.
+(
+2007
+)
+On the Way towards New Public Management? The Governance of University Systems in England, The Netherlands, Austria, and Germany
+ .
+Dordrecht
+:
+Springer
+.
+Google Preview
+WorldCat
+COPAC
+ 
+DeVellis
+R.
+(
+2003
+)
+Scale Development: Theory and Applications
+ ,
+2
+nd edn.
+Thousand Oaks, CA
+:
+SAGE
+.
+Google Preview
+WorldCat
+COPAC
+ 
+Dill
+D. D.
+,
+Soo
+M.
+(
+2005
+) ‘
+Academic Quality, League Tables, and Public Policy: A Cross-National Analysis of University Ranking Systems
+’,
+Higher Education
+ ,
+49
+/
+4
+:
+495
+–
+533
+.
+WorldCat
+ 
+Docampo
+D.
+,
+Egret
+D.
+,
+Cram
+L.
+(
+2015
+) ‘
+The Effect of University Mergers on the Shanghai Ranking
+’,
+Scientometrics
+ ,
+104
+/
+1
+:
+175
+–
+91
+.
+WorldCat
+ 
+Docampo
+D.
+(
+2011
+) ‘
+On Using the Shanghai Ranking to Assess the Research Performance of University Systems
+’,
+Scientometrics
+ ,
+86
+/
+1
+:
+77
+–
+92
+.
+WorldCat
+ 
+Docampo
+D.
+(
+2013
+) ‘
+Reproducibility of the Shanghai Academic Ranking of World Universities Results
+’,
+Scientometrics
+ ,
+94
+/
+2
+:
+567
+–
+87
+.
+WorldCat
+ 
+Docampo
+D.
+,
+Cram
+L.
+(
+2014
+) ‘
+On the Internal Dynamics of the Shanghai Ranking
+’,
+Scientometrics
+ ,
+98
+/
+2
+:
+1347
+–
+66
+.
+WorldCat
+ 
+Docampo
+D.
+,
+Cram
+L.
+(
+2015
+) ‘
+On the Effects of Institutional Size in University Classifications: The Case of the Shanghai Ranking
+’,
+Scientometrics
+ ,
+102
+/
+2
+:
+1325
+–
+46
+.
+WorldCat
+ 
+Docampo
+D.
+,
+Cram
+L.
+(
+2017
+) ‘
+Academic Performance and Institutional Resources: A Cross-Country Analysis of Research Universities
+’,
+Scientometrics
+ ,
+110
+/
+2
+:
+739
+–
+64
+.
+WorldCat
+ 
+Dziuban
+C. D.
+,
+Shirkey
+E. C.
+(
+1974
+) ‘
+When Is a Correlation Matrix Appropriate for Factor Analysis? Some Decision Rules
+’,
+Psychological Bulletin
+ ,
+81
+/
+6
+:
+358
+–
+61
+.
+WorldCat
+ 
+Florian
+R. V.
+(
+2007
+) ‘
+Irreproducibility of the Results of the Shanghai Academic Ranking of World Universities
+’,
+Scientometrics
+ ,
+72
+/
+1
+:
+25
+–
+32
+.
+WorldCat
+ 
+Frenken
+K.
+,
+Heimeriks
+G. J.
+,
+Hoekman
+J.
+(
+2017
+) ‘
+What Drives University Research Performance? An Analysis Using the CWTS Leiden Ranking Data
+’,
+Journal of Informetrics
+ ,
+11
+/
+3
+:
+859
+–
+72
+.
+WorldCat
+ 
+Hazelkorn
+E.
+(
+2008
+) ‘
+Learning to Live with League Tables and Ranking: The Experience of Institutional Leaders
+’,
+Higher Education Policy
+ ,
+21
+/
+2
+:
+193
+–
+215
+.
+WorldCat
+ 
+Hazelkorn
+E.
+(
+2011
+)
+Rankings and the Reshaping of Higher Education: The Battle for World-Class Excellence
+ .
+London
+:
+Palgrave Macmillan
+.
+Google Preview
+WorldCat
+COPAC
+ 
+Hicks
+D.
+et al.  (
+2015
+) ‘
+The Leiden Manifesto for Research Metrics
+’,
+Nature
+ ,
+520
+/
+7548
+:
+429
+–
+31
+.
+Google Scholar
+PubMed
+WorldCat
+ 
+Hood
+C.
+(
+2012
+) ‘
+Public Management by Numbers as a Performance-Enhancing Drug: Two Hypotheses
+’,
+Public Administration Review
+ ,
+72
+/
+s1
+:
+S85
+–
+92
+.
+WorldCat
+ 
+Kaiser
+F.
+,
+Rice
+J.
+(
+1974
+) ‘
+Little Jiffy, Mark IV
+’,
+Educational and Psychological Measurement
+ ,
+34
+/
+1
+:
+111
+–
+17
+.
+WorldCat
+ 
+Leydesdorff
+L.
+,
+Wouters
+P.
+,
+Bornmann
+L.
+(
+2016
+) ‘
+Professional and Citizen Bibliometrics: Complementarities and Ambivalences in the Development and Use of Indicators—a State-of-the-Art Report
+’,
+Scientometrics
+ ,
+109
+/
+3
+:
+2129
+–
+50
+.
+Google Scholar
+PubMed
+WorldCat
+ 
+Liu
+N. C.
+,
+Cheng
+Y.
+(
+2005
+) ‘
+The Academic Ranking of World Universities
+’,
+Higher Education in Europe
+ ,
+30
+/
+2
+:
+127
+–
+36
+.
+WorldCat
+ 
+Moed
+H. F.
+(
+2007
+) ‘
+The Future of Research Evaluation Rests with an Intelligent Combination of Advanced Metrics and Transparent Peer Review
+’,
+Science and Public Policy
+ ,
+34
+/
+8
+:
+575
+–
+83
+.
+WorldCat
+ 
+Moed
+H. F.
+(
+2017a
+) ‘
+A Critical Comparative Analysis of Five World University Rankings
+’,
+Scientometrics
+ ,
+110
+/
+2
+:
+967
+–
+90
+.
+WorldCat
+ 
+Moed
+H. F.
+(
+2017b
+)
+Applied Evaluative Informetrics.
+ 
+Cham
+:
+Springer
+.
+Google Preview
+WorldCat
+COPAC
+ 
+Moed
+H. F.
+et al.  (
+2011
+) ‘
+Is Concentration of University Research Associated with Better Research Performance?
+’,
+Journal of Informetrics
+ ,
+5
+/
+4
+:
+649
+–
+58
+.
+WorldCat
+ 
+Mutz
+R.
+,
+Daniel
+H.-D.
+(
+2015
+) ‘
+What is Behind the Curtain of the Leiden Ranking?
+’,
+Journal of the Association for Information Science and Technology
+ ,
+6
+/
+9
+:
+1950
+–
+3
+.
+WorldCat
+ 
+Olcay
+G. A.
+,
+Bulu
+M.
+(
+2017
+) ‘
+Is Measuring the Knowledge Creation of Universities Possible?: A Review of University Rankings
+’,
+Technological Forecasting and Social Change
+ ,
+123
+:
+153
+–
+60
+.
+WorldCat
+ 
+Rauhvargers
+A.
+(
+2014
+) ‘
+Where Are the Global Rankings Leading Us? An Analysis of Recent Methodological Changes and New Developments
+’,
+European Journal of Education
+ , doi: 10.1111/ejed.12066.
+WorldCat
+ 
+Robinson-Garcia
+N.
+,
+Calero-Medina
+C.
+(
+2014
+) ‘
+What Do University Rankings by Fields Rank? Exploring Discrepancies between the Organizational Structure of Universities and Bibliometric Classifications
+’,
+Scientometrics
+ ,
+98
+/
+3
+:
+1955
+–
+70
+.
+WorldCat
+ 
+Robinson-Garcia
+N.
+,
+Jiménez-Contreras
+E.
+(
+2017
+) Analyzing the Disciplinary Focus of Universities: Can Rankings Be a One-Size-Fits-All? pp. 161–85 < http:/services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-5225-0819-9.ch009 > accessed 15 October 2018.
+Safón
+V.
+(
+2013
+) ‘
+What Do Global University Rankings Really Measure? The Search for the X Factor and the X Entity
+’,
+Scientometrics
+ ,
+97
+/
+2
+:
+223
+–
+44
+.
+WorldCat
+ 
+Salmi
+J.
+,
+Saroyan
+A.
+(
+2007
+) ‘
+League Tables as Policy Instruments: Uses and Misuses
+’,
+Higher Education Management and Policy
+ ,
+19
+/
+2
+:
+31
+–
+68
+.
+WorldCat
+ 
+Sauder
+M.
+,
+Espeland
+W. N.
+(
+2009
+) ‘
+The Discipline of Rankings: Tight Coupling and Organizational Change
+’,
+American Sociological Review
+ ,
+74
+/
+1
+:
+63
+–
+82
+.
+WorldCat
+ 
+Tabachnick
+B. G.
+,
+Fidell
+L. S.
+(
+2007
+)
+Using Multivariate Statistics
+ ,
+5
+th edn.
+Boston
+:
+Pearson Education, Inc
+.
+Google Preview
+WorldCat
+COPAC
+ 
+Van Raan
+A. F.
+(
+2005
+) ‘
+Fatal Attraction: Conceptual and Methodological Problems in the Ranking of Universities by Bibliometric Methods
+’,
+Scientometrics
+ ,
+62
+/
+1
+:
+133
+–
+43
+.
+WorldCat
+ 
+Waltman
+L.
+et al.  (
+2012
+) ‘
+The Leiden Ranking 2011/2012: Data Collection, Indicators, and Interpretation
+’,
+Journal of the American Society for Information Science and Technology
+ ,
+63
+/
+12
+:
+2419
+–
+32
+.
+WorldCat
+ 
+Zitt
+M.
+,
+Filliatreau
+G.
+(
+2007
+) ‘
+Big Is (Made) Beautiful: Some Comments about the Shanghai-Ranking of World-Class Universities
+’,
+The World-Class University and Ranking: Aiming beyond Status
+ ,
+1
+:
+141
+–
+60
+.
+WorldCat
+ 
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. For permissions, please email: journals.permissions@oup.com
+This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model ( https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model )
+Issue Section:
+Articles
+Download all figures
+41 Views
+0 Citations
+Article has an altmetric score of 2
+View Metrics
+×
+Email alerts
+New issue alert
+Advance article alerts
+Article activity alert
+Receive exclusive offers and updates from Oxford Academic
+Close
+Related articles in
+
+    Google Scholar
+
+Citing articles via
+Google Scholar
+CrossRef
+
+    Latest
+    Most Read
+    Most Cited
+
+Measuring scientific impact of fisheries and aquaculture research-for-development projects in South East Asia and the Pacific
+Scholarly understanding, mediating artefacts and the social impact of research in the educational sciences
+Improving access to finance for young innovative enterprises with growth potential: Evidence of impact of R&D grant schemes on firms' outputs
+Money, morale, and motivation: a study of the Output-Based Research Support Scheme in University College Dublin
+Can topic models be used in research evaluations? Reproducibility, validity, and reliability when compared with semantic maps
+
+    About Research Evaluation
+    Editorial Board
+    Policies
+    Author Guidelines
+    Facebook
+
+    Twitter
+    Purchase
+    Recommend to your Library
+    Advertising and Corporate Services
+    Journals Career Network
+
+Research Evaluation
+
+    Online ISSN 1471-5449
+    Print ISSN 0958-2029
+    Copyright © 2019 Oxford University Press
+
+    About Us
+    Contact Us
+    Careers
+    Help
+    Access & Purchase
+    Rights & Permissions
+    Open Access
+
+Connect
+
+    Join Our Mailing List
+    OUPblog
+    Twitter
+    Facebook
+    YouTube
+    Tumblr
+
+Resources
+
+    Authors
+    Librarians
+    Societies
+    Sponsors & Advertisers
+    Press & Media
+    Agents
+
+Explore
+
+    Shop OUP Academic
+    Oxford Dictionaries
+    Oxford Index
+    Epigeum
+    OUP Worldwide
+    University of Oxford
+
+Oxford University Press is a department of the University of Oxford. It furthers the University's objective of excellence in research, scholarship, and education by publishing worldwide
+Oxford University Press
+
+    Copyright © 2019 Oxford University Press
+    Cookie Policy
+    Privacy Policy
+    Legal Notice
+    Site Map
+    Accessibility
+    Get Adobe Reader
+
+Close
+This Feature Is Available To Subscribers Only
+
+Sign In or Create an Account
+Close
+
+This PDF is available to Subscribers Only
+View Article Abstract & Purchase Options
+
+For full access to this pdf, sign in to an existing account, or purchase an annual subscription.
+Close
+Scholarly IQ

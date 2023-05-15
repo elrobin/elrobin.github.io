@@ -1,0 +1,697 @@
+Skip to Main Content
+Wiley Online Library
+Log in / Register
+Log In
+E-Mail Address
+Password
+
+Forgotten Password?
+Remember Me
+
+    Register
+    Institutional Login
+
+Advertisement
+
+    Home >
+    Computer Science >
+    General & Introductory Computer Science >
+    Journal of the American Society for Information Science and Technology >
+    Vol 63 Issue 8 >
+    Abstract
+
+JOURNAL TOOLS
+
+    Get New Content Alerts
+    Get RSS feed
+    Save to My Profile
+
+JOURNAL MENU
+
+    Journal Home
+
+FIND ISSUES
+
+    All Issues
+    Virtual Issues
+
+FIND ARTICLES
+
+    Early View
+    Most Accessed
+    Most Cited
+
+GET ACCESS
+
+    Subscribe / Renew
+
+FOR CONTRIBUTORS
+
+    OnlineOpen
+    Author Guidelines
+    Submit an Article
+
+ABOUT THIS JOURNAL
+
+    Overview
+    Editorial Board
+    Permissions
+    Advertise
+    Contact
+
+SPECIAL FEATURES
+
+    ASIS&T Digital Library
+    Articles in the Advances in Information Science
+    Wiley Job Network
+    Bulletin of the American Society for Information Science and Technology
+    Proceedings of the American Society for Information Science and Technology
+    Annual Review of Information Science and Technology
+    Virtual Issue on Knowledge Management
+    Virtual Issue on Bibliometrics
+    Jobs
+
+Advertisement Advertisement
+
+RESEARCH ARTICLE
+You have full text access to this content
+Approaching the “reward triangle”: General analysis of the presence of funding acknowledgments and “peer interactive communication” in scientific publications
+
+    Rodrigo Costas,
+    Thed N. van Leeuwen
+
+Article first published online: 29 JUN 2012
+
+DOI: 10.1002/asi.22692
+
+© 2012 ASIS&T
+
+Issue
+Journal of the American Society for Information Science and Technology
+Journal of the American Society for Information Science and Technology
+
+Volume 63 , Issue 8 , pages 1647–1661 , August 2012
+
+Additional Information (Show All)
+
+How to Cite Author Information Publication History Funding Information
+How to Cite
+
+Costas, R. and van Leeuwen, T. N. (2012), Approaching the “reward triangle”: General analysis of the presence of funding acknowledgments and “peer interactive communication” in scientific publications. J. Am. Soc. Inf. Sci., 63: 1647–1661. doi: 10.1002/asi.22692
+Author Information
+
+    Leiden University, Centre for Science and Technology Studies (CWTS), Leiden, The Netherlands
+
+Email: Rodrigo Costas (rcostas@cwts.leidenuniv.nl), Thed N. van Leeuwen (leeuwen@cwts.leidenuniv.nl)
+Publication History
+
+    Issue published online: 25 JUL 2012
+    Article first published online: 29 JUN 2012
+    Manuscript Accepted: 7 MAR 2012
+    Manuscript Revised: 6 MAR 2012
+    Manuscript Received: 16 NOV 2011
+
+Funded by
+
+    Australian Department of Innovation, Industry, Science and Research
+
+SEARCH
+Search Scope
+Search String
+
+    Advanced >
+    Saved Searches >
+
+SEARCH BY CITATION
+Volume:
+Issue:
+Page:
+ARTICLE TOOLS
+
+    Get PDF (1081K)
+    Save to My Profile
+    E-mail Link to this Article
+    Export Citation for this Article
+    Get Citation Alerts
+    Request Permissions
+
+More Sharing Services Share | Share on citeulike Share on connotea Share on delicious Share on www.mendeley.com Share on twitter
+
+    Abstract
+    Article
+    References
+    Cited By
+
+Get PDF (1081K)
+Keywords:
+
+    bibliometrics;
+    publications;
+    citation analysis
+
+Abstract
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+
+Understanding the role of acknowledgments given by researchers in their publications has been a recurrent challenge in the bibliometric field, but relatively unexplored until now. This study presents a general bibliometric analysis on the new “funding acknowledgment” (FA) information available in the Web of Science. All publications covered by the database in 2009 have been analyzed. The presence and length of the FA text, as well as the presence of “peer interactive communication” in the acknowledgments, are related to impact indicators, distribution of papers by fields, countries of the authors, and collaboration level of the papers. It is observed that publications with FAs present a higher impact as compared with publications without them. There are also differences across countries and disciplines in the share of publications with FAs and the acknowledgment of peer interactive communication. China is the country with the highest share of publications acknowledging funding, while the presence of FAs in the humanities and social sciences is very low compared to the more basic disciplines. The presence of peer interactive communication in acknowledgments can be linked to countries that have a strong scientific tradition and are incorporated in scientific networks. Peer interactive communication is also common in the fields of humanities and social sciences and can be linked to lower levels of co-authorship. Observed patterns are explained and topics of future research are proposed.
+
+Introduction
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+
+Acknowledgments in scientific publications are a common element in the scientific community, having a social function and cognitive significance (Tiew & Sen, 2002 ). According to Hyland ( 2004 ; citing Atkinson, 1999 ), acknowledgments find their origin in the gratitude expressed to patrons, mentors, and powerful benefactors in cover letters accompanying scientific articles. However, this did not become a standard practice until the 1960s. Since then, acknowledgments have become an important feature of the scholarly communication process, and, over time, their presence has increased in scientific publications (Salager-Meyer, Alcaraz-Ariza, Briceno, & Jabbour, 2011 ). Nowadays, it is very common to find a section in a scientific article in which the authors acknowledge diverse entities such as funding bodies, colleagues, referees, etc., that in some way have contributed, funded, supported, discussed, or inspired the work. For some authors (Hyland, 2004 ), acknowledgments represent a genre that contributes to an author's efforts to create both a professional and a personal identity. Acknowledgments have thus become an important standard feature that appears in over half of all published research articles (Cronin, McKenzie, & Stiffler, 1992 ; Cronin & Weaver, 1995 ).
+
+Some authors have provided important initial steps in analyzing this type of information (see the bibliographic reviews by Hyland, 2004 ; Rigby, 2011 ; Salager-Meyer et al., 2011 ) Blaise Cronin and colleagues are among the most important pioneers on this topic within the library and information science discipline, having analyzed acknowledgments in different fields and journals (Cronin et al., 1992 ; Cronin, Shaw, & La Barre, 2003 ; Cronin, Shaw, & La Barre, 2004 ).
+
+However, because for many years acknowledgment data have not been machine-readable and analyzable in the same way that author and citation data are with Thomson Reuters' citation databases, they have been traditionally ignored in both bibliometric analyses and research assessment exercises (Cronin et al., 2003 ; Giles & Councill, 2004 ). The study by Giles and Councill ( 2004 ) is probably one of the most extensive, based on an analysis of acknowledgments from more than 335,000 unique publications from CiteSeer.
+
+The situation described above seems to be changing, as recently Web of Science (WoS) announced that from August 2008 onward, Thomson Reuters would collects funding information presented in the acknowledgment section of publications (Thomson Reuters, 2011 ). 1 This new “funding acknowledgment” (FA) information has already been analyzed by several authors in the field of bibliometrics (Costas & van Leeuwen, 2011 ; Levitt, 2011 ; Shapira & Wang, 2010 ; Wang, Liu, Ding, & Wang, in press ; Wang & Shapira, 2011 ). The results from these first studies show interesting patterns and promising results.
+The Reward Triangle: Authorships, Acknowledgments, and Citations
+
+From a more theoretical perspective, acknowledgments have important conceptual links with two of the most relevant elements in the scientific communication process—authorship and citations (Giles & Councill, 2004 ; Rennie, Yank, & Emanuel, 1997 )—composing the so-called “reward triangle” (Cronin & Weaver, 1995 ). According to these authors, “in assessing scholarly performance, two principal measures are used: productivity and impact. The former is traditionally equated with publication counts; the latter with citation counts.” However, the problem arises when an “individual is fulsomely acknowledged for his contributions by an author” but “the reward register remains silent” as this type of recognition is never counted. In this sense, “if authorship and citedness are to be counted, so should acknowledgments” and “by admitting acknowledgments the ‘reward triangle’ is closed” (Cronin & Weaver, 1995 , p. 173).
+
+Bearing in mind this triangle, we observe that acknowledgments often recognize the contribution and role that persons and organizations have had for the development of the research and the writing of the paper. This can be considered as a kind of “subauthorship” collaboration (Cronin et al., 2003 ), and according to Laudel ( 2002 , p. 10), “about 37% of the collaborators who are visible in publications were rewarded with acknowledgments.” In this scenario, authors choose to use acknowledgments to identify those who made special intellectual or technical contributions to a study but which were not sufficient to consider them as authors (Claxton, 2005 ; Kassirer & Angell, 1991 ). The same idea is also recommended by the guidelines of organizations like the International Committee of Medical Journal Editors ( 2011 ), which state that “all contributors who do not meet the criteria for authorship should be listed in an acknowledgments section. Examples of those who might be acknowledged include a person who provided purely technical help, writing assistance, or a department chairperson who provided only general support. Financial and material support should also be acknowledged.”
+
+When considering the role of acknowledgments as a kind of subauthorship, it can be claimed that they “provide a revealing window onto trends in collaboration beyond co-authorship” (Cronin & Weaver, 1995 , p. 172), thus opening a new perspective on the relationships among researchers, teams, and organizations that cannot be captured through regular co-authorship studies.
+
+However, Kassirer and Angell ( 1991 ) also warn about the growing length and detail of acknowledgments. They point to the case of reports of multicenter clinical trials, where acknowledgments are often made to everyone who had anything to do with the study, including those who were merely carrying out their jobs, such as technicians. Sometimes, principal investigators from each participating institution are acknowledged, even though they are also identified as authors. This could suggest that acknowledgments can also suffer from the same problems and limitations related to authorship. For example, we could discuss gift acknowledgments, ghost acknowledgments, hyper-acknowledgments, or acknowledgment inflation in a similar way as we discuss authorship (Claxton, 2005 ).
+
+Acknowledgments and citations also share some important characteristics. Acknowledgments have been frequently regarded as “super-citations” (Cronin, McKenzie, & Rubio, 1993 ) and acknowledgments and citations exhibit a high degree of cultural consensus. Both describe webs of interactions and influence, and in general both declare a relationship (Cronin & Weaver, 1995 ). Giles and Councill ( 2004 ) argued that citations alone could fall short of describing the full network of influence underlying primary scientific communication. Whereas citations are formal expressions of debt, acknowledgments are more personal, singular, or private expressions of appreciation and contribution (Giles & Councill, 2004 ), as well as basic manifestations of thanks and gratitude (Gesuato, 2004 ). Cronin et al. ( 1992 ) and Giles and Councill ( 2004 ) show empirically that citations and acknowledgments are sometimes correlated, thus reinforcing the idea of the conceptual relationship between these two scientific elements.
+
+Taking all the above into account, we argue that acknowledgments sit between citations and authorships in this reward triangle. Acknowledgments provide information on the collaborative networks of researchers, and on other, different types of intellectual influences. Thus, it is clear that the information contained in acknowledgments can contribute to a better understanding of the context of scientific research and its communication process, and as such it will be useful in the network analysis of scholarly communication.
+Types of Acknowledgments
+
+Acknowledgments can be made for several reasons (Davis & Cronin, 1993 ). Cronin et al. ( 1992 ) have suggested six main types of acknowledgments in scientific publications: moral support; access (to facilities, data, specimens, samples, documents, materials, etc.); clerical support; technical support (computer programming, statistics, etc.); financial support; and peer interactive communication (PIC).
+
+The last two types are, from the bibliometric point of view, probably the most important. The PIC type is highly important because it is an acknowledgment type that can imply an intellectual debt comparable to a citation (Davis & Cronin, 1993 ; McCain, 1991 ) and, to some degree, a kind of subauthorship.
+
+Acknowledgments of financial support are also important as they indicate the source of funding or economic support with which the research and publication was made possible. This type of information is highly relevant as it helps to explain why some bibliographic databases (e.g., WoS) started to collect this type of information, and why several funding agencies are beginning to require explicit and standardized mentioning of the funding of published research (Building Rural Communities Fund, 2011 ; CHONe, 2011 ; National Institutes of Health, 2011 ; National Science Foundation, 2009 ). However, the proper standardization of the names of funding bodies (Rigby, 2011 ) and the identification of the different types of support are still a problem in this type of analysis.
+
+Research institutions, funding agencies, etc., are increasingly considering bibliometrics (Abramo, D'Angelo, & Caprasecca, 2009 ), and particularly this source of funding information (Butler, Biglia, & Bourke, 1998 ; Butler, Biglia, & Henadeera, 2005 ). There are already examples of research organizations and funding agencies that have been interested in studying the impact of their funded projects through bibliometric indicators (Butler et al., 1998 ; Edler & Rigby, 2004 ). However, this type of bibliometric research is still developing as it is difficult to track on a large scale the linkages between R&D funding and outputs. This is due to the difficulties in tracking the research activities and outputs of each funded project (Wang & Shapira, 2011 ). This limitation can partly find a solution in the FA analysis as funding awards and acknowledgments correlate relatively well at higher levels (Butler, 2001 ).
+
+In this study, a general quantitative analysis on the presence of FA and PIC acknowledgments in scientific publications is carried out. This includes different countries and disciplines. We also apply a new perspective in that the focus is less on studying the actors mentioned in the acknowledgments and more on the characteristics and patterns of the publications that contain (or do not contain) them. In particular, we focus on how acknowledgments are distributed across fields, countries, document types, and levels of collaboration. Thus, this article presents a first general perspective on the distribution and patterns of this type of information across scientific publications, with the goal of providing a general framework to support future studies on this topic.
+Objectives
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+
+The main objective of this article is to perform a first general exploratory analysis on the presence of FA and PIC acknowledgments in the WoS records. Our approach focuses on the study of the relationships and patterns of publications that include acknowledgments with other bibliometric characteristics such as citations, disciplines, countries, and co-authors. It is also an important aim of this article to detect and highlight the problems this new source of information (the FA in WoS) could present for future developments.
+
+Several concrete research questions with scientific and political relevance are proposed for further research:
+
+    What is the global distribution of the presence of FA across publications?
+    What is the distribution of FA among document types?
+    Do publications with FA have higher impact than publications without FA?
+    Is the length of FA text related to the impact of publications?
+    Is there any relationship between FA and collaboration in publications?
+    What is the distribution of funding acknowledgment among disciplines?
+    What is the distribution of funding acknowledgment among countries?
+    Can details about PIC acknowledgments (e.g., such as colleagues reviewing, commenting, discussing the paper) be systematically identified in the FA texts? Are there identifiable relationships between the presence of PIC and the impact of the publications? Are there different patterns in the presence of PIC acknowledgments across disciplines and countries?
+
+The answers to these questions will provide key information for understanding author acknowledgment patterns in scientific publications and will provide a first general view on the presence and distribution of this type of information in scientific papers across different fields. Along these lines, development of our research questions will very likely provoke new questions, challenging the bibliometric and scientific community-at-large by aiming at a more in-depth understanding of scientific communication and the role of acknowledgments.
+Methodology
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+
+This study is based on the information available in the FA field tags (FO, FG, and FT) in WoS records. As this option is available from August 2008 onward, we have focused only on publications in 2009 (considering citations up to 2010). However, in the development of this research, several important limitations have been found and need to be taken into account when working with this new source of information:
+
+    A manual analysis of some publications of the authors of this paper, which have acknowledgments but not FA, has been performed. Thomson Reuters did not collect the acknowledgment texts of these papers. This suggests that acknowledgments are collected only when they include funding information. Therefore, it cannot be assumed that all types of acknowledgments from all the papers are actually considered.
+    As a consequence of the above, the potential use of the FA information is very much dependent on the algorithm developed by Thomson Reuters, which has not been yet explained in detail. Therefore, it is not completely clear how and from where Thomson Reuters takes this information, and if this is done systematically in all journals, for all publications, for all disciplines, etc.
+    Another problem related to the algorithm used by Thomson Reuters is that it is not clear how potential differences in acknowledging across fields and journals are tackled. For example, if in some journals FA and PIC acknowledgments appear in different paragraphs or sections, it is not known how this would be treated and consigned in the database. The assumption in this study is that FA and PIC (as well as other types of acknowledgments) appear together in the same section or paragraph of papers and are collected from the FA field tags of WoS.
+    Finally, an important conceptual limitation is that acknowledgments are a voluntary activity. Hence, authors can also decide not to acknowledge funding, colleagues, etc. (or forget to do so). This means that publications without acknowledgments do not necessarily imply that they do not have acknowledgment “debts.” In a sense, this is the same limitation as “citation amnesia” in citation analysis (Garfield, 1982 ), resulting here in a kind of “acknowledgment amnesia.” In addition, a kind of “acknowledgment blindness” could be suggested, because the reviewers of a journal can suggest missing citations if necessary, but with acknowledgments it is not possible to know if something that should be acknowledged is in fact missing.
+
+Despite these limitations, we argue that a large-scale analysis, such as the one presented in this study, can provide meaningful results.
+
+Several Center for Science and Technology Studies (CWTS) standard 2 indicators have also been considered:
+
+    P : total number of publications.
+    C : total number of citations (excluding self-citations).
+    CPP : citations per publication (excluding self-citations).
+    MNCS : Mean normalized citation score (excluding self-citations). This is the average impact of the publications as compared with the mean of citations in their subfields (here subfields are considered as the categories of the Journal Citation Reports [JCR]).
+    MNJS : Mean normalized journal citation score (excluding self-citations). This indicator measures the field-normalized impact of journals.
+
+A general classification of all the subfields covered by the WoS is used to analyze the distribution and presence of FA across main scientific disciplines. This classification is based on an aggregation of the JCR subject categories into the 16 main disciplines developed by Moed ( 2005 ).
+
+Finally, for the PIC acknowledgments, we searched (using wildcards) for a number of word strings that are suspected of indicating review and communication processes by referees of the journals or by colleagues of the authors. These keywords are the following: “review,” “referee,” “comment,” “suggestion,” “discussion,” “reading,” “advice,” “insight,” “inspiration,” “inspiring,” “correspondence,” “feedback,” “intellectual debt,” “intellectual influence,” “conversations,” and “remarks.”
+Results
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+
+First, some descriptive figures are presented on the data finally used in the analysis. A total of 1,648,130 publications from 2009 were gathered from the CWTS WoS database. From these publications, only citable items were considered (article, reviews and letters, excluding editorials, corrections, etc.), thus amounting to 1,253,909 publications finally included in the analysis.
+Main Figures on the Presence of FA and PIC in WoS Publications
+
+All the publications with an acknowledgment text in the WoS database in 2009 were detected and counted. The main indicators of the presence (or not) of acknowledgments in the WoS records are presented in Table  1 .
+Table 1.  General indicators of the FA distribution (publications from 2009) Publications 	P 	% 	C 	CPP 	MNCS 	MNJS
+
+    Note . FA = funding acknowledgment; P = total number of publications; C = total number of citations (excluding self-citations); CPP = citations per publication (excluding self-citations); MNCS = mean normalized citation score (excluding self-citations); MNJS = mean normalized journal citation score (excluding self-citations); PIC = peer interactive communication.
+
+    (*) % calculated based on the number of publications with FA information.
+
+Without acknowledgment information 	712,594 	56.8 	201,475 	0.28 	0.99 	0.89
+With acknowledgment information 	541,315 	43.2 	207,070 	0.38 	1.02 	1.15
+• With FA information 	541,260 	43.2 	207,062 	0.38 	1.02 	1.15
+— With FA & no PIC acknowledgments 	417,813 	77.2 ( * ) 	143,197 	0.34 	0.96 	1.10
+— With FA & PIC acknowledgments 	123,447 	22.8 ( * ) 	63,864 	0.52 	1.21 	1.30
+
+The number of publications with any type of acknowledgment amounts to 43% of all publications. This basically corresponds to publications with FA information, thus corroborating the observation that Thomson Reuters is collecting the acknowledgments of papers only when funding information is detected. Therefore, publications with acknowledgments but without funding information are not well represented in this figure. The number of publications with FA must be seen as a conservative measure of the total number of publications with acknowledgments. In other words, we can only assume that 56.8% of the publications do not have any FA information, but we do not know exactly how many of them do not have any acknowledgment at all.
+
+Publications with FA have on average more impact than publications without FA (CPP 0.38 vs. 0.28; MNCS 1.02 vs. 0.99) and they are also published in journals of higher impact (MNJS 1.15 vs. 0.89). Moreover, 23% of publications with FA include some indication of PIC, and it should be noted these publications present a higher impact as compared with those without PIC acknowledgments (CPP 0.52 vs. 0.34, MNCS 1.21 vs. 0.96 and MNJS 1.30 vs. 1.10).
+
+Table  1 also shows that papers with FA but without PIC have a higher non-normalized average impact (CPP) and are published in better journals (MNJS) than papers without FA. However, the latter have higher scores in their field-normalized impact (MNCS) as compared to the former.
+
+Table  2 presents the distribution of publications with FA by document types.
+Table 2.  Distribution of FA by document types Document Type 	Total pubs 	Pubs. with FA 	Pubs. with PIC 	%FA 	% with PIC ( * )
+
+    Note . FA = funding acknowledgment; PIC = peer interactive communication.
+
+    (*) % calculated based on the number of publications with FA information.
+
+Articles 	1141,960 	514,342 	114,805 	45.04 	22.3
+Reviews 	69,671 	26,970 	8,658 	38.71 	32.1
+Letters 	42,278 	3 	1 	0.01 	33.3
+
+First, letters show only a residual presence of FA, probably due to the short format of this document type. Second, comparing articles and reviews, the first type shows a higher share of publications with FA as compared with the second, indicating that review papers are proportionally less frequently done in the framework of funding programs (or at least less acknowledged by their authors) than regular articles. However, when we look at the presence of PIC among the publications with FA, then review papers tend to present more PIC acknowledgments than articles, suggesting that this is a document type that has more circulation and discussion among colleagues than regular articles.
+Length of the FA Text and the Impact of Publications
+
+In the next analysis, our focus is on the impact of the publications depending on the length of the “funding text” field tag (FT) of WoS, which is measured by the number of characters in the text. We calculated the MNCS indicator for every grouping of character length. In the analysis presented in Figure  1 , only acknowledgments with more than 30 and less than 800 characters were considered. In the figure, publications have been grouped by the length of the text in their FA and only those groups with at least 300 publications have been included in the analysis to avoid the potential distortons of occasional character-length groups with fewer publications. Figure  1 presents the correlation between the lengths of the FA text with the MNCS square root.
+figure
+
+Figure 1. Correlation of MNCS with the length of the FA text. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com .]
+
+Download figure to PowerPoint
+
+Although the correlation is not very high ( R 2  = 0.314), there is a positive relationship between the length of the funding text and the field-normalized impact of the publications.
+Length of the FA Text and the Collaboration of Publications
+
+In Figure  2 we have included up to those cases of coauthorship with at least 300 publications, thus the threshold is 23 authors per publication as from this number of coauthors onwards the number of publications involved is less than 300.
+figure
+
+Figure 2. Relationships between the length and presence of FA and the number of authors per publication. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com .]
+
+Download figure to PowerPoint
+
+The top graph in Figure  2 shows how the length of FA text has a clear linear relationship with the number of authors per publication, showing an increase of about six characters in length with every extra co-author. However, the bottom graph shows something relatively different. According to that graph, the share of publications with FA information has a positive relationship with collaboration. In general, publications with lower levels of collaboration (i.e., fewer authors) tend to less frequently contain FA, while with higher levels of collaboration there is an increase in the share of publications with FA. However, in contrast to the graph on top, this relationship is not linear but curvilinear, and this curvilinear pattern is consistent not only for the total of the publication (thick black line) but also for the different disciplines considered in the analysis (colored lines in the graph). 3 This suggests that there are “maximum points” in the relationship of authors/publication and the share of FA presence. When considering all WoS publications, this maximum point is reached with the group of 11 or more authors per publication, when the percentage of publications with FA reaches 60% but does not seem to move farther from here (differences by disciplines can be observed, but the pattern is quite consistent across them).
+FA Presence by Disciplines
+
+In the following analysis, we present the distribution of publications with FA information among scientific disciplines (Figure  3 ).
+figure
+
+Figure 3. Distribution of the share of publications with FA by main disciplines. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com .]
+
+Download figure to PowerPoint
+
+Publications in the natural sciences (including molecular biology and biochemistry, chemistry, physics and astronomy, geosciences, biological sciences, multidisciplinary journals) have the highest share of FA. Combined, the share of FA in the natural science disciplines is higher than 50%. There is a second group of disciplines with shares lower than 50% but higher than 20% of publications with FA information. Included in this group are applied/clinical sciences (engineering, clinical medicine), mathematics, social sciences applied to medicine, psychology, psychiatry, and behavioral sciences. There is also a third group with disciplines that have shares of FA lower than 10%. This group includes economics, social sciences, and humanities and arts, thus suggesting that these fields are less funded than the other basic and applied/clinical fields.
+FA Presence by Countries
+
+The next analysis focuses on the distribution of FA mentions within the papers of the most important countries (Figure  4 ). For this analysis we focused only on countries with more than 10,000 publications in 2009.
+figure
+
+Figure 4. Distribution of the share of publications with FA by countries. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com .]
+
+Download figure to PowerPoint
+
+The most striking result in Figure  4 is the dominant position of China, where more than 65% of the publications have an FA mention. Other countries that also have high levels of FA (more than 50% of their publications) are two Asian countries (South Korea and Taiwan), three Scandinavian countries (Sweden, Finland, and Denmark), Spain, and Canada. At the other end of the spectrum, with the lowest levels of funding mentions (less than 40%), are Turkey, Greece, Iran, Poland, India, Italy, and Israel. It is remarkable that at the end of this list we also find some European countries, such as The Netherlands, England, and France, which have FA in slightly less than 43% of their publications.
+Presence of PIC Acknowledgments in Publications
+
+In the following, our focus turns to the analysis of the presence of PIC acknowledgments within the text of the FA of scientific publications. Unfortunately, we cannot examine all the potential PIC activities of all the papers due to the above-mentioned limitation of Thomson Reuters, whereby collection of acknowledgments occurs only when funding information is detected. This is the reason the percentages of PIC acknowledgments are calculated based on the total number of papers with FA and not on all the papers (this holds for all the analyses based on PIC).
+Disciplines
+
+The distribution of PIC acknowledgments among the different main scientific fields is presented in Figure  5 .
+figure
+
+Figure 5. Share of publications with PIC acknowledgments by fields. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com .]
+
+Download figure to PowerPoint
+
+This figure shows a relatively inverse pattern compared to the distribution pattern of papers with FA by main disciplines shown in Figure  3 . Economics, humanities, social sciences, geosciences, and multidisciplinary fields are the ones that proportionally include more PIC acknowledgments (more than 40%). Conversely, some of the natural and biomedical sciences (chemistry, social sciences applied to medicine, applied physics and chemistry, clinical medicine, or biological sciences for humans) present the lowest levels of PIC acknowledgments (less than 20%).
+Countries
+
+The presence of publications with PIC acknowledgments by countries is displayed in Figure  6 .
+figure
+
+Figure 6. Share of publications with PIC acknowledgments by countries. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com .]
+
+Download figure to PowerPoint
+
+Figure 6 shows that among the countries with higher percentages of PIC (more than 25% of the FA publications with PIC), we find some of the strongest English-speaking countries (Australia, Canada, England and Scotland from the United Kingdom, and the United States), as well as other European countries including Switzerland, France, Germany, Austria, The Netherlands, and Denmark. In the second block, we find other non-English-speaking European countries (e.g., Sweden, Italy, Finland, Belgium, Spain, and Greece) and Japan, with 20–25% of their FA publications including PIC acknowledgments. Finally, there is a third block of countries with less than 20% of publications that include PIC mentions. This group comprises the BRIC countries (Brazil, Russia, India, and China) as well as other Asian and emerging countries (Taiwan, Iran, Turkey, and South Korea) and Poland.
+Collaboration of Authors
+
+Finally, the relationship of PIC presence and the number of collaborators in a paper is presented (Figure  7 ).
+figure
+
+Figure 7. Share of publications with PIC acknowledgments by collaboration. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com .]
+
+Download figure to PowerPoint
+
+Figure  7 shows that publications with fewer authors tend to present more PIC acknowledgments than publications with more collaboration. However, interestingly enough, there seems to be a turning point in the papers with 13 or more authors. In this group the percentage of papers with PIC acknowledgments tends to increase again.
+Discussion and Conclusions
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+
+The analysis of acknowledgments attached to publications is without doubt a very relevant but relatively untapped aspect in bibliometric studies. For many years, this “third edge” of the reward triangle has not been properly explored, while claims of its potential benefits have been suggested (Cronin et al., 1992 ; Cronin, McKenzie, Rubio, & Weaver-Wozniak, 1993 ; Cronin et al., 2004 ). Because of recent changes in the WoS, the analysis of the acknowledgments section of publications has become possible. WoS includes, since August 2008 (Thomson Reuters, 2011 ), the acknowledgment text of publications when they mention any funding source. However, the incompleteness of the data provided by WoS partially limits and jeopardizes the potential use of this source for more varied analytical purposes. In addition, the lack of information about the details of how acknowledgments are collected and how the possible different traditions and cultures of acknowledging across fields and journals are treated raise the question whether some biases can exist in the coverage of this type of information. More research on this problem would help to clarify this point and increase the reliability of this new source. Hopefully, database providers will also realize the important potential of this new source and will extend the data collection to all types of acknowledgments and provide more explanations about their methodologies.
+
+Two particular limitations must be taken into account in studying the results obtained in this study. First, we considered only a two-year citation window, so it must be assumed that the impact patterns observed will remain the same in the future. Second, we determined the PIC indications in the acknowledgment text based on word selection as described in the methodology. This could be insufficient for publications in languages other than English or with other means of signaling PIC. With these limitations in mind, the results presented must be seen as preliminary and future analysis should verify or discuss them. As such, there are interesting aspects of our initial research questions that warrant discussion.
+What Is the Global Distribution of FA Presence Across Publications?
+
+Publications with FA represent approximately 43% of all publications covered in the database. This value is in broad agreement with the results of Giles and Councill ( 2004 ), who found that approximately 56% of papers contained acknowledgments (includes all acknowledgments, not only FA). It is also in agreement with Cronin et al. ( 2003 ), who detected 49% of acknowledgments in papers from Psychological Review . Also, the values provided by Wang et al. (in press) for 10 different countries are fully in agreement with the global figures provided here.
+What Are the Document Types That Include More FA?
+
+Review papers tend to present proportionally less FA than regular articles, thereby suggesting they are less frequently a direct result of funded research. This may also imply lower levels of collaboration or scientific infrastructures. Salager-Meyer et al. ( 2011 ) also found fewer acknowledgments in review papers than in research papers. However, the observation that review papers include proportionally more PIC acknowledgments than regular papers suggests that this document type is subject to more comments from and discussions with colleagues than other document types. A potential conclusion is that regular articles need more collaboration and infrastructure, which requires more funding, while review papers require less infrastructure and funding but involve more interaction with other colleagues. The inclusion of all acknowledgments from all papers in the database could help to clarify this issue.
+Do Publications With FA Have Higher Impact Than Publications Without FA?
+
+Publications with FA present an overall higher impact as compared with publications without FA. Levitt ( 2011 ) also found that papers with NSF (U.S. National Science Foundation) acknowledgments were more frequently cited than non-NSF-funded publications. The results of Giles and Councill ( 2004 ) also support this observation, as they found some correlation between funding organizations and the impact of their papers.
+
+However, a remarkable result of our study is that publications that present only FA (without PIC) are published in high-impact journals, but they present a lower field-normalized impact (MNCS) as compared with publications without FA. Leaving aside the potential limitation of the citation window, this could be interpreted as an indication that funding is one driving force in reaching higher impact journals (as Levitt, 2011 , already pointed out), but not the only factor for finally achieving higher impact.
+Is the Length of FA Text Related to the Impact of Publications?
+
+Publications with longer FA texts, which could reasonably be seen as publications with more funding sources, have only a slightly higher impact. This is in line with the findings of Rigby ( 2011 , p. 373) that “a positive relationship does exist between the number of funding sources of a paper and citation impact, albeit a relatively weak one.” This claim suggests the relationship between the number of funding sources and the impact of papers is somehow more complex and deserves more research.
+Is There Any Relationship Between FA and Collaboration in Publications?
+
+Publications with fewer authors tend to be less funded than collaborative publications. This reinforces the idea that funded research is more frequent in fields where collaboration and big scientific infrastructures are important characteristics than in fields where collaboration and special infrastructures are less common (e.g., humanities and social sciences). It is notable that the relationship between the share of publications done in the framework of funding programs and the level of collaboration (i.e., the number of authors per publication) has a curvilinear relationship, this being the case for most of the disciplines studied in this article. This may suggest that even in the more collaborative and stronger disciplines some unfunded, curiosity-driven research is still carried out, or simply that in these disciplines an important part of scientific activity is not directly funded.
+
+What is clear is that the level of collaboration in the publications is related to the length of the FA text, which could be reasonably related to a broader presence of different funding sources in the acknowledgments (i.e., more co-authors acknowledging more different funding sources). A potential explanation for this finding is that the different authors of collaborative publications (especially internationally collaborative publications) bring their own different financial support to a project and they acknowledge this separately. This aspect of the presence of co-funding in collaborative publications has been previously discussed by Wang and Shapira ( 2011 , p. 583) in their study of nanotechnology. They show that “national boundaries still matter” and that “national FAs overall remain more important than international ones” (with the exception of the European Union). This supports the idea that in international collaborative publications the authors tend to acknowledge their local funding sources separately.
+
+Finally, it can be argued that higher impact publications with FA and longer FA texts could be related to a higher level of collaboration observed in these publications. Publications created in collaboration and especially in international collaboration tend to present a higher impact and visibility (Bordons, García-Jover, & Barrigón, 1993 ; Katz & Hicks, 1997 ; Narin, Stevens, & Whitlow, 1991 ; van Leeuwen, 2009 ). As a consequence, the higher impact publications with FA could be influenced by the higher collaboration level of these publications. In this sense, funding could be seen as a facilitator of collaboration more than a direct influence over the impact of publications. Future research should focus on disentangling the different influences of collaboration and funding on the impact of publications.
+Which Scientific Fields Are More Likely to Acknowledge Funding?
+
+The distribution of the papers with FA by scientific disciplines shows a clear bias towards the more basic disciplines. Cronin et al. ( 2004 ) also found different levels of intensity of acknowledgments across disciplines, with chemistry articles having the highest share of acknowledgments (75%), followed by psychology (49%) and philosophy (25%). This supports the general pattern observed in our results: Natural sciences tend to include more FA, followed by the social sciences and finally the humanities.
+
+The explanation for this pattern, also suggested by Cronin et al. ( 2004 ) and Wanner, Lewis, and Gregorio ( 1981 ), is that research in the natural sciences requires more material and physical collaboration, needing more resources and external support as compared with the humanities and social sciences. Moreover, research in the natural sciences is often carried out by teams requiring substantial funding for equipment and support personnel, while in the humanities, scholars more often work alone, with a lower need for capital investment in buildings and instrumentation.
+
+However, it could be also argued that this low share of FA in the social sciences and humanities is influenced by cultural factors. Most research in these fields is funded by basic research programs, based on direct funding that does not require mandatory acknowledgment. In contrast, the basic research that belongs to the more densely funded fields has, as a consequence, a broader tradition in formal, and probably also mandatory, acknowledgment of their funding sources. This is something that has not yet been developed in the social sciences and humanities.
+
+Finally, it is interesting to note how the most applied fields tend to show a relatively lower level of FA, which suggests that in these fields funding comes from sources that do not necessarily require any explicit acknowledgment (e.g., private companies, industry, contracts).
+In Which Countries Are Papers More Likely to Acknowledge Funding?
+
+The main results by countries show that some countries present a higher share of publications with FA (e.g., China, Sweden, South Korea, Finland, or Spain), while other countries have lower levels of publications with FA (e.g., Turkey, Greece, Iran, Poland). These results are in agreement with the results presented by Wang et al. (in press) for a selection of 10 countries. There are several possible explanations for the different patterns across countries:
+
+    The existence of mandatory regulations for explicit mention of the funding received across the different national scientific systems.
+    The existence of different types of basic or applied funding sources across countries that do not have similar acknowledgment requirements (e.g., in The Netherlands with the so-called “third money flow”; Smits, 1985 , based on contract research). Countries with lower shares of FA could also be related to systems with more basic direct funding that do not require explicit acknowledgments.
+    The different disciplinary orientations across countries, with some countries focusing less on humanities and social sciences and clinical/applied sciences than others. In this sense, cultural differences across countries could also play a role in the acknowledgment of funding.
+
+In general, it can be suggested that differences in the share of FA by countries also represent different traditions of funding scientific research across countries. These differences are worth being studied more deeply in the future.
+
+The case of China representing a predominant share of FA in its publications is notable, as observed by Wang et al. (in press) . Among the reasons for this strong pattern in China, we suggest the following: a different orientation in its scientific lines as compared with other countries (with a greater focus on natural sciences and engineering; Science-Metrix, 2010 ); a strong investment in research in this country in recent years (Royal Society, 2011 ); cultural differences in authorship and acknowledgment in Asian countries (Salager-Meyer et al., 2011 ; Salita, 2010 ) with stronger ideas of gratitude; and also the idea that Chinese researchers use more of their funding as a signal of potential research capacity. 4
+
+Building on this last idea of acknowledgments as a sign of strength, the concept of the “handicap principle” for citations suggested by Nicolaisen ( 2007 ) and Nicolaisen and Frandsen ( 2007 ) perhaps could be applied to acknowledgments, too, in the way that authors acknowledge sources of funding and the PIC of other strong colleagues as a “cost signaling” element. In the words of Ben-Ari ( 1987 , p. 67), the authors of the papers with acknowledgments could be sending a meta-message of “listen to me because I am related to someone important enough not to be ignored”. 5
+Can PIC Acknowledgments Be Analyzed Through the FA Text? Do PICs Have Any Effect on the Impact of Publications? Are There Different Patterns in the PIC Activities Across Disciplines, Countries, and Document Types?
+
+Analysis of the PIC acknowledgments by researchers, showing gratitude toward other colleagues and scientists who have reviewed or discussed their papers, is possible through the new tools provided by WoS. However, the new tools are limited due to the restrictions in data collection discussed above.
+
+Our main conclusion from the analysis of PIC acknowledgments is that they have a positive relationship with the impact of the publications. In addition, the fact that review papers also present proportionally more PIC acknowledgments suggests that reviews, which are also more often cited (Peters & van Raan, 1994 ), discuss and condense more different views and perspectives in a given domain, thus requiring exchange of ideas with other colleagues.
+
+The fact that publications with lower levels of collaboration also include more PIC acknowledgments suggests that when authors publish alone, there is a higher frequency of comments and opinions from other colleagues. In contrast, when authors publish collaboratively the different views among co-authors are already incorporated in the text, so they include fewer PIC acknowledgments. This finding also supports the conceptual relationship between acknowledgments and authorship. It can be argued that when scientists collaborate less, an acknowledgment may compensate for comments and opinions provided by other persons. This would in turn validate and corroborate the idea of acknowledgments as a kind of “subauthorship.”
+
+If PIC acknowledgments also indicate a kind of subauthorship, then perhaps the higher impact of publications with FA and PIC could be influenced by this extra “subcollaboration” type. In other words, the higher impact of publications with FA and PIC is intermediated by the broader collaborative spectrum of these publications, with more coauthors or sub-coauthors. Complementary to this is Rigby's idea ( 2011 , p. 367) that “the link between funding and impact is that the more often an individual research idea is successfully peer reviewed, which it would be if it were the subject of a grant application that was funded, the more plausible to peers it is and the more likely it is to lead to research of high quality.” It could be argued that the PIC activities of researchers can also work as a form of extra “peer review” before publication, thus enhancing the quality of the research.
+
+The social sciences and humanities present proportionally more PIC acknowledgments than do other fields. In line with the previous statements, it can be argued that the higher level of PIC in these fields is a way of compensating for the lower levels of collaboration, which occurs more frequently by comparison with other fields from the natural and basic sciences. Another complementary explanation can be the time lag in the production of publications in the social sciences and humanities as compared to the natural sciences. The first group has a slower pace of publication where researchers can spend more time discussing their findings, preprints, etc., while the second group corresponds to fields with a much faster publication process and much faster obsolescence of new findings. As such, this allows less time for authors to ask for and receive feedback about their manuscripts from other colleagues.
+
+Finally the analysis by country also shows an interesting pattern in which English-speaking countries display among the highest degree of acknowledgments of PIC activities. 6 However, this can be partly explained by better coverage in the WoS of humanities and social sciences output from English-speaking countries. This is followed mostly by European non-English-speaking countries (which could also have more papers with acknowledgments in their own language and thus not recorded by WoS) and finally by some Asian countries, the BRIC counties, and other emerging countries. The main explanation of this position for the last group could be that these countries are quickly growing in production (Rons, 2011 ) and developing their research systems by investing more resources in research and rapidly increasing their scientific output (Royal Society, 2011 ). However, they are still lacking part of the scientific culture of other countries as they are not yet fully incorporated into the so-called international “invisible colleges” (Price, 1986 ; Zuccala, 2006 ), which are networks of scientists where the communication and discussion of ideas, the exchange of preprints, information and data, etc., are characteristic elements. This idea of the potential isolation of researchers from these countries was previously suggested by Arunachalam ( 2005 ) and Luo ( 2007 ).
+Future Research
+
+Although our analysis has some methodological and technical limitations, there is no doubt that analysis of acknowledgments in scientific publications offers new opportunities for studying scientific influence and the relationships among scientists, research organizations, funding agencies, etc. The development of new lines of research on this topic will also provoke new theoretical and empirical research questions (Rigby, 2011 ). In the same fashion as happened with citations (Nicolaisen, 2007 ), a theoretical framework for the analysis of acknowledgments will be necessary. A new theoretical framework would help address questions such as those already suggested by Cronin and Weaver, ( 1995 ): What do acknowledgments mean and measure? Why do authors acknowledge? What do they acknowledge? When do they acknowledge? What is the role of acknowledging in scientific communication? Are theories for citation analysis (e.g., normative and constructivist) also valid for the understanding of acknowledgments? What if we could (as we can) study and measure them in a systematic way? Would this possibility change the behavior of scientists in their acknowledging practices?
+
+Further research will be necessary to study more deeply the role of FA, and acknowledgments in general, in scientific publications. In addition to the enlargement of the citation window, there are other remarkable possibilities, such as analyzing the persons, organizations, etc., that give and receive acknowledgments, allowing the possibility of studying other aspects like the roles of scientists and organizations in knowledge production, the evolution of these roles over time, and the different networks that can be extracted from acknowledgments. In addition, multivariable analysis will be also useful to analyze how all the variables (collaboration, length of the acknowledgments, type of funding, PIC indicators, other types of acknowledgments, publication journals, etc.) interact and correlate with each other, and how they may influence the impact and visibility of publications.
+
+Finally, it is important to mention that as far back as 1995, Cronin and Weaver suggested the potential development of a sister tool for the Science Citation Index, which they termed the Acknowledgment Index . They also provided instructions on how this new tool could be implemented. Perhaps the time has come to employ this sort of tool to facilitate development of the so-called “influmetrics.” In combination with other new emerging analytical approaches, such as altmetrics, bookmarking analysis, blogging analysis, and webometrics among others (Gorth & Gurney, 2010 ; Priem & Hemminger, 2010 ; Priem, Taraborelli, Groth, & Neylon, 2010 ; Wouters & Costas, 2012 ), this could increase the analytical spectrum of different types of influences that scientific activities can have over the scientific community and society at large.
+Acknowledgments
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+
+We are very grateful to Andrew Ford and Wang Chan from the Australian Department of Innovation, Industry, Science and Research for their insights into the Chinese scientific system and the role of funding acknowledgments in that country; and also to Sarah de Rijcke and Clifford Tatum from CWTS and Jue Wang from the Georgia Institute of Technology for their valuable comments and suggestions. The referees of the journal also contributed significantly to the improvement of the original manuscript.
+
+    1
+
+    The FA information is split in three different field tags: funding agency (FO), grant number (FG), and funding text (FT). The last one is the full text of the acknowledgment given in the paper. In this article, we refer mainly to this particular field.
+    2
+
+    For a description and discussion of these indicators, see Waltman, van Eck, van Leeuwen, Visser, and van Raan ( 2011 ).
+    3
+
+    Most of the disciplines have their maximum points around the values of 60–70% of publications with FA. However, there are exceptions, such as molecular biology and biochemistry or the multidisciplinary journals, that clearly exceed this threshold (above 70% in both cases), as well as other disciplines that barely reach the value of 60% (i.e., the humanities and social sciences).
+    4
+
+    The NSFC and the Ministry of Science and Technology of China have an unwritten rule that acknowledging grant funding makes scientists more likely to receive future funding. In order to gain access to international collaboration funding, Chinese applicants must have proven their ability with a 3-year domestic grant; this means that acknowledging 3-year domestic grants allows scientists to signal to other partners that they are eligible to apply for international collaboration funding.
+    5
+
+    In this sense, it can be assumed that everybody can cite any relevant or eminent researcher, but acknowledging such a researcher is more difficult and it would imply a minimum level of interaction with that researcher.
+    6
+
+    According to Salager-Meyer et al. ( 2011 , p. 777), “Anglo-American medical researchers … have always been more prone to acknowledge those who might have had an influence upon the final draft of the published article,” because acknowledgments have been mandatory in English-language medical journals since the late 1970s.
+
+References
+
+    Top of page
+    Abstract
+    Introduction
+    Objectives
+    Methodology
+    Results
+    Discussion and Conclusions
+    Acknowledgments
+    References
+
+    Abramo, G. , D'Angelo, C.A. , & Caprasecca, A. ( 2009 ). Allocative efficiency in public research funding: Can bibliometrics help? Research Policy , 38 , 206 – 215 .
+        CrossRef ,
+        Web of Science® Times Cited: 24
+    Arunachalam, S. ( 2005 ). Science on the periphery: Bridging the information divide . In H.F. Moed , W. Glänzel , & U. Schmoch (Eds.), Handbook of quantitative science and technology research: The use of publication and patent statistics in studies on S&T Systems (pp. 163 – 183 ). New York, NY : Kluwer Academic Publishers.
+    Atkinson, D. ( 1999 ). Scientific discourse in sociohistorical context: The philosophical transactions of the Royal Society of London (pp. 1675 – 1975 ). Mahwah, NJ : Erlbaum.
+    Ben-Ari, E. ( 1987 ). On acknowledgments in ethnographies . Journal of Anthropological Research , 43 ( 1 ), 63 – 84 .
+    Bordons, M. , García-Jover, F. , & Barrigón, S. ( 1993 ). Is collaboration improving research visibility? Spanish scientific output in pharmacology and pharmacy . Research Evaluation , 3 ( 1 ), 19 – 24 .
+    Building Rural Communities Fund . ( 2011 ). Building Rural Communities Fund: Funding acknowledgement . Retrieved from http://203.210.126.185/dsdweb/v4/apps/web/secure/docs/4467.pdf
+    Butler, L. ( 2001 ). Revisiting bibliometric issues using new empirical data . Research Evaluation , 10 ( 1 ), 59 – 65 .
+        CrossRef ,
+        Web of Science® Times Cited: 8
+    Butler, L. , Biglia, B. , & Bourke, P. ( 1998 ). Australian biomedical research: Funding acknowledgments and performance . Australia : National Health and Medical Research Council. Retrieved from http://www.nhmrc.gov.au/_files_nhmrc/publications/attachments/r9.pdf
+    Butler, L. , Biglia, B. , & Henadeera, K. ( 2005 ). NHMRC–supported research: The impact of journal publication output 1999–2003 . Australia : National Health and Medical Research Council. Retrieved from http://www.nhmrc.gov.au/_files_nhmrc/publications/attachments/nh75.pdf
+    CHONe . ( 2011 ). Funding acknowledgement–Standardized text . Retrieved from http://chone.marinebiodiversity.ca/members/forms-useful-downloads/funding-acknowledgement-standardized-text
+    Claxton, L.D. ( 2005 ). Scientific authorship. Part 2. History, recurring issues, practices and guidelines . Mutation Research , 589 , 31 – 45 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 40
+    Costas, R. , & van Leeuwen, T.N. ( 2011 ). Unraveling the complexity of thanking: Preliminary analyses on the “Funding Acknowledgment” field of Web of Science database . In Proceedings of the 16 th Nordic Workshop on Bibliometrics and Research Policy. September 22–23. Aalborg: Royal School of Library and Information Science . Retrieved from http://itlab.dbit.dk/~nbw2011/abstracts_NBW.pdf
+    Cronin, B. , McKenzie, G. , & Rubio, L. ( 1993 ). The norms of acknowledgement in four humanities and social sciences disciplines . Journal of Documentation , 49 ( 1 ), 29 – 43 .
+        CrossRef ,
+        Web of Science® Times Cited: 16
+    Cronin, B. , McKenzie, G. , Rubio, L. , & Weaver-Wozniak, S. ( 1993 ). Accounting for influence: Acknowledgments in contemporary sociology . Journal of the American Society for Information Science , 44 ( 7 ), 406 – 412 .
+    Direct Link:
+        Abstract
+        PDF(687K)
+        References
+        Web of Science® Times Cited: 11
+    Cronin, B. , McKenzie, G. , & Stiffler, M. ( 1992 ). Patterns of acknowledgement . Journal of Documentation , 48 ( 2 ), 107 – 122 .
+        CrossRef ,
+        Web of Science® Times Cited: 14
+    Cronin, B. , Shaw, D. , & La Barre , K. ( 2003 ). A cast of thousands: Coauthorship and subauthorship collaboration in the 20 th century as manifested in the scholarly literature of psychology and philosophy . Journal of the American Society for Information Science and Technology , 54 ( 9 ), 855 – 871 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(217K)
+        References
+        Web of Science® Times Cited: 49
+    Cronin, B. , Shaw, D. , & La Barre, K. ( 2004 ). Visible, less visible, and invisible work: Patterns of collaboration in 20 th century chemistry . Journal of the American Society for Information Science and Technology , 55 ( 2 ), 160 – 168 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(122K)
+        References
+        Web of Science® Times Cited: 27
+    Cronin, B. , & Weaver, S. ( 1995 ). The praxis of acknowledgement: From bibliometrics to influmetrics . Revista Española de Documentación Científica , 18 ( 2 ), 172 – 177 .
+        CrossRef
+    Davis, C.H. , & Cronin, B. ( 1993 ). Acknowledgments and intellectual indebtedness: A bibliometric conjecture . Journal of the American Society for Information Science and Technology , 44 ( 10 ), 590 – 592 .
+    Direct Link:
+        Abstract
+        PDF(316K)
+        References
+        Web of Science® Times Cited: 14
+    Edler, J. , & Rigby, J. ( 2004 ). Research network programmes evaluation for the Austrian Science Fund (FWF) . PREST, Fraunhofer Institure systems and Innovation Research . Retrieved from http://www.fwf.ac.at/de/downloads/pdf/networks_evaluation.pdf
+    Garfield, E. ( 1982 ). More on the ethics of scientific publication: Abuses of authorship attribution and citation amnesia undermine the reward system of science . Essays of an Information Scientist , 3 , 215 – 218 . Retrieved from http://www.garfield.library.upenn.edu/essays/v5p621y1981-82.pdf
+    Gesuato, S. ( 2004 ). Acknowledgments in PhD dissertations: The complexity of thanking . In C.T. Torsello , M.G. Busa , & S. Gesuato (Eds.), Lingua inglese e mediazione linguistica. Ricerca e didattica con supporto telematico (pp. 273 – 318 ). [English language and linguistic mediation. Research and teaching with electronic media] Padova : Unipress.
+    Giles, C.L. , & Councill, I.G. ( 2004 ). Who gets acknowledged: Measuring scientific contributions through automatic acknowledgment indexing . Proceedings of the National Academy of Sciences , 101 ( 51 ), 17599 – 17604 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 32 ,
+        ADS
+    Groth, P. , & Gurney, T. ( 2010 ). Studying scientific discourse on the web using bibliometrics: A chemistry blogging case study . In Proceedings of the WebSci10: Extending the Frontiers of Society On-Line. Raleigh, NC . Retrieved from http://journal.webscience.org/308/2/websci10_submission_48.pdf
+    Hyland, K. ( 2004 ). Graduates' gratitude: The generic structure of dissertation acknowledgements . English for Scientific Purposes , 23 , 303 – 324 .
+        CrossRef ,
+        Web of Science® Times Cited: 10
+    International Committee of Medical Journal Editors . ( 2011 ). Uniform requirements for manuscripts submitted to biomedical journals: Ethical considerations in the conduct and reporting of research: Authorship and contributorship . Retrieved from http://www.icmje.org/ethical_1author.html
+    Kassirer, J.P. , & Angell, M. ( 1991 ). On authorship and acknowledgments . New England Journal of Medicine , 325 , 1510 – 1512 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 56
+    Katz, J.S. , & Hicks, B.R. ( 1997 ). How much is collaboration worth? A calibrated bibliometric model . Scientometrics , 40 ( 3 ), 541 – 554 .
+        CrossRef ,
+        Web of Science® Times Cited: 56
+    Laudel, G. ( 2002 ). What do we measure by co-authorships? Research Evaluation , 11 ( 1 ), 3 – 15 .
+        CrossRef ,
+        Web of Science® Times Cited: 53
+    Levitt, J.M. ( 2011 ). Are funded articles more highly cited than unfunded articles? A preliminary investigation . In E. Noyons , P. Ngulube , & J. Leta (Eds.), Proceedings of ISSI 2011: The 13th Conference of the International Society for Scientometrics and Informetrics (pp. 1013 – 1015 ). Durban : ISSI.
+        Web of Science®
+    Luo, A. ( 2007 ). Informal communication in collaboratories . Proceedings of the American Society for Information Science and Technology , 43 ( 1 ), 1 – 16 .
+    McCain, K.W. ( 1991 ). Communication, competition and secrecy: The production and dissemination of research-related information in genetics . Science, Technology & Human Values , 16 ( 4 ), 491 – 516 .
+        CrossRef ,
+        Web of Science® Times Cited: 49
+    Moed, H. ( 2005 ). Citation analysis in research evaluation . Dordrecht : The Netherlands Springer.
+    Narin, F. , Stevens, K. , & Whitlow, E.S. ( 1991 ). Scientific cooperation in Europe and the citation of multinationally authored papers . Scientometrics , 21 , 313 – 323 .
+        CrossRef ,
+        Web of Science® Times Cited: 125
+    National Institutes of Health . ( 2011 ). Acknowledging NIH support . Retrieved from http://nccam.nih.gov/grants/policies/acknowledgement.htm
+    National Science Foundation . ( 2009 ). Grant Policy Manual NSF 05–131_VII . Other Grant Requirements . Retrieved from http://www.nsf.gov/pubs/policydocs/papp/aag_6.jsp
+    Nicolaisen, J. ( 2007 ). Citation analysis . Annual Review of Information Science and Technology , 41 , 609 – 641 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(2105K)
+        References
+        Web of Science® Times Cited: 36
+    Nicolaisen, J. , & Frandsen, T.F. ( 2007 ). The handicap principle: A new perspective for library and information science and information science research . Information Research , 12 ( 4 ). Retrieved from http://informationr.net/ir/12-4/colis/colis23.html
+        Web of Science®
+    Peters, H.P.F. , & van Raan, A.F.J. ( 1994 ). On determinants of citations scores: A case study in Chemical Engineering . Journal of the American Society for Information Science , 45 ( 1 ), 39 – 49 .
+    Direct Link:
+        Abstract
+        PDF(1314K)
+        References
+        Web of Science® Times Cited: 30
+    Price, D.J. de Solla ( 1986 ). Little science, big science . . . and beyond . New York : Columbia University Press. Retrieved from http://garfield.library.upenn.edu/essays/v10p072y1987.pdf
+    Priem, J. , & Hemminger, B. ( 2010 ). Scientometrics 2.0: Toward new metrics of scholarly impact on the social Web . First Monday , 15 ( 7 ). Retrieved from http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2874/2570
+    Priem, J. , Taraborelli, D. , Groth, P. , & Neylon, C. ( 2010 ). Almetrics: A manifesto . Retrieved from http://altmetrics.org/manifesto/
+    Rennie, D. , Yank, V. , & Emanuel, L. ( 1997 ). When authorship fails: A proposal to make contributors accountable . Journal of the American Medical Association , 278 ( 7 ), 579 – 585 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 242
+    Rigby, J. ( 2011 ). Systematic grant and funding body acknowledgment data for publications: New dimensions and new controversies for research policy and evaluation . Research Evaluation , 20 ( 5 ), 365 – 375 .
+        CrossRef ,
+        Web of Science®
+    Rons, N. ( 2011 ). Research excellence milestones of BRIC and N-11 countries . In E. Noyons , P. Ngulube , & J. Leta (Eds.), Proceedings of ISSI 2011: The 13 th Conference of the International Society for Scientometrics and Informetrics (pp. 1049 – 1051 ). Durban: ISSI.
+    Royal Society . ( 2011 ). Knowledge, networks and nations . London : The Royal Society. Retrieved from http://royalsociety.org/uploadedFiles/Royal_Society_Content/policy/publications/2011/4294976134.pdf
+    Salager-Meyer, F. , Alcaraz-Ariza, M.A. , Briceno, M.L. , & Jabbour, G. ( 2011 ). Scholarly gratitude in five geographical contexts: A diachronic and cross-generic approach of the acknowledgment paratext in medical discourse (1950–2010) . Scientometrics , 86 ( 3 ), 763 – 784 .
+        CrossRef ,
+        Web of Science®
+    Salita, J.T. ( 2010 ). Authorship practices in Asian cultures . The Journal of the European Medical Writers Association , 19 ( 1 ), 36 – 38
+    Science-Metrix . ( 2010 ). 30 years in science: Secular movements in knowledge creation . Science-Metrix. Retrieved from http://www.science-metrix.com/30years-Paper.pdf
+    Shapira, P. , & Wang, J. ( 2010 ). Follow the money . Nature , 468 , 627 – 628 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 6 ,
+        ADS
+    Smits, P. ( 1985 ). Research on education in developing countries: An inventory of Dutch projects and programmes . International Journal of Educational Development , 5 ( 3 ), 147 – 154 .
+        CrossRef
+    Thomson Reuters . ( 2011 ). Funding acknowledgements . Retrieved from http://wokinfo.com/products_tools/multidisciplinary/webofscience/fundingsearch/
+    Tiew, W.S. , & Sen, B.K. ( 2002 ). Acknowledgment patterns in research articles: A bibliometric study based on Journal of Natural Rubber Research 1986–1997 . Malaysian Journal of Library & Information Science , 7 ( 1 ), 43 – 56 .
+    van Leeuwen, T.N. ( 2009 ). Strength and weakness of national science systems: A bibliometric analysis through cooperation patterns . Scientometrics 79 ( 1 ), 389 – 408 .
+        CrossRef ,
+        Web of Science® Times Cited: 5
+    Waltman, L. , van Eck, N.J. , van Leeuwen, T.N. , Visser, M.S. , & van Raan, A.F.J. ( 2011 ). Towards a new crown indicator: some theoretical considerations . Journal of Informetrics , 5 ( 1 ), 37 – 47 .
+        CrossRef ,
+        Web of Science® Times Cited: 32
+    Wang, J. , & Shapira, P. ( 2011 ). Funding acknowledgement analysis: An enhanced tool to investigate research sponsorship impacts: The case of nanotechnology . Scientometrics , 87 ( 3 ), 563 – 586 .
+        CrossRef ,
+        Web of Science® Times Cited: 3
+    Wang, X. , Liu, D. , Ding, K. , & Wang, X. (in press). Science funding and research output: a study on 10 countries . Scientometrics .
+    Wanner, R.A. , Lewis, L.S. , & Gregorio, D.I. ( 1981 ). Research productivity in academia: A comparative study of the sciences, social sciences and humanities . Sociology of Education , 54 , 238 – 253 .
+        CrossRef ,
+        Web of Science® Times Cited: 53
+    Wouters, P. , & Costas, R. ( 2012 ). Users, narcissism and control – Tracking the impact of scholarly publications in the 21st century . Utrecht : SURFfoundation. Retrieved from http://www.surffoundation.nl/nl/publicaties/Documents/Users%20narcissism%20and%20control.pdf
+    Zuccala, A. ( 2006 ). Modeling the invisible college . Journal of the American Society for Information Science and Technology , 57 ( 2 ), 152 – 168 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(488K)
+        References
+        Web of Science® Times Cited: 32
+
+Get PDF (1081K)
+More content like this
+Find more content:
+
+    like this article
+
+Find more content written by:
+
+    Rodrigo Costas
+    Thed N. van Leeuwen
+    All Authors
+
+    Publications
+    Browse by Subject
+    Resources
+
+    About Us
+    Help
+    Contact Us
+    Agents
+    Advertisers
+    Media
+    Privacy
+    Cookies
+    Terms & Conditions
+    Site Map
+
+Copyright © 1999-2014 John Wiley & Sons, Inc. All Rights Reserved.
+
+    About Wiley
+    Wiley.com
+    Wiley Job Network
+    Wiley
+

@@ -1,0 +1,1218 @@
+altmetrics.org
+Skip to content
+
+    about
+    altmetrics: a manifesto
+    altmetrics11: Tracking scholarly impact on the social Web
+        Putting Scientometrics 2.0 in its Place [v0]
+        Using the Co-Citation Network to Indicate Article Impact [v0]
+        Characteristics of Researchblogging.org science Blogs and Bloggers [v0]
+        UCount: a Community-Driven Approach for Measuring Scientific Reputation [v0]
+        Altmetrics for Eurekometrics [v0]
+        Acknowledging contributions to online expert assistance [v0]
+        Who are we talking about?: the validity of online metrics for commenting on science [v0]
+        Aggregated Erevnametrics: bringing together alt-metrics through Research Objects [v0]
+        Bibliometrics and the Culture of Open Access [v0.1]
+        Measuring impact in online resources with the CI-­number (the CitedIn Number for online impact)
+        Altmetrics: Peer Evaluation, a case study [v0]
+        The search for alternative metrics for taxonomy [v0]
+        Re-use as Impact: How re-assessing what we mean by “impact” can support improving the return on public investment, develop open research practice, and widen engagement [v0]
+        Relative Trends in Scientific Terms on Twitter [v0]
+        test post
+    Events
+        Event Locations
+        Event Categories
+        My Bookings
+    press
+    The Altmetrics Collection
+    Tools
+    altmetrics12
+        JASIST@mendeley
+        Altmetrics will be taken personally at PLoS
+        A Case Study in Anti-Gaming Mechanisms for Altmetrics: PLoS ALMs and DataTrust
+        Social metrics for research: quantity and quality
+        Reproducibility: An important altmetric
+        Peer review, altmetrics, and ex ante broader impacts assessment – a proposal
+        The Role of altmetrics and Peer Review in the Democratization of Knowledge
+        Structural Patterns in Online Usage
+        Of Caterpillars and Butterflies: The Life and Afterlife of an ArXiv e-Print
+        Altmetrics in the Wild: Using Social Media to Explore Scholarly Impact
+        altmetrics12 program
+        Altmetrics and Academia.edu
+    altmetrics14: expanding impacts and metrics
+    media
+
+altmetrics: a manifesto
+
+No one can read everything.  We rely on filters to make sense of the scholarly literature, but the narrow, traditional filters are being swamped. However, the growth of new, online scholarly tools allows us to make new filters; these altmetrics reflect the broad, rapid impact of scholarship in this burgeoning ecosystem. We call for more tools and research based on altmetrics.
+
+As the volume of academic literature explodes, scholars rely on filters to select the most relevant and significant sources from the rest. Unfortunately, scholarship’s three main filters for importance are failing:
+
+    Peer-review has served scholarship well, but is beginning to show its age. It is slow, encourages conventionality, and fails to hold reviewers accountable. Moreover, given that most papers are eventually published somewhere, peer-review fails to limit the volume of research.
+    Citation counting measures are useful, but not sufficient. Metrics like the h-index are even slower than peer-review: a work’s first citation can take years .  Citation measures are narrow;  influential work may remain uncited.  These metrics are narrow; they neglect impact outside the academy, and also ignore the context and reasons for citation.
+    The JIF, which measures journals’ average citations per article, is often incorrectly used to assess the impact of individual articles.  It’s troubling that the exact details of the JIF are a trade secret , and that   significant gaming is relatively easy .
+
+Tomorrow’s filters: altmetrics
+
+In growing numbers, scholars are moving their everyday work to the web. Online reference managers Zotero and Mendeley each claim to store over 40 million articles (making them substantially larger than PubMed); as many as a third of scholars are on Twitter , and a growing number tend scholarly blogs.
+
+These new forms reflect and transmit scholarly impact: that dog-eared (but uncited) article that used to live on a shelf now lives in Mendeley, CiteULike , or Zotero–where we can see and count it. That hallway conversation about a recent finding has moved to blogs and social networks–now, we can listen in. The local genomics dataset has moved to an online repository–now, we can track it. This diverse group of activities forms a composite trace of impact far richer than any available before. We call the elements of this trace altmetrics.
+
+Altmetrics expand our view of what impact looks like, but also of what’s making the impact. This matters because expressions of scholarship are becoming more diverse. Articles are increasingly joined by:
+
+    The sharing of “raw science” like datasets, code, and experimental designs
+    Semantic publishing or “nanopublication,” where the citeable unit is an argument or passage rather than entire article.
+    Widespread self-publishing via blogging, microblogging, and comments or annotations on existing work.
+
+Because altmetrics are themselves diverse, they’re great for measuring impact in this diverse scholarly ecosystem. In fact, altmetrics will be essential to sift these new forms, since they’re outside the scope of traditional filters. This diversity can also help in measuring the aggregate impact of the research enterprise itself.
+
+Altmetrics are fast, using public APIs to gather data in days or weeks. They’re open–not just the data, but the scripts and algorithms that collect and interpret it. Altmetrics look beyond counting and emphasize semantic content like usernames, timestamps, and tags. Altmetrics aren’t citations, nor are they webometrics; although these latter approaches are related to altmetrics, they are relatively slow, unstructured, and closed.
+How can altmetrics improve existing filters?
+
+With altmetrics, we can crowdsource peer-review. Instead of waiting months for two opinions, an article’s impact might be assessed by thousands of conversations and bookmarks in a week. In the short term, this is likely to supplement traditional peer-review, perhaps augmenting rapid review in journals like PLoS ONE , BMC Research Notes , or BMJ Open . In the future, greater participation and better systems for identifying expert contributors may allow peer review to be performed entirely from altmetrics. Unlike the JIF, altmetrics reflect the impact of the article itself, not its venue. Unlike citation metrics, altmetrics will track impact outside the academy, impact of influential but uncited work, and impact from sources that aren’t peer-reviewed. Some have suggested altmetrics would be too easy to game; we argue the opposite. The JIF is appallingly open to manipulation ; mature altmetrics systems could be more robust, leveraging the diversity of of altmetrics and statistical power of big data to algorithmically detect and correct for fraudulent activity. This approach already works for online advertisers, social news sites, Wikipedia, and search engines.
+
+The speed of altmetrics presents the opportunity to create real-time recommendation and collaborative filtering systems: instead of subscribing to dozens of tables-of-contents, a researcher could get a feed of this week’s most significant work in her field. This becomes especially powerful when combined with quick “alt-publications” like blogs or preprint servers, shrinking the communication cycle from years to weeks or days. Faster, broader impact metrics could also play a role in funding and promotion decisions.
+Road map for altmetrics
+
+Speculation regarding altmetrics ( Taraborelli, 2008 ; Neylon and Wu, 2009 ; Priem and Hemminger, 2010 ) is beginning to yield to empirical investigation and working tools. Priem and Costello (2010) and Groth and Gurney (2010) find citation on Twitter and blogs respectively.   ReaderMeter computes impact indicators from readership in reference management systems. Datacite promotes  metrics for datasets. Future work must continue along these lines.
+
+Researchers must ask if altmetrics really reflect impact, or just empty buzz. Work should correlate between altmetrics and existing measures, predict citations from altmetrics, and compare altmetrics with expert evaluation. Application designers should continue to build systems to display altmetrics,  develop methods to detect and repair gaming, and create metrics for use and  reuse of data. Ultimately, our tools should use the rich semantic data from altmetrics to ask “how and why?” as well as “how many?”
+
+Altmetrics are in their early stages; many questions are unanswered. But given the crisis facing existing filters and the rapid evolution of scholarly communication, the speed, richness, and breadth of altmetrics make them worth investing in.
+Jason Priem , University of North Carolina-Chapel Hill ( @jasonpriem )
+Dario Taraborelli , Wikimedia Foundation ( @readermeter )
+Paul Groth , VU University Amsterdam ( @pgroth )
+Cameron Neylon , Science and Technology Facilities Council ( @cameronneylon )
+
+Creative Commons License
+
+v 1.0 – October 26, 2010
+v 1.01 – September 28, 2011: removed dash in alt-metrics
+
+[close]
+
+    in Share 117
+
+14 Comments
+
+    Christina Pikas
+    Posted October 27, 2010 at 2:28 am | Permalink
+
+    Great ideas – but with respect to divorcing a metric from the publication venue, I’m skeptical that it’s possible. After all, the Matthew Effect became the long tail in web talk.
+    Also, it might be useful to contrast Altmetrics with usage metrics which are also being proposed as alternatives to traditional citation-based metrics
+    Dario
+    Posted October 28, 2010 at 9:41 am | Permalink
+
+    Hi Christina, that’s a good point, but author-level metrics (and for what matters any aggregate institution-level measures) are already divorced from individual publication outlets, aren’t they?I discuss what I believe to be the main differences between usage metrics and metrics based on richer usage patterns (such as personal bookmarking/annotation) in my COOP ’08 paper linked above. The bottom line is: usage metrics are the equivalent (in terms of robustness) of 1st generation ranking algorithms based on click-through rates.
+    Steve Hitchcock
+    Posted October 29, 2010 at 12:02 pm | Permalink
+
+    Nice ideas. Do you mean something like scintilla.nature.com? You end by imploring researchers to invest in alt-metrics, but have not yet answered your own questions on the validity of the new metrics. “Researchers must ask if alt-metrics really reflect impact, or just empty buzz.” That should be the other way round: first show the effect on impact then try to convince researchers. “Work should correlate between alt-metrics and existing measures, predict citations from alt-metrics, and compare alt-metrics with expert evaluation.” This seems to be the way to go.
+    Jason Priem
+    Posted October 29, 2010 at 5:57 pm | Permalink
+
+    Hi Steve. As I understand, Scintilla filters news and blog posts, but it does it with keywords rather than measuring impact from a variety of sources. So while it’s a cool project, I wouldn’t call it an alt-metrics tool.The early data suggest alt-metrics measure “real” impact (scare quotes because even the citation people will tell you this is tricky to define). Moreover, it’s encouraging that alt-metrics, like citations, are built around native scholarly processes (saving, linking, etc); we’re not asking for popularity votes, we’re observing the ways scholars naturally interact with their work. So alt-metrics show a lot of promise, and we’d like to see more work in this area.We’re not arguing that alt-metrics is ready for prime-time yet. When we suggest it’s time to invest in alt-metrics, we mean just that: let’s start building systems and doing research and see if alt-metrics live up to their promise. We think they will.
+    Grove Patel
+    Posted January 18, 2011 at 1:55 pm | Permalink
+
+    It would have been more honest of you to mention Thomson Reuters response to the Rockefeller University Press article…
+    http://community.thomsonreuters.com/t5/Citation-Impact-Center/Thomson-Scientific-Corrects-Inaccuracies-In-Editorial/ba-p/717/message-uid/717
+    jason
+    Posted January 19, 2011 at 9:52 pm | Permalink
+
+    Hi Grove,
+    Thanks for the link to Thomson’s rejoinder to the Rossner, Van Epps and Hill (2007) article “Show me the data,” which we link to above. It’s always nice to have a full perspective on an issue, and there are certainly good arguments for the value of the JIF.
+
+    However, I disagree that it’s dishonest for us not to link to it, any more than it was dishonest for you to not link to Rosner et. al’s reply to the reply, “Irreproducible results: a response to Thomson Scientific.” Our goal with the manifesto isn’t to put the Journal Impact Factor on trial; that’s been done enough .
+
+    Our point, rather, is to present a better, fuller alternative to the way we measure impact now. I think the JIF, as used today, has deep flaws…but even if it didn’t, why not look into ways to understand and track impact even better?
+    Julian Newman
+    Posted June 19, 2011 at 9:12 pm | Permalink
+
+    It would be kind of helpful to let new readers know what ALT in “alt-metrics” stands for. Is it an acronym for something, or does it just stand for “alternative”? If it only means “alternative” why should we believe the various assertions that are made about alt-metrics? Are we really sure that we want ANY metrics at all, or are these just something to enable bureaucrats to get under our feet?
+    jason
+    Posted June 19, 2011 at 10:31 pm | Permalink
+
+    Good thought, Julian. The “alt” does indeed stand for “alternative,” and that should be more evident. We’ll change it in the next version of the manifesto (along with losing the hyphen, which has already disappeared from most of our other altmetrics stuff online).
+
+    I don’t think think the term, though, has much to do with the value (or lack thereof) of our assertions. Regardless of what “alt” means, I think it’s increasingly accepted that evaluators (some of whom are “bureaucrats,” but some of whom are fellow scholars on hiring, tenure, and grant committees) and working researchers alike are pretty overwhelmed by the quantity of knowledge being produced. We need ways to get a handle on what’s out there, and what’s good.
+
+    Traditional metrics, while useful, have let us down because they only give us a few ways to measure “good.” But eschewing all measurement of science is throwing the baby out with the bathwater. As scientists, we measure things all the time; shouldn’t we examine our own work as closely? Rather than getting rid of metrics (which, let’s face it, are not going away), we should be adding metrics, so that we get a messier but richer picture of what’s going on in science. “Impact,” like lots of things, is hard to define and measure. But certainly using new communication technologies to build our understanding of research impact is a better plan than just throwing up our hands and going home.
+    Dana Roth
+    Posted February 14, 2012 at 7:44 pm | Permalink
+
+    re: “As the volume of academic literature explodes, scholars rely on filters to select the most relevant and significant sources from the rest.” Isn’t another filter the journal in which ‘relevant and significant sources’ are published? Most serious researchers combine perusing journal contents pages with literature searching.
+    jason
+    Posted February 14, 2012 at 8:01 pm | Permalink
+
+    @Dana, absolutely the journal is a filtering mechanism. I’d maintain it’s a broken one, because requires lots of expensive manual curation, hides valuable research in peer review for a year or more, permits only binary yes/no filtering, and only supports one judgement per article (since you can’t publish in multiple journals). These were all unavoidable bugs in a system built on paper. But there’s no need to suffer them if we built a system on the Web.
+    research paper writing service
+    Posted November 15, 2012 at 9:09 am | Permalink
+
+    It would be kind of helpful to let new readers know what ALT in “alt-metrics” stands for. Is it an acronym for something, or does it just stand for “alternative”? If it only means “alternative” why should we believe the various assertions that are made about alt-metrics? Are we really sure that we want ANY metrics at all, or are these just something to enable bureaucrats to get under our feet?
+    Steve Mount
+    Posted December 24, 2012 at 5:59 pm | Permalink
+
+    I very much like the general thrust here, especially the two ideas that (1) metrics should be specific to a particular paper rather than tied to the journal that published it and (2) that the internet allows effective community review in many cases. However, I have a concern that an important feature of peer review, which has been under threat for some time, is further endangered.
+
+    What peer review provides, but which most of the alternatives do not, is the assurance that someone with expertise has read the paper very carefully looking for errors. Assessment “by thousands of conversations and bookmarks in a week” may not involve *anyone* actually taking the time to read the paper carefully. While prominent and important publications that are read (or skimmed) by many will no doubt be read carefully by some, and social media allows us to point to those readers (and contact them if necessary), the vast majority of publications will never be read in detail by anyone (including some of the authors).
+
+    Of course, even under peer review, a careful reading does not always happen. A careful review takes much more time than a typical reading. Reviewers under pressure to review quickly (and under other pressures as well) are increasingly likely to be less than completely thorough. However, despite this tendency, I know from reading the comments of other reviewers that most papers are in fact carefully evaluated during peer review (still).
+
+    Put simply, peer review continues to provide an important check that prevents the formation of scientific consensus around suspect data, or around an argument that has not been thoroughly checked by anyone.
+    Luiz Felipe Franco Belussi
+    Posted January 12, 2013 at 12:00 pm | Permalink
+
+    The idea of altmetrics is great, period.
+
+    But there are some big challenges: one concern is that eventually the media used to gather information and assess impacts (specially blog entries and tweets) is much more susceptible to artificial manipulation (by spam bots and the alike).
+
+    That’s one more difficulty in the journey to assessing the “”real”" impact of research.
+    Ali
+    Posted February 4, 2013 at 5:05 pm | Permalink
+
+    Publication and reputation conventions vary by field. In my field (CS) journal articles, while important as a repository for established results, is not what people pay attention to. Rather the focus is on conferences and workshops: peer-reviewed yet reasonably fast dissemination of research. The h-index may appear slow, but there’s also the g-index. I’d much rather have peers who understand the field be a first filter. The claim that this somehow excludes “new” ideas is laughable. New ideas show up all the time, how else would there be any visible progress in science?
+
+300 Trackbacks
+
+    By Beyond the PDF – it is time for a workshop | Gobbledygook on November 6, 2010 at 9:47 am
+
+    [...] posts, etc. The incoming citations are of course very helpful for discovery, and the basis for alternative metrics. This entry was posted in Thoughts and tagged nlm-dtd, pdf. Bookmark the permalink. [...]
+    By November 8th at 5pm: New Methods in Scholarship – UNC Digital Scholarship Group on November 8, 2010 at 7:02 pm
+
+    [...] out the alt.metrics manifesto he recently [...]
+    By Alt-metrics: a manifesto – altmetrics.org | Science Report | Biology News, Economics News, Computer Science News, Mathematics News, Physics News, Psychology News on December 2, 2010 at 4:27 pm
+
+    [...] Björn Brembs to Björn's feed, The Life Scientists, Science 2.0 Alt-metrics: a manifesto – altmetrics.org – http://altmetrics.org/manifes&#8230 ; [...]
+    By Weekend Reading: Happy Halloween Edition - ProfHacker - The Chronicle of Higher Education on December 3, 2010 at 9:38 pm
+
+    [...] speaking of peer review, here’s a new attempt to measure scholarly impact: Alt-metrics: A Manifesto: These new forms reflect and transmit scholarly impact: that dog-eared (but uncited) article that [...]
+    By My open access conversion « Anne Peattie on December 13, 2010 at 6:23 am
+
+    [...] not. Is there a better way of defining the impact of your research? Definitely. Start with the Alt-Metrics Manifesto if you don’t believe [...]
+    By Quora on December 13, 2010 at 10:29 pm
+
+    How do you determine how influential/important a scientific paper is?…
+
+    Since we’re just starting to ask this question seriously, it’s the kind of thing that can only be answered retrospectively for now.  As we collect more rich activity and attention data of the kind that PLoS and Mendeley are gathering, we’ll learn mo…
+    By January 2011 Topic on December 16, 2010 at 8:38 pm
+
+    [...] and building prototypes to support this approach.  His recent alt-metrics publications include the alt-metrics manifesto, Scientometrics 2.0: Toward new metrics of scholarly impact on the social Web, and How and why [...]
+    By Has journal article commenting failed? – Jason Priem on January 7, 2011 at 8:01 am
+
+    [...] I collected data on PLoS comments as part of a larger investigation of alt-metrics. As evident from the graphic, the number articles with comments has held more or less steady as the [...]
+    By my.altmetrics.org: alt-metrics for your CV – Jason Priem on January 15, 2011 at 6:59 am
+
+    [...] a frontend for our crawler–giving working scholars and funders the opportunity to try out alt-metrics for [...]
+    By Reflections from #scio11 Saturday’s “Open Science” Track – Carl Boettiger on January 18, 2011 at 1:55 am
+
+    [...] broached the idea of altmetrics on several occasions already, our next session dove into the details of how we might construct [...]
+    By Alternative metrics at ScienceOnline2011 and beyond « the Undergraduate Science Librarian on January 20, 2011 at 7:25 pm
+
+    [...] is “What problems are we trying to solve?”  I am very familiar with the criticisms of the impact factor, but I’m interested in returning to the basic [...]
+    By Nature Essay – Trial by Twitter « Phase Transitions on January 21, 2011 at 8:30 pm
+
+    [...] altmetrics home Has Journal Commenting Failed Twitter Survey Report (Sept 2010) on scribd More stats for the PLoS [...]
+    By Link, don’t pass around files | Book of Trogool on January 25, 2011 at 3:09 pm
+
+    [...] there’s an impact question to consider. As alternative impact metrics take hold in journal publishing, view and download numbers take on new importance for authors. If [...]
+    By Literaturverwaltung „beyond the PDF“ – Ein Forschungsfeld für Bibliotheken?! « Literaturverwaltung & Bibliotheken on January 28, 2011 at 10:54 am
+
+    [...] Publikationsworkflows: “ Originäre Web-Werkzeuge und -Konzepte wie HTML, Wikis, Weblogs, Alternative Metriken etc. sind grundsätzlich besser dazu geeignet, die Potentiale des Webs für das wissenschaftliche [...]
+    By The impact factor game | Science Library on February 17, 2011 at 4:43 am
+
+    [...] factor of journals should not be used for evaluating research • The misused impact factor • alt-metrics: a manifesto • The mismeasurement of science • Impact factor wars: Episode V–The Empire Strikes [...]
+    By Dlaczego naukowcy nie współtworzą Wikipedii? « Nauka – Otwarta on February 24, 2011 at 8:27 am
+
+    [...] Alt-metrics Manifesto (altmetrics.org) [...]
+    By Publisher and Institutional Repository Usage Statistics (PIRUS 2) « Research Communications Strategy on February 24, 2011 at 5:10 pm
+
+    [...] alternative impact metrics (some that PLoS now provides). He cited people such as Jason Priem (see alt-metrics: a manifesto) and commented that changing the focus from Journal to article, would change the publication [...]
+    By #altmetrics - Are You Reading Yet? - Stephan Dahl's Blog on March 25, 2011 at 12:43 pm
+
+    [...] research” possible.  With the growing popularity of #altmetrics (or less twitter-like: alt-metrics) it is also starting to make inroads into measuring (academic) research impact (N.B. for those in [...]
+    By Quora on April 14, 2011 at 10:01 am
+
+    What are some good alternatives to Google Scholar?…
+
+    Are you interested in conducting search? It’s not there yet: in the category of “free”, google scholar, used together with Harzing’s POP application ( http://www.harzing.com/pop.htm ), is unbeatable, IMO. But check out current developments under #alt…
+    By Beyond Impact » Blog Archive » Software Impact – the differences from datasets on May 5, 2011 at 10:14 am
+
+    [...] The DataCite consortium are addressing the challenges of making data sets accessible and visible. Alt-Metrics have emerged to suggest alternative views of impact which move away from the more traditional [...]
+    By On alternative impact factors and “filtering after the fact” on May 16, 2011 at 9:28 am
+
+    [...] out by (among others) Jason Priem, PhD student in Information and Library Science on the project Alt-metrics which is about tracking scholarly impact on the social web. Preem and his colleagues wants to track [...]
+    By Joe Paz » Tweets on May 19, 2011 at 2:42 am
+
+    [...] [...]
+    By My presentation at the ORCID Meeting – ChemConnector Blog on May 23, 2011 at 2:19 am
+
+    [...] their SLideshare presentations (that should have ORCIDs for scientists!), and their “AltMetrics“ 4) Aggregating all RSC articles, new and old (with some work on the archive!) under the [...]
+    By alt-metrics, a new tool for research assessment « Shamprasad Pujar on June 16, 2011 at 5:43 pm
+
+    [...] who are fully embracing the possibilities of Web 2.0.  This has called for new methods of metrics (altmetrics), which better reflect today’s research practices and take advantage of the use of current social [...]
+    By Jason Priem, alt-metrics - IRISC on June 30, 2011 at 6:52 am
+
+    [...] – from http://altmetrics.org/manifesto/ [...]
+    By Random Hacks on July 2, 2011 at 12:55 pm
+
+    [...] “Altmetrics” Manifesto: http://altmetrics.org/manifesto/ [...]
+    By Semantically Mapping Science Project @ VU Amsterdam | juliembirkholz on July 28, 2011 at 2:10 pm
+
+    [...] number of projects on altmetrics including: Julie M. Birkholz and Shenghui Wang (2011) Who are we talking about?: the validity of [...]
+    By Are we using the right metrics? — Digital Fingerprint on July 29, 2011 at 9:17 am
+
+    [...] community has recently emerged in an effort to achieve this. Complete with a manifesto – at altmetrics.org - this community is striving to understand and measure the products and practices of scholarly [...]
+    By Altmetrics | juliembirkholz on July 29, 2011 at 12:06 pm
+
+    [...] of online metrics for evaluating science; piggy backing on other discussions in the field such as alt-metrics (which Gamble also [...]
+    By Many authors have begun to call for investigation… « Dr. Direnc Sakarya on August 17, 2011 at 7:35 pm
+
+    [...] authors have begun to call for investigation of “altmetrics”. [...]
+    By Inundata – DataCite 2011, recap on August 26, 2011 at 3:39 am
+
+    [...] Related: Altmetrics Manifesto [...]
+    By It’s About Time We Discussed the Business of Identity « The Scholarly Kitchen on September 27, 2011 at 9:31 am
+
+    [...] are also showing interest in the possibilities of a well-configured identity service. The altmetrics movement is essentially predicated on being able to append various signifiers of scholarly output [...]
+    By Thomson Reuters, Nobel Prize predictions and correlation vs. causation [Confessions of a Science Librarian] | Digital Brain ; Science and Technology News on October 3, 2011 at 11:30 am
+
+    [...] aren’t what’s important in science and aren’t the best way to measure impact. The Alt-Metrics project and many other initiatives have sprung up over the last few years looking for better ways [...]
+    By Evaluating Research By the Numbers on October 3, 2011 at 9:28 pm
+
+    [...] then turned to a brief discussion about some of the alternative metrics now being proposed by various journals and publishers. Some of the simplest measures in this [...]
+    By ATG Hot Topics of the Week: Altmetrics, My Mother Was Nuts… & More on the Berlin Declaration | Against-the-Grain.com on October 21, 2011 at 3:49 pm
+
+    [...] At ACRLog, Bonnie Swoger of SUNY Geneseo tells us why some students are interested in impact factors, h-indexes, etc., and points to a manifesto on altmetrics. [...]
+    By Graham Steel – Publish or Parish » PhD2Published on October 27, 2011 at 8:32 am
+
+    [...] Article Level Metrics (ALM) which is a much needed alternative to IF.  Also see the likes of  http://altmetrics.org/manifesto/ , http://beyond-impact.org/ and [...]
+    By The promise of another open: Open impact tracking « Research Remix on October 31, 2011 at 6:29 pm
+
+    [...] collecting and displaying Article-Level Metrics for its articles.  Jason Priem and others have articulated the promise of altmetrics and begun digging into what these metrics [...]
+    By more about total-Impact « Research Remix on October 31, 2011 at 6:34 pm
+
+    [...] The Altmetrics Manifesto is a good, easily-readable introduction to this literature, while the proceedings of the recentaltmetrics11 workshop goes into more detail. You can check out the shared altmetrics library on Mendeley for more even relevant research. Finally, the poster Uncovering impacts: CitedIn and total-Impact, two new tools for gathering altmetrics, recently submitted to the 2012 iConference, describes a case study using total-Impact to evaluate a set of research papers funded by NESCent; it has some brief statistical analysis and some visualisations of the results. [...]
+    By Mendeley Binary Battle Top 40 | is it just me on November 4, 2011 at 10:03 am
+
+    [...] I especially like the following projects as they could really help making science more open, using alternative metrics or innovative approaches of approaching the whole science [...]
+    By Mendeley is announcing the Top 40 of their binary battle « PG PUSHPN Blog on November 4, 2011 at 10:07 am
+
+    [...] I especially like the following projects as they could really help making science more open, using alternative metrics or innovative approaches of approaching the whole science [...]
+    By BMJ Group blogs: BMJ Web Development Blog » Blog Archive » Tracking scholarly impact on the social web: altmetrics on November 4, 2011 at 2:10 pm
+
+    [...] scholarly communication. One of the major adherents of this view is Jason Priem, co-founder of the altmetrics project, whose website states: In the 17th century, scholar-publishers created the first scientific [...]
+    By Binary Battle Finalists Announced | The Official PLoS Blog on November 16, 2011 at 7:49 pm
+
+    [...] Total-Impact fulfills an unmet need for how researchers can collect and display a variety of altmetrics in one place. The app’s contributors (including PLoS authors Heather Piwowar and Egon [...]
+    By Scholarly Communication, Social Media and “Altmetrics” | Research Impact: Scholarly Communication @ Carleton University on November 25, 2011 at 5:24 pm
+
+    [...] Sciences on academics’ use of social media and understanding these sources to inform “altmetrics” (alternative metrics of impact). Share this:TwitterFacebookLike this:LikeBe the first to [...]
+    By Beyond Impact Factor: Here Comes “Altmetrics” | The Search Principle blog on November 27, 2011 at 4:22 pm
+
+    [...] Priem, D. Taraborelli, P. Groth, C. Neylon (2010), Alt-metrics: A manifesto, (v.1.0), 26 October 2010. [...]
+    By Daily post 11/28/2011 : DrAlb on November 28, 2011 at 1:30 pm
+
+    [...] altmetrics: a manifesto – altmetrics.org [...]
+    By Twitter and the new scholarly ecosystem – Jason Priem on November 30, 2011 at 7:01 pm
+
+    [...] efforts to understand and use these new data sources to inform alternative metrics of impact, or “altmetrics.” Altmetrics could be used in evaluating scholars or institutions, complementing unidimensional [...]
+    By Blog Analytic Services for JISC MRD Project Blogs | Innovation Support Centre at UKOLN on December 9, 2011 at 10:37 am
+
+    [...] altmetrics Web site provides access to altmetrics: a manifesto which describes how “the growth of new, online scholarly tools allows us to make new filters; [...]
+    By Mendeley Binary Battle Top 40 | Wolfgang Reinhardt on December 13, 2011 at 10:26 am
+
+    [...] I especially like the following projects as they could really help making science more open, using alternative metrics or innovative approaches of approaching the whole science [...]
+    By Alternative metrics in Africa: An Interview with Cameron Neylon - Scholarly Communication in Africa Programme on December 13, 2011 at 3:03 pm
+
+    [...] thinker in open science, open access and open data. He is one of the original authors of the Altmetrics manifesto, co-author of the Panton Principles for open data in science, and founding Editor-in-Chief of the [...]
+    By Beyond Blogging as an Open Practice, What About Associated Open Usage Data? « UK Web Focus on December 14, 2011 at 11:12 am
+
+    [...] strengths and weaknesses of such analytic tools may be helpful if the altmetrics initiative which, in its manifesto, describes how “the growth of new, online scholarly tools allows us to make new filters; these [...]
+    By Mit kleinem Kreditrahmen? Überlegungen zur Reputationsabbilduing im Nano-Publishing. « LIBREAS.Library Ideas on December 14, 2011 at 6:06 pm
+
+    [...] Jüngst wies Manuela Schulz im medinfo-Weblog auf die Entwicklungslinie der Altmetrics hin ( http://medinfo.netbib.de/archives/2011/12/02/3944 ), die soziale Netzwerkeffekte – z.B. vernetzte Literaturorganisationssysteme wie Mendeley oder Research Gate, aber auch Twitter – für die Messung eines Impacts nutzen wollen: Die präzise Vernetzbarkeit auch von Dokumententeilen mit konkreten Akteuren lassen feinkörnigere Messverfahren als die Zitationszählung auf Artikelebene zu. Im Altmetrics-Manifesto findet sich dies so angesprochen: „Semantic publishing or “nanopublication,” where the citeable unit is an argument or passage rather than entire article.” ( http://altmetrics.org/manifesto/ ) [...]
+    By Final Reports from UKOLN’s Evidence, Impact, Metrics Work « UK Web Focus on December 21, 2011 at 2:49 pm
+
+    [...] can be seen from the altmetrics manifesto the research community has strong interests in developing metrics which can help to identify [...]
+    By Thinkepis sobre herramientas para la evaluación de la I+D en universidades y sobre Google Scholar Citations « Primer cuartil (Q1) on January 3, 2012 at 7:08 am
+
+    [...] de cara a la evaluacion de la investigación, como Academic Search, de Microsoft o las propuestas alt-metrics. También se ofrece una perspectiva de las novedades introducidas por las principales empresas: ISI [...]
+    By BMJ Group blogs: BMJ Web Development Blog » Blog Archive » Twimpact factors: can tweets really predict citations? on January 6, 2012 at 12:24 pm
+
+    [...] articles, and replacing them with a list of articles in an appendix. Jason Priem (co-founder of the altmetrics project) commented on Davis’s post, describing the change as “a lovely example of how [...]
+    By How Could Twitter Influence Science (And Why Scientists Are on Board) - Forbes on January 15, 2012 at 12:57 pm
+
+    [...] BMJ Group was interested because the Eysenbach paper had caused a stir in the Altmetrics community, a project set up to discuss the post-peer review environment. Peer-review has served scholarship [...]
+    By Articles tweeted about are 11 times more likely to be highly cited in journal articles : Real Lawyers Have Blogs on January 16, 2012 at 6:59 pm
+
+    [...] publication to the web, and publish earlier, the web offers a better way to filter science or as Altmetrics (project set up to discuss the post-peer review environment) puts it: “Instead of waiting months [...]
+    By You spend hours working on your research, so why not get credit for all of it? | The PostDocs Forum on January 17, 2012 at 5:32 pm
+
+    [...] traditional measures of impact (i.e. the number of citations), as well as new measurements such as altmetrics, researchers get a greater level of information about the impact and reach of their [...]
+    By You spend hours working on your research, so why not get credit for … | research education on January 17, 2012 at 6:50 pm
+
+    [...] traditional measures of impact (i.e. the number of citations), as well as new measurements such as altmetrics, researchers get a greater level of information about the impact and reach of their [...]
+    By Figshare: a new way to publish scientific research data « Wellcome Trust Blog on January 18, 2012 at 12:54 pm
+
+    [...] using both traditional measures of impact (i.e. the number of citations) alongside new ones such as altmetrics, Figshare gives researchers a greater level of information, and realtime measurements, of the true [...]
+    By Journal News « sharmanedit on January 20, 2012 at 3:35 pm
+
+    [...] as “an attempted improvement that makes things worse than they already were”. Altmetrics may be on the rise, but it looks like this one won’t be taking [...]
+    By ScienceOnline 2012 – It gave me a whole new perspective of science and those involved » Collaborative Chemistry on January 22, 2012 at 3:17 am
+
+    [...] Images created by these artists deserve citations like papers. The conference exposed me to the altmetrics advances in this area which was eye opening but would be nice if I could track my images too on [...]
+    By A Open Archive of My F1000 Reviews « I wish you'd made me angry earlier on January 28, 2012 at 8:54 pm
+
+    [...] Research Blogging Network. Hopefully these commentraies will be of use to some and should add to Altmetrics profiles for these papers, using systems like Total [...]
+    By » Quantifying impact: A better metric for measuring journalism The Linchpen on January 29, 2012 at 10:03 am
+
+    [...] thread I learned about after the main ideas above formed involves new ways to measure science and altmetrics (and thanks to Jonathan Stray the heads-up on the almetrics [...]
+    By Altmetrics « News from JURN.org on January 30, 2012 at 3:46 pm
+
+    [...] Altmetrics: a manifesto… [...]
+    By Measuring the influence of scholarship via social media | knowledgebot on January 30, 2012 at 6:40 pm
+
+    [...] can now be accessed almost instantaneously via social media. The proponents of altmetrics have a manifesto which asks the question I was thinking while reading the article: How much does the conversation [...]
+    By Scholars Seek Better Ways to Track Impact Online | Institute Library News on January 30, 2012 at 9:09 pm
+
+    [...] more information about altmetrics, read”Altmetrics: A Manifesto” and follow the discussion on [...]
+    By Altmetrics: a manifesto « my memex on January 31, 2012 at 1:12 pm
+
+    [...] the Altmetrics manifesto created by UNC graudate student Jason Priem (see more in the Chronicle of Higher Education [...]
+    By Scholars Seek Better Ways to Track Impact Online | Research Impact: Scholarly Communication @ Carleton University on January 31, 2012 at 2:55 pm
+
+    [...] blogged about or bookmarked”. The article talks about Jason Priem (who helped write the altmetrics manifesto) and a new project called Total Impact that, although in its infant stages, is a way to search the [...]
+    By It Must Be Measured: #Scio12 #Altmetrics | Whizbang on January 31, 2012 at 4:31 pm
+
+    [...] Science Online I attended a discussion of Alternative Metrics or altmetrics: As the volume of academic literature explodes, scholars rely on filters to select the most [...]
+    By On Sharing With the Right People, or Why Online Metrics to Assess "Impact" Should Be Qualitative (Too) | HASTAC on January 31, 2012 at 5:03 pm
+
+    [...] to how many people or visits or clicks or downloads a given online resource is getting. So-called "altmetrics" and the more-established webometrics or statistical cybermetrics seek to recognise the need of [...]
+    By LIS DREaM Workshop 2: London (and Library Day in the Life Day One) | Walk You Home on January 31, 2012 at 8:20 pm
+
+    [...] a few different techniques and he explained how they could be applied to LIS, including using altmetrics instead of/as well as traditional citation index searching, for a number of reasons, including the [...]
+    By What’s all the huha about? ‘Altmetrics’: uncovering the invisible in research on February 3, 2012 at 10:46 am
+
+    [...] There’s been a lot of debate about the validity of impact factors over the years (and there have been many attempts to measure impact but none wholly accurate).  Just this week on Twitter, the discussion took off again after the publication of an article by Jennifer Howard entitled “Scholars seek betters ways to track online impact” in The Chronicle of Higher Education (January 29th 2012 ) which highlights the work on “alternative metrics” done by Jason Priem (a graduate student in library sciences at the University of North Carolina) who helped write a manifesto on “altmetrics” (see:  http://altmetrics.org/manifesto/ ). [...]
+    By Scholars Seek Better Ways to Track Impact Online « Phx Friends of UA SIRLS on February 3, 2012 at 4:01 pm
+
+    [...] Priem helped write a manifesto, posted on the Web site altmetrics.org, which articulates the problems with traditional evaluation [...]
+    By Is scientific publishing broken? What can you do to help fix it? | Statistical Epidemiology on February 5, 2012 at 2:04 pm
+
+    [...] information is made available, we will need ways to evaluate the impact of that research. Altmetrics.org is a good please to start if you are interested in learning [...]
+    By Learning From Shared Twitter Links (Before Trunk.ly’s Demise) « UK Web Focus on February 7, 2012 at 9:30 am
+
+    [...] I’m pleased that I still have my Delicious account and will be interested  to see how the service becomes embedded within Delicious. It will also be interesting to see if the resource sharing capabilities provided by Twitter, and the ways in which such sharing can now be analysed will have a role to play in the development of altmetrics. As described in the altmetrics manifesto: [...]
+    By Altmetrics: Evaluación del impacto de los medios sociales | Universo Abierto on February 9, 2012 at 2:08 pm
+
+    [...] [...]
+    By Impactos alternativos on February 10, 2012 at 8:39 am
+
+    [...] que genéricamente se denomina altmetrics o métricas alternativas –que incluso tienen su propio manifiesto–, aunque varían bastante entre [...]
+    By Altmetrics-Studie: Neue Verfahren wissenschaftlicher Impact-Messung | wisspub.net on February 11, 2012 at 11:53 am
+
+    [...] Better Ways to Track Impact Online“) über die Diskussionen zu diesem Thema, die im Kontext des Altmetrics-Manifest geführt werden. Teilen Sie dies mit:TwitterFacebookDruckenMehrStumbleUponDiggE-MailRedditGefällt [...]
+    By Investigación y OpenData « train2manage on February 13, 2012 at 6:43 am
+
+    [...] web de los investigadores es cada vez mayor (con iniciativas que miden el impacto en la web, como Altmetrics) y, afortunadamente, no parece que vaya a haber marcha [...]
+    By Scholars Seek Better Ways to Track Impact Online | Syazliutm's Blog on February 14, 2012 at 3:37 pm
+
+    [...] Priem helped write a manifesto, posted on the Web site altmetrics.org, which articulates the problems with traditional evaluation [...]
+    By ACM Web Science Conference concludes | Web Science Trust on February 15, 2012 at 3:46 pm
+
+    [...] demanding shorter slots. Three workshops on the Web Science Curriculum, Health Web Science and Altmetrics, preceded the conference as a whole, and a lively poster session demonstrated not only how many [...]
+    By Another look at ‘altmetrics’ for scholars | The Search Principle blog on February 20, 2012 at 7:18 pm
+
+    [...] J. Priem, D. Taraborelli, P. Groth, C. Neylon (2010), Alt-metrics: A manifesto, (v.1.0), 26 October … [...]
+    By Metrics Remixed: The Times They Are a Webby | InTechWeb Blog on February 22, 2012 at 9:58 am
+
+    [...] dataset has moved to an online repository, and now, we can track it,” it is written in Altmetrics Manifesto. “Altmetrics are fast, using public APIs to gather data in days or weeks. They’re [...]
+    By BMJ Group blogs: BMJ Web Development Blog » Blog Archive » Total-impact: tool for researchers combines traditional and alternative metrics on February 24, 2012 at 12:50 pm
+
+    [...] rely on filters to select the most relevant and significant sources from the rest,” the altmetrics manifesto argues. “Unfortunately, scholarship’s three main filters for importance are [...]
+    By Twitter y los blogs incrementan la visibilidad de los artículos científicos « Primer cuartil (Q1) on February 28, 2012 at 9:40 am
+
+    [...] investigación que va a producir abundante literatura en los próximos meses dentro de la llamada altmetrics. El trabajo no entra a valorar otra serie de cuestiones como el número de seguidores de las [...]
+    By Resistance Emerging to Sci Tech Publishing Status Quo : Beyond Search on March 6, 2012 at 5:07 am
+
+    [...] and ask the entire world for help, or talk about their research plans and get critiqued. Meanwhile, altmetrics are being generated in real time to assess the validity of data, and scientists peer review on [...]
+    By Preguntas de la sesión “Medir en la web social: estrategias de márketing”. « on March 6, 2012 at 6:56 pm
+
+    [...] a bibliotecas con la bibliometría y los medios sociales, y por otro lado, con la Altmetrics, http://altmetrics.org/manifesto/ , aunque en este caso se refiera a la producción científica, a la ciencia, sin embargo tiene en [...]
+    By Academia vs. FOSS: The Good, The Bad, and the Ugly « Digifesto on March 8, 2012 at 6:44 am
+
+    [...] are used, they are often implicit ones extractable from the code repository itself, like Ohloh. Altmetrics are a solution to this [...]
+    By Proposal | related-work.net blog on March 12, 2012 at 3:52 am
+
+    [...] http://altmetrics.org/manifesto/ as an emerging trend from the web-science trust community. Their goal is to revolutionize the review process and create better filters for scientific publications making use of link structures and public discussions. (Might be interesting for us). [...]
+    By Related-work.net – Product Requirement Document released! on March 12, 2012 at 10:27 am
+
+    [...] http://altmetrics.org/manifesto/ as an emerging trend from the web-science trust community. Their goal is to revolutionize the review process and create better filters for scientific publications making use of link structures and public discussions. (Might be interesting for us). [...]
+    By Papers aren’t just for people | Mendeley Blog on March 14, 2012 at 11:39 pm
+
+    [...] the manufacturing plants of the industrial revolution, both grant funders and researchers want this revolution to happen. So why isn’t it happening? It’s happening because long ago we signed away [...]
+    By Beyond the PDF: Experiments in Open-Access Scholarly Publishing (#MLA13 CFP) | The Lapland Chronicles on March 15, 2012 at 2:51 am
+
+    [...] of open peer review, community-based publication, socially networked reader/writing strategies, altmetrical analytics, and open-source publishing platforms, particularly as they inform or relate to [...]
+    By Quora on March 15, 2012 at 11:04 pm
+
+    What would happen to science if Elsevier went down?…
+
+    It’s not so much Elsevier’s efficiency that’s at question, but their sustainability. They’ve been able to reap huge profits from academic libraries, but academic library budgets are doing the opposite of going up, so I agree the effects will be neg…
+    By “Looking-glass upon the wall, Who is fairest of us all?” (Part 3) « The Citation Culture on March 29, 2012 at 10:01 am
+
+    [...] one of the best representatives of this body of work is the Altmetrics Manifesto (Priem, Taraborelli, Groth, & Neylon, 2010). The manifesto notes that traditional forms of [...]
+    By Altmetrics – Alternative Metrics for Articles (think: impact 2.0) « Kresge Physical Sciences Library on March 30, 2012 at 12:18 pm
+
+    [...] “Altmetrics: A Manifesto.”  ( http://altmetrics.org/manifesto/ )  (Viewed March 30, 2012) [...]
+    By The Future of Metrics in Science | DCXL on April 6, 2012 at 3:01 pm
+
+    [...] a graduate student at UNC’s School of Information and Library Science, coined the term “altmetrics” rather recently, and the idea has taken off like wildfire. altmetrics is the creation and [...]
+    By Comments on Tom Scheinfeldt’s “Invisible College: ThatCamp as Scholarly Society” | Chris Alen Sula on April 7, 2012 at 7:36 pm
+
+    [...] patterns are much more varied and diffuse than co-authorship. By incorporating measures such as altmetrics (e.g., downloads, mentions, favorites, shares, like) and social connections between humanists[5], [...]
+    By “Looking-glass upon the wall, Who is fairest of us all?” (Part 4) « The Citation Culture on April 12, 2012 at 8:06 am
+
+    [...] be able to monitor “in real time” how a publication reverbates in the communication system. The Altmetrics Manifesto (Priem, Taraborelli, Groth, & Neylon, 2010) even advocates the use of “real-time [...]
+    By The Printing Press of the Digital Environment: A Conversation with Stanford’s Highwire Press - ProfHacker - The Chronicle of Higher Education on April 17, 2012 at 2:19 pm
+
+    [...] Because we are a publishing support service and not a publisher, we aren’t involved in the selection process for vetting what actually gets published.  What we do suggest, however, is that scholars can put pressure on publishers to offer them access to their “value analytics.” While the number of citations an article gets is usually held up as the gold standard for determining its “impact,” particularly in the sciences, increasing numbers of people are getting interested in alternative forms of measuring impact, also known as “altmetrics.” [...]
+    By Forum Nowej Nauki (dzień pierwszy) - historiaimedia.org on April 18, 2012 at 11:37 pm
+
+    [...] blogosferą naukową czy nowymi trendami w mierzeniu i ocenianiu aktywności naukowej w Sieci (altmetrics). Być może to dobre wprowadzenie do konkretnych szkoleń, które CITTRU organizuje przecież w [...]
+    By Post-Publication Peer Review: What Value Do Usage-Based Metrics Offer? « The Scholarly Kitchen on April 19, 2012 at 9:31 am
+
+    [...] leaves the search for new metrics (“altmetrics“) as perhaps the greatest hope for near-term improvement in our post-publication [...]
+    By Defining new metrics for journalism | Andrew Spittle on April 28, 2012 at 3:57 pm
+
+    [...] Altmetrics.org was mentioned as one different approach. As their site says: Altmetrics expand our view of what impact looks like, but also of what’s making the impact. [...]
+    By How Elsevier can save itself, part 3: Hard « Sauropod Vertebra Picture of the Week #AcademicSpring on May 2, 2012 at 8:30 am
+
+    [...] danger is all the more real because of the rise of Altmetrics.  A few years back when arXiv was establishing itself, journal impact factor was about the only [...]
+    By jodischneider.com/blog » Commercial Altmetric Explorer aimed at publishers on May 7, 2012 at 9:18 am
+
+    [...] is hitting its stride: 30 months after the Altmetrics manifesto1, there are 6 tools listed. This is great [...]
+    By New ways to evaluate scientists « Science 2.0 study on May 14, 2012 at 2:40 pm
+
+    [...] Altmetrics, a service which maps the reputation of scientists by monitoring how people use their papers on [...]
+    By How academics make their own job market even harder. | Statistical Epidemiology on May 25, 2012 at 8:20 am
+
+    [...] these apply to you, then you likely have an opportunity to help academia rise above publication-based metrics of academic impact, even if just an inch at a [...]
+    By Two Architects of Library Discovery Tools Launch an Altmetrics Venture — The Digital Shift on May 31, 2012 at 4:27 pm
+
+    [...] who wrote an altmetrics manifesto and recently co-authored a paper on altmetrics to be presented at the 17th International Conference [...]
+    By Mendeley 機関版ワークショップ「Mendeley: 研究活動の新しい基準と図書館の役割」参加レポート « @keitabando's Blog on June 2, 2012 at 6:54 am
+
+    [...] さらに踏み込むと、そうした様々なデジタルツールが研究分野で利用された結果、文献個々の評価（インパクト）をリアルタイムに計測出来るのでは、という流れにも発展し、altmetrics という概念が生み出されていくワケですが、これについては僕自身最も関心ある分野のひとつで、自身プレゼンテーションにも無理矢理関連付けて触れたワケですが、Tim Berners-Lee が同僚との間で論文を手軽に共有するために World Wide Web を開発した1990年12月以来20年が経過した今、ソーシャルメディアの台頭・普及により、ようやくウェブが科学に変革をもたらす時が来た、というのがこの分野で頻繁に使われる文句となってきた気がします（これとかこれとかこれ）。 [...]
+    By How to Measure the Impact of Scholarship « Carolynthelib's Blog on June 8, 2012 at 2:46 pm
+
+    [...] Altmetrics - tracking system that attempts to note not just the electronic article usage in digital forms like Twitter or CiteULike, but also other information resources like datasets or blogs.  This is tough to tackle but the various tools below are starting to develop some interesting methodologies [...]
+    By Mendeley will have an impact on the library. Workshop presentation: Mendeley Institutional Edition « @keitabando on June 15, 2012 at 3:53 am
+
+    [...] Altmetrics に強い興味があってこれらの情報を日々ウォッチ。 [...]
+    By June 2012 on June 15, 2012 at 12:14 pm
+
+    [...] Altmetrics Manifesto “No one can read everything.  We rely on filters to make sense of the scholarly literature, but the narrow, traditional filters are being swamped. However, the growth of new, online scholarly tools allows us to make new filters; these altmetrics reflect the broad, rapid impact of scholarship in this burgeoning ecosystem. We call for more tools and research based on altmetrics.” [...]
+    By University of Pittsburgh First Adopter of Plum Analytics for Research Output — The Digital Shift on June 19, 2012 at 9:05 pm
+
+    [...] metrics that could reliably estimate the impact of an author’s research. The emerging field of altmetrics seeks to change that [...]
+    By Open Access for Open Knowledge: An Interview with Keita Bando | Australian Science on June 20, 2012 at 12:19 am
+
+    [...] my opinion, altmetrics is the key to innovate OA relations. PLoS is the most important contribute to altmetrics [...]
+    By Open Access for Open Knowledge: I was interviewed by @danicar, the Editor in Chief of @AuScience « @keitabando on June 20, 2012 at 10:33 am
+
+    [...] my opinion, altmetrics is the key to innovate OA relations. PLoS is the most important contribute to altmetrics [...]
+    By Impact Factor Boxing 2012 « O'Really? on June 29, 2012 at 6:29 am
+
+    [...] was the Finch report on Open Access. And if that wasn’t enough fun, there’s been the Altmetrics movement gathering pace [2], alongside a hint that the impact factor may be losing its grip on the [...]
+    By The Future Article | Reading eBooks in London on July 2, 2012 at 8:47 pm
+
+    [...] Taylor brought up new measures for impact, like altmetrics that look at weblinks, mass media, tweets and usage counts. But do academic publishers look at this [...]
+    By Video Tip of the Week: ScienceSeeker for science blogging | The OpenHelix Blog on July 11, 2012 at 1:31 pm
+
+    [...] infrastructure to recognize the value of outreach in non-traditional publications such as blogging. Altmetrics are being gathered and used as further ways to measure impact of researcher’s output and [...]
+    By David Worlock | Developing digital strategies for the information marketplace | Supporting the migration of information providers and content players into the networked services world of the future. on July 22, 2012 at 6:29 pm
+
+    [...] vision is summarized in: J. Priem, D. Taraborelli, P. Groth, C. Neylon (2010), Altmetrics: A manifesto, (v.1.0), 26 October 2010. http://altmetrics.org/manifesto&#8220 ; These scholars plainly see as [...]
+    By Altmetrics – Trying to Fill the Gap « The Scholarly Kitchen on July 25, 2012 at 11:16 am
+
+    [...] of North Carolina-Chapel Hill, who coined the term “altmetrics.” In his post, “Altmetrics: a Manifesto,” Jason noted the limitations and slowness of peer review and citations. He suggests that the [...]
+    By Social Analytics for Institutional Twitter Accounts Provided by the 24 Russell Group Universities « UK Web Focus on August 3, 2012 at 3:21 pm
+
+    [...] analysing personal influence, and the approaches they use may be of interest to those involved in alt.metrics work. As described in a paper on Altmetrics in the Wild: Using Social Media to Explore Scholarly [...]
+    By Visualization of Research #dtk43 #dtk43_10 #Mendeley #Altmetrics « @KeitaBando on August 12, 2012 at 7:46 am
+
+    [...] scholarship. Their vision is summarized in: J. Priem, D. Taraborelli, P. Groth, C. Neylon (2010), Altmetrics: A manifesto, (v.1.0), 26 October 2010. http://altmetrics.org/manifesto via about – [...]
+    By On “New Forms of Scholarly Communication” | Shreds and Patches on August 15, 2012 at 1:48 pm
+
+    [...] altmetrics movement. If this conversation is not yet on your radar, I recommend beginning with the Altmetrics Manifesto. Beyond the old ideal of engaging our colleagues work closely, I am not endorsing any one approach, [...]
+    By Si Febvre et Bloch s’étaient souciés de leur RG Score, ils n’auraient pas fondé l’école des Annales | Frédéric Clavert on August 21, 2012 at 8:56 pm
+
+    [...] Ainsi, grâce (à cause de?) Research Gate (ou Mendeley, ou Academia.edu [5]…) vous pourrez travailler sur votre réputation en ligne, améliorer votre index de citation. Cette tendance va de pair avec l’apparition des “altmetrics“. [...]
+    By Nuove metriche per misurare l’ impatto del giornalismo | LSDI on August 24, 2012 at 7:56 am
+
+    [...] a tentare di formulare sistemi di più ampio respiro per la misurazione dell’ impatto, come Altmetrics o le article-level metrics adottate dalla Public Library of Science. Entrambi combinano una [...]
+    By ‘Altmetrics’: quality of engagement matters as much as retweets | Education News on August 24, 2012 at 9:31 pm
+
+    [...] many of the new areas of study – from statistical cybermetrics to the increasingly popular altmetrics – focus on how links shared affect [...]
+    By Impact of blogging and social media on article downloads « Carlo Ierna's Blog on August 28, 2012 at 2:34 pm
+
+    [...] good metric for the quality of the work is doubtful, nevertheless I cannot ignore that metrics and alt-metrics are (rightly or wrongly) used to assess researchers. I’m happy to see that blogs and social media [...]
+    By Get visible or vanish « phd with kids on September 4, 2012 at 4:47 am
+
+    [...] Lamp got up then and spoke about altmetrics, about finding ratings that make you sound good and unashamedly using them, about getting work out [...]
+    By Preguntas de la sesión “¿Cómo medimos nuestras acciones en la web social?”. – SocialBiblio. Comunidad de práctica. on September 5, 2012 at 5:55 pm
+
+    [...] a bibliotecas con la bibliometría y los medios sociales, y por otro lado, con la Altmetrics, http://altmetrics.org/manifesto/ , aunque en este caso se refiera a la producción científica, a la ciencia, sin embargo tiene en [...]
+    By Altmetrics por todas partes « Primer cuartil (Q1) on September 9, 2012 at 7:43 pm
+
+    [...] fortuna en un escaso margen de tiempo. En apenas unos meses, desde que se acuñara el término Altmetrics han surgido empresas (Altmetric, Plum Analytics), proyectos (total-impact), y todo tipo de papers [...]
+    By Open access – is the UK leading the way? « Be openly accessible or be obscure on September 23, 2012 at 3:04 pm
+
+    [...] impact of the article itself, not its venue, that needs to be assessed. Alternative metrics (‘altmetrics‘) are under [...]
+    By Altmetrics | Biblioteksbloggen on September 25, 2012 at 12:45 pm
+
+    [...] Läs mer om Altmetrics på deras hemsida och varför inte testa din impact via altmetrics. [...]
+    By What Can Web Accessibility Metrics Learn From Alt.Metrics? « UK Web Focus on September 25, 2012 at 2:03 pm
+
+    [...] metrics for online reputation (i.e. services such as Klout) and assessment of research impact (e.g. alt.metrics); in both of these areas the potential benefits of metrics have been identified, but their [...]
+    By BMJ Group blogs: BMJ Web Development Blog » Blog Archive » Plum Analytics: a new player in the field of altmetrics? on September 28, 2012 at 2:43 pm
+
+    [...] the application and have just launched ImpactStory (more on that next week). Priem, who wrote the altmetrics manifesto, welcomed the appearance of Plum Analytics. “Looks to me like they’d be pretty direct [...]
+    By Social media = academic impact « another rambler on September 29, 2012 at 12:20 pm
+
+    [...] in content is illuminating in highlighting the problems of using social media to judge impact. Altmetrics needs to move yet further away from measuring numbers of interaction to the content and agents of [...]
+    By iridium – reporting on identification of available external and internal tools RDM tools « iridium on October 3, 2012 at 9:18 am
+
+    [...] altmetrics [...]
+    By The Infinite Tweeters Theory | The Great Green Birds on October 3, 2012 at 12:59 pm
+
+    [...] remember that ‘conversations in corridors’ will still take place. Despite the rise of altmetrics and the increasingly advanced analysis of online data on articles and citations, no algorithms can [...]
+    By British Library Data Citation on October 29, 2012 at 9:21 am
+
+    [...] the need to incorporate other, less traditional, measures of esteem. One view is expressed at altmetrics.org. It is not for us to say whether they are right or wrong but it is important both to understand how [...]
+    By More Caught My Eye | Against-the-Grain.com on October 29, 2012 at 12:52 pm
+
+    [...] a recent public talk and workshop led by Jason Priem, a co-author of the “well-regarded AltMetrics Manifesto” and a founder of the Web tool called ImpactStory.   While Mr. Priem gave ample attention to [...]
+    By What is open about Open Science? Definitions and debate on October 29, 2012 at 4:35 pm
+
+    [...] may change as new, more open measurements of scholarly impact become more mainstream. Measuring and evaluating the impact and quality of publicly-funded research [...]
+    By moving beyond the low-hanging #altmetrics fruit « justin's longish notes on October 30, 2012 at 11:27 pm
+
+    [...] are the #altmetrics that I want to see for individual research [...]
+    By ReRank.it | rerank on November 3, 2012 at 9:09 pm
+
+    [...] ranking is based on data provided by the ImpactStory API. ImpactStory aggregates altmetrics: diverse impacts from your articles, datasets, blog posts, and more. The source code for ReRank can [...]
+    By ReRank.it | What is it? on November 3, 2012 at 9:20 pm
+
+    [...] ranking is based on data provided by the ImpactStory API. ImpactStory aggregates altmetrics: diverse impacts from your articles, datasets, blog posts, and more. The source code for ReRank can [...]
+    By Inside BioMed Central at the 3rd Open Access Africa conference - Research to Action - Research to Action on November 6, 2012 at 1:51 pm
+
+    [...] of journals, there is an emerging recognition that there are other tools available. For example, altmetrics  tracks how an article is shared and saved in the social media world. A new BioMed Central article [...]
+    By SpotOn London 2012: Altmetrics everywhere – but what are we missing? #solo12impact | SpotOn on November 7, 2012 at 3:15 pm
+
+    [...] J. Priem, D. Taraborelli, P. Groth, C. Neylon (2010), Altmetrics: A manifesto [...]
+    By Understanding the Limits of Altmetrics: Slideshare Statistics « UK Web Focus on November 8, 2012 at 3:26 pm
+
+    [...] be more relevant to today’s fat-moving digital environment, which are know as altmetrics. The altmetrics manifesto explains [...]
+    By Inundata – PLOS Altmetrics workshop on November 8, 2012 at 11:49 pm
+
+    [...] still not be such a good indicator of real impact. A recent news piece in Science as well as the original manifesto written by Jason, Paul, and Dario is also worth reading. Pedro Beltrao also posted a summary of the [...]
+    By NIF Blog » Blog Archive » A Call to Science Bloggers on November 9, 2012 at 2:16 pm
+
+    [...] it provides additional avenues to calculate impact metrics – similar to those observed by AltMetrics.org and [...]
+    By Charleston 2012: bX Usage-Based Services « eclectic librarian on November 11, 2012 at 2:11 am
+
+    [...] Atmetrics – probably will be incorporated to enhance the recommender service. [...]
+    By SpotOn London 2012: Altmetrics beyond the Numbers | SpotOn on November 13, 2012 at 11:06 am
+
+    [...] citations and usage statistics. The PLOS Article-Level Metrics project was started in 2008. Thealtmetrics manifesto was published in October 2010 and described the fundamental ideas. By October 2011 we had a number [...]
+    By Before the Gate: the open way forward in the humanities | tjm.org on November 13, 2012 at 9:10 pm
+
+    [...] Altmetrics movement, helping to open a space for HSS academics to articulate unique values and practices that [...]
+    By Altmetrics — Replacing the Impact Factor Is Not the Only Point « The Scholarly Kitchen on November 14, 2012 at 9:31 am
+
+    [...] as a container is an important value metric and one that needs to continue, the rapidly evolving alternative metrics (altmetrics) movement is concerned with more than replacing traditional journal assessment [...]
+    By Research should be produced, not just published - The Ubiquitous Librarian - The Chronicle of Higher Education on November 17, 2012 at 5:53 pm
+
+    [...] Now the sad thing is that a tenure committees probably would not factor this in, but imagine being able to put something in your review packet that says: I did this experiment, wrote a paper, and over one million people learned about my research. Talk about alt metrics… [...]
+    By Communicating your research online? ImpactStory tells you how well you’re doing. | Connected Researchers on November 17, 2012 at 10:17 pm
+
+    [...] ImpactStory was developed by two specialists in metrics of academic research. Heather Piwowar a postdoctoral fellow at Duke University and the University of British Columbia studying ”research data availability and data reuse“. And Jason Priem, PhD student in information science at University of North Carolina-Chapel Hill. Jason is credited for putting term altmetrics out there and an author of the altmetric manifesto. [...]
+    By Thing 20: Blog, tweet or post a link | 23 Things for Research on November 19, 2012 at 7:30 am
+
+    [...] article, and they may be taken into consideration when making hiring or tenure decisions. The altmetrics manifesto argues that new forms of scholarly and popular communication (e.g. social media) require a rethink [...]
+    By #oped12 «…Sulle spalle di giganti» « serenaturri's Blog on November 19, 2012 at 5:02 pm
+
+    [...] fonte immagine: altmetrics [...]
+    By Notes from the “Current/Future State of Higher Education” Educause Live Webinar held today on November 20, 2012 at 7:14 pm
+
+    [...] altmetrics.org/manifesto [...]
+    By Metrics and Beyond @ SpotOn London 2012 | Altmetric.com on November 21, 2012 at 11:11 pm
+
+    [...] For the first time ever, there was an entire session devoted entirely to a discussion about the bourgeoning field. The session, called “Altmetrics beyond the numbers”, was run by Sarah Venis (Medicins sans [...]
+    By Interview with Dr. Victor Henning, Mendeley | QuestioScientia.com on November 23, 2012 at 9:28 pm
+
+    [...] by my thesis advisors, they were cited by Dr. Henning – we’re simply working a lot about alt-metrics at the [...]
+    By Dr. Victor Henning – Co-Founder & CEO, Mendeley Ltd. 来日講演2012（福岡編） « @KeitaBando on November 26, 2012 at 3:38 am
+
+    [...] この辺りは最近話題となりつつあるaltmetrics（ソーシャルメディアを活用した研究評価指標）とも絡んでいて、とてもムラムラする箇所です。 Mendeleyはaltmetricsに欠かせない（altmetricsにとってもMendeleyは欠かせない）存在になりつつあること再認識。 Mendeley人気に拍車がかかれば、必然的にaltmetricsに注目が集まる・・来年のSPARC Japanセミナーあたりではきっとaltmetricsをテーマとしたセミナーが開催され、第一人者のJasonあたりが来日して・・そんなことを妄想しながら聴き入りました。 [...]
+    By Dr. Victor Henning – Co-Founder & CEO, Mendeley Ltd. 来日講演2012（横浜編） « @KeitaBando on November 27, 2012 at 2:30 am
+
+    [...] 「図書館員は、インパクト評価に関する研究者の知識と関心を支える重要な立場にある」 最近、altmetrics（オルトメトリクス）と呼ばれる新たな研究評価指数が注目を浴び初めています。altmetricsは、ソーシャルメディアを活用して研究成果の影響度を「論文レベル」でリアルタイムに測定し、伝統的な研究評価指標を補完することが期待されています。 今日これからVictorが紹介されるMendeley機関版は、機関内での学術情報がどの様に流通しているのかを俯瞰し視覚化してくれる点が最大の特徴であり魅力だと思います。この根底にはaltmetricsの概念があり、これは今後とても重要視されるだろう、特に図書館員にとっては・・冒頭の引用には、そんな意味が込められているのではと思います。 [...]
+    By Open Access 2012 Utrecht « Mediatheekfcj’s Blog on November 28, 2012 at 10:43 am
+
+    [...] Library. Traditional metrics are limited. Is peer review ‘broken’? The Alt Metrics Manifesto  http://altmetrics.org/manifesto/ gives solutions to the current problems. Some of the online tools mentioned by Bianca Kramer [...]
+    By LSE Future of Academic Impact Conference | Strategist.ie on December 4, 2012 at 1:09 pm
+
+    [...] http://altmetrics.org/manifesto/  [...]
+    By Mendeley group: All papers discussed in our journalclub to be found on one single site | Causality on December 6, 2012 at 7:32 am
+
+    [...] have the opportunity to see use data from users around the world to use in the development of alt.metrics. Mendeley was chosen for this blog for it is targeted at working in teams: now only authors of the [...]
+    By ChemSpider Blog » Blog Archive » Rewards and Recognition for the Authors of ChemSpider SyntheticPages on December 11, 2012 at 5:59 pm
+
+    [...] systems that can contribute to Alternative Metrics  – Already people are developing platforms, such as Impact Story. CSSP presents the perfect [...]
+    By How often is your work mentioned in social media sites? | Researcher@Library Blog on December 12, 2012 at 4:11 am
+
+    [...] info on Altmetrics for Scopus and the Altmetric manifesto. This entry was posted in Bibliometrics, Citation metrics, Publishing and tagged Bibliometrics, [...]
+    By ciência na web 2.0: divulgar, registrar e indexar « ciência na mídia on December 15, 2012 at 5:01 pm
+
+    [...] Altmetrics: a manifesto; [...]
+    By Infobib » Altmetrics in VuFind on December 18, 2012 at 1:13 pm
+
+    [...] wer nicht weiß, was das alles soll: hier geht es zum Altmetrics-Manifesto. Die Konfiguration lautet: class=’altmetric-embed’ [...]
+    By Research, bibliometrics and Bradford’s Law « Wetwiring on December 27, 2012 at 3:47 pm
+
+    [...] Reuters’s InCites, though of course there are alternative approaches being developed, such as AltMetrics. The question I wish to ask is whether Bradford’s Law is any longer sufficient in a world of [...]
+    By Come misurare l’ impatto del giornalismo? | LSDI on January 4, 2013 at 7:55 am
+
+    [...] ha portato alla formulazione di metriche di più ampio respiro, che includevano anche il web, come Altmetrics o  i criteri di misurazione della Public Library of Science, che combinano una serie di dati, tra [...]
+    By From card catalogs to computers: databases in vertebrate paleontology - Ross Mounce on January 12, 2013 at 6:20 pm
+
+    [...] of citing data in countable ways or Data Citation isn’t explicitly mentioned once. Nor altmetrics for that [...]
+    By A monitoring and evaluation activity for all think tanks: ask what explains your reach | on think tanks on January 14, 2013 at 6:01 am
+
+    [...] this again has a lesson, and it is one that will become increasingly important to take on board as AltMetrics become more important to judging academic success. The issue is what makes up a figure – the 113 [...]
+    By How To Bring Academics to the Social-Media Party? Indirectly | Tim McCormick on January 14, 2013 at 6:13 pm
+
+    [...] metrics expert and “altmetrics” leader, Jason Priem, explored and quantitatively estimated scholarly Twitter use in his Nov [...]
+    By Open Science Summit Addresses The Future Of Research « on January 15, 2013 at 8:01 am
+
+    [...] author, commenter, or reviewer), the diversification of journal impact factor into a multitude of altmetrics (new filters for quantifying and understanding scholarly contributions), and especially, the [...]
+    By Version 4 upgrade: Altmetrics (tracking the impact of new journal publications) embeddable in Library OneSearch « Library OneSearch@NTU on January 22, 2013 at 5:24 pm
+
+    [...] upgraded version 4 of Library OneSearch supports the inclusion of an Altmetrics plug-in for LOS developed by Ex [...]
+    By Inundata – Altmetrics as a discovery tool on January 24, 2013 at 12:10 am
+
+    [...] » Altmetrics is all the rage these days in the scientometrics world. One rationale for developing these metrics [...]
+    By Altmetrics - A manifesto for better information filtering. on February 6, 2013 at 1:51 pm
+
+    [...] to this interesting post from Altmetrics.org, conventional scholarly content filtering using Peer-Review, Citation and the [...]
+    By Mendeley – vakliteratuur 2.0 « wetenschapper20 on February 7, 2013 at 10:03 am
+
+    [...] biedt Mendeley een vorm van Altmetrics: een manier om de impact van een artikel op een andere manier te bepalen dan via traditionele [...]
+    By PeerJ – the science journal we need and deserve [We Beasties] ← Test Blog on February 14, 2013 at 12:12 am
+
+    [...] innovate on everything about the publishing process, from open peer review, to the integration of altmetrics, to the simple idea of publishing articles as they come in (like a blog) rather than in separate [...]
+    By #OAI8, the 8th Workshop on Innovations in Scholarly Communication will be held in Geneva, Switzerland, from 19th to 21st June 2013. « @KeitaBando on February 21, 2013 at 8:40 am
+
+    [...] new friends! Of course, hanging up is not the only purpose. OAI8 features some sessions about altmetrics, which I am particularly interested in, makes me looking forward [...]
+    By ALIA Information Online 2013 | Library Staff Training Reports on February 22, 2013 at 4:12 am
+
+    [...] normalized down). Pat also provided a good introduction to alternative metrics or alt-metrics (this is another good introduction) and the alt-metrics bookmarklet, which provides article level [...]
+    By ACM Web Science Conference concludes - Web Science Trust on February 25, 2013 at 9:22 am
+
+    [...] demanding shorter slots. Three workshops on the Web Science Curriculum, Health Web Science and Altmetrics, preceded the conference as a whole, and a lively poster session demonstrated not only how many [...]
+    By First medical writer’s congress in the GCC gives authors the inside scoop on scientific publishing | qscience.the blog on February 25, 2013 at 11:58 am
+
+    [...] a publishing world where open access, altmetrics and great shifts in technology related to internet search engines are availing way more visibility, [...]
+    By DREaM workshop two. (Part three of five events.) | Intermittent notes on February 25, 2013 at 1:31 pm
+
+    [...] also drew attention to ‘altmetrics’, an attempt to devise and use alternative means by which to recognise academic output. By [...]
+    By Thoughts on Tools of Change | Musings and Marvels on March 1, 2013 at 5:47 am
+
+    [...] Altmetrics is still in early days, Carpenter said. It’s a valuable system that focuses not just on the journal, but also on the researcher who contributed. To find out more, visit altmetrics.org. [...]
+    By Will changing how science is measured change what science produces? | Bouncing Ideas on March 2, 2013 at 4:18 pm
+
+    [...] is a “manifesto” outlining the details behind altmetrics which discusses the bottle necks currently occurring in the status quo of peer [...]
+    By Disruptive Tools for Research and Publication | SLA Silicon Valley on March 6, 2013 at 5:39 pm
+
+    [...] measuring method. Due to the lag time required to publish, citation counts can take years to form. altmetrics take note of mentions in social media, such as tweeting and re-tweeting in twitter, blog mentions, [...]
+    By The revelations of research, and altmetrics | joesart.org on March 11, 2013 at 2:42 pm
+
+    [...] altmetrics was the most significant thing Matthew pointed me toward, a movement started a couple of years ago. Their work hinges around a manifesto, and broadly speaking this movement encompasses all of what I’ve been thinking about. The very fact they’ve termed it a manifesto is indicative of the size of the problem. They couldn’t just write a normal paper, the altmetrics people, and I, are both hinting that a wholesale change is necessary to resolve the engrained issues in the way academic literature is handled (and some associated problems). While it’s always reassuring to find somebody has had the same kind of thoughts as yourself, it’s also daunting and worrying to understand quite how large the scale of the issue is. Going down the altmetrics rabbit hole, there is no sigh of the depth abating. There’s a lot of stuff down there, mostly juicy, the occasional dropping. The occasional juicy dropping. [...]
+    By Publishers Opposing Federally Mandated Public Access to Research Outputs | InfoEdge - Reading the industry so you don't have to on March 12, 2013 at 7:10 pm
+
+    [...] traditional publication models seem bleak. A few weeks ago, I did a short blog post on the topic of altmetrics, which aims to provide new mechanisms of measuring an individual output’s impact and [...]
+    By Science Online NYC (SoNYC) – Setting the Research Record Straight: Recap | SpotOn on March 14, 2013 at 3:33 pm
+
+    [...] can pre-publish manuscripts and data to receive feedback from the scientific community and Altmetrics, which is attempting to redefine the traditional impact factor by considering other types of [...]
+    By New metrics need fresh data | Think Links on March 15, 2013 at 3:52 pm
+
+    [...] of the ideas in the altmetrics manifesto was that almetrics allow a diversity of metrics. With colleagues in the VU University [...]
+    By New metrics need fresh data - Knowledge Representation and Reasoning Group on March 16, 2013 at 12:21 pm
+
+    [...] of the ideas in the altmetrics manifesto was that almetrics allow a diversity of metrics. With colleagues in the VU University [...]
+    By tramullas.com | En el IV Seminario EC3 sobre Altmetrics y Unidades de Bibliometría | tramullas.com on March 19, 2013 at 11:37 am
+
+    [...] con otros recursos. En esta mesa se analizaron diferentes herramientas e indicadores usando Altmetrics, señalando su potencial y su futuros desarrollos, pero también sus limitaciones y debilidades, [...]
+    By Video Tip of the Week: figshare + GenoCAD = outreach | The OpenHelix Blog on March 20, 2013 at 1:13 pm
+
+    [...] for their output that may be outside of the traditional publication system, alternative metrics or altmetics are being developed to serve that. Figshare can let you assess how many people have seen your items, [...]
+    By TUHH Universitätsbibliothek: Zur Zukunft des Publizierens on April 3, 2013 at 5:31 am
+
+    [...] zum Impact-Faktor von Zeitschriften oder auch zum Hirsch-Index eines Autors wie zum Beispiel “Altmetrics” und andere Verfahren zur Wirkung, zum Impact von [...]
+    By Altmetrics | Forskningsrelaterat on April 4, 2013 at 1:22 pm
+
+    [...] Läs mer om Altmetrics på deras hemsida och varför inte testa din impact via ImpactStory. [...]
+    By New features to help follow and filter your interests, on F1000Prime | Naturally Selected on April 8, 2013 at 3:18 pm
+
+    [...] in some cases, provide information on research impact not based on the Impact Factor. Amongst these alternative or article-level metrics tools is F1000Prime. F1000Prime adds expert commentary and context to the raw numbers – social [...]
+    By Elsevier (giant for-profit scholarly publisher) buys Mendeley (free citation ... - Scientific American (blog) - Ag2 Literary Agency on April 10, 2013 at 4:28 am
+
+    [...] and users can pay for additional storage space or more collaboration features. Mendeley embraced alternative metrics, a hallmark of open access publications like PLOS ONE. Mendeley released an incredibly useful Open [...]
+    By Altmetrics and Digital Impact | FSU Digital Scholars on April 16, 2013 at 1:42 pm
+
+    [...] http://altmetrics.org/manifesto/ [...]
+    By Nature is not a Book » Is it already time for alt-alt-metrics? on April 17, 2013 at 2:12 pm
+
+    [...] solution to both problems is a system of “alternative metrics” (altmetrics) of scholarly influence that seeks to replace or amend the established standards of peer review, [...]
+    By Research Data Management and Services — recap with links (Ted Baldwin and Linda Newman) | UC Libraries Digital Learning Community on April 17, 2013 at 6:13 pm
+
+    [...] Piwowar spoke on ImpactStory, an open source tool that utilizes altmetrics to describe the broader “impact flavor” and re-use of research data and other [...]
+    By Infobib » Plum Analytics (PlumX) on April 19, 2013 at 12:24 pm
+
+    [...] Research Impact” auf die Fahne. Es handelt sich also um ein YAAP (Yet Another Altmetrics Project), hinter dem mit Andrea Michalek und Mike Buschman zwei Primo-Köpfe [...]
+    By Altmetrics: Alternate Ways to Assess the Impact of Your Research | Academic Technology on April 19, 2013 at 9:26 pm
+
+    [...] From Altmetrics: A Manifesto: [...]
+    By TUHH Library: The future of publishing on April 30, 2013 at 7:14 am
+
+    [...] zum Impact-Faktor von Zeitschriften oder auch zum Hirsch-Index eines Autors wie zum Beispiel “Altmetrics” und andere Verfahren zur Wirkung, zum Impact von [...]
+    By The next era of scholarly publication | Next stop: Science on April 30, 2013 at 11:24 am
+
+    [...] have in more unreviewed formats like blog posts or pre-print repositories. Alternative metrics (altmetrics) are a big factor in this reliability, as high  volume of traffic, downloads and online [...]
+    By All That Glitters is Not Gold: The Fallacy of Open Access Evangelism | Adam G. Dunn on May 5, 2013 at 5:09 am
+
+    [...] better ways to attribute and praise individuals for discrete chunks of research. This is where altmetrics are expected to extend citation-based metrics to detail the full range of impact that research (not [...]
+    By A critical view of altmetrics | Konrad Hinsen's Blog on May 8, 2013 at 2:28 pm
+
+    [...] Altmetrics is one of the hotly debated topics in the Open Science movement today. In summary, the idea is that traditional bibliometric measures (citation counts, impact factors, h factors, …) are too limited because they miss all the scientific activity that happens outside of the traditional journals. That includes the production of scientific contributions that are not traditional papers (i.e. datasets, software, blog posts, etc.) and the references to scientific contributions that are not in the citation list of a traditional paper (blogs, social networks, etc.). Note that the altmetrics manifesto describes altmetrics as a tool to help find scientists publications worth reading. I find it hard to believe that its authors have not thought of applications in evaluation of researchers and institutions, which will inevitably happen if altmetrics ever takes off. [...]
+    By Bring your own identity | Amber at Warwick: academic technology on May 12, 2013 at 9:44 pm
+
+    [...] The signs are good that ORCID will take off. I hope so, particularly so that innovative third party services can come in and offer new approaches. I am a big fan of the idea of impact story, a beta service that uses ORCID to drive a whole digital footprint approach to tracing the web metrics and social shares of academic online outputs, alongside citations. This broadened attention is fundamental to the altmetrics manifesto. [...]
+    By Impact Story | Sexy Statistics on May 13, 2013 at 4:27 pm
+
+    [...] aggregates altmetrics: diverse impacts from your articles, datasets, blog posts, and [...]
+    By Article-Level Metrics | librarythings@uow on May 14, 2013 at 3:32 am
+
+    [...] the way it draws together traditional metrics (terms like citation, impact factor or h-index) and altmetrics - at journal, personal and article level. Rather than presenting emerging data streams like [...]
+    By Vicki Chandler: The San Francisco Declaration on Research Assessment | Living Biology on May 17, 2013 at 11:04 pm
+
+    [...] efforts to get at more sophisticated measures are already underway, including (to name just a few) Alternative Metrics for Science, Data Citation Principles, Improving Future Research Communication and e-Scholarship, [...]
+    By Just say no to impact factors | 1tourism.com on May 18, 2013 at 2:17 pm
+
+    [...] be considered”, not just publications. One way to achieve this may be through greater use of altmetrics, which offer new insights into the impact of research. But even here we need to be conscious of the [...]
+    By What is impact? | Naturally Selected on May 20, 2013 at 12:52 pm
+
+    [...] These usage measures are encapsulated in the growing ‘altmetrics’ landscape (for a summary see). F1000Prime recommendations, which provide a machine-readable star rating of papers along with a [...]
+    By Altmetrics and open access – a measure of public interest | Australian Open Access Support Group on May 22, 2013 at 8:43 pm
+
+    [...] Altmetrics (or alternative metrics) was a term aptly coined in a tweet by Jason Priem (co-founder of ImpactStory). Altmetrics measure the number of times a research output gets cited, tweeted about, liked, shared, bookmarked, viewed, downloaded, mentioned, favourited, reviewed, or discussed. It harvests these numbers from a wide variety of open source web services that count such instances, including open access journal platforms, scholarly citation databases, web-based research sharing services, and social media. [...]
+    By Steering clear of the iceberg: three ways we can fix the data-credibilty crisis in science | TechDiem.com on May 25, 2013 at 12:32 pm
+
+    [...] research is based on journal prestige, but some scientists and startups are beginning to use alternative metrics in an effort to refocus on the science itself (rather than the publishing [...]
+    By The Challenges of Measuring Social Impact Using Altmetrics - Research Trends on May 27, 2013 at 12:32 pm
+
+    [...] A good introduction to the ambitions of altmetrics may be found at altmetrics.org/manifesto (2) Thelwall, M., Haustein, S., Larivière, V., Sugimoto, C.R. (2013) “Do altmetrics work? [...]
+    By Links for the week 6-12th December | 40thieves' Infrequently Updated Blog on June 4, 2013 at 9:29 pm
+
+    [...] been looking into some altmetrics stuff recently (measuring and aggregating social commentary around academic articles) and I thought [...]
+    By Impact Factor’s flaws, in 200 words - sMemo on June 6, 2013 at 8:44 am
+
+    [...] Altmetrics.org [...]
+    By New metrics need fresh data - Web & Media on June 6, 2013 at 9:35 am
+
+    [...] of the ideas in the altmetrics manifesto was that almetrics allow a diversity of metrics. With colleagues in the VU University [...]
+    By Tech Roundup | LibraryTechTalk on June 7, 2013 at 8:46 pm
+
+    [...] from a variety of sources and measure the impact that their scholarly output has had using altmetrics like “number of times bookmarked on CiteULike” or “number of readers in Mendeley”. [...]
+    By BYOI: ORCID and Impact Story | Amber at Warwick: academic technology on June 13, 2013 at 2:38 pm
+
+    [...] Altmetrics is a term that has come to mean the broadening of what we count as scholarship and how we value it. I would describe services like figshare, PeerJ and mendeley as cool social scholarship. What the ORCID ecosystem does is enable established currency to be brought alongside the newer social media currencies, and those cool social scholarship services therefore come into their own.Then layering across all of that, altmetrics-focussed services like impactstory and plum analytics. [...]
+    By Altmetrics: alternative modes for assessing scholarly impact | Learning at the Library on June 18, 2013 at 2:55 pm
+
+    [...] are numerous apps, websites, and tools working to provide this type of data. Altmetrics.org has a manifesto describing the terms of the terrain, but even more helpfully, they provide a tools link collecting [...]
+    By Why a NISO effort to standardise AltMetrics? | Sauropod Vertebra Picture of the Week #AcademicSpring on June 22, 2013 at 12:24 pm
+
+    [...] As has now been widely reported, NISO have a $200K grant from the Alfred P Sloan Foundation to develop standards for AltMetrics. [...]
+    By Blogging and Tenure | lauren's library blog on June 25, 2013 at 8:45 pm
+
+    [...] The obvious answer: it doesn’t count. But there is an emerging question: what is the role of altmetrics in [...]
+    By Legacy vs. Digital Models of Academic Scholarship | JustPublics@365 on June 28, 2013 at 2:51 am
+
+    [...] example, Jeff Jarvis (another CUNY colleague) has 123,667  Twitter followers. That’s a kind of “altmetric” – a measure of his reach and influence. Increasingly, book publishers, even some employers, [...]
+    By IWMW 2013 (1) | The shape of things on July 1, 2013 at 9:09 am
+
+    [...] Altmetrics manifesto: http://altmetrics.org/manifesto/ [...]
+    By Science metrics, LitRoost, and the networked era | The UnStudent Blog on July 2, 2013 at 4:13 pm
+
+    [...] emergent alternative to traditional citations as an impact measure is altmetrics. By combining information about how often an article is downloaded, shared, blogged, cited, [...]
+    By Impact Factor Shifting from Journal to Article | JustPublics@365 on July 5, 2013 at 11:55 pm
+
+    [...] Lozano points out that impact factors were developed in the early 20th century to help American university libraries with their journal purchasing decisions.  Of course, throughout the last century, printed, bound journals were the main way in which scholarly research was distributed. All that’s changing. [...]
+    By 図書館員は、研究者へのaltmetrics支援をいつやるか？ 今でs（ry | @KeitaBando on July 6, 2013 at 11:00 am
+
+    [...] altmetricsは比較的新しい概念――altmetrics: a manifestoが初めて公開（v [...]
+    By #OAbooks in the HSS: Contexts, Conversations, Technologies and Communities of Practice | OPEN REFLECTIONS on July 8, 2013 at 2:40 pm
+
+    [...] to assessment that start to pop up. And what about alternative means for accounting impact such as altmetrics and online environments such as ImpactStory? There seems to be a sweep of possibilities if we have [...]
+    By journal impact factors: what are they good for? | orgtheory.net on July 9, 2013 at 9:26 pm
+
+    [...] There’s a heated debate going on about impact factors: their meaning, use and mis-use, etc.  Science has an editorial discussing impact factor distortions.  One academic association, the American Society for Cell Biology, has put together a declaration (with 8500+ signers so far)–San Francisco Declaration on Research Assessment (DORA)–highlighting the problems caused by the abuse of journal impact factors and related measures. Problems with impact factors have in turn led to alternative metrics, for example see altmetrics. [...]
+    By Twitter per (web)editori scientifici | Prometeus - ANBI Magazine on July 12, 2013 at 9:27 am
+
+    [...] reale, la diffusione nel mondo accademico di articoli scientifici e non. Lo sostiene il manifesto Altmetrics, che misura l’impatto di  pubblicazioni all’esterno del mondo accademico, ricerche [...]
+    By Altmetrics: A Primer | SFObound on July 17, 2013 at 6:22 pm
+
+    [...] The altmetrics manifesto [...]
+    By The Pernicious Mission Creep of Ranking Academic Journals - on July 30, 2013 at 11:02 pm
+
+    [...] the misuse of these metrics. Some even suggest a more reliable ranking system, like altmetrics or the h-index to better suss out the value of an individual researchers or paper.  Australia’s [...]
+    By Altmetrics: New Measures of Influence for the Web 2.0 Age - EI:UI - Environmental Information: Use and Influence on July 31, 2013 at 6:46 pm
+
+    [...] to be found in Jason Priem, Dario Taraborelli, Paul Groth, and Cameron Neylon’s (2010) “Altmetrics: a manifesto,” which proclaims that the entire peer-review process is “slow, encourages conventionality, and [...]
+    By Caldo e freddo polare – Ocasapiens - Blog - Repubblica.it on August 7, 2013 at 10:57 am
+
+    [...] Questa proposta di metriche alternative mi sembra un po’ più [...]
+    By ImpactStory: telling an alternative story around scholarly impact | librarythings@uow on August 8, 2013 at 4:23 am
+
+    [...] is one of a range of products that makes use of Altmetrics data to tell a story about the impact of scholarly research. In an increasingly social online [...]
+    By Altmetrics and the Global South: Increasing research visibility - Research to Action - Research to Action on August 13, 2013 at 8:42 am
+
+    [...] theme is echoed by Cameron Nylon one of the co-producers of the Altmetrics Manifesto.  Nylon tentatively points out that altmetrics have a greater role to play in Africa, as African [...]
+    By Altmetrics, Altmétricas, Altmetrías: nuevas perspectivas sobre la visibilidad y el impacto de la investigación científica | SciELO en Perspectiva on August 14, 2013 at 5:58 pm
+
+    [...] 6. Altmetrics: a manifesto. Altmetrics. [viewed 08 August 2013]. Available from: http://altmetrics.org/manifesto [...]
+    By #ORCID Ambassador に就任しました | @KeitaBando on August 16, 2013 at 12:25 am
+
+    [...] MyOpenArchive というプロジェクトを始めてオープンアクセスに興味を抱き（2007年）、ソーシャルメディアを活用した研究成果共有の可能性に思いを馳せて Mendeley を溺愛し（2010年）、学術コミュニケーションにおけるソーシャルメディア活用の可能性とその結果としての研究評価（インパクト）に関心が移って漂流した結果辿り着いた先は altmetrics（2011年）、な私の関心事。 [...]
+    By Defining social media terms | Heidi Allen Digital Strategy on August 19, 2013 at 7:45 pm
+
+    [...] there is a new term which tries to capture online mentions of research articles called “altmetrics” originally defined by Jason Priem.[2, 3] Publishers such as Elsevier and PLoS are developing new [...]
+    By Professional Development – A belated ALA report on August 22, 2013 at 8:52 pm
+
+    [...] same, but with Highwire “under the hood.” The MUSE folks said they are also looking at almetrics and trying to find ways to measure the “impact” of humanities content. Project MUSE has [...]
+    By Research Without Borders Event 9/24: Social Media and the Research Cycle on August 30, 2013 at 3:20 pm
+
+    [...] research, and debate. As scholars increasingly move their work to the web, and with an estimated third of all scholars now active on Twitter, conversations that previously took place within campus walls are now open for the world to pitch [...]
+    By Defining social media reach, impact, and virality. on September 2, 2013 at 7:18 pm
+
+    [...] there is a new term which tries to capture online mentions of research articles called “altmetrics” originally defined by Jason Priem.[2, 3] Publishers such as Elsevier and PLoS are developing new [...]
+    By Dr. Victor Henning – Co-Founder & CEO, Mendeley Ltd. 来日講演2012（横浜編） | @KeitaBando on September 4, 2013 at 11:37 am
+
+    [...] 「図書館員は、インパクト評価に関する研究者の知識と関心を支える重要な立場にある」 最近、altmetrics（オルトメトリクス）と呼ばれる新たな研究評価指数が注目を浴び初めています。altmetricsは、ソーシャルメディアを活用して研究成果の影響度を「論文レベル」でリアルタイムに測定し、伝統的な研究評価指標を補完することが期待されています。 今日これからVictorが紹介されるMendeley機関版は、機関内での学術情報がどの様に流通しているのかを俯瞰し視覚化してくれる点が最大の特徴であり魅力だと思います。この根底にはaltmetricsの概念があり、これは今後とても重要視されるだろう、特に図書館員にとっては・・冒頭の引用には、そんな意味が込められているのではと思います。 [...]
+    By Dr. Victor Henning – Co-Founder & CEO, Mendeley Ltd. 来日講演2012（福岡編） | @KeitaBando on September 4, 2013 at 11:47 am
+
+    [...] この辺りは最近話題となりつつあるaltmetrics（ソーシャルメディアを活用した研究評価指標）とも絡んでいて、とてもムラムラする箇所です。 Mendeleyはaltmetricsに欠かせない（altmetricsにとってもMendeleyは欠かせない）存在になりつつあること再認識。 Mendeley人気に拍車がかかれば、必然的にaltmetricsに注目が集まる・・来年のSPARC Japanセミナーあたりではきっとaltmetricsをテーマとしたセミナーが開催され、第一人者のJasonあたりが来日して・・そんなことを妄想しながら聴き入りました。 [...]
+    By Visualization of Research #dtk43 #dtk43_10 #Mendeley #Altmetrics | @KeitaBando on September 4, 2013 at 11:55 am
+
+    [...] scholarship. Their vision is summarized in: J. Priem, D. Taraborelli, P. Groth, C. Neylon (2010), Altmetrics: A manifesto, (v.1.0), 26 October 2010. http://altmetrics.org/manifesto via about – [...]
+    By Mendeley will have an impact on the library. Workshop presentation: Mendeley Institutional Edition | @KeitaBando on September 4, 2013 at 12:12 pm
+
+    [...] Altmetrics に強い興味があってこれらの情報を日々ウォッチ。 [...]
+    By Is Altmetric for me | Hazman Labs, Inc on September 7, 2013 at 12:07 am
+
+    [...] is interesting when I start to hear about Altmetric from the website. Basically, altmetrics is the creation and study of new metrics based on the social web for [...]
+    By Some considerations regarding data-driven design | As I learn ... on September 9, 2013 at 7:38 pm
+
+    [...] http://altmetrics.org/manifesto/ http://www.wooga.com/2012/07/ [...]
+    By A brief introduction to altmetrics for researchers - Research to Action - Research to Action on September 11, 2013 at 9:20 am
+
+    [...] The Altmetrics Manifesto http://altmetrics.org/manifesto/ [...]
+    By 査読はどうあるべきなのか - システム論ブログ - 永井俊哉 on September 12, 2013 at 7:50 am
+
+    [...] こうしたエリート主義には、問題もいろいろある。すなわち、参加者と評価者の数が少ないために、データが不足したり、評価基準が仲間内で固定されたり、工作活動に対して脆弱であったり[18] といった弊害が生じる。こうした弊害を解消するために、ネット上での一般の人々の評価を反映させるオルトメトリクス（altmetrics）が提唱されている。オルトメトリクスとは、非伝統的な（alternative）評価指標（metrics）という意味である。具体的には、ソーシャルメディアでの評価、Mendeley などの学術論文引用管理ソフトウェアでの使用状況、ソーシャルブックマーク、オンライン上でのリンクなどのデータから研究者の業績を評価する。 [...]
+    By The future of the peer-review systems - Systemics Blog - Nagai Toshiya on September 12, 2013 at 8:04 am
+
+    [...] peers, and vulnerability to manipulation.[18] To prevent such harmful effects, some propose altmetrics, alternative metrics of academic works by means of the reputation of social media, storage at [...]
+    By Academics online: what are the risks? | This Sociological Life on September 16, 2013 at 6:53 am
+
+    [...] increasingly subjected to metric assessments based on their success in using social media (via altmetrics) and the reluctance of some to take up new activities in an already very demanding working life. [...]
+    By More On Alternative Research Metrics: Telling The Full Story Of Researchers’ Productivity | Digital Media & Science on September 22, 2013 at 5:01 pm
+
+    [...] “Some people say, ‘I don’t care about popular science; I only care about quality science. The only measure we have [of science quality] is the consensus of the scientific community. One could call that popularity; one could call it expert consensus.”—Information scientist Jason Priem,  University of North Carolina, Chapel Hill, and author of altmetrics: a manifesto [...]
+    By My objectives as a Panton Fellow | OKF Open Science Working Group on September 24, 2013 at 2:29 pm
+
+    [...] data. Altmetrics are indicators of scholarly activity and impact on the web. Have a look at the altmetrics manifesto for a thorough [...]
+    By 坂東, 慶太. 「オープンアクセス×ソーシャルメディア」時代の研究評価指数altmetricsの可能性. 2013, 月刊DRF, 2013年10月号, No.45, p.1-4. #altmetrics #OAWeek | @KeitaBando on October 1, 2013 at 8:19 am
+
+    [...] Priem, J.; Taraborelli, D.; Groth, P.; Neylon, C. altmetrics: a manifesto, (v.1.0). 2010-10-26. [2] 坂東 慶太.Altmetrics の可能性 [...]
+    By Glorious Generalist: What Should Technology Librarians Be Doing About Alternative Metrics? on October 2, 2013 at 8:27 pm
+
+    [...] potentially makes the tools available to researchers more homogeneous and ignores niches. As the alt metrics manifesto suggests, the traditional “filters” in scholarly communication of peer review, [...]
+    By Lunchlezing Paul Groth: Telling your research story with metrics | Wilma van den Brink on October 3, 2013 at 9:02 am
+
+    [...] Groth is universitair docent bij de Vrije Universiteit in Amsterdam. Hij is initiatiefnemer van het altmetrics manifesto. Paul heeft bovendien meegewerkt aan een korte film over sociale media en open access in 2012. Zie [...]
+    By My objectives as a Panton Fellow | Science and the Web on October 4, 2013 at 11:36 am
+
+    [...] data. Altmetrics are indicators of scholarly activity and impact on the web. Have a look at the altmetrics manifesto for a thorough [...]
+    By The Future of Metrics in Science | Data Pub on October 14, 2013 at 9:12 pm
+
+    [...] a graduate student at UNC’s School of Information and Library Science, coined the term “altmetrics” rather recently, and the idea has taken off like [...]
+    By Open Access: Redefining Impact | Florida Institute of Technology on October 16, 2013 at 12:00 pm
+
+    [...] ~ J. Priem, D. Taraborelli, P. Groth, & C. Neylon, altmetrics.org [...]
+    By Defining social media terms | Heidi Allen on October 23, 2013 at 3:38 am
+
+    [...] there is a new term which tries to capture online mentions of research articles called “altmetrics” originally defined by Jason Priem.[2, 3] Publishers such as Elsevier and PLoS are developing new [...]
+    By La quantité est-elle la nouvelle qualité ? | Casus Bibli on October 24, 2013 at 6:40 am
+
+    [...] de description sémantique des relations citant-cité ou même par rapport à certains indicateurs altmetrics , mais qui a le mérite d’être facilement analysable par des outils efficaces, utilisés par les [...]
+    By Dantalus on October 28, 2013 at 10:24 am
+
+    [...] these apply to you, then you likely have an opportunity to help academia rise above publication-based metrics of academic impact, even if just an inch at a [...]
+    By Exploring Altmetrics - THATCamp Virginia 2013 on October 30, 2013 at 3:14 pm
+
+    […] You can read the classic altmetrics manifesto here. […]
+    By a future science publishing vision | Eckmeier.De|nnis on November 3, 2013 at 8:10 pm
+
+    […] on the quality of the article, PLOS calls it ‘Article-Level Metric’ and there is also Altmetrics and others have their own ideas. But how do we measure the success of this paper in a timely manner […]
+    By Defining social media terms | Heidi Allen on November 4, 2013 at 12:10 am
+
+    […] there is a new term which tries to capture online mentions of research articles called “altmetrics” originally defined by Jason Priem.[2, 3] Publishers such as Elsevier and PLoS are developing new […]
+    By Altmetrics – dlaczego warto interesować się alternatywnymi metrykami | Warsztat badacza – Emanuel Kulczycki on November 5, 2013 at 4:26 pm
+
+    […] się jedynie na liczeniu cytowań. Warto przeczytać manifest altmetrics, który dostępny jest tutaj. Jego autorzy podkreślają, że w nauce od zawsze potrzebne są różnego rodzaju filtry, gdyż […]
+    By Evaluating Impact: What’s your number? | PLOS Tech on November 6, 2013 at 10:51 pm
+
+    […] trends have been summarized with the terms Article-level Metrics and altmetrics and will be the focus of the panel next Saturday. As altmetrics is still a young discipline, more […]
+    By Articles tweeted about are 11 times more likely to be highly cited in journal articles | Real Lawyers Have Blogs on November 8, 2013 at 7:44 pm
+
+    […] publication to the web, and publish earlier, the web offers a better way to filter science or as Altmetrics (project set up to discuss the post-peer review environment) puts it: “Instead of waiting months […]
+    By Articles tweeted about are 11 times more likely to be highly cited in journal articles on November 12, 2013 at 11:37 pm
+
+    […] publication to the web, and publish earlier, the web offers a better way to filter science or as Altmetrics (project set up to discuss the post-peer review environment) puts it: “Instead of waiting months […]
+    By How to take charge of science policy: making research more visible on November 15, 2013 at 8:02 pm
+
+    […] time to update our measures of visibility and alternative metrics must be part of any modern system for quantifying research […]
+    By Altmetriikka – vaihtoehtoista metriikkaa | Suomen yliopistokirjastojen neuvoston blogi on November 19, 2013 at 8:40 am
+
+    […] Altmetriikka on nähty myös webnatiivin sukupolven vastaiskuna aikansa eläneelle tutkimuskulttuurille. Vuonna 2010 julistettiinkin verkossa manifesti, “Altmetrics manifesto”. […]
+    By Blessay | Brooklyn Chick, Mere's Blog on November 19, 2013 at 10:46 pm
+
+    […] Altmetrics was introduced as a tool for scholars and librarians. For a complete explanation go to http://altmetrics.org/manifesto/ . The main concept behind Altmetrics is that its system can easily tell you which articles are the […]
+    By Student Research on Voluntourism: Creating “Real-Time” Benefits for Practitioners | VolunTourism Institute on November 22, 2013 at 11:34 pm
+
+    […] more senior posts. It’s simple arithmetic. So we shouldn’t expect reform of publishing, or alt-metrics, to save people from perishing. These reforms could certainly make the system fairer and better, […]
+    By Thing 20 2013: Blog, tweet or post a link | 23 Things for Research on November 25, 2013 at 9:55 am
+
+    […] article, and they may be taken into consideration when making hiring or tenure decisions. The altmetrics manifesto argues that new forms of scholarly and popular communication (e.g. social media) require a rethink […]
+    By Réseaux sociaux académiques….Le débat ! | Archives Ouvertes on November 29, 2013 at 4:13 pm
+
+    […] académique évoluant à grande vitesse sur les réseaux sociaux. A ce sujet, notons une étude sur http://altmetrics.org/manifesto/ (un groupe de chercheurs à l’international) ayant fait le constat que les chercheurs […]
+    By Quelles évaluations alternatives des pratiques de la recherche ? | Science ouverte on December 7, 2013 at 6:45 pm
+
+    […] Altmetrics Manifesto […]
+    By Open and transparent altmetrics for discovery | OKF Open Science Working Group on December 9, 2013 at 10:51 am
+
+    […] and in social media are considered as well. The altmetrics promise, as laid out in the excellent manifesto, is that they assess impact quicker and on a broader […]
+    By Digging Digitally » It’s the Neoliberalism, Stupid: Why Open Access / Data / Science is not Enough on December 11, 2013 at 6:53 pm
+
+    […] are more metrics (even Alt-metrics) really the solution to the perverse incentives embodied by our existing metrics? The much derided […]
+    By Altmetrics: How do I rate thee? Let me count the tweets! | Adroit Living on December 12, 2013 at 8:53 am
+
+    […] with a terrible name [Note: "Alt" ('alternative') to what? Not really "metrics" either]. The Altmetrics.org manifesto clearly lays out the ambitions for what those active in the field envision altmetrics to be: acting […]
+    By Twitter Open Access Report – 4 Sep 2013 | on December 12, 2013 at 11:16 am
+
+    […] in journals, conferences and social media. (A good starting point for learning about altmetrics is http://altmetrics.org/manifesto .) Data collected by altmetric platforms come from many sources, ranging from PDF downloads on […]
+    By Altmetrics en el Contexto | Universo Abierto on December 15, 2013 at 8:06 pm
+
+    […] investigación, incluyendo presentaciones de diapositivas, los conjuntos de datos y artículos. En “Altmetrics: a manifiesto”, hay una buena introducción a cómo altmetrics pueden enriquecer más la reflexión tradicional […]
+    By Unbundling Academia—It's Not Just for Cable Anymore on December 23, 2013 at 10:18 pm
+
+    […] aggregating informal assessment are already flourishing.” These measuring systems, such as "altmetrics," in part use traffic and engagement statistics that wouldn’t be unfamiliar to any […]
+    By Veröffentlichen | Denkwerkzeuge im Wissensmanagement on December 26, 2013 at 5:28 pm
+
+    […] ; Groth, Paul ; Neylon, Cameron (2011): Altmetrics: A manifesto. Version 1.01, 06.12.2013. URL: http://altmetrics.org/manifesto                            P Dong, M Loh, A Mondry(2005) – The “impact factor” revisited.Biomedical digital […]
+    By Steering clear of the iceberg: three ways we can fix the data-credibility crisis in science | BaciNews on December 29, 2013 at 4:18 am
+
+    […] research is based on journal prestige, but some scientists and startups are beginning to use alternative metrics in an effort to refocus on the science itself (rather than the publishing […]
+    By Altmetrics – fancy feature or peer review’s successor? | Open Science on January 10, 2014 at 4:36 pm
+
+    […] how many people are talking about it, their opinions and whether your work is important to them. Altmetrics gives you the answer, as well as an opportunity to find out which articles are widely disputed in […]
+    By Twitter Open Access Report – 14 Jan 2014 | on January 14, 2014 at 11:42 am
+
+    […] how many people are talking about it, their opinions and whether your work is important to them. Altmetrics gives you the answer, as well as an opportunity to find out which articles are widely disputed in […]
+    By CMPO Viewpoint on January 14, 2014 at 3:06 pm
+
+    […] is likely to change dramatically over the next few years, as open access, self-archiving, altmetrics and other technology-driven innovations become increasingly common. This provides an opportunity to […]
+    By EBSCO Acquires Altmetrics Provider Plum Analytics - The Digital Shift on January 15, 2014 at 10:46 pm
+
+    […] field itself isn’t much older. One of its formative texts, “Altmetrics: A Manifesto,” written by ImpactStory founder Jason Priem and others, went online in October […]
+    By Why you should ignore altmetrics and other bibliometric nightmares on January 16, 2014 at 12:04 pm
+
+    […] science (the kind that ought to be considered for tenure) which operates on the timescale of years. Priem also says “researchers must ask if altmetrics really reflect impact” .  Even he […]
+    By Stick to Your Ribs: Altmetrics — Replacing the Impact Factor Is Not the Only Point | The Scholarly Kitchen on January 23, 2014 at 10:31 am
+
+    […] as a container is an important value metric and one that needs to continue, the rapidly evolving alternative metrics (altmetrics) movement is concerned with more than replacing traditional journal assessment […]
+    By On exploding ‘evaluation machines’ and the construction of alt-metrics | The Citation Culture on January 28, 2014 at 8:30 pm
+
+    […] Priem, J., Taraborelli, D., Groth, P., and Neylon, C. (2010a). Altmetrics: a manifesto. http://altmetrics.org/manifesto/ […]
+    By Defining social media terms – different things to different people | Beyond Digital Strategy on February 1, 2014 at 11:05 pm
+
+    […] there is a new term which tries to capture online mentions of research articles called “altmetrics” originally defined by Jason Priem.[2, 3] Publishers such as Elsevier and PLoS are developing new […]
+    By The end of the paywall | carsten.io on February 4, 2014 at 3:23 pm
+
+    […] of self-archiving, a growing market for open access publishers, tools such as #icanhazpdf, and new impact measures, I think it is getting ever harder for the publishers to justify their steep subscription […]
+    By Discussion: "It’s the Neoliberalism, Stupid: Why instrumentalist arguments for Open Access, Open Data, and Open Science are not enough." | EDaWaX on February 5, 2014 at 9:13 am
+
+    […] are more metrics (even Alt-metrics) really the solution to the perverse incentives embodied by our existing metrics? The much derided […]
+    By IMPACT or How I Learned to Start Worrying and Fear Altmetrics | Meta Rabbit on February 5, 2014 at 9:32 am
+
+    […] Altmetrics is the idea that scientific publications should be judged (perhaps primarily) on the impact they have in the general media, including on social media. This is in alternative to looking at either citations of journal impact factors. […]
+    By 図書館員は、研究者への #altmetrics 支援をいつやるか？ 今でs（ry | @KeitaBando on February 6, 2014 at 2:10 pm
+
+    […] altmetricsは比較的新しい概念――altmetrics: a manifestoが初めて公開（v […]
+    By Twitter Open Access Report – 11 Feb 2014 | on February 11, 2014 at 11:41 am
+
+    […] has been measured in a few ways, usually through narrow citations counts or through peer review. Article level metrics (altmetrics) are becoming the new currency to measure research impact. They measure reach through article […]
+    By Are universities turning into giant newsrooms? | PNCAU on February 11, 2014 at 4:20 pm
+
+    […] Article level metrics (altmetrics) are becoming the new currency to measure research impact. They measure reach through article views, downloads, traditional media or mentions in social media. […]
+
+Post a Comment
+
+Your email is never shared. Required fields are marked *
+Name *
+Email *
+Website
+Comment
+
+    about
+
+    What's altmetrics?
+
+    Tools
+
+    Media
+
+    Press
+    The Guardian The Chronicle of Higher Education Wired Science Nature Times Higher Education Forbes IEEE Spectrum PLOS
+
+
+    call for papers
+
+    The Altmetrics Collection
+    altmetrics PLOS One Collection
+
+    A PLOS One Collection
+
+    workshop
+
+    altmetrics14 workshop
+    altmetrics12
+
+    An ACM Web Science Conference 2014 Workshop
+
+    Bloomington, IN • 23 June 2012
+    resources
+        altmetrics @Mendeley
+        altmetrics @Google Groups
+        altmetrics @FriendFeed
+        altmetrics @LinkedIn
+    upcoming events
+        23 June 2013: altmetrics14 workshop ( ACM Web Science Conference 2014 )
+        11-12 April 2013:
+        Rigour and Openness in 21st Century Science
+        (Oxford)
+    past events
+        19-20 March 2013:
+        Beyond the PDF 2
+        (Amsterdam)
+        15 February 2013:
+        A New Social (Media) Contract for Science
+        (AAAS '13, Boston)
+        4 December 2012:
+        Future of Academic Impacts #LSEimpact
+        (London)
+        1-3 November 2012:
+        ALM Workshop and Hackathon #alm12
+        (San Francisco)
+        10-12 October 2012:
+        Occupy Impact
+        (Montreal)
+        21 June 2012:
+        altmetrics12 workshop
+        ( ACM Web Science Conference 2012 )
+        15 June 2012:
+        Disrupting Scientific Communication
+        StartUpScience
+        (South San Francisco)
+        19-21 January 2012:
+        Science Online 2012
+        (NC State University)
+        24-25 October 2011:
+        Transforming Scholarly Communication
+        (Harvard & Microsoft Research)
+        22-23 October 2011:
+        Open Science Summit 2011
+        (Mountain View, CA)
+        2-3 September 2011:
+        Science Online London 2011
+        (British Library)
+        15 June 2011:
+        altmetrics11 workshop
+        ( ACM Web Science Conference 2011 )
+        9-11 May 2011:
+        Beyond Impact Workshop
+        (OSI/Wellcome Trust)
+        22-25 March 2011:
+        Mining the Digital Traces of Science
+        (Workshop + data challenge)
+        19-21 January 2011:
+        Beyond the PDF
+        (UCSD Workshop)
+        15 January 2011:
+        How is the Web changing the way we identify scientific impact?
+        (Science Online 2011)
+    RSS latest #altmetrics references
+        Can Social Reference Management Systems Predict a Ranking of Scholarly Venues?
+        Proceedings of the 17th international conference on theory and practice of digital libraries (2013). Pages: 138-143. Hamed Alhoori, Richard Furuta et al.New scholarly venues (e.g., conferences and journals) are emerging as research fields expand. Ranking these new venues is imperative to assist researchers, librarians, and research institutions. However, ran […]
+        I like the term #articlelevelmetrics, but it fails to imply *diversity* of measures. Lately, I'm liking #altmetrics. [Tweet]
+        Jason Priem et al.Published using Mendeley: The reference software for researchers
+        Beyond citations: Scholars' visibility on the social Web
+        Proceedings of the 17th International Conference on Science and Technology Indicators (2012). Judit Bar-Ilan, Stefanie Haustein, Isabella Peters, Jason Priem, Hadas Shema, Jens Terliesner et al.Published using Mendeley: The bibliography manager for researchers
+        Archiving the Relaxed Consistency Web
+        Zhiwu Xie, Herbert Van de Sompel, Jinyang Liu, Johann van Reenen, Ramiro Jordan et al.Published using Mendeley: The bibliography manager for researchers
+        Average Thomsom-Reuters (WoS) and SciELO Impact Factors
+        Juan Pablo Alperin et al.Published using Mendeley: The library management tool for researchers
+    recent comments
+        ESA-announce ACM Web Science Conference (WebSci’14), June 23-26, 2014 | 研討會資訊網 Info for Academic Conferences and CFP on altmetrics14: expanding impacts and metrics
+        Are universities turning into giant newsrooms? | PNCAU on altmetrics: a manifesto
+        Twitter Open Access Report – 11 Feb 2014 | on altmetrics: a manifesto
+        図書館員は、研究者への #altmetrics 支援をいつやるか？ 今でs（ry | @KeitaBando on altmetrics: a manifesto
+        IMPACT or How I Learned to Start Worrying and Fear Altmetrics | Meta Rabbit on altmetrics: a manifesto
+        Discussion: "It’s the Neoliberalism, Stupid: Why instrumentalist arguments for Open Access, Open Data, and Open Science are not enough." | EDaWaX on altmetrics: a manifesto
+        The end of the paywall | carsten.io on altmetrics: a manifesto
+        Defining social media terms – different things to different people | Beyond Digital Strategy on altmetrics: a manifesto
+        On exploding ‘evaluation machines’ and the construction of alt-metrics | The Citation Culture on altmetrics: a manifesto
+        Tools – altmetrics.org | Nader Ale Ebrahim on Tools
+
+    Search
+    Blogroll
+        Documentation
+        Plugins
+        Suggest Ideas
+        Support Forum
+        Themes
+        WordPress Blog
+        WordPress Planet
+    RSS Feeds
+        All posts
+        All comments
+    Meta
+        Log in
+
+WordPress | Sandbox

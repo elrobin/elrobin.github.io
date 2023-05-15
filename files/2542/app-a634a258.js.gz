@@ -1,0 +1,159 @@
+$(function () {
+  // $(window).load(function () {
+  //   if ($(this).width() < 768) {
+  //     var mobile_topbar_offset = $('#mobile-top-bar').offset().top;
+  //     window.scrollTo(0, mobile_topbar_offset);
+  //   }
+  // });
+
+  $('div.accordion-wrap h5').on('click', function () {
+    var header = $(this),
+        content = $(this).next('.content');
+
+    if (header.hasClass('open')) {
+      content.hide();
+      header.removeClass('open');
+    } else {
+      content.show();
+      header.addClass('open');
+    }
+  }).each(function () {
+    if ($(window).width() < 768) {
+      $(this)
+        .removeClass('open')
+        .next('.content')
+        .hide();
+    }
+  });
+
+  $('#header .title').click(function(){
+    if ($(window).width() < 769) {
+      $(this).toggleClass('open');
+      $('.journal-nav').slideToggle();
+    }
+  });
+
+  $(window).on('resize', function () {
+    if ($(this).width() > 768) {
+      $('.journal-nav').attr('style', '');
+    }
+  });
+
+  var spinnerOpts = {
+    lines: 11, // The number of lines to draw
+    length: 2, // The length of each line
+    width: 2, // The line thickness
+    radius: 3, // The radius of the inner circle
+    corners: 1, // Corner roundness (0..1)
+    rotate: 0, // The rotation offset
+    direction: 1, // 1: clockwise, -1: counterclockwise
+    color: '#222222', // #rgb or #rrggbb
+    speed: 1, // Rounds per second
+    trail: 60, // Afterglow percentage
+    shadow: false, // Whether to render a shadow
+    hwaccel: false, // Whether to use hardware acceleration
+    className: 'spinner', // The CSS class to assign to the spinner
+    zIndex: 2e9, // The z-index (defaults to 2000000000)
+    top: 'auto', // Top position relative to parent in px
+    left: 'auto' // Left position relative to parent in px
+  };
+
+  $('#messages-container .message h1 a').click(function() {
+    if($(this).parents('.message').find('.body').is(':visible')) {
+      $(this).parents('.message').find('.body').slideUp('fast');
+    } else {
+      $(this).parents('.message').find('.body').slideDown('fast');
+    }
+
+    return false;
+  });
+
+  $('#messages-container .message .archive').click(function(event) {
+    var thisMessage = $(this).parents('.message');
+
+    $('.tooltip').hide();
+
+    $(this).empty();
+    $(this).append((new Spinner(spinnerOpts).spin()).el);
+
+    $.ajax({type: 'PUT', url: '/account/messages/' + $(thisMessage).attr('data-id') + '/archive'}).always(function(response) {
+      if($('.message:visible').length == 1) {
+        $('#messages').append($('<div class=\"empty\"></div>').text('Your Notification Inbox is Empty').css({display: 'none'}));
+        $('#messages .empty').slideDown('fast');
+      }
+
+      $(thisMessage).slideUp('fast');
+    });
+  });
+
+  $('#messages-container .message .unarchive').click(function(event) {
+    var thisMessage = $(this).parents('.message');
+
+    $('.tooltip').hide();
+
+    $(this).empty();
+    $(this).append((new Spinner(spinnerOpts).spin()).el);
+
+    $.ajax({type: 'PUT', url: '/account/messages/' + $(thisMessage).attr('data-id') + '/unarchive'}).always(function(response) {
+      if($('.message:visible').length == 1) {
+        $('#messages').append($('<div class=\"empty\"></div>').text('Your Notification Archive is Empty').css({display: 'none'}));
+        $('#messages .empty').slideDown('fast');
+      }
+
+      $(thisMessage).slideUp('fast');
+    });
+  });
+
+  $('#saved-searches-container .saved-search .settings').click(function(event) {
+    var thisSavedSearch = $(this).parents('.saved-search');
+
+    $('.tooltip').hide();
+
+    $(thisSavedSearch).find('.actions .quick').hide();
+    $(thisSavedSearch).find('.actions .email-frequency-container .completed').hide();
+    $(thisSavedSearch).find('.actions .email-frequency-container .cancel').show();
+    $(thisSavedSearch).find('.actions .email-frequency-container').fadeIn('fast').css({display: 'inline-block'});
+  });
+
+  $('#saved-searches-container .saved-search .email-frequency').change(function(event) {
+    var thisSavedSearch = $(this).parents('.saved-search');
+
+    $('.tooltip').hide();
+
+    $(this).blur();
+
+    $.ajax({url: '/user/searches/' + $(thisSavedSearch).attr('data-id')}).always(function(savedSearch) {
+      savedSearch['email_frequency'] = $(thisSavedSearch).find('.email-frequency').val();
+
+      $.ajax({type: 'PUT', url: '/user/searches/' + $(thisSavedSearch).attr('data-id'), contentType: 'application/json', data: JSON.stringify(savedSearch)}).always(function(response) {
+        $(thisSavedSearch).find('.actions .email-frequency-container .cancel').hide();
+        $(thisSavedSearch).find('.actions .email-frequency-container .completed').fadeIn('fast', function() {
+          window.setTimeout(function() {
+            $(thisSavedSearch).find('.actions .email-frequency-container').fadeOut('fast', function() {
+              $(thisSavedSearch).find('.actions .quick').fadeIn('fast').css({display: 'inline-block'});
+            });
+          }, 600);
+        });
+      });
+    });
+  });
+
+  $('#saved-searches-container .saved-search .email-frequency-container .cancel').click(function(event) {
+    var thisSavedSearch = $(this).parents('.saved-search');
+
+    $(thisSavedSearch).find('.actions .email-frequency-container').hide();
+    $(thisSavedSearch).find('.actions .quick').fadeIn('fast').css({display: 'inline-block'});
+  });
+
+  $('#saved-searches-container .saved-search .delete').click(function(event) {
+    var thisSavedSearch = $(this).parents('.saved-search');
+
+    $('.tooltip').hide();
+
+    if(confirm('Are you sure?')) {
+      $.ajax({type: 'DELETE', url: '/user/searches/' + $(thisSavedSearch).attr('data-id')}).always(function(response) {
+        $(thisSavedSearch).slideUp('fast');
+      });
+    }
+  });
+});

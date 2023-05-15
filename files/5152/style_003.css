@@ -1,0 +1,34 @@
+.gtextbox 
+{
+	max-width:100%;
+}
+.gtextarea 
+{
+	max-width:100%;
+	height:100px;
+	margin-bottom:10px;
+}
+.gtitle 
+{
+	max-width:100%;
+	padding-bottom:6px;
+	padding-top:6px;
+}
+.gtextboxpage
+{
+	max-width:100%;
+	line-height:0px;
+}
+.gtextareapage
+{
+	max-width:100%;
+	height:80px;
+}
+.gtitlepage
+{
+	max-width:100%;
+}
+.gsmpage
+{
+	color:#990000;
+}

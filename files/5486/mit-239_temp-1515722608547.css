@@ -1,0 +1,66 @@
+.publicationContentDropZone .upperRightButtonContainer{
+		margin-top: 8px;
+
+}
+
+@media screen and (min-width: 1200px){
+	.publicationContentDropZone .upperRightButtonContainer, .publicationPagesCol2 .upperRightButtonContainer {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 1200px){
+	.publicationPagesCol3{
+		display: none;
+	}
+}
+@media screen and (max-width:1200px){
+	#pb-page-content .publicationContentDropZone .upperRightButtonContainer .upperRightButton, #pb-page-content .publicationPagesCol2 .upperRightButtonContainer .upperRightButton {
+		font-size: 18px;
+	}
+
+	#pb-page-content .publicationPagesCol2 .upperRightButtonContainer{
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+
+}
+
+@media screen and (max-width:768px){
+	#pb-page-content .publicationContentDropZone .upperRightButtonContainer .upperRightButton, #pb-page-content .publicationPagesCol2 .upperRightButtonContainer .upperRightButton {
+		font-size: 15px;
+	}
+}
+
+
+#pb-page-content #readingOptionsMenu2{
+  border: 1px solid;
+  position: absolute;
+  background-color: white;
+  z-index: 100;
+  width: 100%;
+  display: none;
+}
+#pb-page-content #readingOptionsMenu2 .publication-tabs.ja.publication-tabs-dropdown {
+  width: auto;
+  margin-top: 0px;
+}
+#pb-page-content #readingOptionsMenu2 .tab-content,
+#pb-page-content #readingOptionsMenu2 .articleMeta,
+#pb-page-content #readingOptionsMenu2 .show-full,
+#pb-page-content #readingOptionsMenu2 .show-abstract,
+#pb-page-content #readingOptionsMenu2 .show-authors {
+  display: none;
+}
+#pb-page-content #readingOptionsMenu2 .tabs-widget .tab-nav {
+  border-bottom: none;
+}
+#pb-page-content #readingOptionsMenu2 .tabs-widget .tab-nav li {
+  display: block;
+}
+#pb-page-content #readingOptionsMenu2 .tabs-widget .tab-nav li:hover {
+  background-color: #f2f2f2;
+}
+#pb-page-content #readingOptionsMenu2 .tabs-widget .tab-nav li a {
+  color: inherit;
+}

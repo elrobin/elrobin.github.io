@@ -1,0 +1,1 @@
+PARSELY.pInit({"apikey":"nature.com","bundle":"/code/ptrack-v1.1.1-engagedtime-slots.js","customizations":null,"track_third_party_cookies":true,"track_ip_addresses":true,"settings":{"tracker":true,"widget":false,"debug":false},"uuid":"644f74f9-a1e9-4b56-b160-a12074298549","network_uuid":"c341e21e-0f92-477b-8f91-c136e134ccc4","apikey_uuid":"644f74f9-a1e9-4b56-b160-a12074298549"});

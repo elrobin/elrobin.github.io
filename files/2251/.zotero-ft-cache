@@ -1,0 +1,183 @@
+Screen reader users, click here to load entire article This page uses JavaScript to progressively load the article content as a user scrolls. Screen reader users, click the load entire article button to bypass dynamically loaded article content.
+ScienceDirect will be phasing out support for Internet Explorer 7. Click here to upgrade to a higher version. Close
+ 
+
+    Register
+    Login Login
+
+OpenAthens login
+Login via your institution
+Other institution login
+Remote access activation
+Click here to activate
+Login using your ScienceDirect credentials
+Username:
+Password:
+Remember me
+| Not Registered?
+Forgotten username or password?
+
+    Home
+    Publications
+    Search
+    My settings
+    My alerts
+
+    Help
+
+    Download PDF
+    Export citation
+    More options...
+            eReader format   What's this?
+              ePub
+              Mobipocket
+        Email article
+        Signed up for  [ remove ]
+        Alert me about new volumes of this
+        Failure
+        Your selection(s) could not be saved due to an internal error. Please try again.
+        Show thumbnail images
+
+Search
+Articles Articles 	    All fields 		    Author 					Advanced search
+Images Images 	    Journal/Book title 		    Volume 		  Issue 		  Page 			Search tips
+Article outline is loading...
+Alert message
+JavaScript is disabled on your browser.
+Please enable JavaScript to use all the features on this page.
+JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page.
+
+Journal of Informetrics
+
+Volume 1, Issue 3 , July 2007, Pages 193–203
+
+The Hirsch Index
+
+Edited By Wolfgang Glänzel
+Cover image Cover image
+The h-index: Advantages, limitations and its relation with other bibliometric indicators at the micro level
+
+    Rodrigo Costas Corresponding author contact information Corresponding author contact information , E-mail the corresponding author E-mail the corresponding author ,
+    María Bordons E-mail the corresponding author E-mail the corresponding author
+
+    Centro de Información y Documentación Científica (CINDOC), CSIC, Joaquín Costa, 22, 28002 Madrid, Spain
+
+    Received 17 November 2006
+    Revised 7 February 2007
+    Accepted 8 February 2007
+    Available online 30 March 2007
+
+Abstract
+
+The relationship of the h-index with other bibliometric indicators at the micro level is analysed for Spanish CSIC scientists in Natural Resources, using publications downloaded from the Web of Science (1994–2004). Different activity and impact indicators were obtained to describe the research performance of scientists in different dimensions, being the h-index located through factor analysis in a quantitative dimension highly correlated with the absolute number of publications and citations. The need to include the remaining dimensions in the analysis of research performance of scientists and the risks of relying only on the h-index are stressed. The hypothesis that the achievement of some highly visible but intermediate-productive authors might be underestimated when compared with other scientists by means of the h-index is tested.
+Keywords
+
+    h-index ;
+    Bibliometric indicators ;
+    Micro-level studies ;
+    Individual scientific performance ;
+    Individual scientific assessment ;
+    Research evaluation
+
+1. Introduction
+
+Bibliometric studies at the micro level are increasingly requested by science managers and policy makers to support research assessment decisions. Different indicators are frequently developed at this level of analysis, generally based on both the production of scientists as well as the impact of their documents, such as the number of citations, number of citations per document or the number of highly cited papers. The combined use of several indicators that give information on different aspects of scientific output is generally recommended (i.e., Van Leeuwen, Visser, Moed, Nederhof, & Van Raan, 2003 ). However, the h-index was introduced in 2005 ( Hirsch, 2005 ), comprising in a single indicator a measure of quantity and impact of the scientific output of a researcher. According to Hirsch, “a scientist has index h if h of his or her Np papers have at least h citations each and the other (Np-h) papers have ≤h citations each”.
+
+The scientific community has shown a huge interest for this indicator, as shown by the high number of publications on the topic ( Ball, 2005 , Cho, 2005 , Dume, 2005a , Dume, 2005b , Glanzel, 2006 , Monastersky, 2005 , Nazaroff, 2005 , Nature, 2005  and  Popov, 2005 ). The main advantage of h-index is that it combines a measure of quantity and impact in a single indicator. It has been calculated in different fields such as physics ( Hirsch, 2005 ), biomedicine ( Bornmann & Daniel, 2005 ), information science ( Cronin & Meho, 2006 ), and business ( Saad, 2006 ). It can be useful for journal assessment ( Braun, Glanzel, & Schubert, 2006 ; Rousseau, 2006b ), for comparative description of scientific topics ( Banks, 2006 ) and also for awarding scientific prizes ( Glanzel & Persson, 2005 ).
+
+Among the advantages of h-index the following have been pointed out by Hirsch (2005) :
+
+•
+
+    It combines a measure of quantity (publications) and impact (citations).
+•
+
+    It allows us to characterize the scientific output of a researcher with objectivity, and therefore may play an important role when making decisions about promotions, fund allocation and awarding prizes.
+•
+
+    It performs better than other single-number criteria commonly used to evaluate the scientific output of a researcher (impact factor, total number of documents, total number of citations, citation per paper rate and number of highly cited papers).
+•
+
+    The h-index can be easily obtained by anyone with access to the Thomson ISI Web of Science and in addition it is easy to understand.
+
+However, several limitations of the h-index have also been remarked:
+
+•
+
+    There are inter-field differences in typical h values due to differences among fields in productivity and citation practices ( Hirsch, 2005 ), so the h-index should not be used to compare scientists from different disciplines.
+•
+
+    The h-index depends on the duration of each scientist's career because the pool of publications and citations increases over time ( Hirsch, 2005 ; Kelly & Jennions, 2006 ). In order to compare scientists at different stages of their career, Hirsch (2005) presented the “m parameter”, which is the result of dividing h by the scientific age of a scientist (number of years since the author's first publication).
+•
+
+    Highly cited papers are important for the determination of the h-index, but once they are selected to belong to the top h papers, it is unimportant the number of citations they receive. This is a disadvantage of the h-index which Egghe has tried to overcome through a new index, called g-index ( Egghe, 2006b ).
+•
+
+    Since the h-index is easy to obtain, we run the risk of indiscriminate use, such as relying only on it for the assessment of scientists. Research performance is a complex multifaceted endeavour that cannot be assessed adequately by means of a single indicator ( Martin, 1996 ).
+•
+
+    The use of the h-index could provoke changes in the publishing behaviour of scientists, such an artificial increase in the number of self-citations distributed among the documents on the edge of the h-index ( Van Raan, 2006 ).
+•
+
+    There are also technical limitations, such as the difficulty to obtain the complete output of scientists with very common names, or whether self-citations should be removed or not. Self-citations can increase a scientist's h, but their effect on h is much smaller than on the total citation count since only self-citations with a number of citations just >h are relevant ( Hirsch, 2005 ).
+
+To overcome the limitations of the h-index different modifications have been suggested in the literature ( Batista et al., 2005  and  Batista et al., 2006 ; Bollen, Rodriguez, & van de Sompel, 2006 ; Egghe, 2006a  and  Egghe, 2006b ; Imperial & Rodríguez-Navarro, 2005 ; Rousseau, 2006a ).
+
+We think it is essential to continue analysing this indicator carefully, in order to establish clearly its drawbacks and limitations with the same critical and strict approach that the more traditional indicators received. It is especially relevant to determine in which cases this index could be biased, since it could have serious consequences on the assessment of individual scientists.
+2. Objectives
+
+The objective of this paper is to analyse the relationship of the h-index with other bibliometric indicators at the micro level in order to identify some of its advantages and limitations. Differences between h-index and several traditional indicators in their ability to assess research performance of scientists are given special attention. Our hypothesis is that h-index is heavily influenced by the absolute number of documents and citations and that it fails to identify those researchers who are very selective when choosing journals and who have intermediate levels of production but with a high international impact.
+3. Methodology
+
+Scientific publications of scientists at the Spanish Research Council (CSIC) in the area of Natural Resources published during 1994–2004 were obtained from the Web of Science (WoS). Natural Resources is one of the eight scientific areas at CSIC, comprising mainly research on earth sciences, geology, marine sciences, biology, environmental sciences, and zoology.
+
+A total of 348 permanent scientists were working at CSIC in the area of Natural Resources in 2004. A search strategy was developed including all authors’ names and their possible variants ( Costas & Bordons, 2005 ). Documents were searched and downloaded from the Science Citation Index , Social Science Citation Index and Arts & Humanities Citation Index in June 2005. Documents were checked to verify if they corresponded to the studied scientists. Publications from homonym authors were identified and removed. A steering scientific committee that included several CSIC scientists in Natural Resources checked the results and supervised the whole process. Only 11 scientists did not have any publication in the period, so the study focuses on the remaining 337 scientists.
+Elsevier homepage (opens in a new window)
+
+    About ScienceDirect
+
+    About Elsevier
+
+    Contact and support
+
+    Information for advertisers
+
+    Terms and conditions
+
+    Privacy policy
+
+Copyright © 2014 Elsevier B.V. except certain content provided by third parties. ScienceDirect® is a registered trademark of Elsevier B.V.
+Cookies are used by this site. To decline or learn more, visit our Cookies page
+
+    http://dx.doi.org/10.1016/j.joi.2007.02.001 
+    Get rights and content 
+
+Bibliographic information
+Citing and recommended articles
+
+Recommended articles
+
+    No articles found.
+
+Cited by ( )
+
+    This article has not been cited.
+
+Related reference work articles
+
+    No articles found.
+
+Applications and tools
+
+Workspace
+
+No content has been selected.
+Close
+ScienceDirect article suggestions
+ScienceDirect
+
+    Recommended articles
+
+People who downloaded this article also downloaded these articles. Learn more
+Do not show again
+

@@ -1,0 +1,294 @@
+
+/* ::::: http://redc.revistas.csic.es/styles/common.css ::::: */
+
+body { margin: 0px; padding: 0px; background-color: rgb(251, 251, 243); color: rgb(17, 17, 17); font-family: Verdana,Arial,Helvetica,sans-serif; text-align: center; }
+div { line-height: 140%; text-align: justify; }
+div.imagen { padding-left: 0%; border: 0px none; }
+img.sinBorde { border: 0px none; }
+table { border: 0px none; border-spacing: 0px; font-size: 1em; width: 95%; }
+table td.espacio { width: 5%; }
+img.portada { width: 130px; height: 187px; border: 0px none; }
+form { margin: 0px; }
+a { text-decoration: underline; }
+a:link { color: rgb(51, 119, 85); }
+a:active { color: rgb(34, 85, 51); }
+a:visited { color: rgb(51, 119, 85); }
+a:hover { color: rgb(34, 85, 51); background: none repeat scroll 0% 0% rgb(204, 221, 204); }
+a.plain { text-decoration: none; }
+ul { margin: 0.25em 0px 0.75em; padding: 0px 0px 0px 2.5em; }
+tt { font-size: 1.25em; }
+label {  }
+label.error { color: rgb(153, 0, 0); }
+input.textField, select.selectMenu, textarea.textArea, input.uploadField { background-color: rgb(240, 240, 232); color: rgb(0, 0, 0); font-family: Verdana,Arial,Helvetica,sans-serif; border-width: 2px; border-style: solid; border-color: rgb(102, 102, 102) rgb(232, 232, 225) rgb(232, 232, 225) rgb(102, 102, 102); font-size: 1em; }
+input.button { padding-left: 0.5em; padding-right: 0.5em; background-color: rgb(232, 232, 225); font-size: 1em; }
+input.defaultButton { background-color: rgb(51, 119, 85); color: rgb(251, 251, 243); font-weight: bold; }
+#container { width: 100% ! important; min-width: 730px ! important; margin: 0px auto; line-height: 125%; text-align: center; }
+#container2 { width: 90% ! important; min-width: 730px ! important; margin: 0px auto; line-height: 125%; text-align: center; }
+#header { width: 100%; background-color: rgb(74, 128, 84); text-align: center; }
+#headerTitle { text-align: left ! important; margin: 0px auto; padding: 0px; width: 100%; }
+#header h1 { margin: 0px auto; padding: 0.5em 0px 0.25em 10%; font-family: Georgia,'Times New Roman',Times,serif; font-weight: normal; line-height: 130%; }
+#footer { width: 100%; min-height: 50px; position: static; clear: both; background-color: rgb(170, 187, 170); text-align: center; }
+#footerContent { width: 100%; margin: 0px auto; padding-left: 10%; }
+#main { padding: 0.5em 0em 2em; width: 80%; margin: 0px auto; }
+#main h2 { margin: 0em 1em 0.5em 0em; padding-top: 0.5em; font-family: Georgia,'Times New Roman',Times,serif; font-weight: normal; line-height: 130%; }
+#main h3 { margin: 0em 1em 0.5em 0em; padding-top: 0em; font-family: Georgia,'Times New Roman',Times,serif; font-weight: normal; }
+#navbar { margin-right: 0px; padding-bottom: 0.5em; border-bottom: 2px dotted rgb(0, 0, 0); }
+#breadcrumb { padding-top: 1em; font-size: 0.7em; }
+#content { margin: 0px; padding: 0.5em 0px 0px; font-size: 0.7em; border-top: 2px dotted rgb(0, 0, 0); }
+#content h3 { margin: 0em 1em 0.25em 0em; font-family: Verdana,Georgia,'Times New Roman',Times,serif; font-weight: bold; font-size: 1.6em; line-height: 1.35em; color: rgb(0, 51, 51); }
+#content h4 { margin: 0.75em 1em 0.25em 0em; font-family: Georgia,'Times New Roman',Times,serif; font-weight: normal; font-size: 1.5em; }
+#content h4.apartados { color: rgb(0, 51, 51); font-weight: bold; font-size: 15px; border-bottom: 1px solid rgb(0, 51, 0); }
+#content h5 { margin: 0em 1em 0.25em 0em; padding-top: 0.75em; font-weight: bold; font-size: 1em; }
+#accessKey { margin-bottom: 2em; }
+#accessKey img { vertical-align: middle; margin: 0px; padding: 0px; }
+#content img.accessLogo { vertical-align: middle; margin: 0px; padding: 0px; }
+#navbar a { font-size: 0.65em; letter-spacing: 0.05em; }
+#navbar a:link {  }
+#navbar a:active {  }
+#navbar a:visited {  }
+#navbar a:hover {  }
+#breadcrumb a { text-decoration: none; }
+#breadcrumb a.current { font-weight: bold; }
+#announcementsHome { width: 100%; margin: 2em 0px; }
+#announcementsHome h3 { text-align: center; }
+#announcements { width: 100%; }
+#announcements h3 { text-align: center; }
+table.announcements { width: 100%; }
+table.announcements td { padding: 0.25em 0.5em; }
+table.announcements td.nodata { text-align: center; font-style: italic; }
+table.announcements td.headseparator { border-top: 1px dotted rgb(0, 0, 0); font-size: 0.1em; line-height: 1%; }
+table.announcements td.endseparator { border-top: 1px dotted rgb(0, 0, 0); font-size: 0.25em; line-height: 10%; }
+table.announcements td.separator { border-top: 1px dotted rgb(221, 221, 208); font-size: 0.1em; line-height: 1%; }
+table.announcements tr.intro {  }
+table.announcements td.intro {  }
+table.announcements tr.title { vertical-align: top; }
+table.announcements td.title { width: 85%; }
+table.announcements td.title h4 { line-height: 1.3em; }
+table.announcements tr.description { vertical-align: top; }
+table.announcements td.description { width: 85%; }
+table.announcements tr.details { vertical-align: bottom; }
+table.announcements td.posted { padding-top: 1em; font-style: italic; }
+table.announcements td.more { width: 15%; text-align: right; }
+table.announcementsMore { width: 100%; }
+table.announcementsMore td { padding-top: 1.5em; text-align: right; }
+h4.tocSectionTitle {  }
+table.tocArticle { width: 100%; }
+table.tocArticle td.tocTitle { padding-top: 10px; width: 85%; height: 100%; font-size: 13px; }
+table.tocArticle td.tocGalleys { width: 30%; text-align: right; vertical-align: bottom; font-size: 13px; }
+table.tocArticle td.tocAuthors { padding-left: 30px; font-style: italic; font-size: 11px; padding-bottom: 6px; }
+table.tocArticle td.tocPages { text-align: right; vertical-align: top; font-size: 13px; }
+.tocArticleCoverImage img { border: 0px none; float: left; width: 100px; margin: 0px 1em 1em 0px; }
+#homepageImage img { display: block; margin: 0px auto; border: 0px none; text-align: center; }
+.homepageImage img { border: 0px none; float: left; width: 100px; margin: 1em 1em 1em 0px; text-align: center; }
+#issueCoverImage img { display: block; border: 0px none; }
+.issueCoverImage img { border: 0px none; float: left; width: 100px; margin: 1em 1em 1em 0px; }
+#issueCoverImage a:link, .issueCoverImage a:link {  }
+#issueCoverImage a:active, .issueCoverImage a:active {  }
+#issueCoverImage a:visited, .issueCoverImage a:visited {  }
+#issueCoverImage a:hover, .issueCoverImage a:hover {  }
+#footer div.debugStats { font-size: 0.6em; }
+span.disabled, label.disabled { color: rgb(102, 102, 102); }
+a.action, a.file { font-size: 0.85em; text-transform: uppercase; }
+a.icon { padding-bottom: 1.5em; text-decoration: none; }
+a.icon img { border: 0px none; }
+a.icon:hover { background: none repeat scroll 0% 0% transparent; }
+span.formRequired { color: rgb(51, 51, 51); font-size: 0.9em; }
+span.instruct {  }
+span.heading { font-size: 0.85em; text-transform: uppercase; }
+span.highlight { border-bottom: 1px dotted rgb(0, 0, 0); }
+.nowrap { white-space: nowrap; }
+pre { background-color: rgb(240, 240, 232); color: rgb(0, 0, 0); font-size: 1.25em; }
+table.info {  }
+table.info td { padding: 0px 0.5em 0.5em 0px; }
+table.listing {  }
+table.listing tr.highlight { background: none repeat scroll 0% 0% yellow; }
+table.listing td { padding: 0.25em 1.5em 0.25em 0.5em; }
+table.listing tr.heading td, table.listing td.heading, table.info td.heading { font-size: 0.85em; text-transform: uppercase; font-weight: normal; line-height: 120%; padding: 0.75em 1.5em 1em 0.5em; }
+table.listing tr.fastTracked { background-color: rgb(170, 187, 170); }
+table.info td.heading { padding-left: 0px; }
+table.listing td.nodata, table.info td.nodata { text-align: center; font-style: italic; }
+table.listing td.headseparator { border-top: 1px dotted rgb(0, 0, 0); font-size: 0.1em; line-height: 1%; }
+table.listing td.endseparator { border-top: 1px dotted rgb(0, 0, 0); font-size: 0.25em; line-height: 10%; }
+table.listing td.separator, table.info td.separator { border-top: 1px dotted rgb(221, 221, 208); font-size: 0.1em; line-height: 1%; }
+table.data {  }
+table.data tr {  }
+table.data td { padding-bottom: 0.25em; }
+table.data td.label { padding-right: 1em; }
+table.data td.value {  }
+table.data td.separator { padding: 0.5em; font-size: 0.1em; line-height: 1%; }
+table.data td.heading { padding-left: 0px; padding-right: 0px; }
+table.nested tr { padding: 0px; margin: 0px; }
+span.nested { padding: 0px 4px 0px 0px; font-size: 1.2em; }
+span.formError { color: rgb(153, 0, 0); font-weight: bold; font-size: 1em; }
+ul.formErrorList { color: rgb(153, 0, 0); }
+ul.menu { margin: 0px; padding: 0px; }
+ul.menu li { margin: 0px; padding: 0px 1.5em 0px 0px; display: inline; }
+ul.menu li.current { font-weight: bold; }
+ul.menu a { font-size: 0.85em; text-transform: uppercase; text-decoration: none; }
+ul.steplist { margin: 0px; padding: 0px; list-style-type: decimal; }
+ul.steplist li { margin: 0px; padding: 0px 0.5em 0px 0px; font-size: 0.85em; display: inline; text-transform: uppercase; }
+ul.steplist li.current { font-weight: bold; }
+ul.steplist a { text-decoration: none; }
+ul.plain { list-style-type: none; padding-left: 1.5em; }
+ul.filter { margin: 0px; padding: 1.5em 0px; list-style-type: none; }
+ul.filter li { padding-right: 1.5em; display: inline; }
+div.separator { width: 100%; margin-top: 1em; margin-bottom: 0.25em; padding: 0px; border-bottom: 1px dotted rgb(0, 0, 0); font-size: 0.5em; line-height: 25%; }
+div.progressbar { background-image: url('progbg.gif'); background-repeat: no-repeat; height: 27px; width: 505px; z-index: 1; }
+p.enlacesNegrita { font-weight: bold; font-size: 14px; text-align: left; }
+span.blockNormas a { display: block; padding: 0px; font-size: 11px; color: rgb(148, 46, 44); font-weight: bold; text-align: left; margin: 0px; }
+span.blockNormas a:hover { display: block; padding: 0px; font-size: 11px; background: none repeat scroll 0% 0% transparent; font-weight: bold; text-align: left; }
+span.blockTitle_caja { display: block; padding: 0.2em; margin: 0.2em; font-size: 1em; letter-spacing: 0.1em; text-transform: uppercase; text-align: left; }
+a.enlaces { text-decoration: none; }
+#content h4.enlaces { font-family: Tahoma; font-weight: bold; font-size: 1.2em; }
+#content h4.rojo { color: rgb(148, 46, 44); margin: 0em 1em 0.25em 0em; padding-top: 0.75em; font-family: Tahoma; font-weight: bold; font-size: 1.1em; }
+p.colorRojo { color: rgb(128, 0, 0); font-weight: bold; }
+p.colorRojo img { border: 0px none; }
+p.pieRojo { color: rgb(128, 0, 0); }
+#main h2.debajoCaminoMigas { margin: 0em 1em 0.5em 0em; padding-top: 0.5em; font-family: Georgia,'Times New Roman',Times,serif; font-weight: bold; color: rgb(0, 51, 51); font-size: 18px; }
+#content p.tituloRevista { font-weight: bold; font-size: 12px; color: rgb(0, 51, 51); }
+div.tituloRevista { clear: inherit; font-weight: bold; font-size: 12px; color: rgb(0, 51, 51); }
+#content div.autorResumen { font-family: Verdana,'Times New Roman',Times,serif; font-size: 12px; color: rgb(0, 51, 51); font-style: italic; font-weight: normal; }
+div.textoJustificado { text-align: justify; }
+p.prueba { text-align: right; }
+#content h4.suscriptor { color: rgb(148, 46, 44); font-weight: bold; font-size: 14px; font-family: Verdana,Arial,Helvetica,sans-serif; }
+#content h4.suscriptor3 { font-size: 14px; font-family: Verdana,Arial,Helvetica,sans-serif; color: rgb(0, 51, 51); }
+#content h4.suscriptor2 { color: rgb(148, 46, 44); font-size: 13px; font-family: Verdana,Arial,Helvetica,sans-serif; }
+#content p.suscriptor { font-size: 13px; font-family: Verdana,Arial,Helvetica,sans-serif; }
+a.proximos { font-size: 13px; text-align: left; line-height: normal; }
+a.proximos:link { color: rgb(128, 0, 0); }
+a.proximos:active { color: rgb(128, 0, 0); }
+a.proximos:visited { color: rgb(128, 0, 0); }
+a.proximos:hover { color: rgb(128, 0, 0); background: none repeat scroll 0% 0% rgb(204, 221, 204); }
+h4.descripcion_revista { font-weight: lighter; color: rgb(128, 0, 0); }
+
+/* ::::: http://redc.revistas.csic.es/styles/articleView.css ::::: */
+
+#body { width: 95%; margin: 0px auto; }
+#container { min-width: 150px ! important; }
+#main { width: 95%; margin: 0px; }
+#main h2 { font-size: 1em; }
+#main h5 { margin: 0em 1em 0.5em 0em; padding-top: 0em; font-size: 1.3em; font-family: Georgia,'Times New Roman',Times,serif; font-weight: normal; }
+#main h6 { margin: 0.5em 1em 0.5em 0em; padding: 0px; font-family: Georgia,'Times New Roman',Times,serif; font-weight: normal; font-size: 1.2em; }
+#content { border: medium none; }
+#content img.accessLogo { display: inline; vertical-align: middle; margin: 0px; padding: 0px; }
+#topBar { width: 100%; padding-top: 1em; padding-bottom: 2.5em; }
+#articleFontSize { float: right; }
+#articleFontSize img { display: inline; vertical-align: middle; margin: 0px; padding: 0px; }
+#accessKey { float: left; }
+#accessKey img { display: inline; vertical-align: middle; margin: 0px; padding: 0px; }
+#articleCoverImage { width: 100%; padding-top: 1em; padding-bottom: 1em; clear: left; }
+#articleCoverImage img { display: block; border: 0px none; }
+div.rtSeparator { width: 100%; padding: 0px; border-bottom: 2px dotted rgb(0, 0, 0); line-height: 0px; }
+div.rtSeparatorThin { width: 100%; padding: 5px 0px; border-bottom: 1px dotted rgb(0, 0, 0); line-height: 0px; }
+div.rtBlock { text-align: left; }
+div.rtBlock a { text-transform: none; text-decoration: none; }
+div.rtBlock a.rojo { text-transform: none; text-decoration: none; color: rgb(148, 46, 44); font-weight: bold; }
+div.rtBlock ul { padding: 0px; margin: 0px; }
+div.rtBlock li { list-style-type: none; }
+span.rtSubtitle { text-transform: uppercase; font-size: 0.85em; }
+a.rtAction { font-size: 0.9em; text-transform: uppercase; text-decoration: none; }
+table { background-color: rgb(240, 240, 232); }
+table.bm { border: 1px solid rgb(0, 0, 0); }
+.tl-default, .tl-main-part { font-weight: bold; }
+dt { display: inline; float: left; margin-left: 20px; width: 80px; }
+dd { margin-left: 100px; }
+div.menu_articulo { margin-top: 10px; padding-left: 5px; margin-left: 0px; background: none repeat scroll 0% 0% rgb(236, 237, 211); border: 1px solid rgb(204, 204, 204); width: 100%; text-align: left; color: rgb(68, 102, 68); }
+
+/* ::::: http://redc.revistas.csic.es/index.php/redc/article/viewFile/839/1080/2068 ::::: */
+
+html { color: rgb(0, 0, 0); background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td { margin: 0px; padding: 0px; }
+table { border-collapse: collapse; border-spacing: 0px; }
+fieldset, img { border: 0px none; }
+address, caption, cite, code, dfn, em, strong, th, var { font-style: normal; font-weight: normal; }
+ol, ul { list-style: none outside none; }
+caption, th { text-align: left; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal; }
+q:before, q:after { content: ""; }
+abbr, acronym { border: 0px none; font-variant: normal; }
+sup { vertical-align: text-top; }
+sub { vertical-align: text-bottom; }
+input, textarea, select { font-family: inherit; font-size: inherit; font-weight: inherit; }
+input, textarea, select {  }
+legend { color: rgb(0, 0, 0); }
+h1 { font-size: 138.5%; }
+h2 { font-size: 123.1%; }
+h3 { font-size: 108%; }
+h1, h2, h3 { margin: 1em 0px; }
+h1, h2, h3, h4, h5, h6, strong { font-weight: bold; }
+abbr, acronym { border-bottom: 1px dotted rgb(0, 0, 0); cursor: help; }
+em { font-style: italic; }
+blockquote, ul, ol, dl { margin: 1em; }
+ol, ul, dl { margin-left: 2em; }
+ol { list-style: decimal outside none; }
+ul { list-style: disc outside none; }
+dl dd { margin-left: 1em; }
+th, td { border: 1px solid rgb(0, 0, 0); padding: 0.5em; }
+th { font-weight: bold; text-align: center; }
+caption { margin-bottom: 0.5em; text-align: center; }
+p, fieldset, table, pre { margin-bottom: 1em; }
+input[type="text"], input[type="password"], textarea { width: 12.25em; }
+body { font: 13px/1.231 arial,helvetica,clean,sans-serif; }
+select, input, button, textarea { font: 99% arial,helvetica,clean,sans-serif; }
+table { font-size: inherit; }
+pre, code, kbd, samp, tt { font-family: monospace; line-height: 100%; }
+body { padding: 0px 50px; font-family: Verdana,sans-serif; }
+a { color: rgb(15, 59, 103) ! important; text-decoration: none; font-weight: normal; }
+a:hover { background-color: rgb(173, 216, 230); }
+p { font-size: 12px; text-align: justify; }
+sub { font-size: 9px; }
+.titulo1 { font-size: 12px; text-align: center; }
+.titulo2 { font-size: 14px; font-weight: bold; text-align: center; }
+.autores { font-weight: bold; text-align: center; margin-bottom: 5px; font-size: 11px; }
+.afiliacion { text-align: center; margin-bottom: 5px; font-size: 11px; }
+.fondo { background-color: rgb(240, 240, 232); padding: 10px 10px 1px; border-left: 10px solid rgb(173, 216, 230); }
+.fondo-rojo { background-color: rgb(240, 240, 232); padding: 10px 10px 1px; border-left: 10px solid rgb(146, 19, 10); }
+.punteado { border-bottom: 1px dashed rgb(0, 0, 139); border-top: 1px dashed rgb(0, 0, 139); }
+.barra { border-bottom: 10px solid rgb(0, 0, 139); margin-top: 5px; margin-bottom: 20px; }
+.barra-roja { border-bottom: 10px solid rgb(146, 19, 10); margin-top: 5px; margin-bottom: 20px; }
+.top { margin-left: 40px; font-weight: normal; font-size: 10px; }
+.nota { font-size: 9px; }
+.sombra { background-color: rgb(240, 240, 232); padding: 10px; }
+.marco { background-color: rgb(173, 216, 230); width: 400px; padding: 20px; }
+.marco div { margin-bottom: 10px; }
+.notaref { color: rgb(146, 19, 10) ! important; font-weight: bold; }
+.referencias { width: 100%; }
+.referencias td { border: medium none; vertical-align: top; padding: 2px 5px; background-color: rgb(240, 240, 232); text-align: justify; font-size: 12px; }
+.indice td { border: medium none; padding: 3px 20px; text-align: left; font-size: 12px; }
+.sangrado { margin-left: 30px; }
+.cita { margin-left: 30px; font-size: 11px; }
+.figura { width: 95%; margin: 20px auto; }
+.figura td { border: medium none; background-color: rgb(240, 240, 232); }
+.figura .imagen { background-color: rgb(173, 216, 230); padding: 20px 30px; }
+.figura .link { font-size: 10px; color: rgb(146, 19, 10); font-weight: bold; }
+.figura img { margin-bottom: 20px; }
+.figura .nota { font-size: 9px; text-align: center; }
+.formula { width: 95%; margin: 0px auto; }
+.formula td { border: medium none; }
+.formula .imagen { padding-left: 50px; }
+.formula img { margin-bottom: 0px; }
+.superindice { vertical-align: super; }
+.subindice { vertical-align: sub; }
+.tabla { margin: 20px auto; background-color: rgb(238, 238, 238); font-size: 11px; }
+.tabla_sin { margin: 20px auto; font-size: 11px; }
+.celda_relleno { background-color: rgb(180, 177, 177); }
+.tabla td { border: 1px solid rgb(0, 0, 0); padding: 5px 15px; }
+.tabla th { background-color: rgb(204, 204, 204); }
+.tabla_sin td { border: 1px solid rgb(0, 0, 0); padding: 5px 15px; }
+.tabla .noborde { border: medium none; background-color: rgb(251, 251, 243); text-align: left; }
+.tabla .texto { font-size: 10px; text-align: center; }
+.tabla .linea { border-left: medium none; border-right: medium none; }
+.tabla th.normal { text-align: left; font-weight: bold; }
+.tabla p { font-size: 11px; margin: 0px; }
+.tabla_sin p { font-size: 11px; margin: 0px; }
+a.tooltip { outline: medium none; }
+a.tooltip strong { line-height: 20px; }
+a.tooltip:hover { text-decoration: none; }
+a.tooltip span { z-index: 10; display: none; padding: 4px 10px; margin-top: 20px; margin-left: -100px; width: 240px; line-height: 14px; font-size: 9px ! important; text-align: left; overflow: hidden; }
+a.tooltip:hover span { display: inline; position: absolute; color: rgb(17, 17, 17); border: 1px solid rgb(221, 204, 170); background: none repeat scroll 0% 0% rgb(255, 250, 240); }
+.callout { z-index: 20; position: absolute; top: 30px; border: 0px none; left: -12px; }
+a.tooltip span { border-radius: 4px; box-shadow: 5px 5px 8px rgb(204, 204, 204); }
+
+/* ::::: http://redc.revistas.csic.es/styles/fontMedium.css ::::: */
+
+body { font-size: 1em; }

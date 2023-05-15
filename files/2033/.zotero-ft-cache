@@ -1,0 +1,152 @@
+Screen reader users, click here to load entire article This page uses JavaScript to progressively load the article content as a user scrolls. Screen reader users, click the load entire article button to bypass dynamically loaded article content.
+ScienceDirect will be phasing out support for Internet Explorer 7. Click here to upgrade to a higher version. Close
+ 
+
+    Register
+    Login Login
+
+OpenAthens login
+Login via your institution
+Other institution login
+Remote access activation
+Click here to activate
+Login using your ScienceDirect credentials
+Username:
+Password:
+Remember me
+| Not Registered?
+Forgotten username or password?
+
+    Home
+    Publications
+    Search
+    My settings
+    My alerts
+
+    Help
+
+    Download PDF
+    Export citation
+    More options...
+            eReader format   What's this?
+              ePub
+              Mobipocket
+        Email article
+        Signed up for  [ remove ]
+        Alert me about new volumes of this
+        Failure
+        Your selection(s) could not be saved due to an internal error. Please try again.
+        Show thumbnail images
+
+Search
+Articles Articles 	    All fields 		    Author 					Advanced search
+Images Images 	    Journal/Book title 		    Volume 		  Issue 		  Page 			Search tips
+Article outline is loading...
+Alert message
+JavaScript is disabled on your browser.
+Please enable JavaScript to use all the features on this page.
+JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page.
+
+Journal of Informetrics
+
+Volume 5, Issue 3 , July 2011, Pages 446–457
+Cover image Cover image
+Applying social bookmarking data to evaluate journal usage
+
+    Stefanie Haustein a , b , Corresponding author contact information Corresponding author contact information , E-mail the corresponding author E-mail the corresponding author ,
+    Tobias Siebenlist b
+
+    a Central Library, Forschungszentrum Jülich, 52425 Jülich, Germany
+    b Department of Information Science, Heinrich-Heine-University Düsseldorf, Universitätsstr. 1, 40225 Düsseldorf, Germany
+
+    Received 30 November 2010
+    Revised 1 April 2011
+    Accepted 4 April 2011
+    Available online 2 May 2011
+
+Abstract
+
+Web 2.0 technologies are finding their way into academics: specialized social bookmarking services allow researchers to store and share scientific literature online. By bookmarking and tagging articles, academic prosumers generate new information about resources, i.e. usage statistics and content description of scientific journals. Given the lack of global download statistics, the authors propose the application of social bookmarking data to journal evaluation. For a set of 45 physics journals all 13,608 bookmarks from CiteULike, Connotea and BibSonomy to documents published between 2004 and 2008 were analyzed. This article explores bookmarking data in STM and examines in how far it can be used to describe the perception of periodicals by the readership. Four basic indicators are defined, which analyze different aspects of usage: Usage Ratio, Usage Diffusion, Article Usage Intensity and Journal Usage Intensity. Tags are analyzed to describe a reader-specific view on journal content.
+Highlights
+
+► The authors propose to apply usage data from social bookmarking services (BibSonomy, CiteULike and Connotea) to evaluate journal readership. ► Due to ongoing problems with local and the lack of global download data, usage statistics based on bookmarks can be an alternative and publisher independent way to analyze reader perception. ► Data acquisition is described for 168,109 scientific articles published in 45 physics journals between 2004 and 2008. ► Journal indicators based on bookmarking data are introduced.
+Keywords
+
+    Journal evaluation ;
+    Usage statistics ;
+    Download data ;
+    COUNTER ;
+    Reader perception ;
+    Social bookmarking ;
+    Tagging ;
+    Science 2.0 ;
+    CiteULike ;
+    Connotea ;
+    BibSonomy
+
+1. Introduction
+
+Informetric studies focusing on scientific journals have recently emphasized the importance of including the readers’ perspectives ( Bollen et al., 2005 , Darmoni et al., 2002 , Gorraiz and Gumpenberger, 2010  and  Rowlands and Nicholas, 2007 ). While citation analysis only captures readers, who publish and thus cite, it fails to measure their influence elsewhere ( Duy and Vaughan, 2006 , Roick, 2006 , Scanlan, 1987  and  Schlögl and Stock, 2004 ). A journals’ content can impact the development of new technology, teaching or everyday worklife, which is not measured by citations.
+
+With the emergence of electronic publishing it became easier to evaluate the influence of periodicals on the whole readership. Click and download data of electronic articles can be analyzed to measure journal perception. Although quite a number of indicators have been introduced, which are based on usage statistics and calculated in analogy to citation measures, data aggregation is still problematic. Despite existing standards like COUNTER (2008) , even local download statistics provided by the publishers are often incomparable and lack consistency ( Baker and Read, 2008  and  Lorenz, 2010 ).
+
+Global usage data are generally wrapped in mystery by the publishers. Attempts have been made to gather global data, but projects like MESUR and by the UK Serials Group compute and compare usage to citation indicators but do not make global usage data available ( Bollen et al., 2008  and  Shepherd, 2007 ). SERUM is a new initiative, which aims to provide access to global usage data and create a Journal Citation Report based on download statistics. However, SERUM is currently nothing more but a “blue sky project”, which still needs to win over publishers and libraries to provide and manage the underlying data set ( Gorraiz & Gumpenberger, 2010 ). Hence, usage statistics based on worldwide article downloads are not available. Due to these problems, alternative, publisher independent ways to measure global readership are needed. The authors propose to estimate global journal usage by analyzing data from social bookmarking services. This contribution reports about a pilot study which explored these new data sources.
+
+As other Web 2.0 technologies like Wikis and Blogs, social bookmarking services are entering the academic world. Designed after Delicious, 1 bookmarking services specialized on STM enable users to store, search and share interesting resources on the Web. Platforms like CiteULike, Connotea and BibSonomy were developed to accommodate the special requirements of academics, i.e. managing bibliographic metadata of scientific literature ( Hammond et al., 2005  and  Reher and Haustein, 2010 ). By bookmarking and tagging articles, academic prosumers generate new information about resources.
+
+Thus, it is proposed to apply social bookmarking data to journal evaluation and examine the extent to which it can be used to describe reader perception. Alt-metrics took a similar approach and emphasized the importance of explore different impact metrics ( Priem and Hemminger, 2010  and  Priem et al., 2010 ). Their ReaderMeter 2 calculates impact indicators for authors based on the number of users who stored their articles in the reference management system Mendeley. 3 In analogy to download and click rates, usage can be indicated by the number of times an article is bookmarked. Compared to a full-text request as measured by conventional usage statistics, which does not necessarily imply that a user read the paper, the barrier to set a bookmark is rather high. Hence, bookmarks might indicate usage even better than downloads, especially if users took the effort to assign keywords. Tags give the users’ perspective on journal content.
+
+Four basic indicators based on social bookmarking data are defined, which are to reflect the different aspects of journal usage measured through bookmarks: Usage Ratio, Usage Diffusion, Article Usage Intensity and Journal Usage Intensity. Since this pilot study focuses on the applicability of bookmarking data to journal evaluation, it is limited to 168,109 documents published in 45 physics journals between 2004 and 2008. In the following, data acquisition and calculation of the indicators for this 45 journals are described.
+2. Data and methodology
+
+Today there are four social bookmarking tools serving academic purposes: CiteULike, Connotea, BibSonomy and 2collab ( Reher & Haustein, 2010 ). 4 The latter has been contending with serious server problems and closed registration to new accounts in 2009. Hence, data collection was limited to bibsonomy.org , citeulike.org and connotea.org ( Haustein, Golov, Luckanus, Reher, & Terliesner, 2010 ).
+
+A great share of the metadata of the bookmarking entries proved to be incomplete or erroneous. This often caused an article bookmarked by more than one user not to be recognized as one and the same publication. Thus, not only the social aspect of the bookmarking service is lost, i.e. similar content or users cannot be identified, but also the distribution of bookmarks among journal articles cannot be analyzed correctly. In order to obtain reliable and comparable results on journal usage, the data has to be normalized by journal output. Thus, the bookmarks should be matched on article level.
+Elsevier homepage (opens in a new window)
+
+    About ScienceDirect
+
+    About Elsevier
+
+    Contact and support
+
+    Information for advertisers
+
+    Terms and conditions
+
+    Privacy policy
+
+Copyright © 2014 Elsevier B.V. except certain content provided by third parties. ScienceDirect® is a registered trademark of Elsevier B.V.
+Cookies are used by this site. To decline or learn more, visit our Cookies page
+
+    http://dx.doi.org/10.1016/j.joi.2011.04.002 
+    Get rights and content 
+
+Bibliographic information
+Citing and recommended articles
+Recommended articles
+
+    No articles found.
+
+Cited by ( )
+
+    This article has not been cited.
+
+Related reference work articles
+
+    No articles found.
+
+Applications and tools
+
+Workspace
+
+No content has been selected.
+Close
+ScienceDirect article suggestions
+ScienceDirect
+
+    Recommended articles
+
+People who downloaded this article also downloaded these articles. Learn more
+Do not show again
+

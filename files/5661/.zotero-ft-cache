@@ -1,0 +1,578 @@
+
+
+Advertisement
+SpringerLink
+Search
+
+    Log in
+
+Search SpringerLink
+Search
+
+    Published: 28 March 2006
+
+The max-min hill-climbing Bayesian network structure learning algorithm
+
+    Ioannis Tsamardinos 1 ,
+    Laura E. Brown 1 &
+    Constantin F. Aliferis 1  
+
+Machine Learning volume  65 ,  pages 31 – 78 ( 2006 ) Cite this article
+
+    8693 Accesses
+
+    529 Citations
+
+    9 Altmetric
+
+    Metrics details
+
+Abstract
+
+We present a new algorithm for Bayesian network structure learning, called Max-Min Hill-Climbing ( MMHC ). The algorithm combines ideas from local learning, constraint-based, and search-and-score techniques in a principled and effective way. It first reconstructs the skeleton of a Bayesian network and then performs a Bayesian-scoring greedy hill-climbing search to orient the edges. In our extensive empirical evaluation MMHC outperforms on average and in terms of various metrics several prototypical and state-of-the-art algorithms, namely the PC , Sparse Candidate, Three Phase Dependency Analysis, Optimal Reinsertion, Greedy Equivalence Search, and Greedy Search. These are the first empirical results simultaneously comparing most of the major Bayesian network algorithms against each other. MMHC offers certain theoretical advantages, specifically over the Sparse Candidate algorithm, corroborated by our experiments. MMHC and detailed results of our study are publicly available at http://www.dsl-lab.org/supplements/mmhc_paper/mmhc_index.html.
+
+Access provided by Universidad de Granada Biblioteca Universitaria
+
+Download to read the full article text
+References
+
+    Abramson, B., Brown, J., Edwards, W., Murphy, A., & Winkler, R. L. (1996). Hailfinder: A Bayesian system for forecasting severe weather. International Journal of Forecasting , 12 , 57–71.
+        Article
+        Google Scholar
+
+    Acid, S., de Campos, L., Fernandez-Luna, J., Rodriguez, S., Rodriguez, J., & Salcedo, J. (2004). A comparison of learning algorithms for Bayesian networks: A case study based on data from an emergency medical service. Artificial Intelligence in Medicine, 30 , 215–232.
+        Google Scholar
+
+    Acid, S., & de Cam-pos, L. M. (2003). Searching for Bayesian network structures in the space of restricted acyclic partially directed graphs. Journal of Artificial Intelligence Research , 445–490.
+
+    Acid, S., & de Cam-pos, L. (2001). A hybrid methodology for learning belief networks: BENEDICT. International Journal of Approximate Reasoning , 235–262.
+
+    Akaike, H. (1974). A new look at the statistical model identification. IEEE Transactions on Automatic Control , 19 , 716–723.
+        MATH
+        MathSciNet
+        Article
+        Google Scholar
+
+    Aliferis, C. F., Tsamardinos, I., Statnikov, A., & Brown, L. E. (2003a). Causal explorer: A causal probabilistic network learning toolkit for biomedical discovery. In International Conference on Mathematics and Engineering Techniques in Medicine and Biological Sciences (METMBS ’03) (pp. 371–376).
+
+    Aliferis, C. F., Tsamardinos, I., & Statnikov, A. (2003b). HITON, A novel markov blanket algorithm for optimal variable selection. In American Medical Informatics Association (AMIA) (pp. 21–25).
+
+    Andreassen, S., Jensen, F. V., Andersen, S. K., Falck, B., Kharulff, U., & Woldbye, M. (1989). MUNIN—An expert EMG assistant. In J. E. Desmedt (Eds.), Computer-aided electromyography and expert systems .
+
+    Baeze-Yates, R., & Ribiero-Neto, B. (1999). Modern information retrieval . Addison-Wesley Pub Co.
+
+    Beal, M. J. & Ghahramani, Z. (2003). The variational Bayesian EM algorithm for incomplete data: With application to scoring graphical model structures. In J. M. Bernardo, M. J. Bayarri, J. O. Berger, A. P. Dawid, D. Heckerman, A. F. M. Smith, & M. West (Eds.), Bayesian statistics 7 . Oxford University Press.
+
+    Beinlich, I. A., Suermondt, H., Chavez, R., Cooper, G., et al. (1989). The ALARM monitoring system: A case study with two probabilistic inference techniques for belief networks. In Second European Conference in Artificial Intelligence in Medicine .
+
+    Binder, J., Koller, D., Russell, S., & Kanazawa, K. (1997). Adaptive probabilistic networks with hidden variables. Machine Learning, 29 .
+
+    Bouckaert, R. (1995). Bayesian belief networks from construction to inference. Ph.D. thesis, University of Utrecht.
+
+    Brown, L., Tsamardinos, I., & Aliferis, C. (2004). A novel algorithm for scalable and accurate bayesian network learning. In 11th World Congress on Medical Informatics (MEDINFO) . San Francisco, California.
+
+    Brown, L. E., Tsamardinos, I., & Aliferis, C. F. (2005). A comparison of novel and state-of-the-art polynomial Bayesian network learning algorithms. In Proceedings of the Twentieth National Conference on Artificial Intelligence (AAAI) .
+
+    Chapman, W. W., Fizman, M., Chapman, B. E. & Haug, P. J. (2001). A comparison of classification algorithms to automatically identify chest X-ray reports that support pneumonia. Journal of Biomedical Informatics, 34 , 4–14.
+        Google Scholar
+
+    Cheng, J., Bell, D., & Liu, W. (1998). Learning Bayesian networks from data: An efficient approach based on information theory. Technical report, University of Alberta, Canada.
+
+    Cheng, J., Greiner, R., Kelly, J., Bell, D. A. & Liu, W. (2002). Learning Bayesian networks from data: An information-theory based approach. Artificial Intelligence, 137 , 43–90.
+        MATH
+        MathSciNet
+        Article
+        Google Scholar
+
+    Chickering, D. (1995). A transformational characterization of equivalent Bayesian network structures. In Proceedings of the 11th Annual Conference on Uncertainty in Artificial Intelligence (UAI-95) . San Francisco, CA (pp. 87–98). Morgan Kaufmann Publishers.
+
+    Chickering, D. (1996). Learning Bayesian networks is NP-complete. In D. Fisher and H. Lenz (Eds.), Learning from data: Artificial intelligence and statistics V (pp. 121–130) Springer-Verlag.
+
+    Chickering, D. (2002b). Learning equivalence classes of Bayesian-network structures. Journal of Machine Learning Research , 445–498.
+
+    Chickering, D., Geiger, D. & Heckerman, D. (1995). Learning Bayesian networks: Search methods and experimental results. In Fifth International Workshop on Artificial Intelligence and Statistics (pp. 112–128).
+
+    Chickering, D., Meek, C. & Heckerman D. (2004). Large-sample learning of Bayesian networks is NP-hard. Journal of Machine Learning Research, 5 , 1287–1330.
+        Google Scholar
+
+    Chickering, D. M. (2002a). Optimal structure identification with greedy search. Journal of Machine Learning Research , 507–554.
+
+    Cooper, G. F., & Herskovits, E. (1992). A Bayesian method for the induction of probabilistic networks from data. Machine Learning, 9 (4) , 309–347.
+        MATH
+        Google Scholar
+
+    Cowell, R. G., Dawid, A. P., Lauritzen, S. L., & Spiegelhalter, D. J. (1999). Probabilistic networks and expert systems . Springer.
+
+    Dash, D. (2005). Restructuring dynamic causal systems in equilibrium. In Proceedings of the Tenth International Workshop on Artificial Intelligence and Statistics (AIStats 2005) .
+
+    Dash, D. & Druzdzel, M. (1999). A hybrid anytime algorithm for the construction of causal models from sparse data. In Fifteenth Conference on Uncertainty in Artificial Intelligence (UAI-99) .
+
+    Dash, D., & Druzdzel, M. (2003). Robust independence testing for constraint-based learning of causal structure. In Proceedings of the Nineteenth Annual Conference on Uncertainty in Artificial Intelligence (UAI-03) (pp. 167–174), Morgan Kaufmann.
+
+    Dor, D., & Tarsi, M. (1992). A simple algorithm to construct a consistent extension of a partially oriented graph. Technicial Report R-185, Cognitive Systems Laboratory, UCLA.
+
+    Friedman, N. (1998). The Bayesian structural EM algorithm. In Proceedings of the 14th Annual Conference on Uncertainty in Artificial Intelligence (UAI-98) . (pp. 129–138), San Francisco, CA, Morgan Kaufmann Publishers.
+
+    Friedman, N., Linial, M., Nachman, I., & Pe’er, D. (2000). Using Bayesian networks to analyze expression data. Computational Biology, 7 , 601–620.
+        Article
+        Google Scholar
+
+    Friedman, N., Nachman, I., & Pe’er, D., (1999). Learning Bayesian network structure from massive datasets: The “sparse candidate” algorithm. In Fifteenth Conference on Uncertainty in Artificial Intelligence (UAI-99) .
+
+    Ghahramani, Z., & Beal, M. (2001). Graphical models and variational methods. In M. Opper, & D. Saad (Eds.), Advanced mean field methods—Theory and practice . MIT Press.
+
+    Glymour, C., & Cooper, G. F. (eds.) (1999). Computation, causation, and discovery . AAAI Press/The MIT Press.
+
+    Glymour, C. N. (2001). The mind’s arrows: Bayes nets & graphical causal models in psychology . MIT Press.
+
+    Goldenberg, A., & Moore, A. (2004). Tractable learning of large Bayes net structures from sparse data. In Proceedings of 21st International Conference on Machine Learning .
+
+    Heckerman, D. E., Geiger, D., & Chickering, D. M. (1995). Learning Bayesian networks: The combination of knowledge and statistical data. Machine Learning, 20 , 197–243.
+        MATH
+        Google Scholar
+
+    Jensen, A., & Jensen, F. (1996). Midas—An influence diagram for management of mildew in winter wheat. In Proceedings of the 12th Annual Conference on Uncertainty in Artificial Intelligence (UAI-96) (pp. 349–356). Morgan Kaufmann Publishers.
+
+    Jensen, C. S. (1997). Blocking Gibbs sampling for inference in large and complex Bayesian networks with applications in genetics. Ph.D. thesis, Aalborg University, Denmark.
+
+    Jensen, C. S., & Kong, A. (1996). Blocking Gibbs sampling for linkage analysis in large pedigrees with many loops. Research Report R-96-2048, Department of Computer Science, Aalborg University, Denmark.
+
+    Jordan, M. I., Ghahramani, Z., T.S., J., & L.K., S. (1999). An introduction to variational methods for graphical models. Machine Learning, 37 , 183–233.
+        MATH
+        Article
+        Google Scholar
+
+    Kocka, T., Bouckaert, R., & Studeny, M. (2001). On the inclusion problem. Technical report, Academy of Sciences of the Czech Republic.
+
+    Kovisto, M., & Sood, K. (2004). Exact Bayesian structure discovery in Bayesian networks. Journal of Machine Learning Research, 5 , 549–573.
+        Google Scholar
+
+    Koller, D., & Sahami, M. (1996). Toward optimal feature selection. In Thirteen International Conference in Machine Learning .
+
+    Komarek, P., & Moore, A. (2000). A dynamic adaptation of AD-trees for efficient machine learning on large data sets. In Proc. 17th International Conf. on Machine Learning (pp. 495–502). San Francisco, CA: Morgan Kaufmann.
+
+    Kristensen, K., & Rasmussen, I. A. (2002). The use of a Bayesian network in the design of a decision support system for growing malting barley without use of pesticides. Computers and Electronics in Agriculture, 33 , 197–217.
+        Article
+        Google Scholar
+
+    Kullback, S., & Leibler, R. (1951). On information and sufficiency. Annals of Mathematical Statistics, 22 , 79–86.
+        MATH
+        MathSciNet
+        Google Scholar
+
+    Margaritis, D., & Thrun, S. (1999). Bayesian network induction via local neighborhoods. In Advances in Neural Information Processing Systems 12 (NIPS) .
+
+    Margaritis, D., & Thrun, S. (2001). A Bayesian multiresolution independence test for continuous variables. In 17th Conference on Uncertainty in Artificial Intelligence (UAI) .
+
+    Meek, C. (1995). Strong completeness and faithfulnes in Bayesian networks. In Conference on Uncertainty in Artificial Intelligence 411–418.
+
+    Meek, C. (1997). Graphical models: Selecting causal and statistical models. Ph.D. thesis, Carnegie Mellon University.
+
+    Moore, A., & Lee, M. (1998). Cached sufficient statistics for efficient machine learning with large datasets. Journal of Artificial Intelligence Research, 8 , 67–91.
+        MATH
+        MathSciNet
+        Google Scholar
+
+    Moore, A., & Schneider, J. (2002). Real-valued all-dimensions search: Low-overhead rapid searching over subsets of attributes. In Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI-2002) (pp. 360–369).
+
+    Moore, A., & Wong, W. (2003). Optimal reinsertion: A new search operator for accelerated and more accurate Bayesian network structure learning. In Twentieth International Conference on Machine Learning (ICML-2003) .
+
+    Neapolitan, R. (2003). Learning Bayesian networks . Prentice Hall.
+
+    Nielson, J., Kocka, T., & Pena, J. (2003). On local optima in learning bayesian networks. In Proceedings of the Nineteenth Conference on Uncertainty in Artificial Intelligence , 435–442.
+
+    Pearl, J. (1988). Probabilistic reasoning in intelligent systems . San Mateo, CA: Morgan Kaufmann.
+        Google Scholar
+
+    Pearl, J. (2000). Causality, models, reasoning, and inference . Cambridge University Press.
+
+    Pearl, J., & Verma, T. (1991). A theory of inferred causation. In J. F. Allen, R. Fikes, & E. Sandewall (Eds.), KR’91: Principles of knowledge representation and reasoning (pp. 441–452). San Mateo, California: Morgan Kaufmann.
+
+    Peterson, W., TG, B., & Fox, W. (1954). The theory of signal detectability. IRE Professional Group on Information Theory PGIT-4 , 171–212.
+
+    Rissanen, J. (1978). Modeling by shortest data description. Automatica, 14 , 465–671.
+        MATH
+        Article
+        Google Scholar
+
+    Rissanen, J. (1987). Stochastic complexity. Journal of the Royal Statistical Soceity, Series B, 49 , 223–239.
+        MathSciNet
+        Google Scholar
+
+    Schwarz, G. (1978). Estimating the dimension of a model. The Annals of Statistics, 6 , 461–464.
+        MATH
+        MathSciNet
+        Google Scholar
+
+    Silverstein, C., Brin, S., Motwani, R., & Ullman, J. (2000). Scalable techniques for mining causal structures. Data Mining and Knowledge Discovery, 4 (2/3) , 163–192.
+        Article
+        Google Scholar
+
+    Singh, M., & Valtorta, M. (1993). An algorithm for the construction of Bayesian network structures from data. In 9th Conference on Uncertainty in Artificial Intelligence , pp. 259–265.
+
+    Spellman, P. T., Sherlock, G., Zhang, M. Q., Iyer, V. R., Anders, K. et al . & Eisen, M. B. (1998). Comprehensive identification of cell cycle regulated genes of the yeast saccharomyces cerevisiae by microarray hybridization. Molecular Biology of the Cell, 9 , 3273–3297.
+        Google Scholar
+
+    Spirtes, P., Glymour, C., & Scheines, R. (1990). Causality from probability. In J. Tiles, G. McKee, & G. Dean (eds.): Evolving knowledge in the natural and behavioral sciences (pp. 181–199). London: Pittman.
+
+    Spirtes, P., Glymour, C. & Scheines, R. (1993). Causation, prediction, and search . Springer/Verlag, first edition.
+
+    Spirtes, P., Glymour, C., & Scheines, R. (2000). Causation, prediction, and search . The MIT Press, second edition.
+
+    Spirtes, P., & Meek, C. (1995). Learning Bayesian networks with discrete variables from data. In Proceedings from First Annual Conference on Knowledge Discovery and Data Mining (pp. 294–299). Morgan Kaufmann.
+
+    Statnikov, A., Tsamardinos, I., & Aliferis, C. F. (2003). An algorithm for the generation of large Bayesian networks. Technical Report DSL-03-01, Vanderbilt University.
+
+    Steck, H., & Jaakkola, T. (2002). On the dirichlet prior and Bayesian regularization. In Advances in Neural Information Processing Systems, 15 .
+
+    Tsamardinos, I., & Aliferis, C. F. (2003). Towards principled feature selection: Relevancy, filters and wrappers. In Ninth International Workshop on Artificial Intelligence and Statistics (AI & Stats 2003) .
+
+    Tsamardinos, I., Aliferis, C. F., & Statnikov, A. (2003b). Algorithms for large scale markov blanket discovery. In The 16th International FLAIRS Conference (pp. 376–381).
+
+    Tsamardinos, I., Aliferis, C. F., & Statnikov, A. (2003c). Time and sample efficient discovery of Markov blankets and direct causal relations. In The Ninth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 673–678).
+
+    Tsamardinos, I., Aliferis, C. F., & Statnikov, A. (2003a). Time and sample efficient discovery of Markov Blankets and direct causal relations. Technical Report DSL-03-02, Vanderbilt University.
+
+    Tsamardinos, I., Aliferis, C. F., Statnikov, A., & Brown. L. E. (2003a). Scaling-Up Bayesian network learning to thousands of variables using local Learning Technique. Technical Report DSL TR-03-02, Dept. Biomedical Informatics, Vanderbilt University.
+
+    Tsamardinos, I., Statnikov, A., Brown, L. E., and Aliferis, C. F. (2006) Generating realistic large bayesian networks by tiling. In The 19th International FLAIRS Conference (to appear).
+
+    Verma, T., & Pearl, J. (1988). Causal networks: Semantics and expressiveness. In: 4th Workshop on Uncertainty in Artificial Intelligence .
+
+    Verma, T., & Pearl, J. (1990). Equivalence and synthesis of causal models. In Proceedins of 6th Annual Conference on Uncertainty in Artificial Intelligence (pp. 255–268). Elsevier Science.
+
+Download references
+Author information
+Affiliations
+
+    Discovery Systems Laboratory, Dept. of Biomedical Informatics, Vanderbilt University, 2209 Garland Avenue, Nashville, TN, 37232-8340
+        Ioannis Tsamardinos
+        , Laura E. Brown
+         & Constantin F. Aliferis
+
+Authors
+
+    Ioannis Tsamardinos
+    View author publications
+    You can also search for this author in
+        PubMed
+        Google Scholar
+    Laura E. Brown
+    View author publications
+    You can also search for this author in
+        PubMed
+        Google Scholar
+    Constantin F. Aliferis
+    View author publications
+    You can also search for this author in
+        PubMed
+        Google Scholar
+
+Corresponding author
+
+Correspondence to Laura E. Brown .
+Additional information
+
+Editor: Andrew W. Moore
+Rights and permissions
+
+Reprints and Permissions
+About this article
+Cite this article
+
+Tsamardinos, I., Brown, L.E. & Aliferis, C.F. The max-min hill-climbing Bayesian network structure learning algorithm. Mach Learn 65, 31–78 (2006). https://doi.org/10.1007/s10994-006-6889-7
+
+Download citation
+
+    Received : 07 January 2005
+
+    Revised : 21 December 2005
+
+    Accepted : 22 December 2005
+
+    Published : 28 March 2006
+
+    Issue Date : October 2006
+
+    DOI : https://doi.org/10.1007/s10994-006-6889-7
+
+Share this article
+
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+
+    Bayesian networks
+    Graphical models
+    Structure learning
+
+Download PDF
+
+    Sections
+    References
+
+    Abstract
+    References
+    Author information
+    Additional information
+    Rights and permissions
+    About this article
+
+Advertisement
+
+    Abramson, B., Brown, J., Edwards, W., Murphy, A., & Winkler, R. L. (1996). Hailfinder: A Bayesian system for forecasting severe weather. International Journal of Forecasting , 12 , 57–71.
+        Article
+        Google Scholar
+
+    Acid, S., de Campos, L., Fernandez-Luna, J., Rodriguez, S., Rodriguez, J., & Salcedo, J. (2004). A comparison of learning algorithms for Bayesian networks: A case study based on data from an emergency medical service. Artificial Intelligence in Medicine, 30 , 215–232.
+        Google Scholar
+
+    Acid, S., & de Cam-pos, L. M. (2003). Searching for Bayesian network structures in the space of restricted acyclic partially directed graphs. Journal of Artificial Intelligence Research , 445–490.
+
+    Acid, S., & de Cam-pos, L. (2001). A hybrid methodology for learning belief networks: BENEDICT. International Journal of Approximate Reasoning , 235–262.
+
+    Akaike, H. (1974). A new look at the statistical model identification. IEEE Transactions on Automatic Control , 19 , 716–723.
+        MATH
+        MathSciNet
+        Article
+        Google Scholar
+
+    Aliferis, C. F., Tsamardinos, I., Statnikov, A., & Brown, L. E. (2003a). Causal explorer: A causal probabilistic network learning toolkit for biomedical discovery. In International Conference on Mathematics and Engineering Techniques in Medicine and Biological Sciences (METMBS ’03) (pp. 371–376).
+
+    Aliferis, C. F., Tsamardinos, I., & Statnikov, A. (2003b). HITON, A novel markov blanket algorithm for optimal variable selection. In American Medical Informatics Association (AMIA) (pp. 21–25).
+
+    Andreassen, S., Jensen, F. V., Andersen, S. K., Falck, B., Kharulff, U., & Woldbye, M. (1989). MUNIN—An expert EMG assistant. In J. E. Desmedt (Eds.), Computer-aided electromyography and expert systems .
+
+    Baeze-Yates, R., & Ribiero-Neto, B. (1999). Modern information retrieval . Addison-Wesley Pub Co.
+
+    Beal, M. J. & Ghahramani, Z. (2003). The variational Bayesian EM algorithm for incomplete data: With application to scoring graphical model structures. In J. M. Bernardo, M. J. Bayarri, J. O. Berger, A. P. Dawid, D. Heckerman, A. F. M. Smith, & M. West (Eds.), Bayesian statistics 7 . Oxford University Press.
+
+    Beinlich, I. A., Suermondt, H., Chavez, R., Cooper, G., et al. (1989). The ALARM monitoring system: A case study with two probabilistic inference techniques for belief networks. In Second European Conference in Artificial Intelligence in Medicine .
+
+    Binder, J., Koller, D., Russell, S., & Kanazawa, K. (1997). Adaptive probabilistic networks with hidden variables. Machine Learning, 29 .
+
+    Bouckaert, R. (1995). Bayesian belief networks from construction to inference. Ph.D. thesis, University of Utrecht.
+
+    Brown, L., Tsamardinos, I., & Aliferis, C. (2004). A novel algorithm for scalable and accurate bayesian network learning. In 11th World Congress on Medical Informatics (MEDINFO) . San Francisco, California.
+
+    Brown, L. E., Tsamardinos, I., & Aliferis, C. F. (2005). A comparison of novel and state-of-the-art polynomial Bayesian network learning algorithms. In Proceedings of the Twentieth National Conference on Artificial Intelligence (AAAI) .
+
+    Chapman, W. W., Fizman, M., Chapman, B. E. & Haug, P. J. (2001). A comparison of classification algorithms to automatically identify chest X-ray reports that support pneumonia. Journal of Biomedical Informatics, 34 , 4–14.
+        Google Scholar
+
+    Cheng, J., Bell, D., & Liu, W. (1998). Learning Bayesian networks from data: An efficient approach based on information theory. Technical report, University of Alberta, Canada.
+
+    Cheng, J., Greiner, R., Kelly, J., Bell, D. A. & Liu, W. (2002). Learning Bayesian networks from data: An information-theory based approach. Artificial Intelligence, 137 , 43–90.
+        MATH
+        MathSciNet
+        Article
+        Google Scholar
+
+    Chickering, D. (1995). A transformational characterization of equivalent Bayesian network structures. In Proceedings of the 11th Annual Conference on Uncertainty in Artificial Intelligence (UAI-95) . San Francisco, CA (pp. 87–98). Morgan Kaufmann Publishers.
+
+    Chickering, D. (1996). Learning Bayesian networks is NP-complete. In D. Fisher and H. Lenz (Eds.), Learning from data: Artificial intelligence and statistics V (pp. 121–130) Springer-Verlag.
+
+    Chickering, D. (2002b). Learning equivalence classes of Bayesian-network structures. Journal of Machine Learning Research , 445–498.
+
+    Chickering, D., Geiger, D. & Heckerman, D. (1995). Learning Bayesian networks: Search methods and experimental results. In Fifth International Workshop on Artificial Intelligence and Statistics (pp. 112–128).
+
+    Chickering, D., Meek, C. & Heckerman D. (2004). Large-sample learning of Bayesian networks is NP-hard. Journal of Machine Learning Research, 5 , 1287–1330.
+        Google Scholar
+
+    Chickering, D. M. (2002a). Optimal structure identification with greedy search. Journal of Machine Learning Research , 507–554.
+
+    Cooper, G. F., & Herskovits, E. (1992). A Bayesian method for the induction of probabilistic networks from data. Machine Learning, 9 (4) , 309–347.
+        MATH
+        Google Scholar
+
+    Cowell, R. G., Dawid, A. P., Lauritzen, S. L., & Spiegelhalter, D. J. (1999). Probabilistic networks and expert systems . Springer.
+
+    Dash, D. (2005). Restructuring dynamic causal systems in equilibrium. In Proceedings of the Tenth International Workshop on Artificial Intelligence and Statistics (AIStats 2005) .
+
+    Dash, D. & Druzdzel, M. (1999). A hybrid anytime algorithm for the construction of causal models from sparse data. In Fifteenth Conference on Uncertainty in Artificial Intelligence (UAI-99) .
+
+    Dash, D., & Druzdzel, M. (2003). Robust independence testing for constraint-based learning of causal structure. In Proceedings of the Nineteenth Annual Conference on Uncertainty in Artificial Intelligence (UAI-03) (pp. 167–174), Morgan Kaufmann.
+
+    Dor, D., & Tarsi, M. (1992). A simple algorithm to construct a consistent extension of a partially oriented graph. Technicial Report R-185, Cognitive Systems Laboratory, UCLA.
+
+    Friedman, N. (1998). The Bayesian structural EM algorithm. In Proceedings of the 14th Annual Conference on Uncertainty in Artificial Intelligence (UAI-98) . (pp. 129–138), San Francisco, CA, Morgan Kaufmann Publishers.
+
+    Friedman, N., Linial, M., Nachman, I., & Pe’er, D. (2000). Using Bayesian networks to analyze expression data. Computational Biology, 7 , 601–620.
+        Article
+        Google Scholar
+
+    Friedman, N., Nachman, I., & Pe’er, D., (1999). Learning Bayesian network structure from massive datasets: The “sparse candidate” algorithm. In Fifteenth Conference on Uncertainty in Artificial Intelligence (UAI-99) .
+
+    Ghahramani, Z., & Beal, M. (2001). Graphical models and variational methods. In M. Opper, & D. Saad (Eds.), Advanced mean field methods—Theory and practice . MIT Press.
+
+    Glymour, C., & Cooper, G. F. (eds.) (1999). Computation, causation, and discovery . AAAI Press/The MIT Press.
+
+    Glymour, C. N. (2001). The mind’s arrows: Bayes nets & graphical causal models in psychology . MIT Press.
+
+    Goldenberg, A., & Moore, A. (2004). Tractable learning of large Bayes net structures from sparse data. In Proceedings of 21st International Conference on Machine Learning .
+
+    Heckerman, D. E., Geiger, D., & Chickering, D. M. (1995). Learning Bayesian networks: The combination of knowledge and statistical data. Machine Learning, 20 , 197–243.
+        MATH
+        Google Scholar
+
+    Jensen, A., & Jensen, F. (1996). Midas—An influence diagram for management of mildew in winter wheat. In Proceedings of the 12th Annual Conference on Uncertainty in Artificial Intelligence (UAI-96) (pp. 349–356). Morgan Kaufmann Publishers.
+
+    Jensen, C. S. (1997). Blocking Gibbs sampling for inference in large and complex Bayesian networks with applications in genetics. Ph.D. thesis, Aalborg University, Denmark.
+
+    Jensen, C. S., & Kong, A. (1996). Blocking Gibbs sampling for linkage analysis in large pedigrees with many loops. Research Report R-96-2048, Department of Computer Science, Aalborg University, Denmark.
+
+    Jordan, M. I., Ghahramani, Z., T.S., J., & L.K., S. (1999). An introduction to variational methods for graphical models. Machine Learning, 37 , 183–233.
+        MATH
+        Article
+        Google Scholar
+
+    Kocka, T., Bouckaert, R., & Studeny, M. (2001). On the inclusion problem. Technical report, Academy of Sciences of the Czech Republic.
+
+    Kovisto, M., & Sood, K. (2004). Exact Bayesian structure discovery in Bayesian networks. Journal of Machine Learning Research, 5 , 549–573.
+        Google Scholar
+
+    Koller, D., & Sahami, M. (1996). Toward optimal feature selection. In Thirteen International Conference in Machine Learning .
+
+    Komarek, P., & Moore, A. (2000). A dynamic adaptation of AD-trees for efficient machine learning on large data sets. In Proc. 17th International Conf. on Machine Learning (pp. 495–502). San Francisco, CA: Morgan Kaufmann.
+
+    Kristensen, K., & Rasmussen, I. A. (2002). The use of a Bayesian network in the design of a decision support system for growing malting barley without use of pesticides. Computers and Electronics in Agriculture, 33 , 197–217.
+        Article
+        Google Scholar
+
+    Kullback, S., & Leibler, R. (1951). On information and sufficiency. Annals of Mathematical Statistics, 22 , 79–86.
+        MATH
+        MathSciNet
+        Google Scholar
+
+    Margaritis, D., & Thrun, S. (1999). Bayesian network induction via local neighborhoods. In Advances in Neural Information Processing Systems 12 (NIPS) .
+
+    Margaritis, D., & Thrun, S. (2001). A Bayesian multiresolution independence test for continuous variables. In 17th Conference on Uncertainty in Artificial Intelligence (UAI) .
+
+    Meek, C. (1995). Strong completeness and faithfulnes in Bayesian networks. In Conference on Uncertainty in Artificial Intelligence 411–418.
+
+    Meek, C. (1997). Graphical models: Selecting causal and statistical models. Ph.D. thesis, Carnegie Mellon University.
+
+    Moore, A., & Lee, M. (1998). Cached sufficient statistics for efficient machine learning with large datasets. Journal of Artificial Intelligence Research, 8 , 67–91.
+        MATH
+        MathSciNet
+        Google Scholar
+
+    Moore, A., & Schneider, J. (2002). Real-valued all-dimensions search: Low-overhead rapid searching over subsets of attributes. In Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI-2002) (pp. 360–369).
+
+    Moore, A., & Wong, W. (2003). Optimal reinsertion: A new search operator for accelerated and more accurate Bayesian network structure learning. In Twentieth International Conference on Machine Learning (ICML-2003) .
+
+    Neapolitan, R. (2003). Learning Bayesian networks . Prentice Hall.
+
+    Nielson, J., Kocka, T., & Pena, J. (2003). On local optima in learning bayesian networks. In Proceedings of the Nineteenth Conference on Uncertainty in Artificial Intelligence , 435–442.
+
+    Pearl, J. (1988). Probabilistic reasoning in intelligent systems . San Mateo, CA: Morgan Kaufmann.
+        Google Scholar
+
+    Pearl, J. (2000). Causality, models, reasoning, and inference . Cambridge University Press.
+
+    Pearl, J., & Verma, T. (1991). A theory of inferred causation. In J. F. Allen, R. Fikes, & E. Sandewall (Eds.), KR’91: Principles of knowledge representation and reasoning (pp. 441–452). San Mateo, California: Morgan Kaufmann.
+
+    Peterson, W., TG, B., & Fox, W. (1954). The theory of signal detectability. IRE Professional Group on Information Theory PGIT-4 , 171–212.
+
+    Rissanen, J. (1978). Modeling by shortest data description. Automatica, 14 , 465–671.
+        MATH
+        Article
+        Google Scholar
+
+    Rissanen, J. (1987). Stochastic complexity. Journal of the Royal Statistical Soceity, Series B, 49 , 223–239.
+        MathSciNet
+        Google Scholar
+
+    Schwarz, G. (1978). Estimating the dimension of a model. The Annals of Statistics, 6 , 461–464.
+        MATH
+        MathSciNet
+        Google Scholar
+
+    Silverstein, C., Brin, S., Motwani, R., & Ullman, J. (2000). Scalable techniques for mining causal structures. Data Mining and Knowledge Discovery, 4 (2/3) , 163–192.
+        Article
+        Google Scholar
+
+    Singh, M., & Valtorta, M. (1993). An algorithm for the construction of Bayesian network structures from data. In 9th Conference on Uncertainty in Artificial Intelligence , pp. 259–265.
+
+    Spellman, P. T., Sherlock, G., Zhang, M. Q., Iyer, V. R., Anders, K. et al . & Eisen, M. B. (1998). Comprehensive identification of cell cycle regulated genes of the yeast saccharomyces cerevisiae by microarray hybridization. Molecular Biology of the Cell, 9 , 3273–3297.
+        Google Scholar
+
+    Spirtes, P., Glymour, C., & Scheines, R. (1990). Causality from probability. In J. Tiles, G. McKee, & G. Dean (eds.): Evolving knowledge in the natural and behavioral sciences (pp. 181–199). London: Pittman.
+
+    Spirtes, P., Glymour, C. & Scheines, R. (1993). Causation, prediction, and search . Springer/Verlag, first edition.
+
+    Spirtes, P., Glymour, C., & Scheines, R. (2000). Causation, prediction, and search . The MIT Press, second edition.
+
+    Spirtes, P., & Meek, C. (1995). Learning Bayesian networks with discrete variables from data. In Proceedings from First Annual Conference on Knowledge Discovery and Data Mining (pp. 294–299). Morgan Kaufmann.
+
+    Statnikov, A., Tsamardinos, I., & Aliferis, C. F. (2003). An algorithm for the generation of large Bayesian networks. Technical Report DSL-03-01, Vanderbilt University.
+
+    Steck, H., & Jaakkola, T. (2002). On the dirichlet prior and Bayesian regularization. In Advances in Neural Information Processing Systems, 15 .
+
+    Tsamardinos, I., & Aliferis, C. F. (2003). Towards principled feature selection: Relevancy, filters and wrappers. In Ninth International Workshop on Artificial Intelligence and Statistics (AI & Stats 2003) .
+
+    Tsamardinos, I., Aliferis, C. F., & Statnikov, A. (2003b). Algorithms for large scale markov blanket discovery. In The 16th International FLAIRS Conference (pp. 376–381).
+
+    Tsamardinos, I., Aliferis, C. F., & Statnikov, A. (2003c). Time and sample efficient discovery of Markov blankets and direct causal relations. In The Ninth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 673–678).
+
+    Tsamardinos, I., Aliferis, C. F., & Statnikov, A. (2003a). Time and sample efficient discovery of Markov Blankets and direct causal relations. Technical Report DSL-03-02, Vanderbilt University.
+
+    Tsamardinos, I., Aliferis, C. F., Statnikov, A., & Brown. L. E. (2003a). Scaling-Up Bayesian network learning to thousands of variables using local Learning Technique. Technical Report DSL TR-03-02, Dept. Biomedical Informatics, Vanderbilt University.
+
+    Tsamardinos, I., Statnikov, A., Brown, L. E., and Aliferis, C. F. (2006) Generating realistic large bayesian networks by tiling. In The 19th International FLAIRS Conference (to appear).
+
+    Verma, T., & Pearl, J. (1988). Causal networks: Semantics and expressiveness. In: 4th Workshop on Uncertainty in Artificial Intelligence .
+
+    Verma, T., & Pearl, J. (1990). Equivalence and synthesis of causal models. In Proceedins of 6th Annual Conference on Uncertainty in Artificial Intelligence (pp. 255–268). Elsevier Science.
+
+Over 10 million scientific documents at your fingertips
+Switch Edition
+
+    Academic Edition
+    Corporate Edition
+
+    Home
+    Impressum
+    Legal information
+    Privacy statement
+    How we use cookies
+    Accessibility
+    Contact us
+
+Not logged in - 150.214.205.167
+
+Universidad de Granada Biblioteca Universitaria (2000523672) - Consorcio de Bibliotecas Universitarias de Andalucía CBUA (3000169812) - CBUA Spain Bookseries (3000520233)
+Springer Nature
+
+© 2020 Springer Nature Switzerland AG. Part of Springer Nature .
+
+    Your Privacy
+
+    Strictly Necessary Cookies
+
+    Performance Cookies
+
+    Functional Cookies
+
+    Targeting Cookies
+
+    More Information
+
+Privacy Preference Centre
+
+Active
+
+Always Active
+Save Settings
+Allow All
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners in accordance with our Privacy Statement . You can manage your preferences in Manage Cookies.
+Close
+OK
+Manage Cookies

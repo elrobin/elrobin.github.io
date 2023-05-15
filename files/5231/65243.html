@@ -1,0 +1,386 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:xlink="http://www.w3.org/TR/xlink/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:mets="http://www.loc.gov/METS/"><head xmlns="http://www.w3.org/1999/xhtml">
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta name="Generator" content="DSpace 1.6.0">
+<link type="text/css" rel="stylesheet" media="screen" href="style.css">
+<link type="application/opensearchdescription+xml" rel="search" href="http://localhost:8080/open-search/description.xml" title="DSpace">
+<script type="text/javascript" async="" src="ga.js"></script><script type="text/javascript">
+                                //Clear default text of emty text areas on focus
+                                function tFocus(element)
+                                {
+                                        if (element.value == ' '){element.value='';}
+                                }
+                                //Clear default text of emty text areas on submit
+                                function tSubmit(form)
+                                {
+                                        var defaultedElements = document.getElementsByTagName("textarea");
+                                        for (var i=0; i != defaultedElements.length; i++){
+                                                if (defaultedElements[i].value == ' '){
+                                                        defaultedElements[i].value='';}}
+                                }
+                                //Disable pressing 'enter' key to submit a form (otherwise pressing 'enter' causes a submission to start over)
+                                function disableEnterKey(e)
+                                {
+                                     var key;
+
+                                     if(window.event)
+                                          key = window.event.keyCode;     //Internet Explorer
+                                     else
+                                          key = e.which;     //Firefox and Netscape
+
+                                     if(key == 13)  //if "Enter" pressed, then disable!
+                                          return false;
+                                     else
+                                          return true;
+                                }
+            </script>
+<script type="text/javascript">
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-2387976-1']);
+              _gaq.push(['_trackPageview']);
+
+              (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+              })();
+            </script>
+<script type="text/javascript">
+              var olfunc = window.onload;
+              window.onload = function() {
+                  var toggleButtons = document.getElementsByName('toggleButton');
+
+                  for (var i=0; i != toggleButtons.length; i++) {
+                      var anId = toggleButtons[i].id + 'children';
+                      var el = document.getElementById(anId);
+                      if (el) {
+                          toggleButtons[i].src = '/themes/Leiden/images/plus.gif';
+                      }
+                  }
+                  if (olfunc != void 0) {
+                      olfunc();
+                  }
+              }
+
+              function toggle(aTogButton) {
+                 var anId = aTogButton.id + 'children';
+                 var el = document.getElementById(anId);
+                 if (el) {
+                   var aTogImg;
+                   var imgs = aTogButton.getElementsByTagName('img');
+                   if (imgs.length != 0) {
+                      aTogImg = imgs[0];
+                      if (/plus.gif/.test(aTogImg.src)) {
+                        el.style.display = 'block';
+                        aTogImg.src = '/themes/Leiden/images/min.gif';
+                      }
+                      else if (/min.gif/.test(aTogImg.src)) {
+                        el.style.display = 'none';
+                        aTogImg.src = '/themes/Leiden/images/plus.gif';
+                      }
+                   }
+                 }
+                 return false;
+              }
+
+            </script>
+<title>From theory to practice: Operationalization of the GTEC framework</title>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<meta name="DC.creator" content="Robinson-Garcia N." xml:lang="en-US">
+<meta name="DC.creator" content="Holm E. van" xml:lang="en-US">
+<meta name="DC.creator" content="Melkers J." xml:lang="en-US">
+<meta name="DC.creator" content="Welch E." xml:lang="en-US">
+<meta name="DC.date" content="2018" xml:lang="en-US" scheme="DCTERMS.W3CDTF">
+<meta name="DCTERMS.dateAccepted" content="2018-09-11T09:01:56Z" scheme="DCTERMS.W3CDTF">
+<meta name="DCTERMS.available" content="2018-09-11T09:01:56Z" scheme="DCTERMS.W3CDTF">
+<meta name="DCTERMS.issued" content="2018-09-11" scheme="DCTERMS.W3CDTF">
+<meta name="DC.identifier" content="http://hdl.handle.net/1887/65243" scheme="DCTERMS.URI">
+<meta name="DCTERMS.abstract" content="This paper presents a first attempt to operationalize the Global Traits, Experiences, Cognitions and Context (GTEC) framework proposed by Welch et al. (2018). This theoretical framework suggests four dimensions to characterize and contextualize the scientific workforce based on: 1) traits and experience, 2) cognitions, 3) community and, 4) institutional context. We apply the GTEC Framework using different data sources to note the improvement in measurement from using multiple dimensions. We use a well-regarded survey funded by the National Science Foundation and supplement it with additional variables from three other sources. The purpose is twofold. On the one hand, we build on the GTEC framework as a means to show how it could be applied to future empirical analyses. On the other hand, it emphasizes current data gaps that could still hamper our understanding on this phenomenon. While the model developed here moves us past a dichotomous understanding of foreign-born or mobile, it still leaves room for improvement to fully understand the global scientist." xml:lang="en-US">
+<meta name="DC.publisher" content="Centre for Science and Technology Studies (CWTS)" xml:lang="en-US">
+<meta name="DCTERMS.isPartOf" content="23rd International Conference on Science and Technology Indicators (STI 2018), September 12-14, 2018, Leiden, The Netherlands" xml:lang="en-US">
+<meta name="DC.subject" content="Scientometrics" xml:lang="en-US">
+<meta name="DC.title" content="From theory to practice: Operationalization of the GTEC framework" xml:lang="en-US">
+<meta name="DC.type" content="Article in monograph or in proceedings" xml:lang="en-US">
+<meta name="DC.source" content="1542" xml:lang="en-US">
+<meta name="DC.source" content="1545" xml:lang="en-US">
+<meta name="DC.source" content="STI 2018 Conference Proceedings" xml:lang="en-US">
+</head>
+<body>
+<div id="ds-main">
+<div id="ds-header">
+<div id="ds-header-top">
+<ul id="ds-trail">
+<li xmlns="http://www.w3.org/1999/xhtml" class="ds-trail-link first-link ">
+<a href="https://openaccess.leidenuniv.nl/">DSpace Principal</a>
+</li>
+<li xmlns="http://www.w3.org/1999/xhtml" class="ds-trail-link ">
+<a href="https://openaccess.leidenuniv.nl/handle/1887/20470">Conference papers</a>
+</li>
+<li xmlns="http://www.w3.org/1999/xhtml" class="ds-trail-link ">
+<a href="https://openaccess.leidenuniv.nl/handle/1887/64521">STI 2018 Conference proceedings</a>
+</li>
+<li xmlns="http://www.w3.org/1999/xhtml" class="ds-trail-link last-link">Ver ítem</li>
+</ul>
+</div>
+<div id="ds-header-banner">
+<div id="ds-header-logo">
+<a href="http://www.leidenuniv.nl/" target="_new">
+<img id="ds-header-logo" src="invisible.gif" border="0">
+</a>
+</div>
+<div id="ds-search-option">
+<form method="post" id="ds-search-form" action="/search">
+<fieldset>
+<input class="ds-text-field " name="query" type="text">
+<input value="Búsquedas" name="submit" class="ds-button-field " onclick='
+                                        var radio = document.getElementById("ds-search-form-scope-container");
+                                        if (radio != undefined &amp;&amp; radio.checked)
+                                        {
+                                        var form = document.getElementById("ds-search-form");
+                                        form.action=
+                                    "/handle/" + radio.value + "/search" ;
+                                        }
+                                    ' type="submit">
+<div id="ds-search-form-scope-div">
+<label>
+<input checked="checked" value="" name="scope" id="ds-search-form-scope-all" type="radio">Buscar en DSpace</label>
+<label>
+<input name="scope" id="ds-search-form-scope-container" value="1887/64521" type="radio">Esta colección</label>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+<h1 class="pagetitle">From theory to practice: Operationalization of the GTEC framework</h1>
+<h2 class="static-pagetitle">Manakin: DSpace XMLUI Project v2</h2>
+</div>
+<div id="ds-main-content">
+<div id="ds-column-container">
+<div id="ds-body">
+<div class="ds-inside-column">
+<h1 xmlns="http://www.w3.org/1999/xhtml" style="font-size: 255%;" class="ds-div-head">From theory to practice: Operationalization of the GTEC framework</h1>
+<div xmlns="http://www.w3.org/1999/xhtml" id="aspect_artifactbrowser_ItemViewer_div_item-view" class="ds-static-div primary">
+<!-- External Metadata URL: cocoon://metadata/handle/1887/65243/mets.xml-->
+<span xmlns="" class="Z3988" title="">
+<table xmlns="" class="ds-includeSet-table">
+<tbody><tr class="ds-table-row even">
+<td>
+<span class="bold">Type:
+                        </span>
+</td>
+<td>Article in monograph or in proceedings</td>
+</tr>
+<tr class="ds-table-row odd">
+<td>
+<span class="bold">Título:
+                        </span>
+</td>
+<td>
+<span class="Z3988" title="">From theory to practice: Operationalization of the GTEC framework</span>
+</td>
+</tr>
+<tr class="ds-table-row even">
+<td>
+<span class="bold">Autor:
+                        </span>
+</td>
+<td>
+<span>Robinson-Garcia N.</span>;&nbsp;<span>Holm E. van</span>;&nbsp;<span>Melkers J.</span>;&nbsp;<span>Welch E.</span>
+</td>
+</tr>
+<tr class="ds-table-row odd">
+<td>
+<span class="bold">Journal Title:
+                        </span>
+</td>
+<td>STI 2018 Conference Proceedings</td>
+</tr>
+<tr class="ds-table-row even">
+<td>
+<span class="bold">Start Page:
+                        </span>
+</td>
+<td>1542</td>
+</tr>
+<tr class="ds-table-row odd">
+<td>
+<span class="bold">End Page:
+                        </span>
+</td>
+<td>1545</td>
+</tr>
+<tr class="ds-table-row even">
+<td>
+<span class="bold">Editor:
+                        </span>
+</td>
+<td>Centre for Science and Technology Studies (CWTS)</td>
+</tr>
+<tr class="ds-table-row odd">
+<td>
+<span class="bold">Fecha:
+                        </span>
+</td>
+<td>2018-09-11</td>
+</tr>
+<tr class="ds-table-row even">
+<td>
+<span class="bold">Tema:
+                        </span>
+</td>
+<td>Scientometrics</td>
+</tr>
+<tr class="ds-table-row odd">
+<td>
+<span class="bold">Resumen:
+                        </span>
+</td>
+<td>This paper presents a first attempt to operationalize the Global 
+Traits, Experiences, Cognitions and Context (GTEC) framework proposed by
+ Welch et al. (2018). This theoretical framework suggests four 
+dimensions to characterize and contextualize the scientific workforce 
+based on: 1) traits and experience, 2) cognitions, 3) community and, 4) 
+institutional context. We apply the GTEC Framework using different data 
+sources to note the improvement in measurement from using multiple 
+dimensions. We use a well-regarded survey funded by the National Science
+ Foundation and supplement it with additional variables from three other
+ sources. The purpose is twofold. On the one hand, we build on the GTEC 
+framework as a means to show how it could be applied to future empirical
+ analyses. On the other hand, it emphasizes current data gaps that could
+ still hamper our understanding on this phenomenon. While the model 
+developed here moves us past a dichotomous understanding of foreign-born
+ or mobile, it still leaves room for improvement to fully understand the
+ global scientist.</td>
+</tr>
+<tr xmlns:config="org.dspace.core.ConfigurationManager" class="ds-table-row odd">
+<td>
+<span class="bold">Handle:</span>
+</td>
+<td>http://hdl.handle.net/1887/65243</td>
+</tr>
+<tr class="ds-table-row odd">
+<td>&nbsp;</td>
+<td>
+<a target="_new" class="sfx-link" href="http://catalogue.leidenuniv.nl/openurl/UBL/UBL_services_page?aulast=Robinson-Garcia+N.&amp;aufirst=&amp;date=2018-09-11&amp;title=From+theory+to+practice%3A+Operationalization+of+the+GTEC+framework&amp;spage=1542&amp;epage=1545&amp;pid=http://hdl.handle.net/1887/65243&amp;sid=UL:OAL">
+<img src="GetitLeiden-20x92.png" border="0">
+</a>
+</td>
+</tr>
+</tbody></table>
+<h2 xmlns="">Ficheros en el ítem</h2>
+<table xmlns="" class="ds-table file-list">
+<tbody><tr class="ds-table-header-row">
+<th colspan="2">Description</th>
+<th>Tamaño</th>
+<th>Vista</th>
+</tr>
+<tr class="ds-table-row odd ">
+<td class="iconcell">
+<a href="https://openaccess.leidenuniv.nl/bitstream/handle/1887/65243/STI2018_paper_254.pdf?sequence=1" target="_new" title="STI2018_paper_254.pdf">
+<img src="Adobe_PDF.png" alt="application/pdf" title="application/pdf" border="0">
+</a>
+</td>
+<td>
+<a href="https://openaccess.leidenuniv.nl/bitstream/handle/1887/65243/STI2018_paper_254.pdf?sequence=1" target="_new" title="STI2018_paper_254.pdf">STI2018_paper_254.pdf</a>
+</td>
+<td>1.026Mb</td>
+<td>
+<a href="https://openaccess.leidenuniv.nl/bitstream/handle/1887/65243/STI2018_paper_254.pdf?sequence=1" target="_new">Vista/&lt;wbr/&gt;Abrir</a>
+</td>
+</tr>
+</tbody></table>
+<h3 class="ds-list-head">Este ítem aparece en la(s) siguiente(s) colección(ones)</h3>
+<ul class="ds-referenceSet-list">
+<!-- External Metadata URL: cocoon://metadata/handle/1887/64521/mets.xml-->
+<li>
+<a xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:atom="http://www.w3.org/2005/Atom" href="https://openaccess.leidenuniv.nl/handle/1887/64521">STI 2018 Conference proceedings</a>
+<br xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:atom="http://www.w3.org/2005/Atom">
+</li>
+</ul>
+</span></div>
+</div>
+</div>
+<div id="ds-options">
+<div class="ds-inside-column">
+<span id="ds-sidebar-logo">&nbsp;</span>
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="ds-option-set-head">Listar</h3>
+<div xmlns="http://www.w3.org/1999/xhtml" id="aspect_artifactbrowser_Navigation_list_browse" class="ds-option-set">
+<ul class="ds-options-list">
+<li xmlns="">
+<h4 xmlns="http://www.w3.org/1999/xhtml" class="ds-sublist-head">Todo DSpace</h4>
+<ul class="ds-simple-list nested">
+<li xmlns="http://www.w3.org/1999/xhtml">
+<a href="https://openaccess.leidenuniv.nl/community-list" class="">Comunidades y colecciones</a>
+</li>
+<li xmlns="http://www.w3.org/1999/xhtml">
+<a href="https://openaccess.leidenuniv.nl/browse?type=dateissued" class="">Por fecha de publicación</a>
+</li>
+<li xmlns="http://www.w3.org/1999/xhtml">
+<a href="https://openaccess.leidenuniv.nl/browse?type=author" class="">Autores</a>
+</li>
+<li xmlns="http://www.w3.org/1999/xhtml">
+<a href="https://openaccess.leidenuniv.nl/browse?type=title" class="">Títulos</a>
+</li>
+<li xmlns="http://www.w3.org/1999/xhtml">
+<a href="https://openaccess.leidenuniv.nl/browse?type=subject" class="">Temas</a>
+</li>
+</ul>
+</li>
+<li xmlns="">
+<h4 xmlns="http://www.w3.org/1999/xhtml" class="ds-sublist-head">Esta colección</h4>
+<ul class="ds-simple-list nested">
+<li xmlns="http://www.w3.org/1999/xhtml">
+<a href="https://openaccess.leidenuniv.nl/handle/1887/64521/browse?type=dateissued" class="">Por fecha de publicación</a>
+</li>
+<li xmlns="http://www.w3.org/1999/xhtml">
+<a href="https://openaccess.leidenuniv.nl/handle/1887/64521/browse?type=author" class="">Autores</a>
+</li>
+<li xmlns="http://www.w3.org/1999/xhtml">
+<a href="https://openaccess.leidenuniv.nl/handle/1887/64521/browse?type=title" class="">Títulos</a>
+</li>
+<li xmlns="http://www.w3.org/1999/xhtml">
+<a href="https://openaccess.leidenuniv.nl/handle/1887/64521/browse?type=subject" class="">Temas</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="ds-option-set-head">Mi cuenta</h3>
+<div id="aspect_artifactbrowser_Navigation_list_account" class="ds-option-set">
+<ul class="ds-simple-list">
+<li xmlns="http://www.w3.org/1999/xhtml">
+<a href="https://openaccess.leidenuniv.nl/login" class="">Salir</a>
+</li>
+</ul>
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="ds-option-set-head">Statistics</h3>
+<div xmlns="http://www.w3.org/1999/xhtml" id="nl_leidenuniv_dspace_app_xmlui_aspect_leistats_Navigation_list_statistics" class="ds-option-set">
+<ul class="ds-simple-list">
+<li>
+<a href="https://openaccess.leidenuniv.nl/handle/1887/65243/leistats" class="">View Statistics</a>
+</li>
+</ul>
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="ds-option-set-head">Help</h3>
+<div xmlns="http://www.w3.org/1999/xhtml" id="nl_leidenuniv_dspace_app_xmlui_aspect_leihelp_Navigation_list_help" class="ds-option-set">
+<ul class="ds-simple-list">
+<li>
+<a xmlns="" href="https://www.library.universiteitleiden.nl/about-us/contact/ask-a-librarian" class="" onclick="window.open(this.href,'Ask_a_Librarian','toolbar=no,location=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=850,height=625,left=25,top=25'); return false;">Ask a Librarian</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="ds-clear">​</div>
+</div>
+</div>
+<div id="ds-footer">A service provided by <a href="https://www.library.universiteitleiden.nl/">Leiden University Libraries</a>
+</div>
+<a href="https://openaccess.leidenuniv.nl/htmlmap">
+</a></div><a href="https://openaccess.leidenuniv.nl/htmlmap">
+
+
+</a></body></html>

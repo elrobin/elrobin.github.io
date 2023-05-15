@@ -1,0 +1,52 @@
+Loading [MathJax]/extensions/TeX/AMSsymbols.js
+Cornell University
+Cornell University Library
+We gratefully acknowledge support from
+the Simons Foundation
+and member institutions
+arXiv.org > cs > arXiv:1203.4745
+Search or Article-id
+( Help | Advanced search )
+ 
+Full-text links:
+Download:
+
+    HTML
+    Other formats
+
+Current browse context:
+cs.DL
+< prev  |  next >
+new  | recent  | 1203
+Change to browse by:
+cs
+References & Citations
+
+    NASA ADS
+
+DBLP - CS Bibliography
+listing | bibtex
+Jason Priem
+Heather A. Piwowar
+Bradley M. Hemminger
+Bookmark
+( what is this? )
+CiteULike logo BibSonomy logo Mendeley logo Facebook logo LinkedIn logo del.icio.us logo Digg logo Reddit logo ScienceWISE logo
+Computer Science > Digital Libraries
+Title: Altmetrics in the wild: Using social media to explore scholarly impact
+Authors: Jason Priem , Heather A. Piwowar , Bradley M. Hemminger
+(Submitted on 20 Mar 2012)
+
+    Abstract: In growing numbers, scholars are integrating social media tools like blogs, Twitter, and Mendeley into their professional communications. The online, public nature of these tools exposes and reifies scholarly processes once hidden and ephemeral. Metrics based on this activities could inform broader, faster measures of impact, complementing traditional citation metrics. This study explores the properties of these social media-based metrics or "altmetrics", sampling 24,331 articles published by the Public Library of Science.
+    We find that that different indicators vary greatly in activity. Around 5% of sampled articles are cited in Wikipedia, while close to 80% have been included in at least one Mendeley library. There is, however, an encouraging diversity; a quarter of articles have nonzero data from five or more different sources. Correlation and factor analysis suggest citation and altmetrics indicators track related but distinct impacts, with neither able to describe the complete picture of scholarly use alone. There are moderate correlations between Mendeley and Web of Science citation, but many altmetric indicators seem to measure impact mostly orthogonal to citation. Articles cluster in ways that suggest five different impact "flavors", capturing impacts of different types on different audiences; for instance, some articles may be heavily read and saved by scholars but seldom cited. Together, these findings encourage more research into altmetrics as complements to traditional citation measures. 
+
+Comments: 	5 tables, 13 figures
+Subjects: 	Digital Libraries (cs.DL)
+Cite as: 	arXiv:1203.4745 [cs.DL]
+  	(or arXiv:1203.4745v1 [cs.DL] for this version)
+Submission history
+From: Jason Priem [ view email ]
+[v1] Tue, 20 Mar 2012 19:46:25 GMT (879kb,H)
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+Link back to: arXiv , form interface , contact .

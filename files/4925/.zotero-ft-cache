@@ -1,0 +1,622 @@
+
+Advertisement
+
+    plos.org
+    create account
+    sign in
+
+PLOS ONE
+
+    Publish
+        Submissions
+            Getting Started
+            Submission Guidelines
+            Figures
+            Tables
+            Supporting Information
+            LaTeX
+            Preprints
+            Revising Your Manuscript
+            Submit Now
+        Policies
+            Best Practices in Research Reporting
+            Human Subjects Research
+            Animal Research
+            Competing Interests
+            Disclosure of Funding Sources
+            Licenses and Copyright
+            Data Availability
+            Materials and Software Sharing
+            Ethical Publishing Practice
+            Authorship
+            Downloads and Translations
+        Manuscript Review and Publication
+            Criteria for Publication
+            Editorial and Peer Review Process
+            Editor Center
+            Guidelines for Reviewers
+            Accepted Manuscripts
+            Corrections and Retractions
+            Comments
+            Article-Level Metrics
+    Submit Your Manuscript
+
+    Discover a faster, simpler path to publishing in a high-quality journal. PLOS ONE promises fair, rigorous peer review, broad scope, and wide readership – a perfect fit for your research every time.
+
+    Learn More Submit Now
+    About
+        Why Publish with PLOS ONE
+        Journal Information
+        Staff Editors
+        Editorial Board
+        Section Editors
+        Advisory Groups
+        Find and Read Articles
+        Publishing Information
+        Publication Fees
+        Press and Media
+        Contact
+    Browse
+    Search Search
+    advanced search
+
+Browse Subject Areas
+?
+
+Click through the PLOS taxonomy to find articles in your field.
+
+For more information about PLOS Subject Areas, click here .
+All Subject Areas
+View All Articles (218406)
+
+    Biology and life sciences
+    Computer and information sciences
+    Earth sciences
+    Ecology and environmental sciences
+    Engineering and technology
+    Medicine and health sciences
+    People and places
+    Physical sciences
+    Research and analysis methods
+    Science policy
+    Social sciences
+
+    0
+    Save
+
+    Total Mendeley and CiteULike bookmarks.
+    0
+    Citation
+
+    Paper's citation count computed by Scopus.
+    115
+    View
+
+    Sum of PLOS and PubMed Central page views and downloads.
+    0
+    Share
+
+    Sum of Facebook and Twitter activity.
+
+Open Access
+
+Peer-reviewed
+
+Research Article
+Towards a second generation of ‘social media metrics’: Characterizing Twitter communities of attention around science
+
+    Adrián A. Díaz-Faes ,
+
+    Roles Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Visualization, Writing – original draft, Writing – review & editing
+
+    * E-mail: diazfaes@ingenio.upv.es
+
+    Affiliation INGENIO (CSIC-UPV), Universitat Politécnica de València, Valencia, Spain
+
+    ORCID logo http://orcid.org/0000-0003-1928-4608
+    ⨯
+    Timothy D. Bowman,
+
+    Roles Conceptualization, Data curation, Investigation, Writing – review & editing
+
+    Affiliation School of Information Sciences, Wayne State University, Detroit, Michigan, United States of America
+    ⨯
+    Rodrigo Costas
+
+    Roles Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Writing – original draft, Writing – review & editing
+
+    Affiliations Centre for Science and Technology Studies (CWTS), Leiden University, Leiden, The Netherlands, Centre for Research on Evaluation, Science and Technology (CREST), Stellenbosch University, Stellenbosch, South Africa
+    ⨯
+
+Towards a second generation of ‘social media metrics’: Characterizing Twitter communities of attention around science
+
+    Adrián A. Díaz-Faes, 
+    Timothy D. Bowman, 
+    Rodrigo Costas
+
+PLOS
+x
+
+    Published: May 22, 2019
+    https://doi.org/10.1371/journal.pone.0216408
+
+    Article
+    Authors
+    Metrics
+    Comments
+    Media Coverage
+
+    Abstract
+    Introduction
+    Material and methods
+    Results
+    Discussion and conclusions
+    References
+
+    Reader Comments (0)
+    Media Coverage (0)
+    Figures
+
+Abstract
+
+‘Social media metrics’ are bursting into science studies as emerging new measures of impact related to scholarly activities. However, their meaning and scope as scholarly metrics is still far from being grasped. This research seeks to shift focus from the consideration of social media metrics around science as mere indicators confined to the analysis of the use and visibility of publications on social media to their consideration as metrics of interaction and circulation of scientific knowledge across different communities of attention, and particularly as metrics that can also be used to characterize these communities. Although recent research efforts have proposed tentative typologies of social media users, no study has empirically examined the full range of Twitter user’s behavior within Twitter and disclosed the latent dimensions in which activity on Twitter around science can be classified. To do so, we draw on the overall activity of social media users on Twitter interacting with research objects collected from the Altmetic.com database. Data from over 1.3 million unique users, accounting for over 14 million tweets to scientific publications, is analyzed. Based on an exploratory and confirmatory factor analysis, four latent dimensions are identified: ‘Science Engagement’, ‘Social Media Capital’, ‘Social Media Activity’ and ‘Science Focus’. Evidence on the predominant type of users by each of the four dimensions is provided by means of VOSviewer term maps of Twitter profile descriptions. This research breaks new ground for the systematic analysis and characterization of social media users’ activity around science.
+Figures
+Table 4
+Fig 1
+Fig 2
+Table 1
+Table 2
+Table 3
+Table 4
+Fig 1
+Fig 2
+Table 1
+Table 2
+Table 3
+   
+
+Citation: Díaz-Faes AA, Bowman TD, Costas R (2019) Towards a second generation of ‘social media metrics’: Characterizing Twitter communities of attention around science. PLoS ONE 14(5): e0216408. https://doi.org/10.1371/journal.pone.0216408
+
+Editor: Lutz Bornmann, Max Planck Society, GERMANY
+
+Received: November 26, 2018; Accepted: April 21, 2019; Published: May 22, 2019
+
+Copyright: © 2019 Díaz-Faes et al. This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Data Availability: Data are available from figshare ( https://doi.org/10.6084/m9.figshare.7718720.v1 ). PHP script to retrieve tweets from Twitter API is available from: https://github.com/tdbowman/retrieveTweets .
+
+Funding: AADF is currently supported by a Juan de la Cierva-Formación postdoctoral grant (FJCI-2015-23699) from the Spanish Ministry of Economy and Competitiveness and benefited from a visiting stay at the Centre for Science and Technology Studies (CWTS) funded by the 'Call for visit to RISIS Facilities' – Research Infrastructure for Science and Innovation Policy Studies, in February 2018. RC was partially funded by the South African DST-NRF Centre of Excellence in Scientometrics and Science, Technology and Innovation Policy (SciSTIP). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Competing interests: The authors have declared that no competing interests exist.
+Introduction
+
+Events related to research objects in online environments, commonly referred to as ‘altmetrics’ and more specifically as ‘social media metrics’ [ 1 ] given their social media component, are increasingly being included in quantitative science studies as appealing new measures of social media interactions and knowledge dissemination. Their potential as traces of previously invisible features of scholarly communication were set forth in the ‘Altmetrics manifesto’ by Priem et al. [ 2 ]. Social media metrics bring to the foreground a family of new indicators to gauge the dissemination and reception of research outside the traditional academic circles by providing recent data on various events including shares, users, readers, downloads, comments, or recommendations in social media sites such as Twitter, Facebook, News media, Mendeley, and blogs. Despite its limitations, the analysis of scientific activity through scientometric methods has a long and well-established tradition that dates back to the early 20 th century [ 3 – 5 ]. With the creation and development of bibliographic databases such as Web of Science (WoS) or Scopus, citation, authorship, acknowledgments, and productivity indicators have become valuable tools for digging into the dynamics of scientific activity and the (co)creation of knowledge, as well as for research assessment processes [ 6 ]. In contrast, the scope and meanings of social media metrics are still far from being grasped [ 7 ]. Current research is also pointing to data quality issues as a major challenge for altmetrics and social media metrics development [ 8 ]. Transparency on how data providers collect, aggregate, and compute metrics arises as a fundamental issue in the quest for reliability, reproducibility, and validity of social media metrics [ 9 ]. In fact, the current state of social media metrics can be equated to that which was underwent by bibliometrics in the 1970s [ 10 ].
+Approaching societal impact from social media metrics
+
+The emergence and development of social media metrics parallels the increasing policy demands for moving beyond the hegemonic assessment model, which is based on productivity and citations, to analyzing the societal impact of research [ 11 ], as well as responding to initiatives that advocate for better practices in research evaluation (such as the DORA declaration). This rationale relies on the idea that scientific research should also drive social change and respond to societal demands [ 12 , 13 ]. From this standpoint, the societal impact of research can be seen as being as meaningful as the scientific impact.
+
+The consideration of societal impact from the prism of social media metrics implies shifting the focus from research entities (outputs, citations, researchers, institutions) to the processes of interaction and the circulation of scientific knowledge across broader online communities (tweeters, Facebook, readership, etc.). Haustein, Bowman, and Costas [ 14 ] indicate that the traces left by the interaction of users with research objects provide metrics on the access (viewing, downloading or saving), appraisal (mentioning, commenting or reviewing) and application (using, adapting or transforming) of said objects. This interactive perspective binds together forms of symbolic capital from two very different realms: science and social media [ 15 – 16 ].
+
+The interest of social media metrics as potential traces of societal impact particularly stands out in domains such as biomedical and health sciences , where research may lead to changes that improve human well-being; and in humanities , which deals with human behavior and social relations between people and organizations [ 17 ]. On one hand, the advances of biomedical research and the sharing of these advances with society seems particularly relevant given its complexity [ 18 ], influence on human quality of life, the large amount of money invested by public research organizations, and the importance of social awareness for achieving behavioral changes. On the other hand, societal impact in humanities is also crucial as research in this domain provides new approaches, reflections, and criticism on human experience and their modes of expression [ 19 , 20 ]. Not surprisingly, research outputs from these two domains demonstrate the highest presence on social media platforms [ 21 ].
+Twitter as a strong source of social media metrics
+
+The microblogging platform Twitter stands as the most appealing context in which to analyze the processes of interaction and the circulation of scientific knowledge, as it is used by a wide-ranging number of academic and non-academic users [ 7 , 22 ]. These users discuss issues that span from local to global topics and from professional to personal interests. Social media activity revolving around research objects continues to grow [ 23 ] and Twitter is one of the social media platforms with the largest activity [ 24 ], only outperformed by Mendeley [ 25 ]. Haustein, Costas, and Larivière [ 26 ] found that the presence of research objects in other social media platforms (excluding Twitter) is very low (less than 5% of papers are shared or mentioned on Facebook, blogs, Google+, and mainstream media). These authors demonstrated that Twitter is by far the most widespread platform for open social media dissemination with around 21% of papers receiving at least one tweet.
+Towards a second generation of social media metrics
+
+Twitter is an important source of social media metrics, sometimes specifically referred to as ‘scholarly Twitter metrics’ [ 27 ]. However, previous studies on the content analysis of tweets linking to papers pointed to the existence of scarce original content and engagement with research objects [ 28 ], as well as tweets containing mostly neutral sentiments [ 29 ] expressed by tweeters. This lack of content engagement of tweeters with research objects reinforces the idea that the analysis of interactions of social media users with scholarly outputs is a preferable focal point in what Robinson-García, van Leeuwen, and Rafols [ 11 ] termed as “interaction approaches” (building on previous concepts such as “productive interactions” [ 17 ] for societal impact analysis). Similarly, Haustein [ 27 ] suggested that “Twitter is less about what people tweet rather how they are connected”, highlighting that “how, when, and by whom” research is tweeted is important “in order to understand what tweets to scholarly documents measure”. This more interactive perspective can also fit in the framework set out by Haustein, Bowman, and Costas [ 14 ], taking interactions as forms of lower engagement, where metrics are based on these interactions made by different social media users with research objects.
+
+From a more general perspective, and following the suggestion by Costas [ 16 ], it can be argued that the analysis, understanding, and modelling of the interactions between social media entities (here including not only social media users [e.g. tweeters, Facebook users, Mendeley users, etc.], but also their social media activities [e.g. tweets, retweets, posts, likes, comments, etc.]) and scholarly entities (not being restricted just to scholarly outputs [e.g. publications, datasets, etc.], but also including scholarly agents such as scholars, research organizations, funders, journals, etc.) is what would comprise the core of the Social Media Studies of Science . Thus, the examination and characterization of social media users interacting with research objects gains a renewed importance in understanding the meaning of these interactions.
+
+Considering all of the above and from a conceptual standpoint, two different generations of social media metrics can be proposed according to the indicators scope and integration within overall social media activity.
+
+    Primary social media metrics . These are metrics of the use and visibility of publications on social media (e.g. tweets and Facebook counts, Mendeley readers, etc.). This first generation can be deemed as the more traditional social media metrics, which accounts for the quantification of mentions of research objects in social media (e.g. the number of tweets of a publication, the number of Facebook posts, etc.), including here both scholarly outputs (i.e. publications, datasets, patents etc.) as well as scholarly agents [ 14 ] (e.g. research groups, individual scholars, journals, research organizations, etc.). In other words, primary social media metrics are research objects-focused.
+    Secondary social media metrics . These comprise metrics about the social media users and their online activities, including both their overall activity on social media (e.g. overall tweeting activities, likes, followers, etc.) as well as regarding their specific interactions with research objects (e.g. number of tweets given to papers, mentions of scholars in their tweets, etc.). In other words, secondary social media metrics are mainly focused on social media-objects (including both social media agents–e.g. tweeters, Facebook users, Mendeley users, etc.; and social media objects–e.g., tweets, retweets, likes, wall posts, etc.).
+
+This distinction between primary and secondary social media metrics is sustained on the idea that so far social media metrics research has had a strong focus on the characterization of research objects by their reception in social media. Nevertheless, there have not been many attempts to develop metrics and analytics focused on characterizing those social media actors and their activities regarding their interactions with science and their social media activities overall. Thus, we propose a relatively novel approach in which the social media object becomes the focal point, over the more traditional approach in which the research object is the focal point. Given this fundamental change in perspective, we argue that distinguishing them as a secondary is relevant as they stem from primary social media metrics but represent an important change in the focus and potential interpretability and applicability of the metrics. For example, primary social media metrics can be calculated to capture some form of impact of a University’s publications on Twitter, Facebook, policy documents, etc. However, someone could also study the activity of the University’s Twitter (or Facebook) accounts, thus being more interested in the followers, followees, number of tweets sent, number of tweets to papers, number of retweets received, etc. by the University’s Twitter account. We argue that this second (secondary) form of social media metrics is different from the first one (primary), and we believe that this differentiation may help to distinguish them more efficiently. In the conceptualization of these secondary social media metrics (i.e. characterizing social media user interactions with research objects within the full range of activities on social media platforms) it is of particular importance that the characterization of the activities of these users be considered not only with regards to their interactions with scholarly entities, but also with their overall interactions within the different social media environments in which the events take place. The study of how social media users interact with research objects will help to pave the way to further unravel the mechanisms by which academic and, especially, non-academic actors interplay with scientific outputs and scholarly entities.
+Understanding Twitter users and their interactions with science
+
+Several attempts have been made so far to classify users in the social media realm based on their behavior [ 1 ]. Brandtzæg [ 30 ] proposed a tentative unified Media User Typology, which categorized users based on their frequency and variety of use and content preferences. Kwak et al. [ 31 ] performed the first study on the entire Twittersphere analyzing 41.7 million user profiles using a network analysis lens to put forth the following/followees model. The authors ranked users by their number of followers and retweets, and found these two rankings to be different indicating “a gap in influence inferred from the number of followers and from the popularity of one’s tweets” [ 31 ] (p. 600). More specifically Altmetric.com classifies Twitter users as researchers , science communicators , practitioners , and general public based on keywords in profile descriptions, journals tweeted, and follower lists. Haustein & Costas [ 32 ] explored the potential of using Twitter account descriptions to typify users. Both approaches demonstrate certain overlap among categories and rely heavily on profile descriptions. A tentative classification of users based on their tweeting behavior was performed by Haustein, Bowman, and Costas [ 15 ], who based categories on two indicators—exposure (number of followers) and engagement (dissimilarity between tweet and paper title)—and distinguished four types of users: brokers [high engagement and exposure]; broadcasters [high exposure but low engagement]; orators [high engagement but low exposure]; and mumblers [low exposure and engagement].
+
+Nevertheless, no study has previously identified the latent dimensions on which a social media user’s behavior relates to science communication; neither founded on the overall activity on Twitter nor including the specific interactions users have with research objects. By disclosing these underlying dimensions, different communities of users communicating science might be handily identified according to certain characteristics of their tweeting behavior.
+
+The primary aim of this paper is to identify and conceptualize dimensions of social media metrics useful to characterize Twitter communities interacting with science. More specifically, the aims of the authors are twofold. The first aim is to propose a second generation of Twitter metrics able to outline the general activities of Twitter communities in their Twitter interactions with scientific outputs. Based on this second generation of Twitter metrics, the second aim is to set the groundwork for the potential identification of different types of Twitter users shaped by their forms of interaction with research objects and in their overall activities on Twitter.
+Material and methods
+Twitter metrics data processing
+
+Altmetric.com shared their full dataset (v 10/02/2017) with the authors during the month of October, 2017. Approximately 8.1 million research objects with their different ‘altmetric’ events were parsed and stored in a local relational database. With regards to Twitter, each tweet was stored in a table relating back to the main Altmetric.com record for the scholarly output. The data revealed that there was a total of over 4 million Twitter users in the Altmetric.com database. Altmetric.com does not, however, share all of the user information of the tweeters that is available through the Twitter API. This missing information includes data such as the total number of tweets of the user, the date of creation of the account, the number of followees, and the number of likes. None of these indicators are currently included in the Altmetric.com data dump. Therefore, a PHP script was written to query the Twitter Search API using the unique tweet ID captured by Altmetric.com in order to obtain a complete record of the tweeter profile information. The script was executed on a LAMP server at the beginning of the month of February, 2018 and the data was collected, parsed, and stored in a relational database table.
+Sample
+
+The final profile data of Twitter users retrieved was of 3,580,727 unique profiles; each user shared at least one ‘tweet’ mentioning a scholarly output between August 2011 and October 2017. To ensure data accuracy, the population was constrained to those users (n = 1,448,867) who had a complete overlap of their Twitter activity with the coverage period of Altmetric.com, thus users that created their Twitter account before August 2011 were excluded. In addition, the influence of extremely low active profiles was diminished by removing those users belonging to the bottom 5% least active on Twitter overall; only users with more than a total of 15 tweets over the six-year period were included. The final dataset is comprised of 1,340,695 users accounting for over 14.6 million tweets to scholarly outputs.
+Metrics
+
+Based on the amount of information and data collected, a number of new metrics were developed in order to characterize the behavior of users on Twitter (all these metrics can be considered as secondary social media metrics, since they have been computed at the user level). In this work, the authors focused on metrics that were relatively simple and feasible given the data at hand. Other metrics would be possible to determine (e.g. number of comments received by a tweet to a paper, number of tweets sent mentioning other tweeters, replies, etc.), but their calculation would be more complicated and uncertain. Abbreviations are provided in square brackets.
+
+    Number of (re)tweets linking to scientific publications [tws]: absolute number of tweets and retweets to scholarly outputs made by each user.
+    Number of original tweets (i.e. not retweets) linking to scientific publications [otw].
+    Number of distinct publications (re)tweeted [p tw]: total actual number of distinct scholarly outputs tweeted.
+    Number of (re)tweets containing hashtags [tws hash].
+    Average length of the titles of the papers tweeted [avg title length].
+    Average time between the publication of the paper (as in Altmetric.com) and the tweet of the tweeter [avg days to tweet pub].
+    Number of tweets overall [tweets]: this is the number of tweets recorded in the Twitter profile of the tweeter.
+    Number of followers [followers]: this is the number of followers recorded in the Twitter profile of the tweeter.
+    Number of followees [followees]: this is the number of followees recorded in the Twitter profile of the tweeter.
+    Number of likes given [likes given]: this is the number of likes given by the user recorded in the Twitter profile of the tweeter.
+    Number of lists in which users are listed [listed count]: this is the number of lists recorded in the Twitter profile of the tweeter.
+    Share of tweets to papers [ptws to paper]: share of the total number of tweets that users have made to scholarly outputs.
+
+Data analysis
+
+For data analysis, the authors used three analytical approaches described below. First, an Exploratory Factor Analysis (EFA) was conducted using Principal Component Analysis (PCA) for factor extraction. EFA aims to study the underlying latent structure of correlations among a set of variables. In this work, EFA allows grouping metrics that measure similar characteristics into dimensions based on the interrelations among them. Seeing that some variables differ in scale, the analysis is run based on the correlation matrix (i.e. standardized covariances). As some metrics, such as those referring to the interaction with scholarly outputs (e.g. p tw , tws hash , ptws to papers ), stem directly from the number of tweets, the authors did not want to force factors to be orthogonal (i.e. to be independent). Accordingly, an oblimin oblique rotation was performed such that the number of metrics with high loadings was minimized making the factor easily interpretable [ 33 ]. By identifying latent factors that represent different aspects revolving around scholarly papers, a fine-grained classification of Twitter metrics can be proposed. Second, to provide a more robust basis of the dimensions of Twitter metrics around science, the adequacy of the metrics as indicators of the latent constructs was evaluated by means of a Confirmatory Factor Analysis (CFA). CFA differs from EFA in that the underlying factors are specified a priori and verified empirically rather than derived from the data [ 34 ]. Several goodness-of-fit indices were assessed to estimate how well the specified model accounts for the data [ 35 ]. Third, to characterize the predominant type of users for each of the four dimensions, several distance-based maps based on the Twitter descriptions of the users were constructed using VOSviewer [ 36 ]. This technique uses a method called visualization of similarities that, under certain conditions, is equivalent to a Sammon’s MDS [ 37 ].
+Results
+Descriptive statistics
+
+Table 1 presents the descriptive statistics used in the factorial model. An extremely high skewness regarding Twitter users’ activities is quite apparent when comparing mean and median, as well their dispersion measures. This huge variability (e.g. followers : mean = 1,099.19, SD = 19,458.25; median = 170, IQR = 524–54 = 470) reflects that there is no one-size-fits-all user’s behavioral pattern. For instance, the ptws to papers is on average 1.62% and on median 0.20% by user, which implies that interacting with scholarly outputs represents, on average, a very small share of a user’s activity on Twitter.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Table 1. Descriptive statistics for Twitter metrics.
+
+https://doi.org/10.1371/journal.pone.0216408.t001
+
+The Spearman’s Rho correlations showed in Table 2 demonstrates a basic insight into the pattern of correlations among all the Twitter metrics. Indicators linking activity on Twitter related to the diffusion of scholarly outputs present high positive correlations between them ( tws , otw , tws hash , and ptw ). Predictably, the overall activity on Twitter ( tweets ) is relatively high and positively correlated with the number of followers , and especially, likes given (ρ = 0.684). Likewise, there is high negative correlation between tweets and ptws to papers (ρ = -0.854) and, to a lesser extent, between ptws to papers and likes given (ρ = -0.593), indicating that users who are very active on Twitter do not focus their tweeting activity primarily on sharing scholarly papers. In other words, this suggests that highly active users use this social media platform for a larger number of purposes other than tweeting research objects.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Table 2. Spearman’s rho correlations between Twitter metrics.
+
+https://doi.org/10.1371/journal.pone.0216408.t002
+Dimensions of Twitter activity around science
+
+An EFA was applied to disentangle the underlying latent structure on which Twitter users’ metrics revolve. Results are displayed in Table 3 . Four factors were retained based on the eigenvalues > 1, which is known as Kaiser’s criterion [ 38 ], accounting for over 62% of the total variance. The inspection of factor loadings reveals the extent to which each of the Twitter metric contributes to the meaning of each of the factors. Both a Kaiser-Meyer-Olkin measure of sampling adequacy (KMO = 0.734) and a Bartlett’s test of sphericity (p = 0.000) indicate that the data are sufficiently suitable for latent structure detection.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Table 3. EFA of communities of users around science.
+
+Factor loadings and correlation among factors.
+
+https://doi.org/10.1371/journal.pone.0216408.t003
+
+Factor 1 accounted for 27.4% of the variance comprising four Twitter metrics (tws , otws , p tws and tws hash ), which relates to what can be categorized as ‘Science Engagement’ because it reflects to what extent sharing science-related material characterizes users’ Twitter activity. Factor 2 explained 15.7% of the total variance and grouped two indicators ( tweets , likes given ), which can be categorized as ‘Social Media Activity’ as it relates to what users share and what they pay attention to. Factor 3 accounted for 10% of the variance and grouped three indicators ( followers , followees , and listed count ), which mirror the ‘Social Media Capital’ attained by users. It is worth noting here that listed count also shows an appreciable loading on the ‘Social Media Activity’ dimension. Although the prominent feature of lists is bringing together users with some kind of proximity (e.g. cognitive, personal), this metric also reflects that the more active a user is on Twitter, the more likely it is that they create or join other users’ lists. Apart from this, dimensions are fairly robust since there are no other cross-loadings (e.g. metrics that load ≥ 0.32 on two or more factors) [ 39 ]. Lastly, Factor 4 explained 8.9% of the total variance in the Twitter metrics grouping three items ( average title length , share of tweets to papers , avg days to tweet pub ), which reflect what can be categorized as ‘Science Focus’.
+
+Furthermore, correlations between the four dimensions are also shown in the bottom of Table 3 , which provide additional evidence regarding the underlying latent structure of interactions among users in the social media realm. Moderate negative correlations are found between ‘Social Media Activity’ and ‘Science Engagement’ (ρ = -0.433) and between ‘Social Media Activity’ and ‘Science Focus’ (ρ = -0.363). As aforementioned, this finding is not striking since ‘Social Engagement’, and to a lesser extent, ‘Science Focus’ metrics stem directly from the number of tweets (e.g. tws , p tw , ptws to papers ).
+
+To assess the validity of the four latent dimensions found through EFA, a CFA was performed. CFA tests if the hypothesized model is consistent with the actual data. Rather than making a dichotomous decision on the validity of the model, the CFA is intended to explore if the structure model gives a reasonable fit given the interdependence of several metrics from the number of tweets and the fact that interacting with scholarly outputs accounts for a very small share of users’ behavior on Twitter. Errors were included in the model along with some correlations among them based on large modification indices.
+
+Goodness-of-fit indices are provided in Table 4 to evaluate if the specified model acceptably approximates the observed data. It is generally recommended to examine several indices simultaneously when model fit is assessed, since not all indices work equally under different conditions [ 34 ]. The result from the χ 2 test is significant (p = 0.0008), which would suggest that the model does not fit the data. However, it is well-known that this test is very sensitive to the sample size, and significant results can be found despite actual differences being negligible [ 40 ]. Absolute and incremental indices attempt to adjust for the effect of sample size. Absolute indices estimate how well the conceptual model reproduces the sample data, whereas incremental indices assess the proportion of improvement in fit between the conceptual model and a more restricted model [ 41 ]. These indices must be considered to determine whether the model fit is acceptable or not [ 35 ]. Hu and Bentler [ 41 ] suggest the following cut-off values as good model fit: ≤ 0.08 for SRMR, ≤ 0.06 for RMSEA and ≥ 0.95 for incremental indices (CFI, TLI and IFI). As shown in Table 4 , all values are respectively above/below the expected values, so it can be concluded that the model fit of our four dimensions of Twitter metrics is acceptable.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Table 4. Goodness-of-fit indices for the CFA.
+
+https://doi.org/10.1371/journal.pone.0216408.t004
+Communities of attention around science
+
+To reveal the predominant type of users using the four latent dimensions, we draw on the user’s profile description. To do so, profile descriptions from 200,000 random Twitter accounts (from the 1,340,695 tweeters finally analysed) and factor scores for each dimension were used. Terms in the VOSviewer maps are placed in such a way that the distance between any pair of terms reflects their similarity in terms of co-occurrence. In other words, the proximity between terms indicates that the profiles are characterized by the same terms and represent a particular community of tweeters. The size of the nodes reflects the frequency of words and the thickness of the edges relate to how often the words appear together. A threshold of 200 occurrences was set for the terms, resulting in a total of 211 terms. For the sake of visualization, those terms accounting for over 60% of the occurrences were finally retained (a total of 127 terms). Fig 1 shows a terms map for the four dimensions where the main textual patterns of tweeters are brought to the foreground. We found four clearly defined clusters of users:
+
+    Cluster 1 (red cluster) is formed by words such as ‘mother’, ‘lover’, ‘love’, ‘life’, ‘fan’, ‘husband’ or ‘soul,’ which reveal tweeters who set forth their private and personal life in their profile ( personal description ).
+    Cluster 2 (yellow cluster) is comprised by terms that underline the expression of a user’s own opinions and views. Few words concentrate most of occurrences: ‘view’, ‘opinion’, ‘tweet’, ‘endorsement’ and ‘mine’ ( opinions and own position ).
+    Cluster 3 (green cluster) includes words that belong to the academic and scientific community: ‘university’, ‘department’, ‘researcher’, ‘development’, ‘director’, ‘lecturer’ or ‘PhD student’ ( academic role ).
+    Cluster 4 (blue cluster) is formed by words that refer to the professional role of tweeters, but in this case seems to be more connected with firms and professional practice. It includes words such as ‘organization’, ‘business’, ‘community’, ‘practice’, ‘service’, ‘client’ or ‘solution’ ( business and practice role ).
+
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 1. VOSviewer map of factor scores and profile descriptions.
+
+https://doi.org/10.1371/journal.pone.0216408.g001
+
+Subsequent term maps for each dimension were also plotted to disentangle what features characterize the behavior of each community of users ( Fig 2 ).
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 2. VOSviewer maps of profile descriptions for each dimension.
+
+https://doi.org/10.1371/journal.pone.0216408.g002
+
+Tweeters using terms in their description belonging to the academic and scientific realm (Cluster 3) stand out in the ‘Science Focus’ and ‘Science Engagement’ dimensions. In the latter dimension, users that describe themselves as opinion holders (Cluster 2) also show high values and greater ‘Social Media Activity'. This is consistent for both groups with what would be expected from the claims of their profiles. On the other hand, users who refer to their personal and private life (Cluster 1) in their description are unmistakably characterized by their high ‘Social Media Activity’. However, those who allude to their business and professional practice (Cluster 4) demonstrate the most heterogeneous behavioural pattern, even though they relatively stand out for their ‘Social Media Capital’ and ‘Science Focus'.
+Discussion and conclusions
+
+The findings presented in this research are framed around the idea of developing a second generation of social media metrics, focused on characterizing the different social media communities of attention around science and their activities and interactions around scientific results. This work contributes to pave the way for reconciling ‘altmetric’ and bibliometric approaches in what can be seen as a broader perspective of social media studies of science (i.e. bringing together the interactions and network perspectives between both social media and science-related entities, activities and objects) [ 1 , 16 ]. Some recent developments have also started to combine these more interactive and network perspectives. For example, the topic-actor networks based on Twitter suggested by Hellsten and Leydesdorff [ 42 ] by studying topics, tweeters, and hashtags from tweets; or the combined study of scientific author-keywords and hashtags from tweets to papers related to climate change [ 43 ], which may also be related to the broader idea of studying and characterizing different forms of “heterogeneous couplings” between social media and research objects and entities [ 44 ]. These developments support the idea of an advancement in social media metrics research towards more interactive and network perspectives, in which the distinction between those social media metrics related to research objects (primary) and those metrics related to the social media entities or users (secondary) becomes an important conceptual differentiation.
+
+The large-scale analysis of tweeters interacting with scholarly outputs has disclosed four dimensions of Twitter metrics around science . These four dimensions of secondary Twitter metrics cover the frequency of tweeting, both regarding the general activity of users in the social media realm (‘Social Media Activity’) and their specific activity around science (‘Science Focus’ and ‘Science Engagement’). Regarding the latter, whereas ‘Science Engagement’ may be understood as the quantitative side of engagement by users in science, ‘Science Focus’ provides a much more nuanced insight that mirrors the overall tweeters involvement in science related issues. Finally, the number of followers, followees, and lists (‘Social Media Capital’) can be seen through the lens of social capital theory [ 45 , 46 ], as these metrics basically reflect the network of relationships established by users and entail an “unceasing effort of sociability, a continuous series of exchanges in which recognition is endlessly affirmed and reaffirmed” [ 45 ] (p. 250). These four dimensions provide both a sound framework for potentially classifying users according to their behavior in the social media realm and a general benchmark for comparative analyses among users.
+
+On the other hand, term maps based on users’ profile descriptions and the factor scores have enabled the authors to outline the type of users that stand out in each dimension. Four separated clusters of users’ terms have been found, which are aligned with previous results studying scholarly tweeters’ descriptions [ 32 ]: Tweeters who discuss their private life and are highly active ( personal description) ; tweeters who describe themselves as opinion holders and show a certain degree of engagement and activity ( opinions and own position ); tweeters who belong to the academic realm and are notable for their high science focus and engagement ( academic role ); and tweeters who refer to their professional role and show a more balanced pattern of use and relatively high social media capital ( business and practice dimension ).
+On the quest for typologies of social media users of science
+
+Revealing the four dimensions of secondary Twitter metrics as described in this paper allows tracing the communities of users around science within the complete Twittersphere. Given the great variety of patterns and behaviors of Twitter users’ activities, the authors did not consider clustering users according to the overall range of activities and interactions as a feasible and grounded approach in the quest for a unified range of typologies. Rather, the identification of communities of users around science based on the four dimensions of metrics depicted here can be approached from a bottom-up perspective. For instance, one might be interested in identifying potential opinion leaders acting as influencers or science brokers (e.g. bringing science to a broader audience or to the general public). These could be operationalized as tweeters with at least medium levels of ‘Science Focus’ and well-established ‘Social Media Capital’. Science brokers would expect to devote a significant proportion of their tweeting activity to research objects, reducing the time between the publication of the paper and the first tweets, and share research articles with interesting findings. Here, there is also room for expanding the outreach of users, for instance, by distinguishing between local and global science brokers by utilizing followers’ time zone information as previously suggested by Kwak et al. [ 31 ].
+
+Profile descriptions are also an appealing source for outlining the potential communities of users by providing hints on the background and professional activity of users. In this research, the authors have drawn on this information to complement our main empirical findings, rather than to rely primarily on the self-presentation users have chosen to provide online. Given the general scope of Twitter and the array of impressions that one user may give on Twitter, a professional role does not necessarily have to be the primary one given in the social media realm. In fact, even when a user believes they are tweeting in a professional manner, readers of their tweets may not agree [ 47 ]. Expanding our insight on scholarly identity management might be productive to build up a theory that helps to unravel the social media interactions around science. This might also have substantial implications for establishing broader social media studies of science. In this sense, there seems to be significant disciplinary differences in how researchers behave in the social media realm [ 48 ], similar to publication patterns across research domains [ 49 , 50 ], that needs further investigation. This is becoming increasingly relevant as the number of researchers on Twitter is growing steadily every year [ 51 ].
+On the quest for traces of societal impact
+
+The step towards the second generation of social media metrics fits within the paradigm change that is taking place in the larger scientometric community; impact can no longer be measured solely in scientific terms (e.g. citations), but must include other factors including societal, environmental, political, health, and economic impact [ 52 , 53 ]. Therefore, moving towards examining the interaction with research objects within the full range of activities on social media platforms will help to track down potential traces of societal impact. The empirical framework of the four dimensions of metrics around science presented here may support other approaches for exploring the traces of societal impact of research, such as focusing on the engagement among researchers through case studies [ 11 ]. In fact, the four dimensions disclosed provide a certain benchmarking for comparative studies. Case studies and mapping may be performed for comparing users that show similar patterns on Twitter. Two users who are actually behaving similarly on Twitter may show different followers’ profiles and, therefore, have impact on different communities. In this sense, performing future examinations would be made easier if Altmetric.com shared additional Twitter metadata including the total number of tweets of the users, the date of creation of the accounts, or their number of followees.
+
+Moreover, further conceptual discussions would also suggest the existence of tertiary forms of altmetrics ; which, conceptually speaking, would refer to the combination of both primary and secondary social media metrics (in other words the combined use of metrics referring to both research objects and social media objects). A potential example of this third generation of social media metrics would be the number (or share) of tweets of a publication that come only from tweeters with high social media capital. In this example, the primary metric is the number of tweets of the publication, and the secondary metric is the number of followers used to characterize the social media capital of the tweeters.
+
+In any case, there is still a long way ahead for the potential use of social media metrics as supporting tools in research evaluation contexts. The need for a sound definition of altmetrics based on the understanding of the processes leading to societal impact remains a crucial goal [ 11 , 53 , 54 ]. This must be accompanied by further empirical evidence that helps to disentangle what these metrics actually capture, since close to zero correlations have been found elsewhere between altmetrics and others indicators of societal impact [ 55 , 56 ]. Besides, the current misalignment between scientometric developments and research assessment practices must be considered in the quest for social media metrics legitimacy. Jeppe, Pithan, and Heinze [ 57 ] state that the legitimacy of the most common metrics used in research evaluation is questioned and that these metrics have been proposed by outsiders (i.e., h-index) or adapted by database providers (i.e., Journal Impact Factor). Accordingly, this reflects little reputational control by the core specialists of the scientometrics field, since the emergence of new metrics and the growth of publications have not gone together with the establishment of sound intellectual foundations. This has to be understood in a context of increasing demand for standardized assessment mechanisms, which have been filled by database providers (e.g., Clarivate Analytics, Scopus). This has given these providers a powerful role in defining the standards of research quality [ 57 ]. Initiatives from the scientometric community, such as the Leiden Manifesto [ 58 ], can be seen as a response to this tension. Given the crucial role carried out by data aggregators such as Altmetric.com or Plum Analytics, similar legitimacy challenges must be faced by the community when it comes to social media metrics. In fact, given their current emerging state, this is the right moment for scientometric specialists, whether they belong to the academic (e.g. researchers) or the professional realm (e.g. consultancy, librarians), to take the lead in the quest for defining reference standards of what constitutes actual traces of societal impact and how far-reaching social media metrics can be seen as traces of them.
+Limitations
+
+This research has some limitations which suggest avenues for future research. First, the metrics interrelated structure and, especially, the typology of users around science may differ across geographical areas, languages, and for particular kind of users (e.g. verified profiles). Second, the dataset comprises Twitter users which have posted at least one ‘tweet’ mentioning a scholarly output from August 2011. To avoid a bias representation of their Twitter activity, users with previous activity were excluded from the study. These early adopter users may perform differently on Twitter. Third, given the current emerging state of the second generation of social media metrics, new indicators are needed to expand the potential of these metrics as traces of societal impact such as those referring to the actual discussion generated on the Twitter community around scholarly outputs (e.g. number of comments received by a tweet to a paper, number of mentions to other users, etc.). Therefore, upcoming research dealing with the second generation of Twitter metrics should cross-validate the underlying structure on another sample and explore if the four dimensions of Twitter metrics around science remain stable when other metrics, languages, datasets, and geographical areas are considered.
+References
+
+    1. Wouters P, Zahedi Z, Costas R. Social media metrics for new research evaluation. In: Glänzel W., Moed H. F., Schmoch U., & Thelwall M., editors. Handbook of Quantitative Science and Technology Research. Springer; 2018.
+    2. Priem J, Taraborelli D, Groth P, Neylon C. Altmetrics: A manifesto. 2010. http://altmetrics.org/manifesto/
+    3. Lotka AJ. The frequency distribution of scientific productivity. J Washingt Acad Sci. JSTOR; 1926; 16: 317–323.
+        View Article
+        Google Scholar
+    4. Price DJDS. Networks of scientific papers. Science. JSTOR; 1965; 510–515.
+    5. Martin BR, Irvine J. Assessing Basic Research: Some Partial Indicators of Scientific Progress in Radio Astronomy. Res Policy. 1983;12: 61–90.
+        View Article
+        Google Scholar
+    6. Desrochers N, Paul-Hus A, Haustein S, Costas R, Mongeon P, Quan-Haase A, et al. Authorship, citations, acknowledgments and visibility in social media: Symbolic capital in the multifaceted reward system of science. Soc Sci Inf. SAGE Publications Sage UK: London, England; 2018; 57: 223–248.
+    7. Sugimoto CR, Work S, Larivière V, Haustein S. Scholarly use of social media and altmetrics: A review of the literature. J Assoc Inf Sci Technol. Wiley Online Library; 2017; 68: 2037–2062.
+        View Article
+        Google Scholar
+    8. Zahedi Z, Costas R. General discussion of data quality challenges in social media metrics: Extensive comparison of four major altmetric data aggregators. PLoS One. Public Library of Science; 2018; 13: e0197326. pmid:29772003
+        View Article
+        PubMed/NCBI
+        Google Scholar
+    9. Haustein S. Grand challenges in altmetrics: heterogeneity, data quality and dependencies. Scientometrics. Springer; 2016; 108: 413–423.
+        View Article
+        Google Scholar
+    10. Bornmann L, Leydesdorff L. Scientometrics in a changing research landscape: bibliometrics has become an integral part of research quality evaluation and has been changing the practice of research. EMBO Rep. EMBO Press; 2014; 15: 1228–1232. pmid:25389037
+        View Article
+        PubMed/NCBI
+        Google Scholar
+    11. Robinson-García N, van Leeuwen TN, Rafols I. Using almetrics for contextualised mapping of societal impact: From hits to networks. Sci Public Policy. 2018; 1–2.
+        View Article
+        Google Scholar
+    12. Smith R. Measuring the social impact of research: difficult but necessary. BMJ Br Med J. BMJ Publishing Group; 2001; 323: 528.
+        View Article
+        Google Scholar
+    13. Bornmann L. What is societal impact of research and how can it be assessed? A literature survey. J Am Soc Inf Sci Technol. Wiley Online Library; 2013; 64: 217–233.
+        View Article
+        Google Scholar
+    14. Haustein S, Bowman TD, Costas R. Interpreting “altmetrics”: Viewing acts on social media through the lens of citation and social theories. In Cassidy R. Sugimoto , editor. Theories of Informetrics and Scholarly Communication. De Bruyter; 2016. pp. 372–406.
+    15. Haustein S, Bowman TD, Costas R. Communities of attention around journal papers: who is tweeting about scientific publications. Social Media and Society 2015 International Conference. 2015. pp. 1–21. Toronto Retrieved from https://es.slideshare.net/StefanieHaustein/communities-of-attention-around-journal-papers-who-is-tweeting-about-scientific-publications
+    16. Costas R. Towards the social media studies of science: social media metrics, present and future. Bibl An Investig. 2017; 13: 1–5.
+        View Article
+        Google Scholar
+    17. Spaapen J, Van Drooge L. Introducing ‘productive interactions’ in social impact assessment. Res Eval. Beech Tree Publishing; 2011; 20: 211–218.
+        View Article
+        Google Scholar
+    18. Corr P, Williams D. The Pathway from idea to Regulatory Approval: Examples for Drug Development. In: In Field M. J., & Lo B, editor. Conflict of interest in medical research, education, and practice. National Academies Press; 2009. pp. 375–383.
+    19. Borgman CL. Scholarship in the digital age: Information, infrastructure, and the Internet. MIT press; 2010.
+    20. Díaz-Faes AA, Bordons M, A. Making visible the invisible through the analysis of acknowledgments in the humanities. Aslib J Inf Manag. Emerald Publishing Limited; 2017; 69: 576–590.
+        View Article
+        Google Scholar
+    21. Costas R, Zahedi Z, Wouters P. Do “altmetrics” correlate with citations? Extensive comparison of altmetric indicators with citations from a multidisciplinary perspective. J Assoc Inf Sci Technol. Wiley Online Library; 2015; 66: 2003–2019.
+        View Article
+        Google Scholar
+    22. Letierce J, Passant A, Breslin J, Decker S. Understanding how Twitter is used to spread scientific messages. Web Science Conf. 2010; April 26–27, Raleigh, NC, USA.
+        View Article
+        Google Scholar
+    23. Adie E, Roe W. Altmetric: enriching scholarly content with article-level discussion and metrics. Learn Publ. Association of Learned and Professional Society Publishers; 2013; 26: 11–17.
+    24. Thelwall M, Haustein S, Larivière V, Sugimoto CR. Do altmetrics work? Twitter and ten other social web services. PLoS One. Public Library of Science; 2013; 8: e64841. pmid:23724101
+        View Article
+        PubMed/NCBI
+        Google Scholar
+    25. Zahedi Z, Costas R, Wouters P. How well developed are altmetrics? A cross-disciplinary analysis of the presence of ‘alternative metrics’ in scientific publications. Scientometrics. Springer; 2014; 101: 1491–1513.
+        View Article
+        Google Scholar
+    26. Haustein S, Costas R, Larivière V. Characterizing social media metrics of scholarly papers: The effect of document properties and collaboration patterns. PLoS One. Public Library of Science; 2015; 10: e0120495. pmid:25780916
+        View Article
+        PubMed/NCBI
+        Google Scholar
+    27. Haustein S. Scholarly Twitter metrics. In Glänzel W., Moed H. F., Schmoch U., Thelwall M., editors. Handbook of Quantitative Science and Technology Research. Springer; 2018.
+    28. Robinson-Garcia N, Costas R, Isett K, Melkers J, Hicks D. The unbearable emptiness of tweeting—About journal articles. PLoS One. Public Library of Science; 2017; 12: e0183551.
+        View Article
+        Google Scholar
+    29. Holmberg K, Bowman TD, Haustein S, Peters I. Astrophysicists’ conversational connections on Twitter. PLoS One. Public Library of Science; 2014; 9: e106086.
+        View Article
+        Google Scholar
+    30. Brandtzæg PB. Towards a unified Media-User Typology (MUT): A meta-analysis and review of the research literature on media-user typologies. Comput Human Behav. Elsevier; 2010; 26: 940–956.
+        View Article
+        Google Scholar
+    31. Kwak H, Lee C, Park H, Moon S. What is Twitter, a social network or a news media? Proceedings of the 19th international conference on World Wide Web. ACM; 2010. pp. 591–600.
+    32. Haustein S, Costas R (2015). Identifying Twitter audiences: who is tweeting about scientific papers? ASIS&T SIG/MET Metrics 2015 workshop; pp. 9–11.
+    33. Browne MW. An overview of analytic rotation in exploratory factor analysis. Multivariate Behav Res. Taylor & Francis; 2001; 36: 111–150.
+    34. Lei P, Wu Q. Introduction to structural equation modeling: Issues and practical considerations. Educ Meas issues Pract. Wiley Online Library; 2007; 26: 33–43.
+    35. Weston R, Gore PA Jr. A brief guide to structural equation modeling. Couns Psychol. Sage Publications Sage CA: Thousand Oaks, CA; 2006; 34: 719–751.
+    36. van Eck NJ, Waltman L. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics. 2010; 84: 523–538. pmid:20585380
+        View Article
+        PubMed/NCBI
+        Google Scholar
+    37. van Eck NJ, Waltman L. VOS: A New Method for Visualizing Similarities Between Objects BT—Advances in Data Analysis. In: Decker R, Lenz H-J, editors. Advances in Data Analysis. Berlin, Heidelberg: Springer Berlin Heidelberg; 2007. pp. 299–306.
+    38. Kaiser HF. The application of electronic computers to factor analysis. Educ Psychol Meas. Sage Publications Sage CA: Thousand Oaks, CA; 1960;20: 141–151.
+    39. Tabachnick BG, Fidell LS, Ullman JB. Using multivariate statistics. Pearson Boston, MA; 2007.
+    40. Anderson JC, Gerbing DW. Structural equation modeling in practice: A review and recommended two-step approach. Psychol Bull. US: American Psychological Association; 1988;103: 411.
+        View Article
+        Google Scholar
+    41. Hu L, Bentler PM. Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. Struct Equ Model a Multidiscip J. Taylor & Francis; 1999; 6: 1–55.
+        View Article
+        Google Scholar
+    42. Hellsten I, Leydesdorff L. Automated Analysis of Topic-Actor Networks on Twitter: New approach to the analysis of socio-semantic networks. J Assoc Inf Sci Technol. Wiley Online Library; 2019.
+        View Article
+        Google Scholar
+    43. Haunschild R, Leydesdorff L, Bornmann L, Hellsten I, Marx W. Does the public discuss other topics on climate change than researchers? A comparison of networks based on author keywords and hashtags. J Informetr. Elsevier Ltd; 2019; 13: 695–707.
+        View Article
+        Google Scholar
+    44. Costas R, de Rijcke S, Marres N. Beyond the dependencies of altmetrics: Conceptualizing ‘heterogeneous couplings’ between social media and science. The 2017 Altmetrics Workshop http://altmetrics.org/wp-content/uploads/2017/09/altmetrics17_paper_4.pdf
+    45. Bourdieu P. Forms of capital. In: Richardson J. G., editor. Handbook of theory and research for the sociology of education. New York: Greenwood Pr; 1986. pp. 241–258.
+    46. Lin N. Building a Network Theory of Social Capital. Connections. INSNA; 1999; 22(1): 28–51. https://doi.org/10.1108/14691930410550381
+    47. Bowman TD. Differences in personal and professional tweets of scholars. Aslib J Inf Manag. Emerald Group Publishing Limited; 2015; 67: 356–371.
+        View Article
+        Google Scholar
+    48. Holmberg K, Thelwall M. Disciplinary differences in Twitter scholarly communication. Scientometrics. Springer; 2014; 101: 1027–1042.
+        View Article
+        Google Scholar
+    49. Gazni A, Sugimoto CR, Didegah F. Mapping world scientific collaboration: Authors, institutions, and countries. J Am Soc Inf Sci Technol. 2012; 63: 323–335.
+        View Article
+        Google Scholar
+    50. Abramo G, Cicero T, D’Angelo CA. Individual research performance: A proposal for comparing apples to oranges. J Informetr. Elsevier Ltd; 2013; 7: 528–539.
+        View Article
+        Google Scholar
+    51. Joubert M, Costas R. Getting to Know Science Tweeters: A Pilot Analysis of South African Twitter Users Tweeting About Research Articles. J Altmetrics. Levy Library Press; Forthcoming.
+        View Article
+        Google Scholar
+    52. Bornmann L. Is There Currently a scientific revolution in scientometrics? J Assoc Inf Sci Technol. 2014; 13: 647–648.
+        View Article
+        Google Scholar
+    53. Joly PB, Gaunand A, Colinet L, Larédo P, Lemarié S, Matt M. ASIRPA: A comprehensive theory-based approach to assessing the societal impacts of a research organization. Res Eval. Oxford University Press; 2015; 24: 440–453.
+        View Article
+        Google Scholar
+    54. Frank C, Nason E. Health research: measuring the social, health and economic benefits. Can Med Assoc J. Can Med Assoc; 2009;180: 528–534.
+        View Article
+        Google Scholar
+    55. Ravenscroft J, Liakata M, Clare A, Duma D. Measuring scientific impact beyond academia: An assessment of existing impact metrics and proposed improvements. PLoS One. Public Library of Science; 2017;12: e0173152.
+        View Article
+        Google Scholar
+    56. Bornmann L, Haunschild R, Adams J. Do altmetrics assess societal impact in a comparable way to case studies? An empirical test of the convergent validity of altmetrics based on data from the UK research excellence framework (REF). J Informetr. Elsevier; 2019;13: 325–340.
+        View Article
+        Google Scholar
+    57. Jappe A, Pithan D, Heinze T. Does bibliometric research confer legitimacy to research assessment practice? A sociological study of reputational control, 1972–2016. PLoS One. Public Library of Science; 2018; 13: e0199031.
+        View Article
+        Google Scholar
+    58. Hicks D, Wouters P, Waltman L, Rijcke SD, Rafols I. Bibliometrics: the Leiden Manifesto for research metrics. Nature; 2015; 429–431. Comment.
+        View Article
+        Google Scholar
+
+Download PDF
+ 
+
+    Citation
+    XML
+
+Print
+
+    Print article
+    EzReprint
+
+Share
+
+    Reddit Reddit
+    Google+ Google+
+    Facebook Facebook
+    LinkedIn LinkedIn
+    CiteULike CiteULike
+    Mendeley Mendeley
+    PubChase PubChase
+    Twitter Twitter
+    Email Email
+
+ 
+Advertisement
+Subject Areas
+?
+
+For more information about PLOS Subject Areas, click here .
+We want your feedback. Do these Subject Areas make sense for this article? Click the target next to the incorrect Subject Area and let us know. Thanks for your help!
+
+    Twitter  
+
+    Is the Subject Area "Twitter" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Social media  
+
+    Is the Subject Area "Social media" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Social research  
+
+    Is the Subject Area "Social research" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Facebook  
+
+    Is the Subject Area "Facebook" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Altmetrics  
+
+    Is the Subject Area "Altmetrics" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Scientometrics  
+
+    Is the Subject Area "Scientometrics" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Bibliometrics  
+
+    Is the Subject Area "Bibliometrics" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Research quality assessment  
+
+    Is the Subject Area "Research quality assessment" applicable to this article? Yes No
+
+    Thanks for your feedback.
+
+Archived Tweets
+
+Load more
+View all tweets
+
+    Publications
+    PLOS Biology
+    PLOS Medicine
+    PLOS Computational Biology
+    PLOS Genetics
+    PLOS Pathogens
+    PLOS ONE
+    PLOS Neglected Tropical Diseases
+
+    Home
+    Blogs
+    Collections
+    Give feedback
+    LOCKSS
+
+    Privacy Policy
+    Terms of Use
+    Advertise
+    Media Inquiries
+    Contact
+
+PLOS is a nonprofit 501(c)(3) corporation, #C2354500, based in San Francisco, California, US
+PLOS
+ 

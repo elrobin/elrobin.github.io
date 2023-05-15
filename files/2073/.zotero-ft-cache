@@ -1,0 +1,152 @@
+Screen reader users, click here to load entire article This page uses JavaScript to progressively load the article content as a user scrolls. Screen reader users, click the load entire article button to bypass dynamically loaded article content.
+ScienceDirect will be phasing out support for Internet Explorer 7. Click here to upgrade to a higher version. Close
+ 
+
+    Register
+    Login Login
+
+OpenAthens login
+Login via your institution
+Other institution login
+Remote access activation
+Click here to activate
+Login using your ScienceDirect credentials
+Username:
+Password:
+Remember me
+| Not Registered?
+Forgotten username or password?
+
+    Home
+    Publications
+    Search
+    My settings
+    My alerts
+
+    Help
+
+    Download PDF
+    Export citation
+    More options...
+            eReader format   What's this?
+              ePub
+              Mobipocket
+        Email article
+        Signed up for  [ remove ]
+        Alert me about new volumes of this
+        Failure
+        Your selection(s) could not be saved due to an internal error. Please try again.
+        Show thumbnail images
+
+Search
+Articles Articles 	    All fields 		    Author 					Advanced search
+Images Images 	    Journal/Book title 		    Volume 		  Issue 		  Page 			Search tips
+Article outline is loading...
+Alert message
+JavaScript is disabled on your browser.
+Please enable JavaScript to use all the features on this page.
+JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page.
+
+Journal of Informetrics
+
+Volume 8, Issue 1 , January 2014, Pages 234–240
+Cover image Cover image
+Barycenter representation of book publishing internationalization in the Social Sciences and Humanities
+
+    Frederik T. Verleysen a , Corresponding author contact information Corresponding author contact information , E-mail the corresponding author E-mail the corresponding author ,
+    Tim C.E. Engels b , c , E-mail the corresponding author E-mail the corresponding author
+
+    a Centre for Research & Development Monitoring (ECOOM), University of Antwerp, Middelheimlaan 1, 2020 Antwerp, Belgium
+    b Department of Research Affairs and Centre for Research & Development Monitoring (ECOOM), University of Antwerp, Middelheimlaan 1, 2020 Antwerp, Belgium
+    c Antwerp Maritime Academy, Noordkasteel-Oost 6, 2030 Antwerp, Belgium
+
+    Received 17 September 2013
+    Revised 13 November 2013
+    Accepted 27 November 2013
+    Available online 25 December 2013
+
+Highlights
+
+•
+
+    The barycentre method provides a valuable tool for representation of book publishing internationalization.
+•
+
+    In Flanders humanities disciplines publish more domestically, while the social sciences are firmly oriented toward British publishers.
+•
+
+    Over the period 2002–2011 the humanities show a stronger evolution toward further internationalization than the social sciences.
+
+Abstract
+
+This paper introduces a novel application in bibliometrics of the barycenter method. Using places of publication barycenters, we measure internationalization of book publishing in the Social Sciences and Humanities. Based on 2002–2011 data for Flanders, Belgium, we demonstrate how the geographic center of weight of book publishing is different for the Social Sciences than for the Humanities. Whereas the latter still rely predominantly on domestic Flemish and continental European publishers, the former are firmly Anglo-Saxon oriented. The Humanities, however, show a more pronounced evolution toward further internationalization. For the already largely internationally oriented Social Sciences, in most recent years, the share of British publishers has grown. The barycenter method proves to be a valuable tool in the representation of research internationalization of book publications. This is especially the case when applied non-Anglophone countries.
+Keywords
+
+    Barycenter method ;
+    Monographs ;
+    Edited books ;
+    Social sciences ;
+    Humanities ;
+    Internationalization
+
+1. Introduction
+
+In recent years scientometric research has seen an increasing use of spatial/geographic information for studying publication patterns and the development of science. One of the many applications of this information is measuring patterns of research internationalization. GIS-technology or other state-of-the-art visualization techniques are increasingly used as analysis and presentation tools ( Wang, Ma, Li, Zhang, & Ma, 2013 ). In this paper, we propose a novel application of the barycenter method for representing internationalization of book publishing in the Social Sciences and Humanities (SSH).
+
+Bibliometric studies have shown that research in the SSH is becoming more international. The rise of quantitative methods and the use of information technology have facilitated communication and comparison of research results with geographically distant colleagues ( Melin, 2000  and  Borgman, 2009 ). In line with this, there is evidence of increasing international research collaboration as reflected by co-authorships ( Benavent-Pérez et al., 2012 , Newman, 2004 , Kyvik, 2003  and  Leydesdorff et al., 2013 ). Not surprisingly, scholars also seek to maximize the international visibility and impact of their research through more frequent use of English as publication language ( Engels et al., 2012  and  Ossenblok et al., 2012 ). For their part, the leading citation indexes are expanding their coverage to include a larger share of the worldwide scholarly literature ( Sivertsen & Larsen, 2012 ), thereby further facilitating the international exchange of research results.
+
+Internationalization studies in bibliometrics have until now been foremost based on the journal and proceedings literature. The limited availability of sufficient and reliable bibliographic information on book publications (monographs, edited books and book chapters) has longtime prevented their inclusion in bibliometric studies ( Hicks, 2004 ). There is, however, much to suggest that the publication of books by academic researchers is also part of the process of research internationalization. For one thing, over the last couple of decades, the scholarly book publishing trade has become far more globalized and competitive. Many European and North American publishers have expanded their radius of operations, both geographically and content-wise. To counter declining sales of scholarly monographs they have sought out new markets by extending their sales and marketing efforts overseas, and have put more effort in proactive commissioning by contracting the leading scholarly authors, often working in other countries ( Thompson, 2005 ). For their part, scholars are increasingly aware of the symbolic and material rewards that come with publishing with a prestigious international publisher. They are conscious of differentiating aspects of ‘publisher quality’: the degree of specialization, the editorial process (esp. peer review), market position and marketing prowess, presence in major libraries and bibliographic databases, etc. ( Giménez-Toledo and Román-Román, 2009 , Giménez-Toledo et al., 2013  and  Goodson et al., 1999 ). Research on the outcomes of the British Research Assessment Exercise (RAE) has indeed shown the substantial benefits for research performance assessment scores of publishing with a first-rate academic publisher ( Allen & Heath, 2013 ). Similarly, for acquiring tenure at (American) university humanities’ departments, the esteem of a candidate's book publisher is explicitly or implicitly used as an assessment criterion ( Cronin & La Barre, 2004 ).
+
+In this article, it is our hypothesis that the parallel process of research internationalization in the SSH and the globalization of the academic book publishing trade has caused changes in the spatial dimension of book publishing by academic scholars. We show this for Flanders, Belgium, using a basic but fundamental indicator: the places of publication barycenters of book publications (monographs, edited books and book chapters).
+2. Material and method
+2.1. VABB-SHW book data
+
+The bibliographic data used for our study is registered in the Flemish Academic Bibliographic Database for the Social Sciences and Humanities (‘Vlaams Academisch Bibliografisch Bestand voor de Sociale en Humane Wetenschappen’ or VABB-SHW) (see http://www.ecoom.be/en/vabb ). The VABB-SHW was constructed in 2008–2010 in view of retrospectively collecting bibliographic information from the year 2000 onwards on all peer reviewed academic publications by authors affiliated with at least one of the five universities in Flanders, Belgium. It thus acts as a complement to data previously obtained solely from the Web of Science (WoS) and is used to calculate part of each university's share in the University Research Fund (‘Bijzonder Onderzoeksfonds’ or BOF), some 120 million euro yearly granted by the Flemish government to finance basic research. The VABB-SHW contains comprehensive data on almost all SSH publications by scholars working at Flemish universities, but only the peer reviewed publications are taken into account for distribution of the University Research Fund. Peer review procedures of publishers are evaluated by the Authoritative Panel (‘Gezaghebbend Panel’, or GP), an independent body of academic experts entrusted by the Flemish government to safeguard scientific standards for the VABB-SHW ( Engels et al., 2012  and  Verleysen et al., 2014 ). In the present article, we have no intent to measure the effect of the Flemish funding model on internationalization. As the non-WoS publication output of the SSH has been used for the funding model starting in 2010 only, at any rate there is insufficient data to reliably analyze the possible influence of the current funding system.
+Elsevier homepage (opens in a new window)
+
+    About ScienceDirect
+
+    About Elsevier
+
+    Contact and support
+
+    Information for advertisers
+
+    Terms and conditions
+
+    Privacy policy
+
+Copyright © 2014 Elsevier B.V. except certain content provided by third parties. ScienceDirect® is a registered trademark of Elsevier B.V.
+Cookies are used by this site. To decline or learn more, visit our Cookies page
+
+    http://dx.doi.org/10.1016/j.joi.2013.11.008 
+    Get rights and content 
+
+Bibliographic information
+Citing and recommended articles
+Recommended articles
+
+    No articles found.
+
+Cited by ( )
+
+    This article has not been cited.
+
+Related reference work articles
+
+    No articles found.
+
+Applications and tools
+
+Workspace
+
+No content has been selected.
+Close
+ScienceDirect article suggestions
+ScienceDirect
+
+    Recommended articles
+
+People who downloaded this article also downloaded these articles. Learn more
+Do not show again
+

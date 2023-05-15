@@ -1,0 +1,899 @@
+Skip to Main Content
+
+Our site uses cookies to improve your experience. You can find out more about our use of cookies in About Cookies , including instructions on how to turn off cookies if you wish to do so. By continuing to browse this site you agree to us using cookies as described in About Cookies . Close Banner
+Wiley Online Library
+Log in / Register
+Log In
+E-Mail Address
+Password
+
+Forgotten Password?
+Remember Me
+
+    Register
+    Institutional Login
+
+OnlineOpen
+Advertisement
+
+    Home >
+    Computer Science >
+    General & Introductory Computer Science >
+    Journal of the American Society for Information Science and Technology >
+    Vol 60 Issue 2 >
+    Abstract
+
+JOURNAL TOOLS
+
+    Get New Content Alerts
+    Get RSS feed
+    Save to My Profile
+
+JOURNAL MENU
+
+    Journal Home
+
+FIND ISSUES
+
+    All Issues
+    Virtual Issues
+
+FIND ARTICLES
+
+    Early View
+    Most Accessed
+    Most Cited
+
+GET ACCESS
+
+    Subscribe / Renew
+
+FOR CONTRIBUTORS
+
+    OnlineOpen
+    Author Guidelines
+    Submit an Article
+
+ABOUT THIS JOURNAL
+
+    Overview
+    Editorial Board
+    Permissions
+    Advertise
+    Contact
+
+SPECIAL FEATURES
+
+    ASIS&T Digital Library
+    Advances in Information Science
+    JASIST 2014 Publication Metrics
+    Bulletin
+    Proceedings
+    ARIST
+    Jobs
+
+Maximize your article impact with Kudos
+Advertisement Advertisement
+
+Research Article
+You have full text access to this content
+A global map of science based on the ISI subject categories
+
+    Loet Leydesdorff 1 and
+    Ismael Rafols 2
+
+Article first published online: 3 OCT 2008
+
+DOI: 10.1002/asi.20967
+
+© 2008 ASIS&T
+
+Issue
+Journal of the American Society for Information Science and Technology
+Journal of the American Society for Information Science and Technology
+
+Volume 60 , Issue 2 , pages 348–362 , February 2009
+
+Additional Information (Show All)
+
+How to Cite Author Information Publication History
+How to Cite
+
+Leydesdorff, L. and Rafols, I. (2009), A global map of science based on the ISI subject categories. J. Am. Soc. Inf. Sci., 60: 348–362. doi: 10.1002/asi.20967
+Author Information
+
+    1
+
+    Amsterdam School of Communications Research (ASCoR), University of Amsterdam, Kloveniersburgwal 48, 1012 CX, Amsterdam, The Netherlands
+    2
+
+    Science and Technology Policy Research (SPRU), University of Sussex, Freeman Centre, Falmer, Brighton, East Sussex BN1 9QE, United Kingdom
+
+Email: Loet Leydesdorff (loet@leydesdorff.net), Ismael Rafols (i.rafols@sussex.ac.uk)
+Publication History
+
+    Issue published online: 12 JAN 2009
+    Article first published online: 3 OCT 2008
+    Manuscript Received: 21 OCT 2008
+    Manuscript Revised: 25 AUG 2008
+    Manuscript Accepted: 25 AUG 2008
+
+SEARCH
+Search Scope
+Search String
+
+    Advanced >
+    Saved Searches >
+
+SEARCH BY CITATION
+Volume:
+Issue:
+Page:
+ARTICLE TOOLS
+
+    Get PDF (2103K) Get PDF (2103K)
+    Save to My Profile
+    E-mail Link to this Article
+    Export Citation for this Article
+    Get Citation Alerts
+    Request Permissions
+
+More Sharing Services Share | Share on citeulike Share on facebook Share on delicious Share on www.mendeley.com Share on twitter
+
+    Abstract
+    Article
+    References
+    Cited By
+
+Enhanced Article (HTML) Get PDF (2103K) Get PDF (2103K)
+Abstract
+
+    Top of page
+    Abstract
+    Introduction
+    ISI Subject Categories
+    Methods
+    Results
+    Conclusions and Discussion
+    Acknowledgment
+    References
+    Appendix
+
+The decomposition of scientific literature into disciplinary and subdisciplinary structures is one of the core goals of scientometrics. How can we achieve a good decomposition? The ISI subject categories classify journals included in the Science Citation Index (SCI). The aggregated journal-journal citation matrix contained in the Journal Citation Reports can be aggregated on the basis of these categories. This leads to an asymmetrical matrix (citing versus cited) that is much more densely populated than the underlying matrix at the journal level. Exploratory factor analysis of the matrix of subject categories suggests a 14-factor solution. This solution could be interpreted as the disciplinary structure of science. The nested maps of science (corresponding to 14 factors, 172 categories, and 6,164 journals) are online at http://www.leydesdorff.net/map06 . Presumably, inaccuracies in the attribution of journals to the ISI subject categories average out so that the factor analysis reveals the main structures. The mapping of science could, therefore, be comprehensive and reliable on a large scale albeit imprecise in terms of the attribution of journals to the ISI subject categories.
+
+Introduction
+
+    Top of page
+    Abstract
+    Introduction
+    ISI Subject Categories
+    Methods
+    Results
+    Conclusions and Discussion
+    Acknowledgment
+    References
+    Appendix
+
+The decomposition of the Science Citation Index into disciplinary and subdisciplinary structures has fascinated scientometricians and information analysts ever since the beginning of this index. Price ( 1965 ) conjectured that the database would contain the structure of science. He suggested that journals would be the appropriate units of analysis, and that aggregated citation relations among journals might reveal disciplinary and finer-grained delineations such as those among specialties.
+
+Carpenter and Narin ( 1973 ) tried to cluster the Science Citation Index database in terms of aggregated journal citation patterns using the methods available at the time. However, the size of the database—2,200 journals in 1969 (Garfield, 1972 , p. 472) and 6,164 journals in 2006—makes it difficult to use algorithms more sophisticated than single-linkage clustering. Single-linkage clustering is based on recursive selection of the two most-similar subsets, and using relational database management one can operate on rank orders in lists without loading the relatively large matrices into memory. 1 1
+
+Small and Sweeney ( 1985 ) added a variable threshold to single-linkage clustering in their effort to map the sciences globally using cocitation analysis at the document level. However, the choice of thresholds, similarity criteria, and clustering algorithms was somewhat arbitrary. Because of the focus on relations, the latent dimensions of the matrix (its eigenvectors ) could not be revealed using single-linkage clustering (Leydesdorff, 1987 ). A structural approach requires multivariate analysis, for example, based on distinguishing orthogonal dimensions using factor analysis: Units of analysis may be positioned similarly in a multidimensional space without necessarily maintaining strong relations among them (Burt, 1982 ; Leydesdorff, 2006 ).
+
+The factor-analytical approach is limited even today to approximately 3,000 variables using the latest version of SPSS, 2 2 while in the meantime the Science Citation Index has grown to more than 6,000 journals. Most researchers have therefore focused on chunks of the database or used seed journals for collection of a sample (Doreian & Farraro, 1985 ; Leydesdorff, 1986 , 2006 ; Tijssen, de Leeuw, & van Raan, 1987 ). In contrast, Boyack, Klavans, and Börner ( 2005 ) used the VxInsight algorithm (Davidson, Hendrickson, Johnson, Meyers, & Wylie, 1998 ) in order to map the whole journal structure as a representation of the structure of science. 3 3 Moya-Anagón et al. ( 2004 , 2007 ) used cocitation and PathFinder for mapping the whole of science on the basis of the ISI subject categories. 4 4 However, subject delineations in the maps are based necessarily on trade-offs between accuracy, readability, and simplicity since the journal sets are overlapping (Bensman, 2001 ; Boyack, Börner, & Klavans, 2007 ). Klavans and Boyack ( 2007 , p. 438) noted that a journal may occupy a different position in a different context: Many journals report on developments in multiple disciplines; journals can also function as a major source of references in more than one specialty. The position of each journal in the multidimensional space of journal-citation vectors allows for a specific perspective (Leydesdorff, 2007 ; Zitt, Ramanana-Rahary, & Bassecoulard, 2005 ).
+
+In addition to interjournal citations, the Science Citation Index database has been mapped using cocitations (Small, 1973 ; Small & Griffith, 1974 ; Small & Sweeney, 1985 ) or co-occurrences of title words (Callon, Courtial, Turner, & Bauin, 1983 ; Callon, Law, & Rip, 1986 ; Leydesdorff, 1989 ), at various levels of aggregation. However, using lower-level units (like documents) instead of journals means abandoning Price's grandiose vision to map the whole of science using the structure present in the aggregated journal-journal (co)citation matrix (Price, 1965 ).
+
+Since citation relations among journals are dense in discipline-specific clusters and otherwise virtually nonexistent, the journal-journal citation matrix can be considered nearly decomposable. 5 5 While a decomposable matrix is a square matrix such that an identical rearrangement of rows and columns leaves a set of square submatrices on the principal diagonal and zeros everywhere else, in the case of a nearly decomposable matrix some zeros are replaced by relatively small nonzero numbers (Simon & Ando, 1961 ; Ando & Fisher, 1963 ). Near-decomposability is a general property of complex and evolving systems (Simon, 1973 , 2002 ). The next-order units represented by the square submatrices—and representing in this case disciplines or specialties—are reproduced in relatively stable sets (of journals), which may change over time. The sets of journals are functional subsystems that show a high density in terms of relations within the center (i.e., core journals), but are more open to change in relations at the margins. The organization among the subsystems can also change. The decomposition into nearly decomposable matrices has no analytical solution. However, algorithms can provide heuristic decompositions when there is no single unique correct answer (Newman, 2006 a, 2006 b).
+ISI Subject Categories
+
+    Top of page
+    Abstract
+    Introduction
+    ISI Subject Categories
+    Methods
+    Results
+    Conclusions and Discussion
+    Acknowledgment
+    References
+    Appendix
+
+Hitherto, the organization into components and clusters has been based mainly on the results of algorithms from graph or factor analysis operating on journal-journal citation matrices. The designation is then based on an ex post facto appreciation of these results. However, the Institute of Scientific Information (ISI) has added a substantive classifier to the database: the subject category or subject categories of each journal included. These categories are assigned by ISI staff on the basis of a number of criteria including the journal's title and its citation patterns (Pudovkin & Garfield, 2002 , at p. 1113; McVeigh, personal communication, March 9, 2006).
+
+The subject categories of the ISI cannot be considered as based on “literary warrant” like the classification of the Library of Congress (Chan, 1999 ). A classification scheme based on literary warrant is inductively developed in reference to the holdings of a particular library, or to what is or has been published (Leydesdorff & Bensman, 2006 , p. 1473). In other words, it is based on what the actual literature of the time warrants. For example, each of the individual schedules in the classification of the Library of Congress (LC) was initially drafted by subject specialists, who consulted bibliographies, treatises, comprehensive histories, and existing classification schemes to determine the scope and content of an individual class and its subclasses. The LC has a policy of continuous revision to take current literary warrant into account, so that new areas are developed and obsolete elements are removed or revised. The ISI categories, however, are changed in terms of respective coverage, but cannot be revised from the perspective of hindsight.
+
+In order to enhance flexibility in the database, the Science Citation Index is organized with a CD-ROM version for each year separately (which is by definition fixed at the date of delivery), and the SCI-Expanded version on the Internet, to which relevant data can be added from the perspective of hindsight in order to optimize the database for information-retrieval purposes. The Journal Citation Reports, however, are provided as a separate service. The Web version of this database is kept in complete agreement with the yearly CD-ROM. Thus, the subject categories themselves are not systematically updated, although new categories can be added and obsolete ones may no longer be used.
+
+In addition to the subject categories, Thomson-ISI also assigns each journal in the Essential Science Indicators database (12,845 journals) to one of 22 so-called broad fields (at http://www.in-cites.com/journal-list/index.html ) Journals are uniquely classified to a single broad field, while they can be classified under multiple subject categories in the Science Citation Index. The Essential Science Indicators provides statistics for government policy makers, university or corporate research administrators, and so forth, while the main service of the Science Citation Index is information retrieval for the research process.
+
+Unlike the 22 broad fields, the 172+ ISI subject categories are not hierarchically organized, but interconnected, because more than one category is often attributed to a journal. Furthermore, they are more finely grained and therefore this organization contains more information. In an attempt to reconstruct these subject categories on the basis of the aggregated journal-journal citation matrix, Leydesdorff ( 2006 , p. 612) concluded that one cannot develop a conclusive classification on the basis of a statistical analysis of citation relations, but the quality of a proposed classification can be tested against the structure in the data. Glänzel and Schubert ( 2003 ), for example, proposed 12 instead of 22 broad fields, but these categories are again different from the scheme of 12 or 16 categories proposed by Boyack et al. ( 2005 ) and Moya-Anagón et al. ( 2007 ), respectively. In this study, we focus on the Science Citation Index, while these other studies also included the Social Science Citation Index. Given our factor-analytical approach, the differences in citation behavior and processes of codification between the social sciences and the natural sciences could reduce the method's effectiveness by introducing another source of variance (Leydesdorff, 2004 ; Leydesdorff & Hellsten, 2005 ). Bensman ( 2008 ), for example, argued that the impact factors of journals are differently distributed between the two databases.
+
+The number of category attributions in the Science Citation Index is 9,848 for 6,164 journals in 2006 or, in other words, approximately 1.6 categories per journal. The coverage of the 172 categories ranges from 262 journals sorted under “Biochemistry and Molecular Biology” to 5 journals sorted under a single category. 6 6 The average number of journals per category is 56.3 (see Figure 1 ).
+thumbnail image
+
+Figure 1. Frequency of 27 ISI Subject Categories that occur more than hundred times (JCR 2006).
+
+Download figure to PowerPoint
+
+The ISI subject categories match poorly with classifications derived from the database itself on the basis of an analysis of the principal components of the network matrices generated by citations (Leydesdorff, 2006 , p. 611f). Using a different methodology, Boyack et al. ( 2005 ) found that in somewhat more than 50% of the cases the ISI categories corresponded closely with the clusters based on interjournal citation relations. These results accord with the expectation that many journals can be assigned unambiguous affiliations in one core set or another, but the remainder, which is also a large group, is heterogeneous (Garfield, 1971 , 1972 ).
+
+The ISI subject categories can be considered as macrojournals. Because more than one category can be attributed to a journal, one can expect that the matrix of the citation relations among categories is less empty than the aggregated journal-journal citation matrix. However, the multidimensional space spanned by these 172+ subject categories offers a wealth of options for generating representations. One should not expect a unique map of science, but a number of possible representations (Leydesdorff, 2007 ; Zitt et al., 2005 ). Each map contains a projection from a specific perspective. However, one can ask whether there is a robust structure in terms of the latent dimensions of the underlying matrix.
+
+In other words, our research question is different from Boyack et al.'s ( 2005 ) effort to generate a new classification using a bottom-up strategy and from that of Moya-Anagón et al. ( 2007 ), who employed the ISI subject categories as units of measurement (at p. 2169), and used factor analysis of the cocitation matrix for the validation of their so-called “factor scientograms.” We wish to question the quality and validity of using the ISI subject categories for mapping purposes. Can these subject classifications be used in further research to demarcate the sciences and perhaps as field delineations, and if so, under what conditions? Like any classification, one can expect that these classifications can be used for mapping purposes, but what is the value of these units of organization?
+
+This question is urgent because, first, there is a need for the delineation of fields in citation analysis given that publication and citation practices differ among fields of science (e.g., Martin & Irvine, 1983 ; Moed, Burger, Frankfort, & van Raan, 1985 ; Leydesdorff, 2008 ). Secondly, various studies of interdisciplinarity have been based on the assumption that journals can be grouped using the ISI subject categories (e.g., Morillo, Bordons, & Gómez, 2001 , 2003 ; Van Leeuwen & Tijssen, 2000 ). Interdisciplinarity is often a policy objective, while new developments may take place at borders of or across disciplines (Zitt, 2005 ). One of the potential uses of a map of science is to help us understand the cognitive base and the relative positions of emerging fields (Bordons, Morillo, & Gómez, 2004 ; Porter, Cohen, Roessner, & Perreault, 2007 ; Porter, Roessner, Cohen, & Perreault, 2006 ; Van Raan, 2000 ).
+
+As noted above, Moya-Anegón et al. ( 2007 , p. 2173) used factor analysis of the cocitation matrix of the 218 categories of the Science Citation Index and Social Science Citation Index (2002) combined for the validation of their visualizations. These authors stated that a scree test had led them to the choice of 16 factors. The screeplot based on Table 1 of their paper, is provided here in Figure 2 . In our opinion, this screeplot does not support the inference because the line flattens after eight factors at the most. (As can be seen from Table 1 of Moya-Anegón et al.'s paper, the 16-factor solution instead corresponds to including percentages of variance explained equal or larger than unity.) Furthermore, this analysis was based on the symmetrical cocitation matrix instead of the asymmetrical citation matrix (cf. Leydesdorff & Vaughan, 2006 ). However, the focus of these authors was not on the analysis, but the visuali&hyphen;zation technique (e.g., PathFinder) for showing relations and clusters; the factor analysis was successfully used to rationalize the visualizations ex post facto. We approach the problem first factor-analytically using the asymmetrical matrix of aggregated citations among categories, and will subsequently try to map the sciences hierarchically top-down insofar as our results show that it is legitimate for us to do so.
+Table 1.  Highest factor loadings on the last factor in a 13-, 14-, and 15-factor solution. Highest factor loadings on factor 13 in the case of a 13-factor solution 	Highest factor loadings on factor 14 in the case of a 14-factor solution 	Highest factor loadings on factor 15 in the case of a 15-factor solution
+0.779 	0.786 	0.593
+0.715 	0.721 	0.539
+0.672 	0.698 	0.484
+0.669 	0.687 	0.472
+thumbnail image
+
+Figure 2. Screeplot of eigenvalues provided in Table 1 of Moya-Anegón et al. ( 2007 , p. 2173).
+
+Download figure to PowerPoint
+Methods
+
+    Top of page
+    Abstract
+    Introduction
+    ISI Subject Categories
+    Methods
+    Results
+    Conclusions and Discussion
+    Acknowledgment
+    References
+    Appendix
+
+The data was harvested from the CD-ROM version of the Journal Citation Reports of the Science Citation Index 2006. As indicated above, 175 subject categories are used. Three categories (“Psychology, biological,” “Psychology, experimental,” and “Transportation”) are no longer used as classifiers in the citing dimension, but four journals are still indicated with these three categories in the cited dimension. Thus, we work with 172 citing and 175 cited categories.
+
+The matrix, accordingly, contains two structures: a cited and a citing one. Salton's cosine was used for normalization in both the cited and citing directions (Ahlgren, Jarneving, & Rousseau, 2003 ; Salton & McGill, 1983 ). The cosine is equal to the Pearson correlation, but without normalization to the arithmetic mean (Jones & Furnas, 1987 ). Pajek is used for the visualizations (Batagelj & Mrvar, 2007 ) and SPSS (v15) for the factor analysis. The threshold for the visualizations is pragmatically set at cosine ≥ 0.2. 7 7 Visualizations are based on the algorithm of Kamada and Kawai ( 1989 ). The size of the nodes is proportional to the number of citations in a given category (or in Figure 4 , below, the logarithm of this value). The thickness and grey-shade of the links is proportional to the cosine values in five equal steps of 0.2. The threshold of cosine ≥ 0.2 will consistently be used for the visualizations at the various levels. 8 8
+
+Using a factor model, the crucial question is the number of factors to be extracted. Unless one has a priori reasons for testing an assumption, this number has to be determined on empirical grounds. Unlike principal-component analysis, the rotated component matrix is not an analytical rewrite of the original data. While both principal-component analysis and rotated component analysis allow for data reduction, the criterion for the optimization in the case of factor analysis is no longer to explain as much variance as possible in the data, but to find common factors in the set that explain the covariance between the variables. Factor analysis is necessarily based on an assumption about the number of factors that span the multidimensional space (Leydesdorff, 2006 ). SPSS includes by default all factors with an eigenvalue larger than unity. However, the resulting screeplot of the eigenvalues can be used for an initial assessment of the number of meaningful factors. This assumption has to be tested against the data (Kim, 1975 ; Kim & Mueller, 1978 ).
+Results
+
+    Top of page
+    Abstract
+    Introduction
+    ISI Subject Categories
+    Methods
+    Results
+    Conclusions and Discussion
+    Acknowledgment
+    References
+    Appendix
+
+Unlike the aggregated journal-journal citation matrix, the matrix of 172 (citing) times 175 (cited) categories is not sparse: 11,577 of the (172 × 175=) 30,100 cells have a zero value. This corresponds to 38.46% of the number of cells. 9 9 Since the categories are unevenly distributed, one cannot set a threshold value across the matrix without normalization. The factor analysis, however, begins with a normalization using the Pearson correlation coefficient. As noted, the visualizations are based on cosine values (Egghe & Leydesdorff, 2008 ).
+
+Let us focus on the structure in the citing dimension because this structure is actively maintained by the indexing service and is therefore current. The screeplot of the eigenvalues suggests further exploration of a 14-factor solution because the continuity in the curve is interrupted at the value of 14 in Figure 3 .
+thumbnail image
+
+Figure 3. Scree plot of the factor analysis (citing).
+
+Download figure to PowerPoint
+
+Table 1 shows the four highest loadings on the last factor in the case of extracting 13, 14, or 15 factors in the citing dimension, respectively. This confirms that the quality of the factors declines considerably after extracting 14 factors. The 14-factor solution explains 51.8% of the variance of the matrix in the citing projection (and 47.9% of the variance in the cited projection).
+
+The factor loadings for the 172 categories on the 14 factors in the citing dimension are provided in the Appendix . They can be interpreted in terms of disciplines, such as physics, chemistry, clinical medicine, neurosciences, engineering, and ecology. (These designations are ours.) The factors in the cited dimension can be designated using precisely the same disciplinary classifications, but their rank order (that is, the percentage of variance explained by each factor) is different (Table 2 ). Out of the 172 categories, 154 (89%) fall in the same factor in both the citing and cited projections. The 18 categories that are classified differently in the citing and cited projections are listed in Table 3 .
+Table 2.  Fourteen disciplines distinguished on the basis of ISI subject categories in 2006 ( > .95; p < .01).   	Citing factors 	Cited factors
+Biomedical sciences 	1 	1
+Materials sciences 	2 	2
+Computer sciences 	3 	4
+Clinical medicine 	4 	5
+Neurosciences 	5 	3
+Ecology 	6 	7
+Chemistry 	7 	9
+Geosciences 	8 	6
+Engineering 	9 	8
+Infectious diseases 	10 	10
+Environmental sciences 	11 	12
+Agriculture 	12 	11
+Physics 	13 	13
+General medicine; health 	14 	14
+Table 3.  Eighteen ISI subject categories that are classified differently in the citing and cited dimensions. ISI subject category 	Citing factor 	Cited factor
+Urology & nephrology 	Biomedical sciences 	Clinical medicine
+Pharmacology & pharmacy 	Biomedical sciences 	Neurosciences
+Physiology 	Biomedical sciences 	Neurosciences
+Medicine, legal 	Biomedical sciences 	Chemistry
+Toxicology 	Biomedical sciences 	Environmental sciences
+Biotechnology & applied microbiology 	Biomedical sciences 	Agriculture
+Nutrition & dietetics 	Biomedical sciences 	Agriculture
+Mathematical & computational biology 	Biomedical sciences 	General medicine; health
+Energy & fuels 	Materials sciences 	Engineering
+Computer science, Interdisciplinary Applications 	Computer sciences 	Engineering
+Mathematics 	Engineering 	Computer sciences
+Engineering, industrial 	Computer sciences 	Physics
+Chemistry, physical 	Chemistry 	Materials sciences
+Materials science, biomaterials 	Chemistry 	Materials sciences
+Chemistry, applied 	Chemistry 	Agriculture
+Materials science, composites 	Engineering 	Materials sciences
+Mycology 	Infectious diseases 	Agriculture
+Medicine, general & internal 	Medicine, general 	Clinical medicine
+
+The strong overlap between the results of the factor analysis in the cited and the citing dimension (Table 2 ) suggests that the matrix is nearly decomposable in terms of central tendencies. Table 3 indicates cases where the scholars publishing in one category cite on average differently from how they are cited. For example, “Mathematics” exhibits a negative factor loading on the engineering dimension in its citing pattern, while “Mathematics, applied” is loading primarily on this dimension. In the cited dimension, however, the two categories are both classified as engineering. This relative “interdisciplinarity” of mathematics accords with the findings by the SCImago Group (Moya-Anegón et al., 2007 , p. 2172). Using a different technique (see above), they could also not find a separate factor for mathematics. 10 10
+
+In other cases, it is more difficult to provide an interpretation of the differences. Why would Biotech and Applied Chemistry be assigned to Agriculture in the cited dimension and to Biomedical Sciences in the citing dimension? Is this an indication of the interdisciplinary relation between these two contexts of application for biotechnology?
+
+Figure 4 shows the map of 171 ISI subject categories that relate above the threshold of cosine ≥ 0.2. 11 11 (Only the category “Agricultural Economics and Politics” is no longer related at this threshold level.) The nodes represent the categories and are colored in terms of the 14 factors. (The picture in the cited dimension is very similar.) In this chart, the node sizes were set proportional to the logarithm of the number of citations (in the respective subject category) in order to keep the visualization readable.
+thumbnail image
+
+Figure 4. 171 ISI subject categories in the citing dimension; cosine ≥ 0.2. Node sizes set proportional to the logarithm of the number of citations given by each category. A colored version of this map can be retrieved at http://www.leydesdorff.net/map06/Figure4 .
+
+Download figure to PowerPoint
+
+Whereas the traditional disciplines are represented by clear factors (e.g., Physics or Chemistry), specific fields of application in mathematics or engineering do not fall in the disciplinary classification, but in the factor representing their topic. For example, Mathematical Physics is classified as Physics. However, Chemical Engineering loads on the Chemistry factor more than on the one representing engineering.
+
+Figure 5 shows the citation relations among the 14 groups. (The depiction in the cited dimension is again very similar to this one in the citing dimension.) While Figure 4 gave greater detail about the relations among subdisciplines and specialties, the factor-analytical categories allow us to depict these ISI subject categories in Figure 4 with different colors in terms of the disciplinary affiliations provided in Figure 5 . Both levels are interactively related with hyperlinks at http://www.leydesdorff.net/map06/index.htm .
+thumbnail image
+
+Figure 5. Fourteen disciplines in the citing dimension; cosine ≥ 0.2. (The colors correspond with those used in Figure 4 .) A colored version of this map can be retrieved at http://www.leydesdorff.net/map06 .
+
+Download figure to PowerPoint
+
+The largest factor is designated as “Biomedical Sciences.” It includes at the disaggregated level
+
+    1.
+    The core biological sciences, such as Biochemistry and Molecular Biology, Developmental Biology, Genetics, and Cell Biology;
+    2.
+    The methodologies crucial for the biological sciences, such as Microscopy and Biochemical Research Methods;
+    3.
+    Disciplines that fall into medicine but are highly interrelated with the biological sciences, such as Oncology and Pathology.
+
+Among the latter, eight subject categories (e.g., Physiology, Toxicology, or Nutrition Sciences) have a citing pattern in the factor of the Biomedical Sciences (that is, they draw on basic biological knowledge), but they show a cited pattern in factors more related to specific applications, such as Neurosciences, Environmental Sciences, or Infectious Diseases (see Table 3 above).
+
+Four factors are closely associated with the Biomedical Sciences: Clinical Medicine, Neurosciences, Infectious Diseases, and General Medicine and Health. At the opposite pole of the medicine-related factors, we find factors based on the hard sciences: the factors of Physics, Engineering, Materials Sciences, and Computer Sciences, are among them. Chemistry plays a brokerage role between Physics and Material Sciences, on the one side, and core Biomedical Sciences such as Biophysics and Biochemistry, on the other.
+
+The relative positions of the subject categories within Figure 4 inform us prima facie about their disciplinary or interdisciplinary character. However, one should be cautious in drawing conclusions from a visual inspection of maps. A map remains a two-dimensional projection of a space (in this case, a 14-dimensional one), and one therefore needs a large number of projections from different angles before one can formulate hypotheses on this basis. On the basis of a number of these projections—that is, variants of Figure 4 —we feel comfortable in suggesting that the connection between the “medical pole” and the “hard-science pole” is achieved by way of three main routes:
+
+    1.
+    A direct link between the Computer Sciences and some of the medical specialties such as Psychology, Neuroimaging, and Medical Informatics;
+    2.
+    Through Chemistry, which appears to play a brokerage role between Physics and Material Sciences, on the one side, and the core Biomedical Sciences such as Biophysics and Biochemistry, on the other;
+    3.
+    Through a path that links Engineering and Material Sciences with Geosciences and Environmental Sciences, and also connects these two latter factors with Ecology and Agriculture. The latter are related to Infectious Diseases and the large set of journals in the Biomedical Sciences. This path can be considered as a small cluster with a focus on environmental issues.
+
+Our results are consistent with previously reported maps (Boyack et al. 2005 ; Boyack & Klavans, 2007 ; Moya-Anagón et al., 2007 ), but we chose to exclude the social sciences. We would expect differences and similarities when mapping the social sciences (using the Social Science Citation Index) because of the different order of magnitude of citations in the journal-journal citation network, differences in citation behavior and codification processes (Leydesdorff & Hellsten, 2005 ), and the potentially different functions of citations as relations among texts in these sciences (Bensman, 2008 ).
+Conclusions and Discussion
+
+    Top of page
+    Abstract
+    Introduction
+    ISI Subject Categories
+    Methods
+    Results
+    Conclusions and Discussion
+    Acknowledgment
+    References
+    Appendix
+
+Why do the ISI subject categories that were found to be a poor match for journal-citation patterns in other research (Boyack et al., 2005 ; Leydesdorff, 2006 ) perform relatively well when aggregated in order to provide comprehensive maps of science in both the cited and citing dimensions? The explanation is statistical: Boyack et al. ( 2005 ) noted that the ISI subject categories match in approximately 50% of the cases and mismatch consequently in the remaining 50%. The error, however, is not systematic so that the 50% matching cases prevail in the aggregate. Factor analysis enables us to distinguish the pattern as a signal from the noise. Thus, a clear factor structure can be discerned at this intermediate level.
+
+From the top-down perspective of the factor structure, the noise at the bottom level can be considered as mere variation, which is distributed stochastically. Factor analysis enables us to reduce the complexity in the data. As we noted above, the resulting maps match well with the previously published mappings of the team of Boyack, Börner, and Klavans and the ones of the SCImago Group (see http://www.atlasofscience.net and http://mapofscience.com , respectively). The matrix of aggregated intercategory citations used in this study is available at http://www.leydesdorff.net/map06/data.xls for users to draw their own maps or make their own extractions and inferences.
+
+The maps are also available as a nested structure at http://www.leydesdorff.net/map06/index.htm . One can click on each of the 14 categories visualized in Figure 5 , open a map of the corresponding discipline in terms of subject categories, and then relate to the journal sets subsumed under the respective category. Top-down one is thus guided to the individual journal maps as available at http://www.leydesdorff.net/jcr06/citing/index.htm . Like the other maps, our maps have the disadvantage of being static representations of science, based on a single year of data. In future research, we hope to expand this line of research with dynamic analysis of journal maps (Leydesdorff & Schank, 2008 ). Systematic comparisons between maps based on the Science Citation Index and Social Science Citation Index remain also part of our research agenda.
+Acknowledgment
+
+    Top of page
+    Abstract
+    Introduction
+    ISI Subject Categories
+    Methods
+    Results
+    Conclusions and Discussion
+    Acknowledgment
+    References
+    Appendix
+
+We are grateful for suggestions and remarks of a number of anonymous referees.
+
+    1
+
+    Single-linkage clustering (or nearest-neighbor) sorts relations hierarchically in terms of decreasing order of their strength. The single strongest link is clustered in each round. However, this may lead to “chaining,” where elements cluster that otherwise might be considered as rather distant from each other.
+    2
+
+    For technical reasons, SPSS can address approximately two gigabytes of internal memory of a computer as workspace.
+    3
+
+    See http://mapofscience.com for maps of science based on this algorithm.
+    4
+
+    See http://www.atlasofscience.net for maps of science based on this algorithm.
+    5
+
+    In 2006, the database contained only 1,201,562 of the 37,994,896 (= 6,164 2 ) possible relations. This corresponds to a density of 3.16%.
+    6
+
+    Three more categories, which are no longer actively indexed, subsume one or two journals.
+    7
+
+    A threshold is needed for the visualization because the cosine-based networks are often almost complete. Using the cosine, a threshold cannot be set on analytical grounds.
+    8
+
+    The effects of a threshold at cosine ≥ 0.2 on the density of the matrices underlying the figures in this study, are as follows:
+      	cosine ≥ 0.0 	cosine ≥ 0.2
+    Figure 4 	0.994 ( N = 172) 	0.175 ( N = 171)
+    Figure 5 	0.929 ( N = 14) 	0.357 ( N = 14)
+    9
+
+    UCINet computes a density for this matrix after binarization of 0.7538 ± 0.4308.
+    10
+
+    In a response to the critique of the International Mathematical Union on the use of citation analysis (Adler, Ewing, & Taylor 2008 ), Bensman (June 27, 2008 , at http://listserv.utk.edu/cgi-bin/wa?A2=ind0806&L=sigmetrics&D=1&O=D&P=16332 ) noted that the range of impact factors among mathematics journals was extraordinarily low and tight and the top journals on the impact factor had no review articles. He added, “This is suggestive of an extremely random citation pattern with no development of consensual paradigms. Therefore, math acts like a humanities in terms of its literature use, and citation analysis is probably not applicable to this discipline.”
+    11
+
+    A colored version of this map can be retrieved at http://www.leydesdorff.net/map06/Figure4 .
+
+References
+
+    Top of page
+    Abstract
+    Introduction
+    ISI Subject Categories
+    Methods
+    Results
+    Conclusions and Discussion
+    Acknowledgment
+    References
+    Appendix
+
+    Adler, R. , Ewing, J. , & Taylor, P. ( 2008 ). Citation statistics: A report from the International Mathematical Union (IMU) in cooperation with the International Council of Industrial and Applied Mathematics (ICIAM) and the Institute of Mathematical Statistics (IMS) . Retrieved from http://www.mathunion.org/fileadmin/IMU/Report/CitationStatistics.pdf
+    Ahlgren, P. ., Jarneving, B. , & Rousseau, R. ( 2003 ). Requirement for a Cocitation Similarity Measure, with Special Reference to Pearson's Correlation Coefficient . Journal of the American Society for Information Science and Technology , 54 , 550 – 560 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(182K)
+        PDF(182K)
+        References
+        Web of Science® Times Cited: 82
+    Ando, A. ,& Fisher, F.M. ( 1963 ). Near-decomposability, partition and aggregation, and the relevance of stability discussions . International Economic Review , 4 ( 1 ), 53 – 67 .
+        CrossRef ,
+        Web of Science® Times Cited: 19
+    Batagelj, V. , & Mrvar, A. ( 2007 ) Pajek. Program for large network analysis . Retrieved on October 4, 2007, from http://vlado.fmf.uni-lj.si/pub/networks/pajek/
+    Bensman, S.J. ( 2001 ). Bradford's law and fuzzy sets: Statistical implications for library analyses . IFLA Journal , 27 , 238 – 246 .
+        CrossRef
+    Bensman, S.J. ( 2008 ). Distributional differences of the impact factor in the sciences versus the social sciences: An analysis of the probabilistic structure of the 2005 Journal Citation Reports . Journal of the American Society for Information Science and Technology , 59 , 1366 – 1382 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(162K)
+        PDF(162K)
+        References
+        Web of Science® Times Cited: 3
+    Bordons, M. , Morillo, F. . ,& Gómez, I. ( 2004 ). Analysis of cross-disciplinary research through bibliometric tools . In H.F.Moed , W.Glänzel & U.Schmoch (Eds.), Handbook of quantitative science and technology research (pp. 437 – 456 ). Dordrecht, Netherlands : Kluwer.
+    Boyack, K. , Börner, K. , & Klavans, R. ( 2007 ). Mapping the structure and evolution of chemistry research . In D.Torres-Salinas & H.Moed (Eds.), Proceedings of the Eleventh International Conference on Scientometrics and Informetrics (Vol. 1 , pp. 112 – 123 ). Madrid, Spain : CSIC.
+    Boyack, K. ,& Klavans, R. ( 2007 ) Amap of science, . Retrieved on October 4, 2007, from http://mapofscience.com/
+    Boyack, K.W. , Klavans, R. , & Börner, K. ( 2005 ). Mapping the backbone of science . Scientometrics , 64 , 351 – 374 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 65
+    Burt, R.S. ( 1982 ). Toward a structural theory of action . New York : Academic Press.
+    Callon, M. , Courtial, J.-P. , Turner, W.A. , & Bauin, S. ( 1983 ). From translations to problematic networks:An introduction to coword analysis . Social Science Information , 22 , 191 – 235 .
+        CrossRef ,
+        Web of Science® Times Cited: 112
+    Callon, M. , Law, J. , & Rip, A. (Eds.). ( 1986 ). Mapping the dynamics of science and technology . London : Macmillan.
+    Carpenter, M.P. ,& Narin, F. ( 1973 ). Clustering of scientific journals . Journal of the American Society for Information Science , 24 , 425 – 436 .
+    Direct Link:
+        Abstract
+        PDF(1062K)
+        PDF(1062K)
+        References
+        Web of Science® Times Cited: 61
+    Chan, L.M. ( 1999 ). A guide to the Library of Congress classification ( 5th ed. ). Englewood, CO : Libraries Unlimited.
+    Davidson, G.S. , Hendrickson, B. , Johnson, D.K. , Meyers, C.E. , & Wylie, B.N. ( 1998 ). Knowledge mining with VxInsight: Discovery through interaction . Journal of Intelligent Information Systems , 11 , 259 – 285 .
+        CrossRef ,
+        Web of Science® Times Cited: 36
+    Doreian, P. , & Fararo, T.J. ( 1985 ). Structural equivalence in a journal network . Journal of the American Society for Information Science , 36 , 28 – 37 .
+    Direct Link:
+        Abstract
+        PDF(691K)
+        PDF(691K)
+        References
+        Web of Science® Times Cited: 45
+    Egghe, L. , & Leydesdorff, L. ( 2008 ). The relation between Pearson's correlation coefficient r and Salton's cosine measure . Manuscript in preparation.
+    Garfield, E. ( 1971 ). The mystery of the transposed journal lists, wherein Bradford's law of scattering is generalized according to Garfield's law of concentration . Current Contents , 3 ( 33 ), 5 – 6 .
+    Garfield, E. ( 1972 ). Citation analysis as a tool in journal evaluation . Science , 178 ( 4060 ), 471 – 479 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 772 ,
+        ADS
+    Glänzel, W. , & Schubert, A. ( 2003 ). A new classification scheme of science fields and subfields designed for scientometric evaluation purposes . Scientometrics , 56 , 357 – 367 .
+        CrossRef ,
+        Web of Science® Times Cited: 74
+    Jones, W.P. , & Furnas, G.W. ( 1987 ). Pictures of relevance: A geometric analysis of similarity measures . Journal of the American Society for Information Science , 36 , 420 – 442 .
+    Direct Link:
+        Abstract
+        PDF(3061K)
+        PDF(3061K)
+        References
+        Web of Science® Times Cited: 84
+    Kamada, T. , & Kawai, S. ( 1989 ). An algorithm for drawing general undirected graphs . Information Processing Letters , 31 ( 1 ), 7 – 15 .
+        CrossRef ,
+        Web of Science® Times Cited: 335
+    Kim, J.-O. ( 1975 ). Factor analysis . In N.H.Nie , C.H.Hull , J.G.Jenkins , K.Steinbrenner , & D.H.Bent (Eds.), SPSS: Statistical package for the social sciences (pp. 468 – 514 ). NewYork : McGraw-Hill.
+    Kim, J.-O. ,& Mueller, C.W. ( 1978 ). Factor analysis, statistical methods, and practical issues . Beverly Hills, CA : Sage.
+    Klavans, R. , & Boyack, K. ( 2007 ). Is there a convergent structure of science? A comparison of maps using the ISI and Scopus databases . In D.Torres-Salinas & H.Moed (Eds.), Proceedings of the Eleventh International Conference of Scientometrics and Informetrics (Vol. 1 , pp. 437 – 448 ).
+    Leydesdorff, L. ( 1986 ). The development of frames of references . Scientometrics , 9 , 103 – 125 .
+        CrossRef ,
+        Web of Science® Times Cited: 39
+    Leydesdorff, L. ( 1987 ). Various methods for the mapping of science . Scientometrics , 11 , 291 – 320 .
+        CrossRef ,
+        Web of Science® Times Cited: 36
+    Leydesdorff, L. ( 1989 ). Words and cowords as indicators of intellectual organization . Research Policy , 18 , 209 – 223 .
+        CrossRef ,
+        Web of Science® Times Cited: 53
+    Leydesdorff, L. ( 2004 ). Top-down decomposition of the Journal Citation Report of the Social Science Citation Index: Graph- and factor-analytical approaches . Scientometrics , 60 , 159 – 180 .
+        CrossRef ,
+        Web of Science® Times Cited: 31
+    Leydesdorff, L. ( 2006 ). Can scientific journals be classified in terms of aggregated journal-journal citation relations using the Journal Citation Reports? Journal of the American Society for Information Science and Technology , 57 , 601 – 613 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(584K)
+        PDF(584K)
+        References
+        Web of Science® Times Cited: 23
+    Leydesdorff, L. ( 2007 ) Visualization of the citation impact environments of scientific journals: An online mapping exercise . Journal of the American Society of Information Science and Technology , 58 , 207 – 222 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(418K)
+        PDF(418K)
+        References
+        Web of Science® Times Cited: 10
+    Leydesdorff, L. ( 2008 ). Caveats for the use of citation indicators in research and journal evaluation . Journal of the American Society for Information Science and Technology , 59 , 278 – 287 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(1604K)
+        PDF(1604K)
+        References
+        Web of Science® Times Cited: 19
+    Leydesdorff, L. , & Bensman, S.J. ( 2006 ). Classification and powerlaws: The logarithmic transformation . Journal of the American Society for Information Science and Technology , 57 , 1470 – 1486 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(552K)
+        PDF(552K)
+        References
+        Web of Science® Times Cited: 11
+    Leydesdorff, L. , & Hellsten, I. ( 2005 ). Metaphors and diaphors in science communication: Mapping the case of “stem-cell research .” Science Communication , 27 ( 1 ), 64 – 99 .
+        CrossRef ,
+        Web of Science® Times Cited: 21
+    Leydesdorff, L. , & Schank, T. ( 2008 ). Dynamic animations of journal maps: Indicators of structural change and interdisciplinary developments . Journal of the American Society for Information Science and Technology , 59 , 1810 – 1818 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(858K)
+        PDF(858K)
+        References
+        Web of Science® Times Cited: 6
+    Leydesdorff, L. , & Vaughan, L. ( 2006 ). Co-occurrence matrices and their applications in information science: Extending ACA to the Web environment . Journal of the American Society for Information Science and Technology , 57 , 1616 – 1628 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(467K)
+        PDF(467K)
+        References
+        Web of Science® Times Cited: 42
+    Martin, B. , & Irvine, J. ( 1983 ). Assessing basic research: Some partial indicators of scientific progress in radio astronomy . Research Policy , 12 , 61 – 90 .
+        CrossRef ,
+        Web of Science® Times Cited: 182
+    Moed, H.F. , Burger, W.J.M. , Frankfort, J.G. , & van Raan, A.F.J. ( 1985 ). The use of bibliometric data for the measurement of university research performance . Research Policy , 14 , 131 – 149 .
+        CrossRef ,
+        Web of Science® Times Cited: 131
+    Morillo, F. , Bordons, M. , & Gómez, I. ( 2001 ). An approach to interdisciplinarity through bibliometric indicators . Scientometrics , 51 , 203 – 222 .
+        CrossRef ,
+        Web of Science® Times Cited: 17
+    Morillo, F. , Bordons, M. , & Gómez, I. ( 2003 ). Interdisciplinarity in science: A tentative typology of disciplines and research areas . Journal of the American Society for Information Science and Technology , 54 , 1237 – 1249 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(223K)
+        PDF(223K)
+        References
+        Web of Science® Times Cited: 35
+    Moya-Anegón, F. , Vargas-Quesada, B. , Chinchilla-Rodrílguez, Z. , CoreraÁlvarez, E. , Munoz-Fernández, F.J. , & Herrero-Solana, V. ( 2007 ). Visualizing the marrow of science . Journal of the American Society for Information Science and Technology , 58 , 2167 – 2179 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(1440K)
+        PDF(1440K)
+        References
+        Web of Science® Times Cited: 7
+    Moya-Anegón, F. , Vargas-Quesada, B. , Herrero-Solana, V. , Chinchilla-Rodrílguez, Z. , Corera-Álvarez, E. , & Munoz-Fernández, F.J. ( 2004 ). A new technique for building maps of large scientific domains based on the cocitation of classes and categories . Scientometrics , 61 , 129 – 145 .
+        CrossRef ,
+        Web of Science® Times Cited: 34
+    Newman, M.E.J. ( 2006a ). Finding community structure in networks using the eigenvectors of matrices . Physical Review E , 74 , 36104 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 97 ,
+        ADS
+    Newman, M.E.J. ( 2006b ). Modularity and community structure in networks . Proceedings of the National Academy of Sciences, USA , 103 ( 23 ), 8577 – 8582 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 206 ,
+        ADS
+    Porter, A.L. , Cohen, A.S. , Roessner, J.D. , & Perreault, M. ( 2007 ). Measuring researcher interdisciplinarity . Scientometrics , 72 , 117 – 147 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 9
+    Porter, A.L. , Roessner, J.D. , Cohen, A.S. , & Perreault, M. ( 2006 ). Interdisciplinary research: Meaning, metrics, and nurture . Research Evaluation , 15 ( 3 ), 187 – 195 .
+        CrossRef ,
+        Web of Science® Times Cited: 8
+    Price, D.J. de Solla ( 1965 ). Networks of scientific papers . Science , 149 ( 3683 <), 510 – 515 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 632 ,
+        ADS
+    Pudovkin, A.I. , & Garfield, E. ( 2002 ). Algorithmic procedure for fi.nding semantically related journals . Journal of the American Society for Information Science and Technology , 53 ( 13 ), 1113 – 1119 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(102K)
+        PDF(102K)
+        References
+        Web of Science® Times Cited: 32
+    Salton, G. , & McGill, M.J. ( 1983 ). Introduction to modern information retrieval . Auckland, New Zealand : McGraw-Hill.
+    Simon, H.A. ( 1973 ). The organization of complex systems . In H.H.Pattee (Ed.), Hierarchy theory: The challenge of complex systems (pp. 1 – 27 ). NewYork : George Braziller.
+    Simon, H.A. ( 2002 ). Near decomposability and the speed of evolution . Industrial and Corporate Change , 11 , 587 – 599 .
+        CrossRef ,
+        Web of Science® Times Cited: 16
+    Simon, H.A. , & Ando, A. ( 1961 ). Aggregation of variables in dynamic systems . Econometrica , 29 , 111 – 138 .
+        CrossRef ,
+        Web of Science® Times Cited: 220
+    Small, H. ( 1973 ). Cocitation in the scientific literature: A new measure of the relationship between two documents . Journal of the American Society for Information Science , 24 , 265 – 269 .
+    Direct Link:
+        Abstract
+        PDF(358K)
+        PDF(358K)
+        References
+        Web of Science® Times Cited: 464
+    Small, H. , & Griffith, B. ( 1974 ). The structure of scientific literature I . Science Studies , 4 , 17 – 40 .
+        CrossRef ,
+        Web of Science® Times Cited: 303
+    Small, H. , & Sweeney, E. ( 1985 ). Clustering the science citation index using cocitations I: A comparison of methods . Scientometrics , 7 , 391 – 409 .
+        CrossRef ,
+        Web of Science® Times Cited: 95
+    Tijssen, R. , de Leeuw, J. , & van Raan, A.F.J. ( 1987 ). Quasi-correspondence analysis on square scientometric transaction matrices . Scientometrics , 11 , 347 – 361 .
+    Van Leeuwen, T. , & Tijssen, R. ( 2000 ). Interdisciplinary dynamics of modern science: Analysis of cross-disciplinary citation flows . Research Evaluation , 9 ( 3 ), 183 – 187 .
+        CrossRef ,
+        Web of Science® Times Cited: 14
+    Van Raan, A.F.J. ( 2000 ). The interdisciplinary nature of science: Theoretical framework and bibliometric-empirical approach . In P.Weingart & N.Stehr (Eds.), Practicing interdisciplinarity (pp. 66 – 78 ). Toronto: University of Toronto Press .
+    Zitt, M. ( 2005 ). Facing diversity of science: A challenge for bibliometric indicators. measurement : Interdisciplinary research and perspectives , 3 ( 1 ), 38 – 49 .
+        CrossRef
+    Zitt, M. , Ramanana-Rahary, S. , & Bassecoulard, E. ( 2005 ). Relativity of citation performance and excellence measures: From cross-field to cross-scale effects of field-normalisation . Scientometrics , 63 , 373 – 401 .
+        CrossRef ,
+        Web of Science® Times Cited: 26
+
+Appendix
+
+    Top of page
+    Abstract
+    Introduction
+    ISI Subject Categories
+    Methods
+    Results
+    Conclusions and Discussion
+    Acknowledgment
+    References
+    Appendix
+
+Factor Analysis of 172 ISI Subject Categories Over the Citing Projection
+Citing factor 	ISI Subject Category 	Biomedical sciences 	Materials sciences 	Computer sciences 	Clinical sciences 	Neurosciences 	Ecology 	Chemistry 	Geosciences 	Engineering 	Infectious Diseases 	Environmental sciences 	Agriculture 	Physics 	Gen. medicine; health
+
+    Note . Extraction method: Principal component analysis. Rotation method: Varimax with Kaiser Normalization. Rotation converged in 11 iterations.
+
+Biomedical sciences 	Cell biology 	0.890 	  	  	0.118 	  	  	  	  	  	0.192 	  	  	  	 
+  	Biochemistry & molecular biology 	0.857 	  	  	  	  	  	0.212 	  	  	0.215 	  	0.170 	  	 
+  	Biophysics 	0.818 	  	  	  	  	  	0.270 	  	  	0.171 	  	0.136 	  	 
+  	Developmental biology 	0.818 	  	  	  	  	  	  	  	  	  	  	  	  	 
+  	Multidisciplinary sciences 	0.802 	  	  	  	0.185 	0.209 	0.145 	0.167 	  	0.243 	  	0.128 	0.126 	 
+  	Genetics & heredity 	0.773 	  	  	  	  	0.254 	  	  	  	0.149 	  	0.222 	  	 
+  	Biology 	0.746 	  	  	  	0.241 	0.439 	  	  	  	0.104 	  	0.107 	  	 
+  	Medicine, research & experimental 	0.738 	  	  	0.351 	0.113 	  	  	  	  	0.435 	  	  	  	0.113
+  	Microscopy 	0.718 	0.283 	  	  	  	  	  	  	  	  	  	  	  	− 0.114
+  	Anatomy & morphology 	0.711 	  	  	0.134 	0.261 	0.127 	  	  	  	  	  	  	  	− 0.143
+  	Endocrinology & metabolism 	0.645 	  	  	0.151 	0.162 	  	  	  	  	  	  	  	  	0.166
+  	Biotechnology & applied microbiology 	0.622 	  	  	  	  	  	0.204 	  	  	0.367 	  	0.376 	  	 
+  	Physiology 	0.601 	  	  	0.254 	0.432 	  	  	  	  	  	  	  	  	 
+  	Reproductive biology 	0.594 	  	  	− 0.115 	  	  	− 0.199 	− 0.110 	− 0.142 	− 0.145 	  	− 0.116 	  	0.147
+  	Andrology 	0.592 	  	− 0.103 	  	  	− 0.105 	− 0.187 	− 0.114 	− 0.153 	− 0.187 	0.128 	− 0.124 	  	0.205
+  	Medical laboratory technology 	0.586 	  	  	0.412 	  	  	  	  	  	0.199 	  	  	  	0.241
+  	Biochemical research methods 	0.575 	  	  	  	  	  	0.382 	  	  	0.187 	  	0.204 	  	 
+  	Pathology 	0.560 	  	  	0.369 	0.127 	  	  	  	  	0.204 	  	  	  	 
+  	Oncology 	0.559 	  	  	0.248 	  	  	  	  	  	  	  	  	  	0.151
+  	Mathematical & computational biology 	0.543 	− 0.162 	0.173 	  	  	0.254 	0.229 	  	0.166 	  	− 0.189 	  	  	0.221
+  	Toxicology 	0.511 	  	  	  	0.142 	  	0.182 	  	  	0.173 	0.339 	0.112 	  	0.175
+  	pharmacology & pharmacy 	0.500 	  	  	0.163 	0.429 	  	0.251 	  	  	0.275 	  	0.109 	  	0.149
+  	Obstetrics & gynecology 	0.400 	  	  	  	  	− 0.130 	− 0.214 	− 0.107 	− 0.130 	− 0.199 	0.119 	− 0.138 	  	0.319
+  	Nutrition & dietetics 	0.369 	  	  	0.109 	  	− 0.121 	  	  	  	  	  	0.236 	  	0.258
+  	Medicine, legal 	0.346 	  	  	  	0.117 	  	0.164 	  	  	0.149 	  	  	  	0.180
+  	Urology & nephrology 	0.241 	  	  	0.241 	  	  	  	  	  	  	  	  	  	0.152
+Material sciences 	Materials science, multidisciplinary 	  	0.913 	  	  	  	  	0.239 	  	0.161 	  	  	  	  	 
+  	Nanoscience & nanotechnology 	  	0.878 	  	  	  	  	0.301 	  	0.114 	  	  	  	  	 
+  	Materials science, coatings & films 	  	0.860 	  	  	  	  	0.107 	  	  	  	  	  	  	 
+  	Physics, applied 	  	0.828 	0.151 	  	  	  	  	  	  	  	  	  	0.250 	 
+  	Materials science, ceramics 	  	0.785 	  	  	  	  	0.133 	  	  	  	  	  	  	 
+  	Metallurgy & metallurgical engineering 	  	0.771 	  	  	  	  	  	  	0.154 	  	  	  	  	 
+  	Physics, condensed matter 	  	0.721 	  	  	  	  	0.136 	  	  	  	  	  	0.371 	 
+  	Materials science, characterization & testing 	  	0.676 	  	  	  	  	  	  	0.483 	  	  	  	  	 
+  	Mining & mineral processing 	  	0.557 	  	  	  	  	  	0.273 	0.112 	  	  	  	  	 
+  	Instruments & instrumentation 	  	0.518 	0.295 	  	  	  	0.102 	  	  	  	  	  	0.354 	 
+  	Electrochemistry 	  	0.467 	  	  	  	  	0.295 	  	  	  	  	  	  	 
+  	Energy & fuels 	  	0.301 	  	  	  	  	0.234 	  	0.278 	  	0.239 	  	  	 
+Computer sciences 	Computer science, hardware & architecture 	  	  	0.882 	  	  	  	  	  	  	  	  	  	  	 
+  	Computer science, information systems 	  	  	0.814 	  	  	  	  	  	  	  	  	  	  	 
+  	Computer science, artificial intelligence 	  	  	0.812 	  	  	  	  	  	  	  	  	  	  	 
+  	Engineering, electrical & electronic 	  	0.335 	0.793 	  	  	  	  	  	  	  	  	  	0.123 	 
+  	Computer science, Theory & methods 	  	  	0.791 	  	  	  	  	  	  	  	  	  	  	 
+  	Computer science, software engineering 	  	  	0.750 	  	  	  	  	  	  	  	  	  	  	 
+  	Telecommunications 	  	0.114 	0.744 	  	  	  	  	  	− 0.109 	  	0.104 	  	  	 
+  	Computer science, cybernetics 	  	  	0.729 	  	0.330 	  	  	  	  	  	  	  	  	 
+  	Automation & control systems 	  	  	0.718 	  	  	  	  	  	  	  	  	  	  	 
+  	Transportation science & technology 	  	  	0.553 	  	  	  	− 0.110 	  	0.189 	  	0.118 	  	  	 
+  	Computer science, interdisciplinary applications 	0.271 	− 0.133 	0.514 	  	  	  	0.317 	  	0.439 	  	  	  	0.112 	0.113
+  	Robotics 	  	  	0.484 	  	  	  	  	  	  	  	  	  	  	 
+  	Operations research & management sceince 	  	  	0.420 	  	  	  	  	  	0.201 	  	− 0.154 	  	− 0.178 	 
+  	Mathematics, applied 	  	− 0.159 	0.329 	  	  	  	  	  	0.291 	  	− 0.159 	  	0.193 	 
+  	Engineering, industrial 	  	  	0.314 	  	  	  	  	  	0.256 	  	− 0.148 	  	− 0.248 	 
+Clinical medicine 	Surgery 	  	  	  	0.796 	  	  	  	  	  	  	  	  	  	 
+  	Critical care medicine 	  	  	  	0.706 	0.123 	  	  	  	  	0.131 	  	  	  	0.148
+  	Emergency medicine 	  	  	  	0.666 	  	  	  	  	  	  	  	  	  	0.283
+  	Transplantation 	0.118 	  	  	0.636 	  	  	  	  	  	0.304 	  	  	  	 
+  	Respiratory system 	0.120 	  	  	0.617 	  	  	  	  	  	0.167 	  	  	  	0.126
+  	Peripheral vascular disease 	0.285 	  	  	0.616 	  	  	  	  	  	  	  	  	  	0.173
+  	Cardiac & cardiovascular systems 	0.146 	  	  	0.608 	  	  	  	  	  	  	  	  	  	0.151
+  	Orthopedics 	  	  	  	0.551 	0.160 	  	  	  	  	  	  	  	  	 
+  	Engineering, biomedical 	0.196 	  	  	0.546 	  	  	0.146 	  	  	− 0.143 	  	  	  	− 0.116
+  	Hematology 	0.461 	  	  	0.490 	  	  	  	  	  	0.183 	  	  	  	0.132
+  	Pediatrics 	  	  	  	0.445 	0.174 	  	− 0.103 	  	  	0.112 	  	  	  	0.293
+  	Sport sciences 	  	  	  	0.381 	0.271 	  	  	  	  	− 0.117 	  	  	  	 
+  	Anesthesiology 	  	  	  	0.374 	0.295 	  	  	  	  	  	  	  	  	 
+  	Gastroenterology & hepatology 	0.137 	  	  	0.343 	  	  	  	  	  	0.166 	  	  	  	 
+  	Radiology, nuclear medicine & medical imaging 	0.120 	  	  	0.335 	0.257 	  	  	  	  	− 0.150 	  	  	  	 
+  	Otorhinolaryngology 	  	  	  	0.328 	0.161 	  	  	  	  	  	  	  	  	 
+  	Rheumatology 	0.120 	  	  	0.217 	  	  	  	  	  	0.163 	  	  	  	0.141
+  	Dermatology 	0.178 	  	  	0.207 	  	  	  	  	  	0.205 	  	  	  	 
+  	Dentistry, oral surgery & medicine 	  	  	  	0.197 	  	  	  	  	  	  	  	  	  	 
+Neurosciences 	Neurosciences 	0.271 	  	  	  	0.870 	  	  	  	  	  	  	  	  	 
+  	Psychology 	  	  	  	  	0.807 	  	  	  	  	  	  	  	  	 
+  	Behavioral sciences 	0.164 	  	  	  	0.804 	0.255 	  	  	  	  	  	  	  	 
+  	Neuroimaging 	  	  	  	0.198 	0.792 	  	  	  	  	− 0.104 	  	  	  	 
+  	Psychiatry 	  	  	  	  	0.783 	  	  	  	  	  	  	  	  	0.174
+  	Clinical neurology 	  	  	  	0.310 	0.752 	  	  	  	  	  	  	  	  	 
+  	Substance abuse 	  	  	  	  	0.641 	  	  	  	  	0.142 	  	  	  	0.222
+  	Geriatrics & gerontology 	0.395 	  	  	0.194 	0.617 	  	  	  	  	  	  	  	  	0.274
+  	Rehabilitation 	  	  	  	0.379 	0.516 	  	  	  	  	− 0.106 	  	  	  	 
+  	Ophthalmology 	0.116 	  	  	  	0.157 	  	  	  	  	  	  	  	  	 
+  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	 
+Ecology 	Ecology 	  	  	  	  	  	0.902 	  	  	  	  	  	0.141 	  	 
+  	Biodiversity conservation 	  	  	  	  	  	0.859 	  	  	  	  	0.113 	0.135 	  	 
+  	Zoology 	0.259 	  	  	  	0.243 	0.707 	  	  	  	  	  	  	  	 
+  	Marine & freshwater biology 	  	  	  	  	  	0.701 	  	  	  	  	0.288 	  	  	 
+  	Ornithology 	  	  	  	  	  	0.678 	  	  	  	  	  	  	  	 
+  	Evolutionary biology 	0.410 	  	  	  	  	0.635 	  	  	  	  	− 0.145 	0.250 	  	 
+  	Oceanography 	  	  	  	  	  	0.566 	  	0.287 	  	  	0.297 	− 0.134 	  	 
+  	Fisheries 	  	  	  	  	  	0.525 	  	  	  	0.111 	0.197 	− 0.130 	  	 
+  	Forestry 	  	  	  	  	  	0.517 	  	  	  	  	  	0.375 	  	 
+  	Entomology 	0.194 	  	  	  	  	0.366 	  	  	  	  	  	0.156 	  	 
+  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	 
+Chemistry 	Chemistry, multidisciplinary 	0.138 	0.251 	  	  	  	  	0.842 	  	  	  	  	  	  	 
+  	Chemistry, organic 	  	  	  	  	  	  	0.715 	  	  	  	  	  	  	 
+  	Chemistry, inorganic & nuclear 	  	0.120 	  	  	  	  	0.701 	  	  	  	  	− 0.115 	  	 
+  	Chemistry, physical 	  	0.530 	  	  	  	  	0.622 	  	  	  	  	  	0.138 	 
+  	Chemistry, applied 	0.150 	0.132 	  	  	  	− 0.120 	0.600 	  	  	  	0.141 	0.480 	  	 
+  	Crystallography 	  	0.338 	  	  	  	  	0.600 	  	  	  	  	  	  	 
+  	Chemistry, medicinal 	0.471 	  	  	  	0.164 	  	0.511 	  	  	0.184 	  	0.191 	  	 
+  	Spectroscopy 	0.128 	0.202 	  	  	  	  	0.496 	  	− 0.113 	  	  	  	0.322 	 
+  	Engineering, chemical 	  	0.240 	  	  	  	  	0.439 	  	0.268 	  	0.270 	0.104 	  	 
+  	Chemistry, analytical 	0.160 	  	  	  	  	  	0.413 	  	  	  	0.158 	0.127 	  	 
+  	Materials science, textiles 	  	0.165 	  	  	  	  	0.410 	  	  	  	0.111 	0.111 	− 0.149 	 
+  	Polymer science 	  	0.289 	  	  	  	  	0.372 	  	0.136 	  	  	  	− 0.124 	 
+  	Materials science, biomaterials 	0.272 	  	  	0.282 	  	  	0.323 	  	  	  	  	  	  	− 0.156
+Geosciences 	Geosciences, multidisciplinary 	  	  	  	  	  	  	  	0.920 	  	  	0.207 	  	  	 
+  	Geology 	  	  	  	  	  	  	  	0.908 	  	  	  	  	  	 
+  	Geochemistry & geophysics 	  	  	  	  	  	  	  	0.807 	  	  	  	  	  	 
+  	Geography, physical 	  	  	  	  	  	0.335 	  	0.786 	  	  	0.156 	  	  	 
+  	Paleontology 	  	  	  	  	  	0.166 	  	0.700 	  	  	  	  	  	 
+  	Mineralogy 	  	0.137 	  	  	  	  	  	0.649 	  	  	  	  	  	 
+  	Engineering, geological 	  	  	  	  	  	  	  	0.632 	0.129 	  	0.105 	  	  	 
+  	Engineering, petroleum 	  	0.104 	  	  	  	  	0.203 	0.555 	0.115 	  	0.153 	  	  	 
+  	Remote sensing 	  	  	0.231 	  	  	  	  	0.471 	− 0.119 	  	0.273 	  	  	 
+  	Meteorology & atmospheric sciences 	  	  	  	  	  	  	  	0.463 	  	  	0.365 	  	  	 
+  	Imaging science & photographic technology 	  	  	0.280 	  	  	  	  	0.354 	− 0.101 	  	0.285 	  	  	 
+Engineering 	Mechanics 	  	0.181 	  	  	  	  	  	  	0.831 	  	  	  	0.142 	 
+  	Engineering, mechanical 	  	0.238 	  	  	  	  	  	  	0.757 	  	0.107 	  	  	 
+  	Mathematics, interdisciplinary applications 	  	  	0.162 	  	  	  	0.136 	  	0.652 	  	  	  	0.301 	 
+  	Thermodynamics 	  	0.147 	  	  	  	  	0.113 	  	0.649 	  	0.114 	  	  	 
+  	Engineering, multidisciplinary 	  	0.482 	0.152 	  	  	  	0.153 	  	0.635 	  	  	  	0.107 	 
+  	Engineering, aerospace 	  	  	0.116 	  	  	  	  	  	0.453 	  	  	  	0.109 	 
+  	Materials science, composites 	  	0.421 	  	  	  	  	  	  	0.444 	  	  	  	− 0.189 	 
+  	Engineering, marine 	  	  	  	  	  	  	− 0.104 	  	0.387 	  	0.262 	− 0.119 	  	 
+  	Construction & building technology 	  	0.245 	  	  	  	  	  	  	0.339 	  	0.215 	  	− 0.156 	 
+  	Engineering, manufacturing 	  	0.248 	0.292 	  	  	  	  	  	0.323 	  	− 0.140 	  	− 0.250 	 
+  	Acoustics 	  	  	0.119 	  	  	  	− 0.106 	  	0.297 	− 0.128 	  	  	  	 
+  	Mathematics 	  	− 0.133 	0.117 	  	  	  	  	  	0.127 	  	− 0.125 	  	0.102 	 
+Infectious Diseases 	Infectious diseases 	  	  	  	0.126 	  	  	  	  	  	0.811 	  	  	  	0.158
+  	Immunology 	0.315 	  	  	0.237 	  	  	  	  	  	0.749 	  	  	  	 
+  	Microbiology 	0.356 	  	  	  	  	  	  	  	  	0.652 	  	0.216 	  	 
+  	Allergy 	  	  	  	0.220 	  	  	  	  	  	0.582 	  	  	  	 
+  	Virology 	0.371 	  	  	  	  	  	  	  	  	0.573 	  	  	  	 
+  	Tropical medicine 	  	  	  	  	  	  	  	  	  	0.565 	  	  	  	0.366
+  	Parasitology 	0.300 	  	  	  	  	0.111 	  	  	  	0.560 	  	  	  	 
+  	Mycology 	0.419 	  	  	  	  	0.127 	  	  	  	0.461 	  	0.432 	  	 
+  	Veterinary sciences 	0.151 	  	  	  	  	  	  	  	− 0.103 	0.429 	  	  	  	 
+Environmental 	Engineering, environmental 	  	  	  	  	  	0.136 	0.176 	0.114 	  	  	0.762 	  	  	 
+Sciences 	Environmental sciences 	  	  	  	  	  	0.340 	0.113 	0.179 	  	  	0.753 	0.128 	  	 
+  	Water resources 	  	  	  	  	  	0.133 	  	0.345 	0.122 	  	0.730 	  	  	 
+  	Engineering, civil 	  	  	  	  	  	  	  	0.205 	0.398 	  	0.682 	  	  	 
+  	Limnology 	  	  	  	  	  	0.541 	  	0.251 	  	  	0.610 	  	  	 
+  	Agricultural engineering 	  	  	  	  	  	  	0.109 	  	  	  	0.562 	0.395 	  	 
+  	Engineering, ocean 	  	  	  	  	  	  	− 0.112 	0.298 	0.365 	  	0.383 	− 0.115 	  	 
+Agriculture 	Horticulture 	0.119 	  	  	  	  	0.101 	  	  	  	  	  	0.802 	  	 
+  	Agronomy 	  	  	  	  	  	0.172 	  	  	  	  	  	0.791 	  	 
+  	Agriculture, multidisciplinary 	0.130 	  	  	  	  	  	0.150 	  	  	  	0.154 	0.757 	  	 
+  	Plant sciences 	0.293 	  	  	  	  	0.223 	  	  	  	  	  	0.714 	  	 
+  	Food science & technology 	0.146 	  	  	  	  	− 0.151 	0.177 	− 0.104 	  	  	0.136 	0.571 	  	 
+  	Soil science 	  	  	  	  	  	0.221 	  	0.159 	  	  	0.263 	0.452 	  	 
+  	Integrative & complementary medicine 	0.199 	  	  	0.138 	0.321 	  	0.162 	  	  	0.135 	  	0.322 	  	0.258
+  	Agriculture, dairy & animal science 	0.169 	  	  	− 0.122 	  	  	  	  	− 0.102 	  	  	0.203 	  	 
+  	Materials science, paper & wood 	  	  	  	  	  	  	  	  	  	  	  	0.109 	  	 
+  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	 
+Physics 	Physics, multidisciplinary 	  	0.207 	  	  	  	  	  	  	0.114 	  	  	  	0.864 	 
+  	Physics, mathematical 	  	  	  	  	  	  	  	  	0.274 	  	  	  	0.781 	 
+  	Physics, nuclear 	  	  	  	  	  	  	  	  	  	  	  	  	0.724 	 
+  	Physics, particles & fields 	  	  	  	  	  	  	  	  	  	  	  	  	0.687 	 
+  	Physics, fluids & plasmas 	  	  	  	  	  	  	  	  	0.456 	  	  	  	0.599 	 
+  	Optics 	  	0.337 	0.260 	  	  	  	  	  	  	  	  	  	0.484 	 
+  	Physics, atomic, molecular, & chemical 	  	0.282 	  	  	  	  	0.400 	  	  	  	  	  	0.440 	 
+  	Astronomy & astrophysics 	  	  	  	  	  	  	  	  	  	  	  	  	0.379 	 
+  	Nuclear science & technology 	  	0.362 	  	  	  	  	  	  	  	  	0.107 	  	0.373 	 
+  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	 
+General medicine; 	Healthcare sciences & services 	  	  	  	0.183 	0.104 	  	  	  	  	  	  	  	  	0.786
+health 	Medical ethics 	  	  	  	0.139 	  	  	  	  	  	  	  	  	  	0.721
+  	Public, environmental, & occupational health 	  	  	  	  	0.113 	  	  	  	  	0.227 	0.178 	  	  	0.698
+  	Medicine, general & internal 	0.144 	  	  	0.498 	0.129 	  	  	  	  	0.203 	  	  	  	0.687
+  	Medical informatics 	  	− 0.164 	0.226 	0.100 	  	  	  	  	  	  	− 0.157 	  	  	0.564
+  	Nursing 	  	  	  	  	  	  	  	  	  	  	  	  	  	0.461
+  	History & philosophy of science 	  	  	  	  	  	0.127 	  	  	  	  	  	  	0.150 	0.434
+  	Education, scientific disciplines 	  	  	  	  	  	  	0.168 	  	  	  	  	  	  	0.411
+  	Statistics & probability 	0.116 	− 0.184 	0.212 	  	  	0.115 	0.150 	  	0.195 	  	− 0.178 	  	  	0.241
+Enhanced Article (HTML) Get PDF (2103K) Get PDF (2103K)
+More content like this
+Find more content:
+
+    like this article
+
+Find more content written by:
+
+    Loet Leydesdorff
+    Ismael Rafols
+    All Authors
+
+    Publications
+    Browse by Subject
+    Resources
+
+    About Us
+    Help
+    Contact Us
+    Agents
+    Advertisers
+    Media
+    Privacy
+    Cookies
+    Terms & Conditions
+    Site Map
+
+Copyright © 1999-2015 John Wiley & Sons, Inc. All Rights Reserved.
+
+    About Wiley
+    Wiley.com
+    Wiley Job Network
+    Wiley
+

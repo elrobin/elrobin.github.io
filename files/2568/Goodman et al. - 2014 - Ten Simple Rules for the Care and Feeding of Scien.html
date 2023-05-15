@@ -1,0 +1,1178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/terms/" xmlns:doi="http://dx.doi.org/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema-datatypes#" lang="en" xml:lang="en" itemscope="" itemtype="http://schema.org/Article" class="no-js"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>PLOS Computational Biology: Ten Simple Rules for the Care and Feeding of Scientific Data</title>
+
+
+<link rel="stylesheet" type="text/css" href="/css/global-min.css?v=izteQ6tu7kgsJZW_xmrYizvKiHM">
+
+
+    <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css"  href="/css/lte_ie7-min.css?v=3bykQUyQmReeuobVyPozcJ9LxRc" />
+    <![endif]-->
+
+
+<link rel="stylesheet" type="text/css" href="/css/jquery-ui-min.css?v=eXDHTEJM0lIAmDe5k0I0Ad4nxNo">
+
+
+<link rel="stylesheet" type="text/css" href="/css/journal.css?v=zqdmrfq0Q_vVyzh9Q5EwivTrEOA">
+
+
+<link rel="stylesheet" type="text/css" media="print" href="/css/print-min.css?v=T5lb0B3q6EXBsuDluc5V5w+AkRc">
+
+
+  <link rel="stylesheet" href="http://f.fontdeck.com/s/css/js/www.ploscompbiol.org/24557.css" type="text/css">
+
+  <!--chartbeat -->
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
+  <script>document.documentElement.className += ' js';</script>
+
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE9">
+  <meta name="description" content="PLOS Computational Biology is an open-access">
+  <meta name="keywords" content="plos computational biology">
+  <meta name="almHost" content="http://alm.plos.org/api/v3/articles">
+  <meta name="searchHost" content="http://api.plos.org/search">
+  <meta name="termsHost" content="http://api.plos.org/terms">
+  <meta name="solrApiKey" content="plos">
+  <meta name="almAPIKey" content="3pezRBRXdyzYW6ztfwft">
+  <meta name="currentJournal" content="PLoSCompBiol">
+  <meta name="almRequestBatchSize" content="">
+
+  <meta name="citation_publisher" content="Public Library of Science">
+  <meta name="citation_doi" content="10.1371/journal.pcbi.1003542">
+  <meta name="dc.identifier" content="10.1371/journal.pcbi.1003542">
+
+    <meta name="citation_title" content="Ten Simple Rules for the Care and Feeding of Scientific Data">
+    <meta itemprop="name" content="Ten Simple Rules for the Care and Feeding of Scientific Data">
+
+      <meta name="citation_author" content="Alyssa Goodman">
+            <meta name="citation_author_institution" content="Harvard University, Cambridge, Massachusetts, United States of America">
+      <meta name="citation_author" content="Alberto Pepe">
+            <meta name="citation_author_institution" content="Harvard University, Cambridge, Massachusetts, United States of America">
+      <meta name="citation_author" content="Alexander W. Blocker">
+            <meta name="citation_author_institution" content="Harvard University, Cambridge, Massachusetts, United States of America">
+      <meta name="citation_author" content="Christine L. Borgman">
+            <meta name="citation_author_institution" content="University of California, Los Angeles, Los Angeles, California, United States of America">
+      <meta name="citation_author" content="Kyle Cranmer">
+            <meta name="citation_author_institution" content="New York University, New York, New York, United States of America">
+      <meta name="citation_author" content="Merce Crosas">
+            <meta name="citation_author_institution" content="Harvard University, Cambridge, Massachusetts, United States of America">
+      <meta name="citation_author" content="Rosanne Di Stefano">
+            <meta name="citation_author_institution" content="Harvard University, Cambridge, Massachusetts, United States of America">
+      <meta name="citation_author" content="Yolanda Gil">
+            <meta name="citation_author_institution" content="University of Southern California, Los Angeles, Los Angeles, California, United States of America">
+      <meta name="citation_author" content="Paul Groth">
+            <meta name="citation_author_institution" content="Vrije Universiteit Amsterdam, Amsterdam, The Netherlands">
+      <meta name="citation_author" content="Margaret Hedstrom">
+            <meta name="citation_author_institution" content="University of Michigan, Ann Arbor, Michigan, United States of America">
+      <meta name="citation_author" content="David W. Hogg">
+            <meta name="citation_author_institution" content="New York University, New York, New York, United States of America">
+      <meta name="citation_author" content="Vinay Kashyap">
+            <meta name="citation_author_institution" content="Harvard University, Cambridge, Massachusetts, United States of America">
+      <meta name="citation_author" content="Ashish Mahabal">
+            <meta name="citation_author_institution" content="California Institute of Technology, Pasadena, California, United States of America">
+      <meta name="citation_author" content="Aneta Siemiginowska">
+            <meta name="citation_author_institution" content="Harvard University, Cambridge, Massachusetts, United States of America">
+      <meta name="citation_author" content="Aleksandra Slavkovic">
+            <meta name="citation_author_institution" content="Pennsylvania State University, State College, Pennsylvania, United States of America">
+
+    <meta name="citation_date" content="2014/4/24">
+
+  <meta name="citation_pdf_url" content="http://dx.plos.org/10.1371/journal.pcbi.1003542.pdf">
+
+      <meta name="citation_journal_title" content="PLOS Computational Biology">
+    <meta name="citation_firstpage" content="e1003542">
+    <meta name="citation_issue" content="4">
+    <meta name="citation_volume" content="10">
+    <meta name="citation_issn" content="1553-7358">
+
+    <meta name="citation_journal_abbrev" content="PLoS Comput Biol">
+
+      <meta name="citation_reference" content="citation_title=Sidereus nuncius. Mapping of the stars series; citation_number=1; citation_date=1610; ">
+      <meta name="citation_reference" content="citation_number=2; ">
+      <meta name="citation_reference" content="citation_number=3; ">
+      <meta name="citation_reference" content="citation_number=4; ">
+      <meta name="citation_reference" content="citation_title=URL decay in MEDLINE–a 4-year follow-up study; citation_volume=24; citation_number=5; citation_pages=1381-1385; citation_date=2008; ">
+      <meta name="citation_reference" content="citation_title=Publish your computer code: it is good enough; citation_volume=467; citation_number=6; citation_pages=753-753; citation_date=2010; ">
+      <meta name="citation_reference" content="citation_title=Practices in source code sharing in astrophysics; citation_volume=1; citation_number=7; citation_pages=54-58; citation_date=2013; ">
+      <meta name="citation_reference" content="citation_title=Ten simple rules for the open development of scientific software; citation_volume=8; citation_number=8; citation_pages=e1002802; citation_date=2012; ">
+      <meta name="citation_reference" content="citation_title=The data paper: a mechanism to incentivize data publishing in biodi-versity science; citation_volume=12; citation_number=9; citation_pages=S2; citation_date=2011; ">
+      <meta name="citation_reference" content="citation_title=If we share data, will anyone use them? Data sharing and reuse in the long tail of science and technology; citation_volume=8; citation_number=10; citation_pages=e67332; citation_date=2013; ">
+      <meta name="citation_reference" content="citation_number=11; ">
+      <meta name="citation_reference" content="citation_number=12; ">
+
+  <link rel="canonical" href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@ploscompbiol">
+    <meta name="twitter:title" content="Ten Simple Rules for the Care and Feeding of Scientific Data">
+    <meta name="twitter:description" content="">
+      <meta name="twitter:image" content="http://dx.plos.org/10.1371/journal.pcbi.1003542.g001">
+
+  <meta property="og:title" content="Ten Simple Rules for the Care and Feeding of Scientific Data">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542">
+
+ <!--end articleInfoX-->
+
+  <link rel="pingback" href="http://www.ploscompbiol.org/pingback">
+
+
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+  <link rel="home" title="home" href="/">
+  <link rel="alternate" type="application/rss+xml" title="PLOS Computational Biology: New Articles" href="http://www.ploscompbiol.org/article/feed">
+<base href="http://dx.doi.org/10.1371/journal.pcbi.1003542"></head>
+<body>
+
+  <div id="page-wrap">
+    <div id="topbanner" class="cf">
+
+<!-- Div for the ad at the top of journal home page-->
+<div class="center">
+  <div class="title">Advertisement</div>
+  <iframe id="a7e3e24e" name="a7e3e24e" src="http://ads.plos.org/www/delivery/afr.php?zoneid=337&amp;cb=4850" frameborder="0" scrolling="no" width="730" height="90">
+    &lt;a href='http://ads.plos.org/www/delivery/ck.php?n=a7e3e24e&amp;amp;cb=5393'
+      target='_top'&gt;&lt;img src='http://ads.plos.org/www/delivery/avw.php?zoneid=337&amp;amp;cb=2438&amp;amp;n=a7e3e24e'
+      border='0' alt=''/&gt;
+    &lt;/a&gt;
+  </iframe>
+</div>    </div>
+
+    <div id="pagehdr-wrap">
+      <div id="pagehdr">
+        <div id="user" class="nav">
+          <ul>
+            <li><a href="http://www.plos.org">plos.org</a></li>
+            <li><a href="https://register.plos.org/ambra-registration/register.action">create account</a></li>
+            <li class="btn-style"><a href="/user/secure/secureRedirect.action?goTo=%2Farticle%2FfetchArticle.action%3FarticleURI%3Dinfo%253Adoi%252F10.1371%252Fjournal.pcbi.1003542">sign in</a>
+            </li>
+          </ul>
+        </div>
+        <div class="logo">
+          <a href="/"><img src="/images/logo.png" alt="PLOS Computational Biology"></a>
+        </div>
+
+<div id="db">
+  <form name="searchForm" action="/search/simple?noSearchFlag=true&amp;query=&amp;articleURI=info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542" method="get">
+<input type="hidden" name="from" value="globalSimpleSearch" id="from"><input type="hidden" name="filterJournals" value="PLoSCompBiol" id="filterJournals">    <fieldset>
+      <legend>Search</legend>
+      <label for="search">Search</label>
+      <div class="wrap">
+        <input id="search" type="text" name="query" placeholder="Search">
+        <input type="image" alt="SEARCH" src="/images/icon.search.gif">
+      </div>
+    </fieldset>
+  </form>
+    <a id="advSearch" href="/search/advanced?noSearchFlag=true&amp;query=&amp;articleURI=info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542&amp;filterJournals=PLoSCompBiol">advanced search</a>
+</div>
+<div id="nav-main" class="nav">
+  <ul>
+    <li id="mn-01"><a href="javascript:void(0);">Browse</a>
+      <div class="submenu">
+        <div class="menu">
+          <ul>
+            <li><a href="/article/browse/issue">Current Issue</a></li>
+            <li><a href="/article/browse/volume">Journal Archive</a></li>
+            <li><a href="http://www.ploscollections.org/static/pcbiCollections">Collections</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li id="mn-02"><a href="javascript:void(0);">For Authors</a>
+      <div class="submenu">
+        <div class="menu">
+          <ul>
+          <li><a href="http://www.ploscompbiol.org/static/rcuk">Funded by RCUK</a></li>
+            <li><a href="/static/policies">Editorial and Publishing Policies</a></li>
+            <li><a href="/static/guidelines">Author Guidelines</a></li>
+            <li><a href="/static/figureGuidelines">Figure and Table Guidelines</a></li>
+            <li><a href="/static/supportingInformation">Supporting Information Guidelines</a></li>
+            <li><a href="/static/checklist">Submit Your Paper</a></li>
+            <li><a href="http://www.plos.org/journals/index.php">Submit to Other PLOS Journals</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li id="mn-03"><a href="javascript:void(0);">About Us</a>
+      <div class="submenu">
+        <div class="menu">
+          <ul>
+            <li><a href="/static/information">Journal Information</a></li>
+            <li><a href="/static/edboard">Editorial Board</a></li>
+            <li><a href="/static/eic">Editors-in-Chief</a></li>
+            <li><a href="/static/reviewerGuidelines">Reviewer Guidelines</a></li>
+            <li><a href="/static/almInfo">Article-Level Metrics</a></li>
+            <li><a href="/static/license">Open-Access License</a></li>
+            <li><a href="/static/downloads">Media Downloads</a></li>
+            <li><a href="/static/commentGuidelines">Guidelines for Comments</a></li>
+            <li><a href="/static/corrections">Corrections</a></li>
+            <li><a href="/static/help">Help Using this Site</a></li>
+            <li><a href="/static/contact">Contact Us</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+      </div>
+      <!-- pagehdr-->
+    </div>
+    <!-- pagehdr-wrap -->
+
+  <!--body and html tags gets closed in global_footer.ftl-->
+<script type="text/javascript" src="/javascript/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<div id="pagebdy-wrap">
+  <div id="pagebdy">
+
+    <div id="article-block" class="cf">
+
+<div class="article-meta cf">
+  <ul id="almSignPost" style="display: none;"></ul>
+  <div class="article-type">
+    <span class="type oa">Open Access</span>
+  </div>
+</div>
+
+<div class="header" id="hdr-article">
+
+<div class="article-kicker">
+      <span id="article-type-heading">
+        Editorial
+      </span>
+</div>  <h1 property="dc:title" datatype="" rel="dc:type" href="http://purl.org/dc/dcmitype/Text">
+    Ten Simple Rules for the Care and Feeding of Scientific Data
+  </h1>
+
+  <ul class="authors">
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Alyssa Goodman, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Harvard University, Cambridge, Massachusetts, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Alberto Pepe
+              <span class="corresponding">mail</span>, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              <p><span class="email">* E-mail:</span> <a href="mailto:alberto.pepe@gmail.com">alberto.pepe@gmail.com</a></p>
+
+                <p>Affiliation:
+                  Harvard University, Cambridge, Massachusetts, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Alexander W. Blocker, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Harvard University, Cambridge, Massachusetts, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Christine L. Borgman, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  University of California, Los Angeles, Los Angeles, California, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Kyle Cranmer, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  New York University, New York, New York, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Merce Crosas, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Harvard University, Cambridge, Massachusetts, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Rosanne Di Stefano, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Harvard University, Cambridge, Massachusetts, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Yolanda Gil, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  University of Southern California, Los Angeles, Los Angeles, California, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Paul Groth, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Vrije Universiteit Amsterdam, Amsterdam, The Netherlands
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Margaret Hedstrom, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  University of Michigan, Ann Arbor, Michigan, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            David W. Hogg, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  New York University, New York, New York, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Vinay Kashyap, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Harvard University, Cambridge, Massachusetts, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Ashish Mahabal, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  California Institute of Technology, Pasadena, California, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Aneta Siemiginowska, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Harvard University, Cambridge, Massachusetts, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Aleksandra Slavkovic
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Pennsylvania State University, State College, Pennsylvania, United States of America
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+  </ul>
+  <ul class="date-doi-line">
+    <li>Published: April 24, 2014</li>
+    <li>DOI: 10.1371/journal.pcbi.1003542</li>
+      <li>Featured in <a href="http://www.ploscollections.org">PLOS Collections</a></li>
+  </ul>
+
+
+</div><!--end header-->
+<div class="main cf" id="pjax-container">
+  
+
+<div class="nav items-5" id="nav-article">
+  <ul>
+  <li>
+        <span class="active" name="article">Article</span>
+  </li>
+  <li>
+      <a href="/article/authors/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542" name="authors">About the Authors</a>
+  </li>
+  <li>
+      <a href="/article/metrics/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542" name="metrics">Metrics</a>
+  </li>
+  <li>
+      <a href="/article/comments/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542" name="comments">Comments</a>
+  </li>
+  <li>
+      <a href="/article/related/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542" name="related">Related Content</a>
+  </li>
+  </ul>
+</div>
+
+<script type="text/javascript">
+  var selected_tab = "article";
+</script>
+  <div id="figure-thmbs" class="carousel cf">
+    <div class="wrapper">
+      <div class="slider">
+              <div class="item">
+                <a href="#pcbi-1003542-g001" data-doi="info:doi/10.1371/journal.pcbi.1003542" data-uri="info:doi/10.1371/journal.pcbi.1003542.g001" title="Figure 1">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1003542.g001&amp;representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="nav-col">
+    <div class="nav" id="nav-article-page">
+      <ul>
+        <li class="nav-col-comments"><a href="/article/comments/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542">Reader Comments (0)</a></li>
+          <li id="nav-figures"><a data-doi="info:doi/10.1371/journal.pcbi.1003542">Figures</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="article">
+
+
+
+
+
+
+
+
+
+
+<div class="articleinfo"><p><strong>Citation: </strong>Goodman A, Pepe A, Blocker AW, Borgman CL, Cranmer K, et al.  (2014) Ten Simple Rules for the Care and Feeding of Scientific Data. PLoS Comput Biol 10(4):
+          e1003542.
+            doi:10.1371/journal.pcbi.1003542</p><p><strong>Editor: </strong>Philip E. Bourne, University of California San Diego, United States of America</p><p><strong>Published:</strong> April 24, 2014</p><p><strong>Copyright:</strong> © 2014 Goodman et al. This is an open-access article distributed under the terms of the <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</a>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p><p><strong>Funding: </strong>The authors received no specific funding for writing this manuscript.</p><p><strong>Competing interests:</strong> The authors have declared that no competing interests exist.</p></div>
+
+
+
+
+
+<div id="section1" class="section"><a id="s1" name="s1" toc="s1" title="Introduction"></a><h3>Introduction</h3><a id="article1.body1.sec1.p1" name="article1.body1.sec1.p1"></a><p>In the early 1600s, Galileo Galilei turned a telescope toward Jupiter. In his log book each night, he drew to-scale schematic diagrams of Jupiter and some oddly moving points of light near it. Galileo labeled each drawing with the date. Eventually he used his observations to conclude that the Earth orbits the Sun, just as the four Galilean moons orbit Jupiter. History shows Galileo to be much more than an astronomical hero, though. His clear and careful record keeping and publication style not only let Galileo understand the solar system, they continue to let <em>anyone</em> understand <em>how</em> Galileo did it. Galileo's notes directly integrated his <strong>data</strong> (drawings of Jupiter and its moons), key <strong>metadata</strong> (timing of each observation, weather, and telescope properties), and <strong>text</strong> (descriptions of methods, analysis, and conclusions). Critically, when Galileo included the information from those notes in <em>Sidereus Nuncius</em> <a href="#pcbi.1003542-Galilei1">[1]</a>, this integration of text, data, and metadata was preserved, as shown in <a href="#pcbi-1003542-g001">Figure 1</a>. Galileo's work advanced the “Scientific Revolution,” and his approach to observation and analysis contributed significantly to the shaping of today's modern “scientific method” <a href="#pcbi.1003542-Galilei2">[2]</a>, .</p>
+<div class="figure" id="pcbi-1003542-g001"><div class="img"><a name="pcbi-1003542-g001" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1003542.g001&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pcbi.1003542" data-uri="info:doi/10.1371/journal.pcbi.1003542.g001"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1003542.g001&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pcbi.1003542.g001/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pcbi.1003542.g001/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pcbi.1003542.g001/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pcbi.1003542.g001/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pcbi.1003542.g001.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pcbi.1003542.g001/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pcbi.1003542.g001/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pcbi.1003542.g001.TIF"></span>)
+                </a></li></ul></div><p><strong>Figure 1.  <span>Two pages (scan) from Galilei's <em>Sidereus Nuncius</em> (“The Starry Messenger” or “The Herald of the Stars”), Venice, 1610.</span></strong></p><a id="article1.body1.sec1.fig1.caption1.p1" name="article1.body1.sec1.fig1.caption1.p1"></a><p>On these pages, Galilei combines data (drawings of Jupiter and its moons), key metadata (timing of each observation, weather, and telescope properties), and text (descriptions of methods, analysis, and conclusions).</p>
+<span>doi:10.1371/journal.pcbi.1003542.g001</span></div><a id="article1.body1.sec1.p2" name="article1.body1.sec1.p2"></a><p>Today, most research projects are considered complete when a journal article based on the analysis has been written and published. The trouble is, unlike Galileo's report in <em>Sidereus Nuncius</em>, the amount of real data and data description in modern publications is almost never sufficient to repeat or even statistically verify a study being presented. Worse, researchers wishing to build upon and extend work presented in the literature often have trouble recovering data associated with an article after it has been published. More often than scientists would like to admit, they cannot even recover the data associated with their own published works.</p>
+<a id="article1.body1.sec1.p3" name="article1.body1.sec1.p3"></a><p>Complicating the modern situation, the words “data” and “analysis” have a wider variety of definitions today than at the time of Galileo. Theoretical investigations can create large “data” sets through simulations (e.g., The Millennium Simulation Project: <a href="http://www.mpa-garching.mpg.de/galform/virgo/millennium/">http://www.mpa-garching.mpg.de/galform/v​irgo/millennium/</a>). Large-scale data collection often takes place as a community-wide effort (e.g., The Human Genome project: <a href="http://www.genome.gov/10001772">http://www.genome.gov/10001772</a>), which leads to gigantic online “databases” (organized collections of data). Computers are so essential in simulations, and in the processing of experimental and observational data, that it is also often hard to draw a dividing line between “data” and “analysis” (or “code”) when discussing the care and feeding of “data.” Sometimes, a copy of the code used to create or process data is so essential to the use of those data that the code should almost be thought of as part of the “metadata” description of the data. Other times, the code used in a scientific study is more separable from the data, but even then, many preservation and sharing principles apply to code just as well as they do to data.</p>
+<a id="article1.body1.sec1.p4" name="article1.body1.sec1.p4"></a><p>So how do we go about caring for and feeding data? Extra work, no doubt, is associated with nurturing your data, but care up front will save time and increase insight later. Even though a growing number of researchers, especially in large collaborations, know that conducting research with sharing and reuse in mind is essential, it still requires a paradigm shift. Most people are still motivated by piling up publications and by getting to the next one as soon as possible. But, the more we scientists find ourselves wishing we had access to extant but now unfindable data <a href="#pcbi.1003542-Holdren1">[4]</a>, the more we will realize why bad data management is bad for science. How can we improve?</p>
+<a id="article1.body1.sec1.p5" name="article1.body1.sec1.p5"></a><p><strong>This article offers a short guide to the steps scientists can take to ensure that their data and associated analyses continue to be of value and to be recognized.</strong> In just the past few years, hundreds of scholarly papers and reports have been written on questions of data sharing, data provenance, research reproducibility, licensing, attribution, privacy, and more—but our goal here is <em>not</em> to review that literature. Instead, we present a short guide intended for researchers who want to know why it is important to “care for and feed” data, with some practical advice on how to do that. The final section at the close of this work (<a href="#s12">Links to Useful Resources</a>) offers links to the types of services referred to throughout the text. <strong>Boldface lettering</strong> below highlights actions one can take to follow the suggested rules.</p>
+</div>
+
+<div id="section2" class="section"><a id="s2" name="s2" toc="s2" title="Rule 1. Love Your Data, and Help Others Love It, Too"></a><h3>Rule 1. Love Your Data, and Help Others Love It, Too</h3><a id="article1.body1.sec2.p1" name="article1.body1.sec2.p1"></a><p>Data management is a repeat-play game. If you take care to make your data easily available to others, others are more likely to do the same—eventually. While we wait for this new sharing equilibrium to be reached, you can take two important actions. First, cherish, document, and <strong>publish your data</strong>, preferably using the robust methods described in Rule 2. Get started now, as better tools and resources for data management are becoming more numerous, universities and research communities are moving toward bigger investments in data repositories (Rule 8), and more librarians and scientists are learning data management skills (Rule 10). At the very least, loving your own available data will serve <em>you</em>: you'll be able to find and reuse your own data if you treat them well. Second, enable and <strong>encourage others to cherish, document, and publish their data</strong>. If you are a research scientist, chances are that not only are you an author, but also a reviewer for a specialized journal or conference venue. As a reviewer, <strong>request that the authors of papers you review provide documentation and access to their data</strong> according to the rules set out in the remainder of this article. While institutional approaches are clearly essential (Rules 8 and 10), changing minds one scientist at a time is effective as well.</p>
+</div>
+
+<div id="section3" class="section"><a id="s3" name="s3" toc="s3" title="Rule 2. Share Your Data Online, with a Permanent Identifier"></a><h3>Rule 2. Share Your Data Online, with a Permanent Identifier</h3><a id="article1.body1.sec3.p1" name="article1.body1.sec3.p1"></a><p>Nothing really lasts forever, so “permanent” actually just means long-lasting. For example, your personal web site is unlikely to be a good option for long-term data storage (yet, in the very short run, putting your data on your site is better than doing nothing at all!). In general, although many papers include URLs to give access to datasets, most become inaccessible within a few years <a href="#pcbi.1003542-Wren1">[5]</a>. The best option for releasing your data with long-term guarantee is to <strong>deposit them in whatever data archive is the “go to” place for your field</strong>. A proper, trustworthy archive will: (1) assign an identifier such as a “handle” (hdl) or “digital object identifier” (doi); (2) require that you provide adequate documentation and metadata; and (3) manage the “care and feeding” of your data by employing good curation practices. If no such archive exists in your field, there are also generic (non-domain-specific) online services that can host your data and issue persistent identifiers (see Rule 8). Pointers to a few generic repositories are listed in the <a href="#s12">Links to Useful Resources</a> (section A), and longer compilations of such services are in the <a href="#s12">Links to Useful Resources</a> (B).</p>
+</div>
+
+<div id="section4" class="section"><a id="s4" name="s4" toc="s4" title="Rule 3. Conduct Science with a Particular Level of Reuse in Mind"></a><h3>Rule 3. Conduct Science with a Particular Level of Reuse in Mind</h3><a id="article1.body1.sec4.p1" name="article1.body1.sec4.p1"></a><p>Data from others are hard to use without context describing what the data are and how they were obtained. The W3C Provenance Group (<a href="http://www.w3.org/TR/2013/REC-prov-dm-20130430/#dfn-provenance">http://www.w3.org/TR/2013/REC-prov-dm-20​130430/#dfn-provenance</a>) defines information “provenance” as the sum of all of the processes, people (institutions or agents), and documents (data included!) that were involved in generating or otherwise influencing or delivering a piece of information. Perfect documentation of provenance is rarely, if ever, attained in scientific work today. The higher the quality of provenance information, the higher the chance of enabling data reuse. In general, data reuse is most possible when: 1) data; 2) metadata (information describing the data); and 3) information about the process of generating those data, such as code, are all provided. In trying to follow the rules listed in this article, you will do best if you plan in advance for ways to provide all three kinds of information. <strong>In carrying out your work, consider what level of reuse you realistically expect and plan accordingly.</strong> Do you want your work to be fully <em>reproducible</em>? If so, then provenance information is a must (e.g., working pipeline analysis code, a platform to run it on, and verifiable versions of the data). Or do you just want your work to be <em>inspectable</em>? If so, then intermediate data products and pseudo-code may be sufficient. Or maybe your goal is that your data is <em>usable</em> in a wide range of applications? If so, <strong>consider adopting standard formats and metadata standards early on</strong>. At the very least, <strong>keep careful track of versions of data and code</strong>, with associated dates. Taking these steps as you plan and carry out projects will earn you the thanks of researchers, including you, looking back from the future. (Consult the <a href="#s12">Links to Useful Resources</a> [E] for a list of tools to package all your research materials with reuse in mind.)</p>
+</div>
+
+<div id="section5" class="section"><a id="s5" name="s5" toc="s5" title="Rule 4. Publish Workflow as Context"></a><h3>Rule 4. Publish Workflow as Context</h3><a id="article1.body1.sec5.p1" name="article1.body1.sec5.p1"></a><p>Publishing a description of your processing steps offers essential context for interpreting and reusing data. As such, scientists typically include a “methods” and/or “analysis” section(s) in a scholarly article, used to describe data collection, manipulation, and analysis processes. Computer and information scientists call the combination of the collection methods and analysis processes for a project its “workflow,” and they consider the information used and captured in the workflow to be part of the “provenance” of the data. In some cases (mostly in genomics), scientists can use existing workflow software in <em>running</em> experiments and in <em>recording</em> what was done in those experiments, e.g., Gene Pattern (<a href="http://www.genepattern.org">www.genepattern.org</a>). In that best-case scenario, the workflow software, its version, and settings used can be published alongside data using the other rules laid out here. But, it is rare outside of genomics to see the end-to-end process described in a research paper run, orchestrated, and/or recorded by a single software package. In a plausible utopian future, automated workflow documentation could extend to all fields, so that an electronic provenance record could link together all the pieces that led to a result: the data citation (Rule 2), the pointer to the code (Rule 6), the workflow (this rule), and a scholarly paper (Rule 5). But what can you do now? <strong>At a minimum, provide, alongside any deposit of data, a simple sketch of data flow across software, indicating how intermediate and final data products and results are generated. If it's feasible and you are willing to deal with a higher level of complexity, also consider using an online service to encapsulate your workflow (see </strong><a href="#s12"><strong>Links to Useful Resources</strong></a><strong> [C] for a list of services)</strong>. Keep in mind that even if the data used are not “new,” in that they come from a well-documented archive, it is still important to document the archive query that produced the data you used, along with all the operations you performed on the data after they were retrieved. Keeping better track of workflow, as context, will likely benefit you and your collaborators enough to justify the loftier, more altruistic, goals espoused here.</p>
+</div>
+
+<div id="section6" class="section"><a id="s6" name="s6" toc="s6" title="Rule 5. Link Your Data to Your Publications as Often as Possible"></a><h3>Rule 5. Link Your Data to Your Publications as Often as Possible</h3><a id="article1.body1.sec6.p1" name="article1.body1.sec6.p1"></a><p>Whether your “data” include tables, spreadsheets, images, graphs, databases, and/or code, you should make as much of it as possible available <em>with</em> any paper that presents it. <strong>If it's practical and helpful, share your data as early as possible in your research workflow: as soon as you are done with the analysis, even before you write any articles about it.</strong> Your data can even be cited before (or without) its inclusion in a paper (see Rule 7). Many journals now offer standard ways to contribute data to their archives and link it to your paper, often with a persistent identifier. Whenever possible, <strong>embed citations (links) to your data and code, each with its own persistent identifier, right into the text of your paper, just like you would reference other literature.</strong> If a journal hosting your paper doesn't offer a place for your data, and or an identifier for it, use a repository (Rule 8) and get your own identifier (Rule 2). At a <em>minimum</em>, you can post, and refer to, a package of files (data, codes, documentation on parameters, metadata, license information, and/or lists of links to such) with a persistent online identifier (Rule 2). And, if your domain's journals' policies do not allow for good data–literature interlinking, try to effect change (see Rules 1 and 10).</p>
+</div>
+
+<div id="section7" class="section"><a id="s7" name="s7" toc="s7" title="Rule 6. Publish Your Code (Even the Small Bits)"></a><h3>Rule 6. Publish Your Code (Even the Small Bits)</h3><a id="article1.body1.sec7.p1" name="article1.body1.sec7.p1"></a><p>Did you write any code to run your analysis? <strong>No matter how buggy and insignificant you may find it, publish it.</strong> Many easy-to-use source code repositories exist, which allow not only hosting of software but also facilitate collaboration and version tracking (see <a href="#s12">Links to Useful Resources</a> [D]). Your code, even the shortest script (whether or not you are proud of its quality), can be an important component for understanding your data and how you got your results <a href="#pcbi.1003542-Barnes1">[6]</a>. Software plays several roles in relation to data and scientific research, and norms around its publication are still evolving and differ across disciplines <a href="#pcbi.1003542-Shamir1">[7]</a>. In some cases, software is the primary data product (e.g., new algorithms). In some other cases, data are the primary research products, yet the best way to document their provenance is to publish the software that was used to generate them as “metadata.” In both cases, publishing the source code and its version history is crucial to enhance transparency and reproducibility. The use of open-source software when possible reduces barriers for subsequent users of your software-related data products <a href="#pcbi.1003542-Prli1">[8]</a>. The same best practices discussed above in relation to data and workflow also apply to software materials: cite the software that you use and provide unique, persistent identifiers (Rule 2) to the code you share.</p>
+</div>
+
+<div id="section8" class="section"><a id="s8" name="s8" toc="s8" title="Rule 7. State How You Want to Get Credit"></a><h3>Rule 7. State How You Want to Get Credit</h3><a id="article1.body1.sec8.p1" name="article1.body1.sec8.p1"></a><p>Chances are that you want to get credit for what you share. The attribution system used for scholarly articles, accomplished via citations, often breaks in the case of data and software. When other authors reuse or cite your data or code, you may get an acknowledgment or an incoming link. If you and your colleagues have gone to the trouble to write a “data paper,” whose main purpose is to describe your data and/or code, you may also get a citation <a href="#pcbi.1003542-Chavan1">[9]</a>. But, “data paper” writing is not always desirable, or relevant. So, how do you go about getting the full credit you deserve for your data and code? <strong>The best way is to simply describe your expectations on how you would like to be acknowledged.</strong> If you want, <strong>you can also release your data under a license and indicate explicitly in the paper or in the metadata how you want others to give you credit.</strong> But, while legal mechanisms have advantages, they can also inadvertently lead to limitations on the reuse of the data you are sharing. In any case, <strong>make information about you (e.g., your name, institution), about the data and/or code (e.g., origin, version, associated files, and metadata), and about exactly how you would like to get credit, as clear as possible.</strong> Easy-to-implement licenses, many of which offer the advantage of being machine-readable, are offered by the Creative Commons organization (<a href="http://creativecommons.org/choose/">http://creativecommons.org/choose/</a>), as are other similar options, such as those offered by Open Data Commons (<a href="http://opendatacommons.org/licenses/pddl/">http://opendatacommons.org/licenses/pddl​/</a>). The <a href="#s12">Links to Useful Resources</a> (G) provides more information.</p>
+</div>
+
+<div id="section9" class="section"><a id="s9" name="s9" toc="s9" title="Rule 8. Foster and Use Data Repositories"></a><h3>Rule 8. Foster and Use Data Repositories</h3><a id="article1.body1.sec9.p1" name="article1.body1.sec9.p1"></a><p>Sometimes the hardest and most time-consuming step of sharing data and code is finding and deciding where to put them. Data-sharing practices vary widely across disciplines: in some fields data sharing and reuse are essential and commonplace, while in others data sharing is a “gift exchange” culture <a href="#pcbi.1003542-Wallis1">[10]</a>. <strong>If your community already has a standard repository, use it. If you don't know where to start looking, or you need help choosing among relevant repositories, ask an information specialist, such as a data scientist or a librarian working in your field</strong> (and consult the directories of data repositories listed in the <a href="#s12">Links to Useful Resources</a> [B]). When choosing among repositories, try to find the one offering the best combination of ease-of-deposit, community uptake, accessibility, discoverability, value-added curation, preservation infrastructure, organizational persistence, and support for the data formats and standards you use. <strong>Remember that even if your field has no domain-based repository, your institution may have one</strong>, and your local librarian or archivist can instruct you on how to use that local resource. If neither your community nor your institution has a relevant repository, try a generic repository or consider setting up your own (see Rule 2, and <a href="#s12">Links to Useful Resources</a> [F]).</p>
+</div>
+
+<div id="section10" class="section"><a id="s10" name="s10" toc="s10" title="Rule 9. Reward Colleagues Who Share Their Data Properly"></a><h3>Rule 9. Reward Colleagues Who Share Their Data Properly</h3><a id="article1.body1.sec10.p1" name="article1.body1.sec10.p1"></a><p>Whether you do it in person at scientific meetings and conferences or by written communication when reviewing papers and grants, <strong>reward your colleagues who share data and code. Rally your colleagues and engage your community by providing feedback on the quality of the data assets in your field. Praise those following the best practices.</strong> The more the data created by your colleagues is accessible as an organized collection of some sort, the better your community's research capacity. The more data get shared, used, and cited, the more they improve. Besides personal involvement and encouragement, the best way to reward data sharing is by attribution: always cite the sources of data that you use. <strong>Follow good scientific practice and give credit to those whose data you use, following their preferred reference format and according to current best practices.</strong> Standards and practices for citing and attributing data sources are actively being developed through international partnerships <a href="#pcbi.1003542-Uhlir1">[11]</a>, <a href="#pcbi.1003542-FORCE111">[12]</a>.</p>
+</div>
+
+<div id="section11" class="section"><a id="s11" name="s11" toc="s11" title="Rule 10. Be a Booster for Data Science"></a><h3>Rule 10. Be a Booster for Data Science</h3><a id="article1.body1.sec11.p1" name="article1.body1.sec11.p1"></a><p>As Rule 1 says, it is important not just that <em>you</em> love your own data, but that <em>others</em> love data, too. An attitude that data and code are “second-class objects,” behind traditional scholarly publications, is still prevalent. But, every day, as scientists try to use the frustrating but tantalizing hodgepodge of research data available via the present ad hoc network of online systems, the value of organizing an open network of reusable data and code is becoming more and more clear, to more and more people. <strong>You, as a scientist, need to help organize your discipline and your institution to move more quickly toward a world of open, discoverable, reproducible data and research. One important step is to </strong><strong><em>advocate</em></strong><strong> for hiring data specialists and for the overall support of institutional programs that improve data sharing.</strong> Make sure not only advanced researchers (e.g., postdocs) experience the pleasures of doing research with freely available data and tools: <strong><em>explain</em></strong><strong> and </strong><strong><em>show</em></strong><strong> the value of well-loved data to graduate and undergraduate researchers</strong>. <em>Teach</em> whole courses, or mini-courses, related to caring for data and software, or incorporate the ideas into existing courses. <em>Form groups</em> specific to your discipline to foster data and code sharing. Hold birds-of-a-feather or special <em>sessions during large meetings</em> demonstrating examples in which good sharing practices have led to better results and collaborations. Lead by practicing what you preach.</p>
+</div>
+
+<div id="section12" class="section"><a id="s12" name="s12" toc="s12" title="Links to Useful Resources"></a><h3>Links to Useful Resources</h3>
+<h4>A: General Data Repositories</h4>
+
+
+<ul class="bulletlist">
+
+<li>Dataverse (<a href="http://thedata.org">http://thedata.org</a>): A repository for research data that takes care of long-term preservation and good archival practices, while researchers can share, keep control of, and get recognition for their data.</li>
+
+<li>FigShare (<a href="http://figshare.com">http://figshare.com</a>): A repository where users can make all of their research outputs available in a citable, shareable, and discoverable manner.</li>
+
+<li>Zenodo (<a href="http://zenodo.org">http://zenodo.org</a>): A repository service that enables researchers, scientists, projects, and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of existing institutional or subject-based repositories.</li>
+
+<li>Dryad (<a href="http://datadryad.org">http://datadryad.org</a>): A repository that aims to make data archiving as simple and as rewarding as possible through a suite of services not necessarily provided by publishers or institutional websites.</li>
+
+</ul>
+
+<h4>B: Directories of Research Data Repositories</h4>
+
+
+<ul class="bulletlist">
+
+<li>DataBib (<a href="http://databib.org">http://databib.org</a>): Databib is a tool for helping people identify and locate online repositories of research data. Users and bibliographers create and curate records that describe data repositories that users can search.</li>
+
+<li>Re3data.org (<a href="http://www.re3data.org">http://www.re3data.org</a>): Re3data is a global registry of research data repositories from different academic disciplines for researchers, funding bodies, publishers, and scholarly institutions.</li>
+
+<li>Open Access Directory (<a href="http://oad.simmons.edu/oadwiki/Data_repositories">http://oad. simmons.edu/oadwiki/Data_repositories</a>): A list of repositories and databases for open data.</li>
+
+<li>Force 11 Catalog (<a href="http://www.force11.org/catalog">http://www.force11.org/catalog</a>): A dynamic inventory of web-based scholarly resources, a collection of alternative publication systems, databases, organizations and groups, software, services, standards, formats, and training tools.</li>
+
+</ul>
+
+<h4>C: Workflow Management Systems</h4>
+
+
+<ul class="bulletlist">
+
+<li>Taverna (<a href="http://www.taverna.org.uk">http://www.taverna.org.uk</a>): An open-source and domain-independent workflow management system—a suite of tools used to design and execute scientific workflows and aid in silico experimentation.</li>
+
+<li>Kepler (<a href="https://kepler-project.org">https://kepler-project.org</a>): Software designed to help scientists, analysts, and computer programmers create, execute, and share models and analyses across a broad range of scientific and engineering disciplines.</li>
+
+<li>Wings (<a href="http://www.wings-workflows.org">http://www.wings-workflows.org</a>): A semantic workflow system that assists scientists with the design of computational experiments.</li>
+
+<li>VisTrails (<a href="http://www.vistrails.org">http://www.vistrails.org</a>): An open-source scientific workflow and provenance management system that supports data exploration and visualization.</li>
+
+<li>Knime (<a href="http://www.knime.org">http://www.knime.org</a>): A graphical workbench for the entire analysis process: data access, data transformation, initial investigation, powerful predictive analytics, visualization, and reporting.</li>
+
+</ul>
+
+<h4>D: Source Code Repositories</h4>
+
+
+<ul class="bulletlist">
+
+<li>Github (<a href="http://github.com">http://github.com</a>): A web-based hosting service for software development projects that use the Git revision control system, including many open-source projects.</li>
+
+<li>Git (<a href="http://git-scm.com">http://git-scm.com</a>): A free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.</li>
+
+<li>Mercurial (<a href="http://mercurial.selenic.com">http://mercurial.selenic.com</a>): A free, distributed source control management tool. It efficiently handles projects of any size and offers an easy and intuitive interface.</li>
+
+<li>BitBucket (<a href="https://bitbucket.org">https://bitbucket.org</a>): A web-based hosting service for projects that use either the Mercurial or Git revision control systems.</li>
+
+</ul>
+
+<h4>E: Systems to Package, Access, and Execute Data and Code</h4>
+
+
+<ul class="bulletlist">
+
+<li>IPython Notebook (<a href="http://ipython.org/notebook.html">http://ipython.org/notebook.html</a>): A web-based interactive computational environment where you can combine code execution, text, mathematics, plots, and rich media into a single document.</li>
+
+<li>ROpenSci (<a href="http://ropensci.org">http://ropensci.org</a>): A suite of packages that allow access to data repositories through the R statistical programming environment.</li>
+
+<li>Authorea (<a href="https://authorea.com">https://authorea.com</a>): A collaborative online word processor for scholarly papers that allows the writing of web-native, living, dynamic, “executable” articles that include text, mathematical notation, images, and data. It currently supports inclusion and rendering of d3.js plots and IPython notebooks.</li>
+
+<li>Dexy (<a href="http://dexy.it">http://dexy.it</a>): A multipurpose project automation tool for working with documents via a command-line interface.</li>
+
+</ul>
+
+<h4>F: Software Tools to Run Your Own Document Repository</h4>
+
+
+<ul class="bulletlist">
+
+<li>Invenio (<a href="http://invenio-software.org">http://invenio-software.org</a>): Invenio is a free software suite enabling you to run your own digital library or document repository on the web. Invenio is an ideal solution for running document repositories of moderate to large sizes (several millions of records). Invenio is codeveloped by CERN, DESY, EPFL, FNAL, and SLAC.</li>
+
+<li>Eprints (<a href="http://www.eprints.org/software">http://www.eprints.org/software</a>): EPrints is one of the easiest and fastest ways to set up small to medium-sized repositories of open-access research literature, scientific data, theses, reports, and multimedia. Developed at the University of Southampton, UK.</li>
+
+<li>DSpace (<a href="http://www.dspace.org">http://www.dspace.org</a>): DSpace is a turnkey institutional repository application developed by the Duraspace organization.</li>
+
+</ul>
+
+<h4>G: Licensing and Privacy</h4>
+
+
+<ul class="bulletlist">
+
+<li>Open Source Initiative (<a href="http://opensource.org/licenses">http://opensource.org/licenses</a>): Open-source licenses are licenses that comply with the Open Source Definition: they allow software to be freely used, modified, and shared. These include Apache, BSD, GNU (GPL), MIT, and the Mozilla Public License.</li>
+
+<li>Privacy Tools for Sharing Research Data (<a href="http://privacytools.seas.harvard.edu">http://privacytools.seas.harvard.edu</a>): A Harvard-based collaborative and multidisciplinary effort to help enable the collection, analysis, and sharing of personal data for research in social science and other fields while providing privacy for individual subjects.</li>
+
+</ul>
+</div>
+
+
+
+
+
+<div><a id="ack" name="ack" toc="ack" title="Acknowledgments"></a><h3>Acknowledgments</h3>
+<a id="article1.back1.ack1.p1" name="article1.back1.ack1.p1"></a><p>This article is an outcome of an Exploratory Seminar called “What to Keep and How to Analyze It: Data Curation and Data Analysis with Multiple Phases” (<a href="http://www.radcliffe.harvard.edu/exploratory-seminars/what-to-keep-and-how-to-analyze-it">http://www.radcliffe.harvard.edu/explora​tory-seminars/what-to-keep-and-how-to-an​alyze-it</a>) organized by Xiao-Li Meng and Alyssa Goodman, held on May 9–10, 2013 at the <strong>Radcliffe Institute for Advanced Study, Harvard University</strong>, Cambridge, Massachusetts. This article was written <strong>collaboratively</strong>, <strong>online</strong>, in the <strong>open</strong>, using Authorea. Every iteration of the writing procedure is logged and available in the online version of this article at <a href="https://www.authorea.com/3410">https://www.authorea.com/3410</a>.</p>
+</div><div><a id="references" name="references" toc="references" title="References"></a><h3>References</h3><ol class="references"><li><span class="label">1.
+              </span><a name="pcbi.1003542-Galilei1" id="pcbi.1003542-Galilei1"></a>Galilei G (1610) Sidereus nuncius. Mapping of the stars series. Thomas Baglioni <ul class="find" data-citedarticleid="11180819"><li><a href="http://www.crossref.org/guestquery/?auth2=Galilei&amp;atitle2=Sidereus+nuncius.+Mapping+of+the+stars+series&amp;auth=Galilei&amp;atitle=Sidereus+nuncius.+Mapping+of+the+stars+series" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Galilei%5Bauthor%5D+AND+Sidereus+nuncius.+Mapping+of+the+stars+series" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=author%3AGalilei+%22Sidereus+nuncius.+Mapping+of+the+stars+series%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">2.
+              </span><a name="pcbi.1003542-Galilei2" id="pcbi.1003542-Galilei2"></a>Galilei G (1618) The Assayer, as translated by Stillman Drake (1957). Available: <a href="http://books.google.com/books?id=uSctMwEACAAJ">http://books.google.com/books?id=uSctMwE​ACAAJ</a>. <ul class="find-nolinks"></ul></li><li><span class="label">3.
+              </span><a name="pcbi.1003542-Drake1" id="pcbi.1003542-Drake1"></a>Drake S (1957) Discoveries and opinions of Galileo: including The Starry Messenger (1610), Letter to the Grand Duchess Christina (1615), and Excerpts from Letters on Sunspots (1613), The Assayer (1623). Anchor Books. Available: <a href="http://books.google.com/books?id=P2tmjengyBcC">http://books.google.com/books?id=P2tmjen​gyBcC</a>. <ul class="find-nolinks"></ul></li><li><span class="label">4.
+              </span><a name="pcbi.1003542-Holdren1" id="pcbi.1003542-Holdren1"></a>Holdren J (2013) Increasing public access to the results of scientific research. Memorandum of the US Office of Science and Technology, 22 February 2013. <ul class="find-nolinks"></ul></li><li><span class="label">5.
+              </span><a name="pcbi.1003542-Wren1" id="pcbi.1003542-Wren1"></a>Wren JD (2008) URL decay in MEDLINE–a 4-year follow-up study. Bioinformatics 24: 1381–1385. <ul class="find" data-citedarticleid="11180827"><li><a href="http://www.crossref.org/guestquery/?auth2=Wren&amp;atitle2=URL+decay+in+MEDLINE%3Fa+4-year+follow-up+study&amp;auth=Wren&amp;atitle=URL+decay+in+MEDLINE%3Fa+4-year+follow-up+study" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Wren%5Bauthor%5D+AND+URL+decay+in+MEDLINE%E2%80%93a+4-year+follow-up+study" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=author%3AWren+%22URL+decay+in+MEDLINE%E2%80%93a+4-year+follow-up+study%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">6.
+              </span><a name="pcbi.1003542-Barnes1" id="pcbi.1003542-Barnes1"></a>Barnes N (2010) Publish your computer code: it is good enough. Nature 467: 753–753. <ul class="find" data-citedarticleid="11180829"><li><a href="http://www.crossref.org/guestquery/?auth2=Barnes&amp;atitle2=Publish+your+computer+code%3A+it+is+good+enough&amp;auth=Barnes&amp;atitle=Publish+your+computer+code%3A+it+is+good+enough" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Barnes%5Bauthor%5D+AND+Publish+your+computer+code%3A+it+is+good+enough" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=author%3ABarnes+%22Publish+your+computer+code%3A+it+is+good+enough%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">7.
+              </span><a name="pcbi.1003542-Shamir1" id="pcbi.1003542-Shamir1"></a>Shamir L, Wallin JF, Allen A, Berriman B, Teuben P, et al. (2013) Practices in source code sharing in astrophysics. Astronomy and Computing 1: 54–58. <ul class="find" data-citedarticleid="11180831"><li><a href="http://www.crossref.org/guestquery/?auth2=Shamir&amp;atitle2=Practices+in+source+code+sharing+in+astrophysics&amp;auth=Shamir&amp;atitle=Practices+in+source+code+sharing+in+astrophysics" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Shamir%5Bauthor%5D+AND+Practices+in+source+code+sharing+in+astrophysics" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=author%3AShamir+%22Practices+in+source+code+sharing+in+astrophysics%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">8.
+              </span><a name="pcbi.1003542-Prli1" id="pcbi.1003542-Prli1"></a>Prlić A, Procter JB (2012) Ten simple rules for the open development of scientific software. PLoS Comput Biol 8: e1002802. <ul class="find" data-citedarticleid="11180833"><li><a href="http://www.crossref.org/guestquery/?auth2=Prli%3F&amp;atitle2=Ten+simple+rules+for+the+open+development+of+scientific+software&amp;auth=Prli%3F&amp;atitle=Ten+simple+rules+for+the+open+development+of+scientific+software" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Prli%C4%87%5Bauthor%5D+AND+Ten+simple+rules+for+the+open+development+of+scientific+software" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=author%3APrli%C4%87+%22Ten+simple+rules+for+the+open+development+of+scientific+software%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">9.
+              </span><a name="pcbi.1003542-Chavan1" id="pcbi.1003542-Chavan1"></a>Chavan V, Penev L (2011) The data paper: a mechanism to incentivize data publishing in biodi-versity science. BMC Bioinformatics 12: S2. <ul class="find" data-citedarticleid="11180835"><li><a href="http://www.crossref.org/guestquery/?auth2=Chavan&amp;atitle2=The+data+paper%3A+a+mechanism+to+incentivize+data+publishing+in+biodi-versity+science&amp;auth=Chavan&amp;atitle=The+data+paper%3A+a+mechanism+to+incentivize+data+publishing+in+biodi-versity+science" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Chavan%5Bauthor%5D+AND+The+data+paper%3A+a+mechanism+to+incentivize+data+publishing+in+biodi-versity+science" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=author%3AChavan+%22The+data+paper%3A+a+mechanism+to+incentivize+data+publishing+in+biodi-versity+science%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">10.
+              </span><a name="pcbi.1003542-Wallis1" id="pcbi.1003542-Wallis1"></a>Wallis JC, Rolando E, Borgman CL (2013) If we share data, will anyone use them? Data sharing and reuse in the long tail of science and technology. PLoS ONE 8: e67332. <ul class="find" data-citedarticleid="11180837"><li><a href="http://www.crossref.org/guestquery/?auth2=Wallis&amp;atitle2=If+we+share+data%2C+will+anyone+use+them%3F+Data+sharing+and+reuse+in+the+long+tail+of+science+and+technology&amp;auth=Wallis&amp;atitle=If+we+share+data%2C+will+anyone+use+them%3F+Data+sharing+and+reuse+in+the+long+tail+of+science+and+technology" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Wallis%5Bauthor%5D+AND+If+we+share+data%2C+will+anyone+use+them%3F+Data+sharing+and+reuse+in+the+long+tail+of+science+and+technology" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=author%3AWallis+%22If+we+share+data%2C+will+anyone+use+them%3F+Data+sharing+and+reuse+in+the+long+tail+of+science+and+technology%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">11.
+              </span><a name="pcbi.1003542-Uhlir1" id="pcbi.1003542-Uhlir1"></a>Uhlir PE (2012) For attribution – developing data attribution and citation practices and standards: summary of an international workshop. The National Academies Press. <ul class="find-nolinks"></ul></li><li><span class="label">12.
+              </span><a name="pcbi.1003542-FORCE111" id="pcbi.1003542-FORCE111"></a>FORCE11 (2013) Amsterdam Manifesto on Data Citation Principles. Available: <a href="http://www.force11.org/AmsterdamManifesto">http://www.force11.org/AmsterdamManifest​o</a>. <ul class="find-nolinks"></ul></li></ol></div>
+
+  </div>
+
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pcbi.1003542.g001.PNG_I" value="185192">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pcbi.1003542.XML" value="46866">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pcbi.1003542.g001.PNG_S" value="16734">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pcbi.1003542.g001.PNG_M" value="627066">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pcbi.1003542.g001.PNG_L" value="6614592">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pcbi.1003542.g001.TIF" value="5036940">
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pcbi.1003542.PDF" value="6922931">
+
+</div>
+<div class="sidebar">
+
+  <div class="article-actions cf">
+      <div class="download">
+        <span class="btn"><a href="/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542&amp;representation=PDF" title="Download" target="_blank">Download PDF</a></span>
+      </div>
+      <div class="btn-reveal dropdown">
+        <div class="dropdown-icon">
+          <span class="btn">&nbsp;</span>
+        </div>
+
+        <div class="content">
+          <ul class="bullet">
+            <li><a href="/article/citationList.action?articleURI=info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542" title="Download citations">Citation</a></li>
+            <li><a href="/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542&amp;representation=XML" title="Download article XML">XML</a></li>
+          </ul>
+        </div>
+      </div> <!-- end btn-reveal dropdown-->
+
+
+    <div class="btn-reveal flt-l">
+        <span class="btn">Print</span>
+        <div class="content">
+            <ul class="bullet">
+                <li id="print-article"><a href="#" onclick="if(typeof(_gaq) != 'undefined'){ _gaq.push(['_trackEvent','Article', 'Print', 'Click']); } window.print(); return false;" title="Print Article">Print article</a></li>
+                <li>
+                  <a href="https://www.odysseypress.com/onlinehost/reprint_order.php?type=A&amp;page=0&amp;journal=3&amp;doi=10.1371/journal.pcbi.1003542&amp;volume=&amp;issue=&amp;title=Ten Simple Rules for the Care and Feeding of Scientific Data&amp;author_name=Alyssa%20Goodman%2C%20Alberto%20Pepe%2C%20Alexander%20W.%20Blocker%2C%20Christine%20L.%20Borgman%2C%20Kyle%20Cranmer%2C%20Merce%20Crosas%2C%20Rosanne%20Di%20Stefano%2C%20Yolanda%20Gil%2C%20Paul%20Groth%2C%20Margaret%20Hedstrom%2C%20David%20W.%20Hogg%2C%20Vinay%20Kashyap%2C%20Ashish%20Mahabal%2C%20Aneta%20Siemiginowska%2C%20Aleksandra%20Slavkovic&amp;start_page=1&amp;end_page=5" title="Odyssey Press">EzReprint</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="btn-reveal flt-r">
+        <span class="btn">Share</span>
+        <div class="content">
+            <ul class="social">
+                <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pcbi.1003542" target="_blank" title="Submit to Reddit"><img src="/images/icon.reddit.16.png" width="16" height="16" alt="Reddit">Reddit</a></li>
+
+                <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pcbi.1003542" target="_blank" title="Share on Google+"><img src="/images/icon.gplus.16.png" width="16" height="16" alt="Google+">Google+</a></li>
+
+                <li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.ploscompbiol.org%2Farticle%2Finfo%253Adoi%252F10.1371%252Fjournal.pcbi.1003542" target="_blank" title="Add to StumbleUpon"><img src="/images/icon.stumble.16.png" width="16" height="16" alt="StumbleUpon">StumbleUpon</a></li>
+
+                <li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pcbi.1003542&amp;t=Ten%20Simple%20Rules%20for%20the%20Care%20and%20Feeding%20of%20Scientific%20Data" target="_blank" title="Share on Facebook"><img src="/images/icon.fb.16.png" width="16" height="16" alt="Facebook">Facebook</a></li>
+
+                <li><a href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pcbi.1003542&amp;title=Ten%20Simple%20Rules%20for%20the%20Care%20and%20Feeding%20of%20Scientific%20Data&amp;summary=Checkout%20this%20article%20I%20found%20at%20PLOS" target="_blank" title="Add to LinkedIn"><img src="/images/icon.linkedin.16.png" width="16" height="16" alt="Mendeley">LinkedIn</a></li>
+
+                <li><a href="http://www.citeulike.org/posturl?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pcbi.1003542&amp;title=Ten%20Simple%20Rules%20for%20the%20Care%20and%20Feeding%20of%20Scientific%20Data" target="_blank" title="Add to CiteULike"><img src="/images/icon.cul.16.png" width="16" height="16" alt="CiteULike">CiteULike</a></li>
+
+                <li><a href="http://www.mendeley.com/import/?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pcbi.1003542" target="_blank" title="Add to Mendeley"><img src="/images/icon.mendeley.16.png" width="16" height="16" alt="Mendeley">Mendeley</a></li>
+
+                <li><a href="https://www.pubchase.com/library?add_aid=10.1371%2Fjournal.pcbi.1003542&amp;source=plos" target="_blank" title="Add to PubChase"><img src="/images/icon.pc.16.png" width="16" height="16" alt="PubChase">PubChase</a></li>
+
+
+                <script type="text/javascript">
+                    // replace tweet with one that's pre-shortened to 140 chars
+                    function truncateTweetText() {
+                        var twtTitle = 'Ten Simple Rules for the Care and Feeding of Scientific Data';
+                        var twtUrl = 'http://dx.plos.org/10.1371/journal.pcbi.1003542';
+                        // all URLs posted to twitter get auto-shortened to 20 chars.
+                        var maxLength = 140 - (20 + 1);
+                        // truncate the title to include space for twtTag and ellipsis (here, 10 = tag length + space + ellipsis)
+                        if (twtTitle.length > maxLength) { twtTitle = twtTitle.substr(0, (maxLength - 10)) + '...'; }
+                        // set the href to use the shortened tweet
+                        $('#twitter-share-link').prop('href', 'http://twitter.com/intent/tweet?text=' + encodeURIComponent('#PLOSCompBio: ' + twtTitle + ' ' + twtUrl));
+                    }
+                </script>
+                <li><a href="http://twitter.com/intent/tweet?text=#PLOSCompBio%3A%20Ten%20Simple%20Rules%20for%20the%20Care%20and%20Feeding%20of%20Scientific%20Data http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pcbi.1003542" onclick="truncateTweetText();" target="_blank" title="Share on Twitter" id="twitter-share-link"><img src="/images/icon.twtr.16.png" width="16" height="16" alt="Twitter">Twitter</a></li>
+
+                <li><a href="/article/email/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003542" title="Email this article"><img src="/images/icon.email.16.png" width="16" height="16" alt="Email">Email</a></li>
+            </ul>
+        </div>
+    </div><!--end btn-reveal flt-r-->
+</div><!-- end article-actions-->
+
+<!-- begin Crossmark -->
+
+<a id="open-crossmark" href="#" style="margin-top: -28px; display:block"><img style="border: 0; display: none;
+ padding: 10px 0 18px 0;" id="crossmark-icon" src="/images/logo-crossmark-bw.png"></a>
+<div id="crossmark-dialog" style="display: none;" title="">
+    <!-- the external CrossMark data is loaded inside this iframe -->
+    <iframe id="crossmark-dialog-frame" frameborder="0"></iframe>
+</div>
+
+<!-- end crossmark -->
+
+<div class="block">
+    <div class="header">
+        <h3>Included in the Following Collection</h3>
+    </div>
+    <p></p><dd><a href="http://www.ploscollections.org/article/browse/issue/info%3Adoi%2F10.1371%2Fissue.pcol.v03.i01" title="Browse the Open-Access Collection"><em>PLOS Computational Biology</em>: Ten Simple Rules</a></dd><p></p>
+</div>
+
+<div class="block" id="subject-area-sidebar-block">
+    <div class="header">
+        <h3>Subject Areas</h3><div title="More information" id="subject-area-sidebar-block-help-icon"><img align="right" alt="info" src="/images/button_info.png"><div id="subject-area-sidebar-block-help"><img align="right" src="/images/button_info.png"><p>
+        <b>We want your feedback.</b> Do these subject areas make sense for this article? If not, click the flag
+        next to the incorrect subject area and we will review it. Thanks for your help!
+    </p></div></div>
+    </div>
+
+
+    <ul id="subject-area-sidebar-list">
+
+
+
+
+
+
+
+
+
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Archives%22" title="Search for articles in the subject area:'Archives'"><div class="flagText">Archives</div></a>
+              <div data-categoryid="18283" data-articleid="240063" data-categoryname="Archives" class="flagImage" title="Flag 'Archives' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Computer+software%22" title="Search for articles in the subject area:'Computer software'"><div class="flagText">Computer software</div></a>
+              <div data-categoryid="2287" data-articleid="240063" data-categoryname="Computer software" class="flagImage" title="Flag 'Computer software' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Data+management%22" title="Search for articles in the subject area:'Data management'"><div class="flagText">Data management</div></a>
+              <div data-categoryid="2693" data-articleid="240063" data-categoryname="Data management" class="flagImage" title="Flag 'Data management' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Data+processing%22" title="Search for articles in the subject area:'Data processing'"><div class="flagText">Data processing</div></a>
+              <div data-categoryid="18073" data-articleid="240063" data-categoryname="Data processing" class="flagImage" title="Flag 'Data processing' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Data+visualization%22" title="Search for articles in the subject area:'Data visualization'"><div class="flagText">Data visualization</div></a>
+              <div data-categoryid="8897" data-articleid="240063" data-categoryname="Data visualization" class="flagImage" title="Flag 'Data visualization' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Open+source+software%22" title="Search for articles in the subject area:'Open source software'"><div class="flagText">Open source software</div></a>
+              <div data-categoryid="24061" data-articleid="240063" data-categoryname="Open source software" class="flagImage" title="Flag 'Open source software' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Scientists%22" title="Search for articles in the subject area:'Scientists'"><div class="flagText">Scientists</div></a>
+              <div data-categoryid="46109" data-articleid="240063" data-categoryname="Scientists" class="flagImage" title="Flag 'Scientists' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Software+tools%22" title="Search for articles in the subject area:'Software tools'"><div class="flagText">Software tools</div></a>
+              <div data-categoryid="35531" data-articleid="240063" data-categoryname="Software tools" class="flagImage" title="Flag 'Software tools' as inappropriate"></div>
+          </li>
+    </ul>
+</div>
+
+<div class="ad">
+    <div class="title">Advertisement</div>
+
+
+
+  <iframe id="acd15d1a" name="acd15d1a" src="http://ads.plos.org/www/delivery/afr.php?zoneid=373&amp;cb=4477" frameborder="0" scrolling="no" width="160" height="600">
+    &lt;a href='http://ads.plos.org/www/delivery/ck.php?n=acd15d1a&amp;amp;cb=3124'
+      target='_top'&gt;&lt;img src='http://ads.plos.org/www/delivery/avw.php?zoneid=373&amp;amp;cb=6931&amp;amp;n=acd15d1a'
+      border='0' alt=''/&gt;
+    &lt;/a&gt;
+  </iframe>
+
+
+
+
+
+
+</div>
+
+<div id="twitter-alm-timeline" class="twitter-alm-timeline"></div>
+
+
+</div><!-- sidebar -->
+    </div>
+  </div>
+</div>
+<script src="http://wl.figshare.com/static/p_widget.js" type="text/javascript"></script><div id="pageftr">
+  <div class="ftr-cols cf">
+    <div class="col col-1">
+      <img src="/images/logo-plos-footer.png" alt="PLOS Logo" class="logo">
+      <p><a href="/static/releaseNotes">Ambra 2.9.17</a> Managed Colocation provided <br>by <a href="http://www.isc.org/">Internet Systems Consortium</a>.</p><p>
+      </p><div class="nav nav-aux">
+        <a href="/static/privacy">Privacy Policy</a> |
+        <a href="/static/terms">Terms of Use</a> |
+        <a href="http://www.plos.org/advertise/">Advertise</a> |
+        <a href="http://www.plos.org/about/media-inquiries/">Media Inquiries</a>
+      </div>
+    </div>
+    <div class="col col-2">
+      <p><a href="http://www.plos.org/publications/journals/">Publications</a></p>
+      <div class="nav">
+        <ul>
+          <li><a href="http://www.plosbiology.org">PLOS Biology</a></li>
+          <li><a href="http://www.plosmedicine.org">PLOS Medicine</a></li>
+          <li><a href="http://www.ploscompbiol.org">PLOS Computational Biology</a></li>
+          <li><a href="http://currents.plos.org">PLOS Currents</a></li>
+          <li><a href="http://www.plosgenetics.org">PLOS Genetics</a></li>
+          <li><a href="http://www.plospathogens.org">PLOS Pathogens</a></li>
+          <li><a href="http://www.plosone.org">PLOS ONE</a></li>
+          <li><a href="http://www.plosntds.org">PLOS Neglected Tropical Diseases</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="col col-3">
+      <div class="nav">
+        <p><a href="http://www.plos.org">plos.org</a></p>
+        <p><a href="http://blogs.plos.org">Blogs</a></p>
+        <p><a href="http://www.ploscollections.org">Collections</a></p>
+        <p><a href="/feedback/new">Send us feedback</a></p>
+
+        <p>California (US) corporation #C2354500, based in San Francisco</p>
+      </div>
+    </div>
+  </div>
+</div><!-- pageftr -->
+
+</div><!-- end page-wrap, this div is in header.ftl -->
+<script type="text/javascript" src="/javascript/jquery-1.8.1-min.js?v=Tm7VCOzZz3lE03ghpkS6SWkHbyI"></script>
+<script type="text/javascript" src="/javascript/ga-min.js?v=lNQ4gt8QcPDatjsdOFl_FGpPhLY"></script>
+<script type="text/javascript" src="/javascript/jquery.hoverIntent-min.js?v=mRiGNYY9cIXxVb8u0K_MdW7hHnc"></script>
+<script type="text/javascript" src="/javascript/jquery.placeholder-min.js?v=21Pn56Ur9h1N4K4VZDa0nqI3Pxo"></script>
+<script type="text/javascript" src="/javascript/jquery.jsonp-2.4.0-min.js?v=lqTpzoHfSq3I5Ygo01qq5WankEo"></script>
+<script type="text/javascript" src="/javascript/jquery-ui-1.9.2.custom-min.js?v=raSSlfNO0YsV5uUpAKmTB9n5VTc"></script>
+<script type="text/javascript" src="/javascript/jquery.tooltip-min.js?v=cw+6Smh+mdryIA25xvqIvHMrnZM"></script>
+<script type="text/javascript" src="/javascript/jquery.uniform-min.js?v=kYUAnX6W2W_2fK3RIuQ2m_YFG9U"></script>
+<script type="text/javascript" src="/javascript/jquery.pjax-min.js?v=939kLBjL5_YKbx71T1RHjYaD4l8"></script>
+<script type="text/javascript" src="/javascript/jquery.touchswipe-min.js?v=huaek_e6HqTduvCNAN91dJolTyw"></script>
+<script type="text/javascript" src="/javascript/jquery.base64-min.js?v=VwV1zeVqKZj5FCAdlK0q5NRxbBg"></script>
+<script type="text/javascript" src="/javascript/imagesloaded-min.js?v=XeuAp8Gc3mvQUo+wZCSF8ttPwvw"></script>
+<script type="text/javascript" src="/javascript/figviewer-min.js?v=yPUa0sUQ_iHkI+IRv2i9bjyZJFo"></script>
+<script type="text/javascript" src="/javascript/global-min.js?v=0Q3PwjeaWtXYDnqIsQvnL_ou0qs"></script>
+<script type="text/javascript" src="/javascript/alm-min.js?v=Y5gm6B0b4Kx2YHNObNrgEeBgXlY"></script>
+<script type="text/javascript" src="/javascript/twitter-min.js?v=xKgcxLsQFXy+at1ao1NVke8nFlM"></script>
+<script type="text/javascript" src="/javascript/crossmark.1.4-min.js?v=3FO4k0SjwTaGNnKGNSqthar1080"></script>
+
+
+
+</body></html>

@@ -1,0 +1,154 @@
+﻿(function(){
+var CM8CE = (window.CM8E && CM8E['social_science_humanities.science_society_studies.sss']) || {};
+var CM8CES = (CM8CE.serialsData && CM8CE.serialsData[1000]) || {};
+if (CM8CE.requestReceived)
+	CM8CE.requestReceived(1000, [], '3563,9,283,1,282,1,280,28,118,1,116,65,104,12,103,18,43,4,34,10,32,0,', '', 'D');
+
+function CM8MultiDo1() {
+document.write("<SPAN ID='CM8BWE_A8DA9E83EC73'>");
+	
+	var bwPlaceHolder = null;
+	if ((typeof(CM8CES) != "undefined") && CM8CES.CM8BWSTF_554687)
+		bwPlaceHolder = CM8CES.CM8BWSTF_554687(document.getElementById("CM8BWE_A8DA9E83EC73"));
+
+	if (window.CM8E && CM8E['social_science_humanities.science_society_studies.sss'])
+			CM8E['social_science_humanities.science_society_studies.sss'].bannerShowing(1000,document.getElementById("CM8BWE_A8DA9E83EC73"),
+					"homepage_rectangle_left",554687,bwPlaceHolder);document.write("<A HREF='http://sage.checkm8.com/adam/em/click/554687/cat=58600/uhook=A8DA9E83EC73/criterias=32_0_34_10_43_4_103_18_104_12_116_65_118_1_280_28_282_1_283_1_3563_9_' target='_blank'><IMG  SRC='http://sagedigital.checkm8.com/data/554687/OnlineFirst 300 x 100.gif' BORDER=0   WIDTH='300' HEIGHT='100'></A>");
+
+document.write("</SPAN><!-- CM8BWE_A8DA9E83EC73 -->");
+
+	var placeHoldersForCleanup = (typeof(CM8CE) == 'undefined') ? [] : (CM8CE.placeHolders || []);
+for (var placeHolderIndex = 0; placeHolderIndex < placeHoldersForCleanup.length; placeHolderIndex++) {
+	var placeHolderForCleanup = placeHoldersForCleanup[placeHolderIndex];
+	if (((typeof(CM8CES) == 'undefined') || (placeHolderForCleanup.serial == CM8CES.serial)) && (placeHolderForCleanup.adId == 554687)) {
+		(function(){
+			var origCleanup = placeHolderForCleanup.cleanup;
+			placeHolderForCleanup.cleanup = function () {
+				if (origCleanup)
+					origCleanup.call(this);
+var wrapper = document.getElementById("CM8BWE_A8DA9E83EC73");
+			
+			if (wrapper)
+				wrapper.parentNode.removeChild(wrapper);
+			};
+		})();
+		break;
+	};
+};
+
+
+	if ((typeof(CM8CES) != "undefined") && CM8CES.CM8BWADF_554687)
+		CM8CES.CM8BWADF_554687(document.getElementById("CM8BWE_A8DA9E83EC73"));
+}
+
+function CM8MultiDo2() {
+document.write("<SPAN ID='CM8BWE_2D8877DCE2B1'>");
+	
+	var bwPlaceHolder = null;
+	if ((typeof(CM8CES) != "undefined") && CM8CES.CM8BWSTF_572179)
+		bwPlaceHolder = CM8CES.CM8BWSTF_572179(document.getElementById("CM8BWE_2D8877DCE2B1"));
+
+	if (window.CM8E && CM8E['social_science_humanities.science_society_studies.sss'])
+			CM8E['social_science_humanities.science_society_studies.sss'].bannerShowing(1000,document.getElementById("CM8BWE_2D8877DCE2B1"),
+					"column3_160x140_top",572179,bwPlaceHolder);document.write("<A HREF='http://sage.checkm8.com/adam/em/click/572179/cat=58600/uhook=2D8877DCE2B1/criterias=32_0_34_10_43_4_103_18_104_12_116_65_118_1_280_28_282_1_283_1_3563_9_' target='_blank'><IMG  SRC='http://sagedigital.checkm8.com/data/572179/H20_twitter_160x140.gif' BORDER=0   WIDTH='160' HEIGHT='140'></A>");
+
+document.write("</SPAN><!-- CM8BWE_2D8877DCE2B1 -->");
+
+	var placeHoldersForCleanup = (typeof(CM8CE) == 'undefined') ? [] : (CM8CE.placeHolders || []);
+for (var placeHolderIndex = 0; placeHolderIndex < placeHoldersForCleanup.length; placeHolderIndex++) {
+	var placeHolderForCleanup = placeHoldersForCleanup[placeHolderIndex];
+	if (((typeof(CM8CES) == 'undefined') || (placeHolderForCleanup.serial == CM8CES.serial)) && (placeHolderForCleanup.adId == 572179)) {
+		(function(){
+			var origCleanup = placeHolderForCleanup.cleanup;
+			placeHolderForCleanup.cleanup = function () {
+				if (origCleanup)
+					origCleanup.call(this);
+var wrapper = document.getElementById("CM8BWE_2D8877DCE2B1");
+			
+			if (wrapper)
+				wrapper.parentNode.removeChild(wrapper);
+			};
+		})();
+		break;
+	};
+};
+
+
+	if ((typeof(CM8CES) != "undefined") && CM8CES.CM8BWADF_572179)
+		CM8CES.CM8BWADF_572179(document.getElementById("CM8BWE_2D8877DCE2B1"));
+}
+
+function CM8MultiDo3() {
+document.write("<SPAN ID='CM8BWE_A1465026F8EF'>");
+	
+	var bwPlaceHolder = null;
+	if ((typeof(CM8CES) != "undefined") && CM8CES.CM8BWSTF_552469)
+		bwPlaceHolder = CM8CES.CM8BWSTF_552469(document.getElementById("CM8BWE_A1465026F8EF"));
+
+	if (window.CM8E && CM8E['social_science_humanities.science_society_studies.sss'])
+			CM8E['social_science_humanities.science_society_studies.sss'].bannerShowing(1000,document.getElementById("CM8BWE_A1465026F8EF"),
+					"column3_160x140_bottom",552469,bwPlaceHolder);document.write("<A HREF='http://sage.checkm8.com/adam/em/click/552469/cat=58600/uhook=A1465026F8EF/criterias=32_0_34_10_43_4_103_18_104_12_116_65_118_1_280_28_282_1_283_1_3563_9_' target='_blank'><IMG  SRC='http://sagedigital.checkm8.com/data/552469/SKDiscipline-Sociology-160x140.gif' BORDER=0 ALT='Request a Trial to SAGE Knowledge' TITLE='Request a Trial to SAGE Knowledge' WIDTH='160' HEIGHT='140'></A>");
+
+document.write("</SPAN><!-- CM8BWE_A1465026F8EF -->");
+
+	var placeHoldersForCleanup = (typeof(CM8CE) == 'undefined') ? [] : (CM8CE.placeHolders || []);
+for (var placeHolderIndex = 0; placeHolderIndex < placeHoldersForCleanup.length; placeHolderIndex++) {
+	var placeHolderForCleanup = placeHoldersForCleanup[placeHolderIndex];
+	if (((typeof(CM8CES) == 'undefined') || (placeHolderForCleanup.serial == CM8CES.serial)) && (placeHolderForCleanup.adId == 552469)) {
+		(function(){
+			var origCleanup = placeHolderForCleanup.cleanup;
+			placeHolderForCleanup.cleanup = function () {
+				if (origCleanup)
+					origCleanup.call(this);
+var wrapper = document.getElementById("CM8BWE_A1465026F8EF");
+			
+			if (wrapper)
+				wrapper.parentNode.removeChild(wrapper);
+			};
+		})();
+		break;
+	};
+};
+
+
+	if ((typeof(CM8CES) != "undefined") && CM8CES.CM8BWADF_552469)
+		CM8CES.CM8BWADF_552469(document.getElementById("CM8BWE_A1465026F8EF"));
+}
+
+CM8CES.CM8Titles=[
+	['Leaderboard',8432, 1, 0, []],
+	['homepage_rectangle_left',8434, 1, 0, [[CM8MultiDo1,554687,'UUU']]],
+	['skyscraper',8436, 1, 0, []],
+	['column3_160x140_top',8438, 1, 0, [[CM8MultiDo2,572179,'UUU']]],
+	['homepage_rectangle_right',8435, 1, 0, []],
+	['column3_160x140_bottom',8439, 1, 0, [[CM8MultiDo3,552469,'UUU']]]];
+var CM8CheckErrorsAlreadyCalled=false;
+function CM8CheckErrors() {
+	if (CM8CheckErrorsAlreadyCalled)
+		return;
+	CM8CheckErrorsAlreadyCalled=true;
+	var A='';  CM8CE.sumPHsOf1Call();
+	for (var B=0;typeof(CM8CES.CM8Titles[B])!='undefined';B++) {
+		var E=''; var D=CM8CES.CM8Titles[B]; var F=D[4];
+		for (var C=0;typeof(F[C])!='undefined';C++) {
+			if (!F[C].used) {
+				E+=','+F[C][1]+'/'+F[C][2];
+			}
+		}
+		if (D[3]<D[2]) {
+			A+='&F'+D[1]+','+D[2]+','+D[3]+E;
+		}
+	}
+	if (A!='') {
+		CM8CE.report = new Image();
+		CM8CE.report.src='http://sage.checkm8.com/adam/report?58600&'+CM8CE.page+'&'+CM8GetLocation()+'&1388493720&Y&32_0_34_10_43_4_103_18_104_12_116_65_118_1_280_28_282_1_283_1_3563_9_'+A;
+	}
+}
+if (window.addEventListener)
+	window.addEventListener('load', CM8CheckErrors, false);
+else if(document.addEventListener)
+	document.addEventListener('load', CM8CheckErrors, false);
+else if(window.attachEvent)
+	window.attachEvent('onload', CM8CheckErrors);
+
+})();

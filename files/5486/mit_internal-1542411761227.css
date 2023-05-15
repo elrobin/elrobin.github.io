@@ -1,0 +1,333 @@
+/*  Added 01/28/2018 */
+.sectionHeading{
+    font-size: 1.5em !important;
+}
+.head-b{
+    font-size: 1.25em !important;
+}
+.head-c{
+    font-size: 1.15em !important;
+}
+
+/*  Added 01/29/2018 */
+/*  .boxed-text-float{
+    background-color: #eee;
+    padding:1em   
+}
+*/
+.pub-info{
+    font-size: 0.85em;
+    padding: 0em;
+    margin: 0em;
+}
+
+.pub-info ul{
+    margin-left: -3em;
+    color: #6d6e71;
+    line-height: 1.4;
+    list-style-type: none;
+}
+
+.pub-info li{
+    padding-bottom: 0.2em;
+}
+
+/* Added 02/03/2018 */
+
+/*  SECTIONS  */
+#journal-packages .section{
+    clear: both;
+    padding: 0px;
+    margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+#journal-packages .col{
+    display: block;
+    float: left;
+    margin: 1% 0 1% 1.6%;
+}
+#journal-packages .col:first-child{
+    margin-left: 0;
+}
+
+/*  GROUPING  */
+#journal-packages .group:before,
+#journal-packages .group:after{
+    content: "";
+    display: table;
+}
+#journal-packages .group:after{
+    clear: both;
+}
+#journal-packages .group{
+    zoom: 1; /* For IE 6/7 */
+}
+/*  GRID OF FOUR  */
+#journal-packages .span_4_of_4{
+    width: 100%;
+}
+#journal-packages .span_3_of_4{
+    width: 74.6%;
+}
+#journal-packages .span_2_of_4{
+    width: 49.2%;
+}
+#journal-packages .span_1_of_4{
+    width: 23.8%;
+}
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width : 480px){
+    #journal-packages .col{
+        margin: 1% 0 1% 0%;
+    }
+    #journal-packages .span_1_of_4,
+    .span_2_of_4,
+    .span_3_of_4,
+    .span_4_of_4{
+        width: 100%;
+    }
+}
+
+/* Added 02/17/2018 */
+
+#pb-page-content .publicationCoverImage img{
+    width: 100%;
+}
+
+/* ADDED 03/05/2018 */
+
+#ADEV_a_00008_ad_spacer{
+    margin-top: 130px;
+}
+
+#ADEV_a_00006_ad_spacer{
+    margin-top: 60px;
+}
+
+#ADEV_a_00010_ad_spacer{
+    margin-top: 60px;
+}
+#ADEV_e_00019_ad_spacer{
+    margin-top: 130px;
+}
+
+#ADEV_a_00021_ad_spacer{
+    margin-top: 130px;
+}
+
+#ADEV_a_00020_ad_spacer{
+    margin-top: 50px;
+}
+#ADEV_a_00038_ad_spacer{
+    margin-top: 150px;
+}
+#ADEV_a_00048_ad_spacer{
+    margin-top: 150px;
+}
+
+#ADEV_a_00055_ad_spacer{
+    margin-top: 150px;
+}
+
+#ADEV_a_00078_ad_spacer{
+    margin-top: 150px;
+}
+
+#ADEV_x_00087_ad_spacer{
+    margin-top: 150px;
+}
+
+#ADEV_x_00088_ad_spacer{
+    margin-top: 150px;
+}
+
+#adev_e_00092_ad_spacer{
+    margin-top: 150px;
+}
+
+#adev_a_00097_ad_spacer{
+    margin-top: 50px;
+}
+
+/* Added 03/17/2018 */
+/* The following rules are used to float the Dimensions badge left */
+
+.__dimensions_badge_embed__ .__dimensions_Badge_stat_count{
+    padding: 0 !important;
+}
+
+.__dimensions_badge_embed__ .__dimensions_Badge_Legend_padding.__dimensions_Badge_Legend_always{
+    padding: 0 !important;
+}
+
+.__dimensions_badge_embed__ .__dimensions_Badge_Legend_style_small_circle{
+    padding: 0 !important;
+}
+
+.__dimensions_badge_embed__ .__dimensions_Badge_Legend_padding{
+    padding: 0 !important;
+}
+
+.__dimensions_Badge_stat_count{
+    min-width: 30px !important;
+}
+.__dimensions_badge_embed__,
+.__dimensions_badge_embed__ a,
+.__dimensions_badge_embed__ a:hover,
+.__dimensions_badge_embed__ div{
+    line-height: 22px !important;
+}
+
+/* Added 04/30/2018 */
+/* The following rule pushes the body of the content below the advertisement on abstract pages.
+ * Without this rule the abstract and advertisement may overlap.  */
+#articleContent > div.articleMeta.ja{
+    min-height: 380px;
+}
+
+/* Added 05/17/2018 */
+/* The following rules forma the journal metadata that appears below the journal cover */
+.journalMetaContainer > .mit_custom{
+    margin-bottom: 1.5em;
+
+}
+.journalMetaContainer > .mit_custom p{
+    font-size: 0.8em;
+    margin-left: -1.6em;
+    line-height: 0.7em;
+    font-family: 'NeueHaasGroteskText W01', sans-serif;
+}
+.journalMetaContainer > .mit_custom .no-indent{
+    font-size: 0.8em;
+    margin: 0 !important;
+    line-height: 0.7em;
+    font-family: 'NeueHaasGroteskText W01', sans-serif;
+}
+
+.mit_custom{
+    display: block !important;
+    ;
+}
+
+
+.journalMetadata p > span{
+    font-size: 0.85em !important;
+    color: #6d6e71;
+}
+
+.journalMetadata p > span > span{
+    font-size: 0.85em !important;
+    color: #6d6e71;
+
+}
+
+.libx-autolink{
+    font-size: 0.85em !important;
+    color: #6d6e71;
+
+}
+
+.journalMetadata > .normal{
+    font-size: 0.85em !important;
+    color: #6d6e71;
+
+}
+
+.most_cited_link{
+    float: right;
+    padding: 0;
+    margin: 0;
+    top: 15px;
+    position: relative;
+    font-size: 14px;
+    color: #000;
+}
+
+.summary-title{
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: 'NHaasGroteskTXW01-65Md', sans-serif
+}
+
+.journalDescription{
+    min-height: 350px;
+}
+
+.topics_box{
+/* 
+    border-bottom: solid 1px #DDD;
+    padding-bottom: 1em;
+    
+ */
+margin-bottom: 2em; 
+width: 85%;
+} 
+
+.topics_covers{
+    width: 250px;
+    margin-top:2em;
+    border: 1px solid #EAEAEA;
+}
+
+.topics_titles:hover{
+border-bottom: solid 1px #000;
+}
+.topics_titles a{
+color: #000;
+}
+
+.topics_covers_all{
+    width: 600px;
+        height: 375px;
+}
+
+.topics_titles_all{
+font-size: 1.5em;
+margin-top: 1em;
+}
+
+.topics_titles_all a{
+color: #000;
+}
+
+
+
+/*  Style for digital_page */
+/*  Style for digital_page */
+.digital_display_layout p{
+    color: #6d6e71;
+    padding-top: 2em;
+    border-top: 1px solid #6d6e71;
+    
+}
+.digital_display_layout a{
+    color: #000000;
+    text-decoration:none;
+
+}
+
+.digital_display_layout{
+    padding-right: 1em;   
+    padding-left: 1em;
+    margin-top:2em;
+}
+
+.tocContent .articleEntry span.issueInProgress{
+      display: inline !important;
+}
+
+
+/* Added 10/22/2018 */
+
+.nav-container{
+    width:500px;
+}
+
+/* Homepage redesign 
+ * Added 11/16/2018 */
+ 
+.main_img{
+    margin-top:1em;
+}

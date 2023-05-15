@@ -1,0 +1,802 @@
+Skip to Main Content
+Wiley Online Library
+Log in / Register
+Log In
+E-Mail Address
+Password
+
+Forgotten Password?
+Remember Me
+
+    Register
+    Institutional Login
+
+Advertisement
+
+    Home >
+    Computer Science >
+    General & Introductory Computer Science >
+    Journal of the Association for Information Science and Technology >
+    Early View >
+    Abstract
+
+JOURNAL TOOLS
+
+    Get New Content Alerts
+    Get RSS feed
+    Save to My Profile
+
+JOURNAL MENU
+
+    Journal Home
+
+FIND ISSUES
+
+    All Issues
+    Virtual Issues
+
+FIND ARTICLES
+
+    Early View
+    Most Accessed
+    Most Cited
+
+GET ACCESS
+
+    Subscribe / Renew
+
+FOR CONTRIBUTORS
+
+    OnlineOpen
+    Author Guidelines
+    Submit an Article
+
+ABOUT THIS JOURNAL
+
+    Overview
+    Editorial Board
+    Permissions
+    Advertise
+    Contact
+
+SPECIAL FEATURES
+
+    ASIS&T Digital Library
+    Articles in the Advances in Information Science
+    Bulletin of the American Society for Information Science and Technology
+    Proceedings of the American Society for Information Science and Technology
+    Annual Review of Information Science and Technology
+    Virtual Issue on Knowledge Management
+    Virtual Issue on Bibliometrics
+    Jobs
+
+Advertisement Advertisement
+
+Research Article
+You have full text access to this content
+Academia.edu: Social network or Academic Network?
+
+    Mike Thelwall,
+    Kayvan Kousha
+
+Article first published online: 21 NOV 2013
+
+DOI: 10.1002/asi.23038
+
+© 2013 ASIS&T
+
+Issue
+Cover image for Vol. 65 Issue 3
+Journal of the Association for Information Science and Technology
+
+Early View (Online Version of Record published before inclusion in an issue)
+
+Additional Information (Show All)
+
+How to Cite Author Information Publication History Funding Information
+How to Cite
+
+Thelwall, M. and Kousha, K. (2013), Academia.edu: Social network or Academic Network?. Journal of the Association for Information Science and Technology. doi: 10.1002/asi.23038
+Author Information
+
+    Statistical Cybermetrics Research Group, School of Technology, University of Wolverhampton, Wolverhampton, UK
+
+Email: Mike Thelwall (m.thelwall@wlv.ac.uk), Kayvan Kousha (k.kousha@wlv.ac.uk)
+Publication History
+
+    Article first published online: 21 NOV 2013
+    Manuscript Revised: 31 MAY 2013
+    Manuscript Accepted: 31 MAY 2013
+    Manuscript Received: 12 APR 2013
+
+Funded by
+
+    ACUMEN. Grant Number: 266632
+
+SEARCH
+Search Scope
+Search String
+
+    Advanced >
+    Saved Searches >
+
+SEARCH BY CITATION
+Volume:
+Issue:
+Page:
+ARTICLE TOOLS
+
+    Get PDF (182K)
+    Save to My Profile
+    E-mail Link to this Article
+    Export Citation for this Article
+    Get Citation Alerts
+    Request Permissions
+
+More Sharing Services Share | Share on citeulike Share on facebook Share on delicious Share on www.mendeley.com Share on twitter
+
+    Abstract
+    Article
+    References
+    Cited By
+
+Get PDF (182K)
+Keywords:
+
+    scholarly communication
+
+Abstract
+
+    Top of page
+    Abstract
+    Introduction
+    Related Work
+    Research Questions
+    Methods
+    Results
+    Discussion and Conclusions
+    Acknowledgment
+    References
+    Appendix. Broad research interests registered by Academia.edu users (20 March 2013)
+
+Academic social network sites Academia.edu and ResearchGate, and reference sharing sites Mendeley, Bibsonomy, Zotero, and CiteULike, give scholars the ability to publicize their research outputs and connect with each other. With millions of users, these are a significant addition to the scholarly communication and academic information-seeking eco-structure. There is thus a need to understand the role that they play and the changes, if any, that they can make to the dynamics of academic careers. This article investigates attributes of philosophy scholars on Academia.edu, introducing a median-based, time-normalizing method to adjust for time delays in joining the site. In comparison to students, faculty tend to attract more profile views but female philosophers did not attract more profile views than did males, suggesting that academic capital drives philosophy uses of the site more than does friendship and networking. Secondary analyses of law, history, and computer science confirmed the faculty advantage (in terms of higher profile views) except for females in law and females in computer science. There was also a female advantage for both faculty and students in law and computer science as well as for history students. Hence, Academia.edu overall seems to reflect a hybrid of scholarly norms (the faculty advantage) and a female advantage that is suggestive of general social networking norms. Finally, traditional bibliometric measures did not correlate with any Academia.edu metrics for philosophers, perhaps because more senior academics use the site less extensively or because of the range informal scholarly activities that cannot be measured by bibliometric methods.
+
+Introduction
+
+    Top of page
+    Abstract
+    Introduction
+    Related Work
+    Research Questions
+    Methods
+    Results
+    Discussion and Conclusions
+    Acknowledgment
+    References
+    Appendix. Broad research interests registered by Academia.edu users (20 March 2013)
+
+Websites that seek to harness the social web for academics, such as Academia.edu, CiteULike, Mendeley, Bibsonomy, ResearchGate, and Zotero, give each member a profile and allow them to connect to each other in some way and to share information about their publications. These sites have millions of users (Mangan, 2012 ) and so it is possible that they, like previous Internet technologies such as newsgroups, (Caldas, 2003 ), discussion groups, and mailing lists (Matzat, 2004 ; Fry & Talja, 2007 ), are having an impact on patterns of informal scholarly communication, either in terms of information seeking and sharing or on the architecture of the invisible colleges of science (Crane, 1972 ). Disciplinary dimensions of scholarly communication probably help to shape the uptake and use of these and other digital environments in different ways (Kling & McKim, 2000 ). Nevertheless, since younger academics probably use the Internet for informal scholarly communication the most (Barjak, 2006 ), sites that combine informal communication and social networking with publicity for scholarly outputs probably give an advantage to younger scholars. As a result, it is important to understand academic social websites so that current academics can adapt to and, if necessary, adopt the new technologies.
+
+There is surprisingly little research about academic social network sites and there seems to be none about how Academia.edu could change scholarly communication. Reference-sharing services have been investigated to some extent but mainly for the facilities that they offer rather than for the implications of their use. In contrast, methods of constructing metrics from the social web for academic purposes have been researched, including counting tweet citations to estimate the likely impact of articles (Eysenbach, 2011 ; Shuai, Pepe, & Bollen, 2012 ). Moreover, the field of altmetrics (Cronin, 2013 ; Priem, Piwowar, & Hemminger, 2012 ), which is investigating such indicators, tends to be concerned with impact measures rather than scholarly communication itself or scholarly communication networks (e.g., Kousha, Thelwall, & Rezaie, 2010 ; Thelwall, Haustein, Larivière, & Sugimoto, 2013 ).
+
+This article focuses on Academia.edu, providing some basic descriptive information about it and methods for investigating it. Since Academia.edu contains social network capabilities in addition to information about publications, it is not clear whether it is essentially a general social network—in which younger members and females can be expected to be disproportionately represented, active and recognized—or whether it reflects academic norms so that senior members are more recognized and women are not more prevalent or active. This article addresses these issues and investigates whether these popularity statistics associate with academic impact, and hence could be useful for impact estimation. The investigation focuses on members of philosophy departments because the site was started by a philosopher and philosophers probably be particularly extensive users (philosophy is the fourth most popular interest, see Appendix ) and the discipline of philosophy may display the most mature Academia.edu use.
+Related Work
+
+    Top of page
+    Abstract
+    Introduction
+    Related Work
+    Research Questions
+    Methods
+    Results
+    Discussion and Conclusions
+    Acknowledgment
+    References
+    Appendix. Broad research interests registered by Academia.edu users (20 March 2013)
+
+This section gives background information about how academics and students use various kinds of social network sites, focusing on the most academic sites. It also reviews offline gender differences in social network sites and in academia, especially in philosophy, so that it is possible to contrast typical online social networks with typical offline academic properties in philosophy in order to assess how Academia.edu users fit in. The purpose of the focus on gender here is to allow simple online–offline comparisons around a variable that behaves differently in social network sites in comparison to offline academia so that the results can shed light on the extent to which Academia.edu conforms to offline academia or online social networking.
+Academic Use of Mainstream Social Network Sites
+
+The social network site most used by academics seems to be Facebook. As this section shows, general social network sites have been successfully exploited by scholars for various types of communication. Facebook initially targeted students before allowing anyone to join (boyd & Ellison, 2007 ; Ellison, Steinfield, & Lampe, 2007 ; Skeels & Grudin, 2009 ). It is used for information dissemination (Neo & Calvert, 2012 ) and students can gain from Facebook-based information sharing (Junco, 2011 ). Its scholarly uses include announcing new articles via wall posts (Priem, Groth, & Taraborelli, 2012 ; Kortelainen & Katvala, 2012 ). Although there do not probably be statistics about the differing uptake and usage patterns of Facebook between faculty and students, younger people tend to be the more frequent users of social network sites (Brenner, 2013 ; Dutton & Blank, 2011 ; Thelwall, 2008 ) and so it seems reasonable to expect students to use social network sites more than do faculty and for senior faculty to use it more than do junior faculty.
+
+Twitter also seems to be used for primarily recreational reasons (Chen, 2011 ) but is more clearly suited to information dissemination (Hughes & Palen, 2009 ; Jansen, Zhang, Sobel, & Chowdury, 2009 ; Wigand, 2010 ), although it has conversational aspects (boyd, Golder, & Lotan, 2009 ). Twitter hashtags give academics the ability to communicate with each other easily and quickly around a specific topic or conference (Desai et al., 2012 ; Weller, Dröge, & Puschmann, 2011 ). Tweeting published articles also seems to be an effective sharing strategy (Eysenbach, 2011 ; Shuai et al., 2012 ; Mathelus, Pittman, & Yablonski-Crepeau, 2012 ).
+
+LinkedIn is a professional social network site that aims to connect people via work relationships, especially through indirect connections (Skeels & Grudin, 2009 ). LinkedIn does not provide academic-specific features like reference management and may not be useful for academic networking because disciplines are already well organized (Skeels & Grudin, 2009 ) through conferences, websites, and academic publications. LinkedIn has adapted to academics to some extent by giving users the option to list publications in their profile, although in April 2013 this was an option rather than standard.
+Online Reference-Sharing Sites
+
+Reference managers store academic references and may allow users to publish or share their references or generate reference lists. Online reference managers that allow reference sharing (perhaps mainly for journal articles: Borrego & Fry, 2012 ) include Mendeley, Bibsonomy (Hotho, Jäschke, Schmitz, & Stumme, 2006, 2007 ; Mitzlaff, Benz, Stumme, & Hotho, 2010 ), CiteULike (Bogers & Bosch, 2008 ), and Zotero (Ritterbusha, 2007 ). Reference sharing can occur by visiting like-minded authors' reference lists or through social tagging (Zanardi & Capra, 2008 ; Lee & Schleyer, 2012 ). At the time of writing, Mendeley (now owned by Elsevier) allowed users to list their own articles on their profile even though the site seems to be mainly focused on sharing reference lists rather than scientists publicizing their own research. Some reference managers, such as RefWorks (Hristovaa, 2012 ), also allow reference sharing, although this is not their primary function.
+
+Mendeley was created to use collaborative filtering to help users find references by connecting to others that are similar (Henning & Reichelt, 2008 ), and there is CiteULike evidence that this works (Bogers & Bosch, 2008 ). Mendeley readership statistics have been shown to correlate with academic citations (Li, Thelwall, & Giustini, 2012 ), confirming the scholarly nature of the site. One small-scale study suggests that Mendeley may index the majority of articles of academics in some areas (Bar-Ilan et al., 2012 ).
+Academic Social Network Sites
+
+While reference-sharing sites focus on readers, helping users to share and find relevant references for their work (Hull, Pettifer, & Kell, 2008 ), Academia.edu and ResearchGate focus more on the producers of research. For example, one (current) difference is that Academia.edu users can post their own papers but Mendeley users can also share others' papers in their My Library section. Academia.edu was founded by an Oxford University philosopher as an academic social network site. Part of its rationale was to connect authors to readers so that it would be easy to send a query on a paper that had just been read (Mangan, 2012 ; cf. Maxmen, 2010 ). ResearchGate (Madisch, 2008 ) has similar features but seems to have targeted specific communities of users in addition to individual academics (Gewin, 2010 ) and perhaps emphasizes discussions more (Lin, 2012 ). In contrast, current research information systems are widely used in some countries and focus on providing accurate and up-to-date information (Bittner & Müller, 2011 ). Subject repositories (Moed, 2007 ) and institutional home pages (Barjak, Li, & Thelwall, 2007 ) also compete in the sense that an academic might not join an academic social network if their publications are already posted online (Lin, 2012 ). According to Alexa.com, however, in May 2013 Academia.edu was the most visited academic social website (Table  1 ).
+Table 1.  Scopus publications citing selected social network sites (March 2013) and Alexa global site popularity ranks (May 2013) Social network 	Total citations 	Specific citations a 	Typical cited contents 	Alexa rank b
+
+    a
+
+    Note. Excluding site home pages and other standard contents produced by the sites rather than their users (e.g., about, help, privacy, and FAQ pages).
+    b
+
+    Global site popularity, according to Alexa.com toolbar users.
+
+Facebook.com 	2,463 	1,003 	Profile pages; Groups pages; blog entries; Facebook staff notes pages 	2
+Twitter.com 	869 	586 	Twitter developer blog posts; User profile pages. 	11
+Academia.edu 	355 	327 	Article information pages. 	2,930
+Mendeley.com 	186 	161 	Article information pages. 	18,769
+CiteUlike.org 	229 	144 	Article information pages. 	12,369
+ResearchGate.net 	33 	26 	Article information pages. 	5,538
+Bibsonomy 	42 	14 	Article information pages. 	5,063
+Zotero.org 	61 	8 	Zotero blog; User profile pages. 	27,992
+
+An investigation of Academia.edu users with a registered interest in anthropology, philosophy, chemistry, and computer science based on data from March–June 2011 found differences in the extent of its use between disciplines and between types of user (faculty, graduate students, independent researchers, postdoctoral researchers) (Almousa, 2011 ). Philosophers and anthropologists seemed to be the most active users, and faculty had similar profile attributes to graduate students in most respects, except that faculty uploaded more documents in all disciplines. One substantial disciplinary difference was that philosophers and anthropologists listed twice as many interests than did chemists (Almousa, 2011 ). This study did not normalize for the length of time spent as a member, however, which may have affected the results. The statistics of registered research interests in Academia.edu suggest that it tends to be most heavily used by academics in the social sciences and humanities (Appendix).
+
+Academia.edu plays a role in formal scholarly communication because authors can upload preprints and other documents to their profile. Although Academia.edu is cited less than a third as often as Facebook, excluding citations to general pages, its contents are cited more than those of the other specialist academic sites (Table  1 ).
+Gender and Science
+
+There is a substantial gender imbalance in faculty members in US universities seen among more senior positions and even more among full professors. Among the disciplines, women probably be the least represented in engineering and the physical sciences but are better represented at all levels in the human-oriented subjects of psychology and sociology (Nelson & Brammer, 2011 ). A slight majority of US doctoral awards went to males overall (54%) in 2011 but a majority went to females in all areas except engineering and the physical sciences (for explanations, see Ceci & Williams, 2011 ). For the humanities, 52% of PhD awards went to females in 2011 (NSF, 2011 ). Although little philosophy gender information is available, according to 1993 US data, women were less well represented among philosophy faculty than for other humanities subjects, with men outnumbering women by two to one (NCES, 2000 ). There was no improvement by 2011: about 30% of graduate students and 26% of faculty at a typical US philosophy department in 2011 were female (Paxton, Figdor, & Tiberius, 2012 ).
+
+In the EU in 2009–2010, women accounted for 46% of PhD awards, with a similar disciplinary spread to that of the US (European Commission, 2012 , p. 5). Moreover, “the proportion of women among full professors was highest in the humanities” at 28.4% (European Commission, 2012 , p. 6).
+
+From this data, if Academia.edu users reflect US and EU trends and are predominantly graduate students and faculty, philosophers should be dominated by males at a rate of about 70% and this proportion should be higher for faculty and especially for more senior faculty and presumably also for more successful faculty.
+Gender and Social Networking
+
+Gender plays a role in social network sites (Raacke & Bonds-Raacke, 2008 ; Walther, Van der Heide, Kim, Westerman, & Tong, 2008 ) but in the opposite direction to academia, with females dominating. In the early years of social networking, (US student) females were much more common users of social networking sites in general (Hargittai, 2007 ; Tufekci, 2008 ) and Facebook in particular (Acquisti & Gross, 2006 ; Valenzuela, Park, & Kee, 2009 ) than (US student) males. A December 2012 US adult survey confirmed the continued female preference for social networking, with 62% of male Internet users and 71% of female Internet users participating in at least one social network site (Brenner, 2013 ). In the UK in 2011, females in the general population were also more common users of social network sites and also tended to prefer social network messaging over e-mail (Dutton & Blank, 2011 ). A large-scale study of users of the social network site MySpace found that women seemed to be more popular users, in terms of having more friends and being more often added to the MySpace “top friend” list (Thelwall, Wilkinson, & Uppal, 2010 ; see also Joinson, 2008 ), perhaps due to better communication skills.
+
+Overall, although most of the findings about gender and social network sites are for US students and are several years old, the results suggest that females are more likely to be users than males and that females may be more popular users than males. Nevertheless, it is not clear whether there are similar gender differences in academic social website use and popularity.
+Research Questions
+
+    Top of page
+    Abstract
+    Introduction
+    Related Work
+    Research Questions
+    Methods
+    Results
+    Discussion and Conclusions
+    Acknowledgment
+    References
+    Appendix. Broad research interests registered by Academia.edu users (20 March 2013)
+
+The overriding objective for this research is to investigate whether Academia.edu is essentially used like a general social network site, in which case younger users (e.g., students rather than faculty) and female users should be overrepresented and more active. In contrast, negative answers to the following questions would suggest that Academia.edu reflects the scholarly status quo in terms of gender, rather than challenging it by importing social networking norms.
+
+    1.
+    Are students more popular users than faculty in the sense of attracting more profile and document views?
+    2.
+    Are females more frequent and popular users than males in the sense of joining more often and attracting more profile and document views?
+
+If Academia.edu reflects the scholarly status quo then it could also be expected that the popularity of scholars within the site would vary according to their achievements, and so this gives a third way of assessing whether Academia.edu imports general social network norms.
+
+    3.
+    Do more successful academics attract more profile and document views?
+
+Finally, the remaining question aims to deepen the understanding of Academia.edu by assessing which features are present in the more popular academic profiles.
+
+    4.
+    Which kinds of profile content associate with increased profile views?
+
+Methods
+
+    Top of page
+    Abstract
+    Introduction
+    Related Work
+    Research Questions
+    Methods
+    Results
+    Discussion and Conclusions
+    Acknowledgment
+    References
+    Appendix. Broad research interests registered by Academia.edu users (20 March 2013)
+
+Academia.edu allows members to list their books, talks, papers, and interests (a list of keywords) on their profile page, along with their name, a picture, and affiliation information. Others viewing a member's profile will see this information as well as the number of times the profile has been viewed and the number of times that each document listed in the profile has been viewed (and an overall document count). This information formed the source of raw data for the study.
+Sample Selection and Data Collection
+
+Potential philosophers were identified in Academia.edu by downloading the profile pages of all 30,167 people listed in the philosophy interest page http://www.Academia.edu/People/Philosophy using SocSciBot on 28 January 2013. This includes all people listing philosophy as an interest. SocSciBot ( socscibot.wlv.ac.uk ) is a free academic web crawler that is able to download webpages and follow links in downloaded webpages recursively in order to create a complete local copy of a specified website or part of a website. The people in the philosophy interest page are all those in the site who cite philosophy as an interest. At the time of the initial data collection, Academia.edu gave implicit permission for crawling by not outlawing it (in the agreed robots.txt format). This blanket permission was later withdrawn but Academia.edu then gave explicit permission for SocSciBot to crawl the site at a slow speed for research purposes. A simple computer program (now added to the free general purpose webometric software Webometric Analyst lexiurl.wlv.ac.uk ) processed the downloaded profiles to extract the user names, departmental affiliations, academic statuses, and research interests. In addition, the total number of profile views for each page and the total number of document views for each page were downloaded separately with SocSciBot using a data call from Academia.edu. 1 Using this combination of methods, all information listed in the profile pages was able to be extracted except for the number of followers. Profile pages also list a researcher's papers and give download counts for them, but this information was not used.
+
+The list of academics included many who were clearly not philosophers but who had registered philosophy as one of many interests. To identify genuine philosophers from the philosophy list, those with an affiliation (typically a department) containing the word philosophy in any language were retained and the rest were discarded. This was operationalized as a search for philos, filos , or filoz within the affiliation field. An alternative method that was considered but rejected was to extract those with no other interests specified in addition to philosophy. This latter choice was on the assumption that a person specifying multiple interests could be a nonphilosopher who mentioned philosophy as a casual interest along with many other terms. The group of people from the philosophy list with only philosophy as an interest ( n  = 1,933) was found to have significantly different Academia.edu attributes, and hence it seemed to be likely to dilute the results if these people were added to the department group. Hence, the final sample consisted only of the department group (irrespective of the number of interests declared, as long as one of the interests was philosophy). Even though philosophy departments may contain nonphilosophers, this restriction seems to give the most coherent set to examine. It would have been possible to combine the two methods and select people in a philosophy department and listing only philosophy as an interest. This would have narrowed the focus more on pure philosophers but would have introduced an unknown degree of skewing, such as against more prolific scholars who might have multiple interests.
+
+The remainder of the paper reports the main data set that is the outcome of this stage: 3,186 people from the Academia.edu philosophy list with an affiliation including the term philosophy ( philos, filos , or filoz ).
+
+Academia.edu members must register a status for themselves and can either select from a predefined list (Faculty Member, Post-Doc, Graduate Student, Adjunct, Emeritus/Emerita, Undergraduate, Alumnus/Alumna) or enter a free text self-description. The most common of these in the data were Graduate Student (1,291 out of 3,186) and Faculty Member (1,254 out of 3,186). We coded status into two, faculty (1,778) and students (1,358), because there was insufficient evidence for a reliable fine-grained distinction (e.g., assistant/associate/full professor).
+Time Normalization
+
+It is not appropriate to analyze the raw data from the profiles in contexts where the attributes may naturally increase over time (e.g., profile views) and this increase may generate second-order influences that obscure the analyses. For example, senior academics may tend to be members longer than junior members, and hence have higher values on all profile statistics because they joined when junior and were subsequently promoted.
+
+To circumvent the problem of likely systematic seniority biases in the time of joining Academia.edu, for each type of raw data except status and user ID, a time-normalized variant was calculated. It is not possible to translate the IDs into timestamps because profiles do not give the joining date of members. The time-normalized variant of any numerical data is the data point divided by the median of the same data for the 50 profiles in the philosophy data set with immediately preceding profile IDs and the 50 profiles in the philosophy data set with immediately following IDs. For instance, the time-normalized profile view count of the 51st member is their profile view (1,930) divided by the median of the first 50 and 52nd to 101st profile views (1,334) or 1,930/1,334 = 1.453 (i.e., the 51st member's number of profile views is above that which would be expected for their ID, so they probably have attracted disproportionately many profile views). The medians used for profile view time-normalization are plotted in Figure  1 , showing that this method is essential to avoid bias from the large advantage of members with lower IDs who are the early members. The growth rate of Academia.edu seems to have been approximately linear rather than exponential since its launch in September 2008 (at least according to Google Trends 2 and so the shape of the graph may not be due to exponential membership growth. Although there may be anomalies in the ID system, such as gaps and unused numbers, this will not affect the results as long as the IDs are assigned in chronological order. If they are not assigned in chronological order then this is likely to reduce the power of the tests used but will not increase the chance of false-positive results.
+figure
+
+Figure 1. Median numbers of profile views (not time-normalized) against user ID from philosophy members in Academia.edu. Medians are taken over 100 adjacent user IDs. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com .]
+
+Download figure to PowerPoint
+
+A Spearman correlation was calculated between status code (1–6 scale: 1 = undergraduate; 2 = postgraduate; 3 = PhD student; 4 = assistant professor or postdoc; 5 = associate professor; 6 = full professor), and user ID was −0.269 (significant at p  < .001), confirming that higher-status academics had earlier IDs. These higher-status academics may have been more junior when they joined so this does not imply that senior academics joined before junior academics.
+Faculty Citation and Gender Subsamples
+
+We identified the gender of 1,250 of the members from the sample, selected using Excel's random number generator separately for faculty and students. For each person, we assigned them an apparent gender based on their first name, if it appeared to be unambiguous. For ambiguous cases (e.g., Sam, Andrea) or unknown cases (mainly names uncommon in the UK) we visited the profile page of the academic to identify their gender from their picture. When no picture was present we searched the web for photographs of them and if this failed we searched online lists of children's names for gender information. In five cases all methods failed and we did not assign a gender to the person but replaced them with another random academic.
+
+We used Scopus to identify the citation profiles of 250 randomly selected faculty members from the set of 1,250 with an identified gender. Scopus was chosen in preference to the Web of Science due to its greater coverage of philosophy in our initial testing. For each member, we identified the total number of documents authored by them in Scopus, if any. We then identified the citations received by these documents and used the results to calculate the faculty member's h-index (Hirsch, 2005 ) as an indicator of their overall academic impact.
+Results
+
+    Top of page
+    Abstract
+    Introduction
+    Related Work
+    Research Questions
+    Methods
+    Results
+    Discussion and Conclusions
+    Acknowledgment
+    References
+    Appendix. Broad research interests registered by Academia.edu users (20 March 2013)
+
+The results are organized into separate sections for each research question.
+Students Compared to Faculty
+
+Students listed slightly more interests than faculty, on average, but faculty listed more books and papers on their site and received more views for their profile, full text documents, and publication information pages (Table  2 ). The most substantial difference is for document views: Faculty documents are viewed much more often than student documents. This is not surprising, since more experienced academics will tend to have more publications of all types. More importantly, students list more interests and if Academia.edu is essentially a social network site and interests attract views (as will be shown) then this should get them more views, but it does not; faculty profiles are viewed more often.
+Table 2.  Median values (100 median time-normalized) for interests, publications, and views listed on 1,778 student and 1,358 faculty profiles. a Median (mean) 	Interests listed 	Books listed 	Papers listed 	Talks listed 	Profile views 	Document views
+
+    a
+
+    Note. All distributions are statistically significantly different at p  = .001 (independent samples Kruskal-Wallis test) except talks listed, for which the difference is insignificant. In each case the member type (student or faculty) with the higher mean also had generally higher values.
+
+Student 	1.18 	0 	0 	0 	0.91 	0
+(mean) 	(2.82) 	(0.04) 	(0.23) 	(0.11) 	(1.76) 	(103.78)
+Faculty 	1 	0 	0 	0 	1.07 	9.12
+(mean) 	(2.18) 	(0.27) 	(1.05) 	(0.12) 	(2.68) 	(384.39)
+
+This suggests that Academia.edu reflects scholarly norms, rather than being a typical general social network site dominated by younger members, because faculty (who are presumably typically older than students) get more profile views than do students. These views could be for the additional content on faculty profiles or recognition for their publications. Alternatively, some of the views for senior faculty may come from Google via users directly searching for the senior academics and finding their Acadmia.edu pages. Another possible explanation is that more senior academics have wider academic networks and hence more friends in the website, leading to more views.
+Gender Differences
+
+Independent samples Mann–Whitney U tests were used to test for gender differences in properties of faculty (Table  3 ) and students (Table  4 ) but revealed no significant differences. In particular, there were no gender differences in the number of self-reported interests listed by members on their profile page, nor in the number of their own books, papers, or talks listed by members. Moreover, male profile pages and documents posted by males were not viewed significantly more or less often than those of females. For the Scopus data for faculty, the lack of any difference for citations and the h-index may be due to the virtual absence of citations for the philosophers concerned: 41 of the 61 females (67%) and 119 of the 189 males (63%) had received no citations. About half of the academics, 46% of the females and 51% of the males, also had no documents indexed in Scopus.
+Table 3.  Medians and Mann-Whitney U tests for gender differences for faculty members in terms of three bibliometric indicators and for 100 median time-normalized profile attributes and views Medians and sample sizes 	H-index 	Citations 	Docs 	Interests norm. 	Books norm. 	Papers norm. 	Talks norm. 	Profile views norm. 	Doc. views norm.
+Males 	0 	0 	0 	1.000 	0.000 	0.118 	0.000 	1.167 	2.082
+( n  = ) 	(189) 	(189) 	(189) 	(504) 	(503) 	(504) 	(501) 	(504) 	(111)
+Females 	0 	0 	1 	0.778 	0.000 	0.154 	0.000 	1.149 	2.000
+( n  = ) 	(61) 	(61) 	(61) 	(201) 	(200) 	(201) 	(199) 	(201) 	(24)
+Sig. ( p  = ) 	.276 	.343 	.683 	.595 	.941 	.769 	.751 	.402 	.908
+Table 4.  Medians and Mann-Whitney U tests for gender differences for students for 100 median time-normalized profile attributes and views Medians and sample sizes 	Interests norm. 	Books norm. 	Papers norm. 	Talks norm. 	Profile views norm. 	Doc. views norm.
+Males 	1.000 	0.000 	0.000 	0.000 	0.766 	0.000
+( n  = ) 	(333) 	(330) 	(333) 	(320) 	(333) 	(25)
+Females 	1.000 	0.000 	0.000 	0.000 	0.875 	0.000
+( n  = ) 	(170) 	(170) 	(170) 	(161) 	(170) 	(24)
+Sig. ( p  = ) 	.179 	.779 	.345 	.764 	.407 	.540
+
+Considering just Academia.edu philosophers, females formed a minority of both students (34%) and faculty (24%). These percentages are similar to current gender imbalances in US philosophy departments (Paxton, Figdor, & Tiberius, 2012 ), although Academia.edu is not restricted to the US and so the figures are not directly comparable. From this, it is impossible to be sure whether female or male philosophers are the more likely to join Academia.edu.
+
+The absence of significantly greater female activities, membership, and recognition, together with the similar demographics of users compared to philosophy departments, again suggests that Academia.edu reflects scholarly norms for philosophy rather than general social network site norms.
+Relationships With Traditional Bibliometric Indicators for Faculty
+
+Time-normalized profile attributes were correlated with bibliometric indicators from Scopus (documents authored, citations received, h-index) for 250 selected faculty members, but no significant differences were found (Table  5 ). This suggests that Academia.edu popularity (profile and document views) does not relate significantly to academic performance, at least as measured by traditional bibliometric indicators. This is the first result that casts doubt on the suggestion that Academia.edu reflects scholarly norms in philosophy.
+Table 5.  Spearman correlations between 100 median time-normalized profile attributes and views with (raw) citation metrics for 250 randomly selected faculty Spearman's rho a , b 	Interests listed 	Books listed 	Papers listed 	Talks listed 	Profile views 	Document views
+
+    Note. The sample size is 241 for all columns except the document views column, for which it is 49 due to missing values created by dividing by zero in the normalization process. b No correlations are statistically significant at p  = .05 after a Bonferroni correction. Without this correction, the correlation for interests listed with citations and documents would be significant at p  = .05, as would the correlation between documents and interests listed, papers listed and profile views.
+
+H-index 	-0.124 	0.083 	0.116 	-0.032 	0.122 	0.062
+Citations 	-0.136 	0.078 	0.117 	-0.046 	0.116 	0.058
+Documents 	-0.135 	0.091 	0.137 	-0.067 	0.157 	0.157
+
+Perhaps surprisingly, even the most basic publishing indicators did not correlate significantly—Scopus documents and Academia documents (i.e., papers listed), at least after the Bonferroni correction. The explanation for the low correlation in the case of documents may be that more senior and active academics may not consider it necessary to spend time listing their publications in Academia.edu, either because they have too many or because they already self-archive with their institutional homepages or list them in philpapers.org. Hence, the results of this section may not be indicative of the nature of Academia.edu.
+Profile Content and Profile Views
+
+For the final analyses, profile content was correlated with document and profile views in order to identify whether any particular kind of document attracted visitors to a profile. Time-normalized total document views, as reported on the profile, correlated significantly with both the number of papers on the profile (.895, p  < .001) and the number of books in the profile (.514, p  < .001), but less strongly with the latter. Thus, despite the book orientation of philosophy, papers probably be more viewed on philosophers' profiles than books. This may be because there are many more of the former and there may have been fewer full text books than full text papers.
+
+The total number of interests listed (after normalization, as with all data discussed here) correlated moderately with the number of profile views (.455, p  < .01) and the number of document views (.430, p  < .01), suggesting that listing many interests may be an effective strategy for a scholar to attract attention for their work and themselves, or that more versatile or prolific academics attracted more interest.
+
+For an additional qualitative analysis, the profiles of some members were checked if they did not list any documents on their profile pages but had many visits. From these, some had extensive connections but no content. For instance, a full professor of philosophy at one of the top five US universities had over 3,500 profile views, over 500 followers, and followed over 125 people but had no information on his profile page at all except for the name of his department. A list of his publications was available on his institutional website but there was no link to the site from Academia.edu. When contacted by e-mail, the academic reported that he had joined but did not use the site and assumed that the people that he had apparently followed had been automatically added by the system.
+Secondary Analysis of Other Top Disciplines
+
+The results just described could be specific to philosophy rather than generic to Academia.edu. To test this, we analyzed the top three Academia.edu disciplines (law, history, and computer science; philosophy was fourth; see Appendix) for gender and status. These were crawled from 13 to 24 April 2013. We also changed the statistical analysis method to account for the possibility of gender differences being caused by faculty/student differences or vice versa. For the new statistical method, 2-way analysis of variance (ANOVA), the time-normalized profile and document view data were given a log transformation to make them approximately fit the normal distribution (an ANOVA requirement). A 2-way ANOVA allows the effects of seniority and gender to be analyzed separately and combined. The sample sizes are large for all the profile analyses: the smallest subgroup within the analysis is female computer science faculty (565). The sample sizes are much smaller for the document views analysis so these are significantly less powerful; the smallest subgroups are female computer science students (7) and female philosophy students (6). This section reports the analysis of all four disciplines using 2-way ANOVA on the log-transformed, time-normalized profile view and document view data.
+
+Statistically, faculty attracted significantly more profile views than did students for all four disciplines. Breaking down the differences by gender, the same was true when the analysis was restricted to just males and also when the analysis was restricted to just females with two exceptions: female computer science faculty and students attracted a similar amount of profile views; and female law faculty and students attracted a similar amount of profile views (i.e., the differences were not statistically significant) (Table  6 ).
+Table 6.  Mean log time-normalized profile views by status and gender   	Law 	History 	Computer Science 	Philosophy
+
+    Note. Significantly greater than males in same category (i.e., staff/students) using post-hoc tests, p  = .01. b Significantly greater than students with the same gender using post-hoc tests, p  = .01.
+
+Male faculty 	.590 a ( n  = 1412) 	.786 a ( n  = 3173) 	.445 a ( n  = 2488) 	.201 a ( n  = 501)
+Female faculty 	.744 b ( n  = 882) 	.786 a ( n  = 1883) 	.590 b ( n  = 565) 	.284 a ( n  = 201)
+Male students 	.415 ( n  = 1473) 	.491 ( n  = 3492) 	.283 ( n  = 3020) 	-.174 ( n  = 322)
+Female students 	.703 b ( n  = 1332) 	.615 b ( n  = 2855) 	.586 b ( n  = 619) 	-.133 ( n  = 169)
+
+Faculty attracted statistically significantly more document views than did students in philosophy, but the same is not true for the other disciplines investigated. The lack of statistically significant differences may be due to the low power of the tests because of small sample sizes, a result of most members having zero document views and the need for a nonzero median for the time-normalization procedure (Table  7 ).
+Table 7.  Mean log time-normalized document views by status and gender. No values are significantly different between gender and status for any discipline Mean (sample size) 	Law 	History 	Computer science 	Philosophy
+Male faculty 	3.901 ( n  = 91) 	3.023 ( n  = 184) 	3.160 ( n  = 130) 	4.219 ( n  = 58)
+Female faculty 	3.295 ( n  = 45) 	3.006 ( n  = 112) 	3.155 ( n  = 25) 	4.768 ( n  = 12)
+Male students 	3.672 ( n  = 8) 	3.190 ( n  = 41) 	2.831 ( n  = 33) 	2.592 ( n  = 9)
+Female students 	3.152 ( n  = 8) 	2.136 ( n  = 31) 	3.245 ( n  = 7) 	3.413 ( n  = 6)
+
+Statistically, females attracted significantly more profile views than did males in law, history, and computer science but not in philosophy. Gender was significant for both faculty and students (treated separately) for law and for computer science. Gender was not significant for history faculty, but was significant for history students. Gender was not significant for philosophy faculty or for philosophy students (Table  6 ).
+
+Females and males did not have significant differences in document views in any discipline. The lack of statistically significant differences may again be due to the low power of the tests (Table  7 ).
+
+In summary, the finding that faculty are more popular than students in Academia.edu seems to be universally true across disciplines, although only four disciplines were analyzed and there were some exceptions for females. In contrast, gender seems to be important outside of philosophy, suggesting that philosophy might be a special case. The importance of gender for the other disciplines suggests that general social networking norms might be reflected in Academia.edu site use.
+Discussion and Conclusions
+
+    Top of page
+    Abstract
+    Introduction
+    Related Work
+    Research Questions
+    Methods
+    Results
+    Discussion and Conclusions
+    Acknowledgment
+    References
+    Appendix. Broad research interests registered by Academia.edu users (20 March 2013)
+
+The philosophy results are consistent with Academia.edu reflecting scholarly norms rather than those of general social network sites in the sense that younger members do not probably be more active or more popular because more senior members attracted more profile views. Similarly, female users are not disproportionately members or more active in Academia.edu; although gender differences were found, they merely reflect the gender imbalance of US philosophy department faculty and students. Nevertheless, Academia.edu does not probably simply reflect existing academic structures because no correlations were found between traditional bibliometric measures and Academia.edu measures, although this could be due to senior academics not listing their documents in the site. This suggests that either Academia.edu has a different dynamic for philosophers, and is perhaps more egalitarian, or that there are two opposing forces at work that partially cancel each other out; traditional structures are to some extent reflected but more senior academics use Academia.edu less and hence get less profile views. For instance, a senior academic might attract many profile views due to their offline reputation (including via Google searches for their name) but not post content on their site. In contrast, a more junior academic that posts all their output in Academia.edu may get a similar number of profile views from people accessing that content.
+
+The secondary analysis of law, history, computer science, and philosophy confirmed the advantage of faculty in terms of profile views and also showed that this advantage occurred both for males and females separately, except in the case of female computer scientists and lawyers. Females tended to attract more profile views than did males for both faculty and students, except for history faculty and all philosophers. This suggests that there will be female advantages in many disciplines in Academia.edu, which is suggestive of the influence of general social networking norms (where females are more successful).
+
+The lack of a significant correlation between the h-index and both profile views and document views for faculty means that profile views may not be useful as an altmetric (i.e., a social web indicator of their impact). Nevertheless, it is possible that profile views indicate a type of research impact but that traditional bibliometric indicators do not in philosophy because of the book orientation of humanities disciplines (Nederhof, 2006 ) and the potential importance of other research activities (e.g., see Hicks, 2004 ). An alternative research strategy would be needed to assess such a case for the value of profile views as an altmetric, however.
+
+To answer the fourth research question, posting content online correlated with profile and document views in philosophy and listing more research interests also correlated with receiving more profile views. In general, then, more active use of Academia.edu seems to generate more interest from other users, which is intuitively logical because humanities scholars “frequently work with colleagues in a consultative manner, sharing citations, ideas, and drafts of papers” (Palmer, 2005 , p. 1145).
+
+An important limitation is that the sample only covers philosophy, law, history, and computer science, and the results may not be the same for other disciplines. For example, some disciplines may treat Academia.edu like a general social network site even though philosophers seem not to and philosophy, law, history, and computer science probably, to some extent. Another limitation is that the use of the site may change over time, especially if its user-base expands.
+
+In conclusion, Academia.edu seems to be a hybrid scholarly social network in the sense that it mirrors scholarly norms to some extent (a faculty advantage over students) and general social networking norms to some extent (the female advantage in three out of four disciplines investigated) and so the use of it and similar sites should be seriously considered by the academic community. Moreover, active use of the site in terms of posting content seems to be effective in generating interest, although it is not clear whether this interest translates into tangible academic rewards. Finally, Academia.edu does not appear to be a useful source for new altmetrics due to the lack of a correlation with traditional bibliometric measures, at least in philosophy. Nevertheless, its scholarly social network structure could be a valuable data source to explore aspects of informal scholarly communication, especially if the new academic social websites revolutionize research as much as the Internet did (Borgman & Furner, 2002 ).
+Acknowledgment
+
+    Top of page
+    Abstract
+    Introduction
+    Related Work
+    Research Questions
+    Methods
+    Results
+    Discussion and Conclusions
+    Acknowledgment
+    References
+    Appendix. Broad research interests registered by Academia.edu users (20 March 2013)
+
+Supported by the ACUMEN (Academic Careers Understood through Measurement and Norms) project, grant agreement number 266632, under the Seventh Framework Program of the European Union.
+Footnotes
+
+    1
+
+    More details at: http://lexiurl.wlv.ac.uk/examples/HowToExtractAcademiaInfoAboutSubjects.pdf
+    2
+
+    http://www.google.com/trends/explore#q=Academia.edu
+
+References
+
+    Top of page
+    Abstract
+    Introduction
+    Related Work
+    Research Questions
+    Methods
+    Results
+    Discussion and Conclusions
+    Acknowledgment
+    References
+    Appendix. Broad research interests registered by Academia.edu users (20 March 2013)
+
+    Acquisti, A. , & Gross, R. ( 2006 ). Imagined communities: Awareness, information sharing, and privacy on the Facebook . Lecture Notes in Computer Science , 4258 , 36 – 58 .
+        CrossRef
+    Almousa, O. ( 2011 ). Users' classification and usage-pattern identification in academic social networks . IEEE Jordan conference on applied electrical engineering and computing technologies AEECT (pp. 1 – 6 ). New York IEEE.
+        CrossRef
+    Bar-Ilan, J. , Haustein, S. , Peters, I. , Priem, J. , Shema, H. , & Terliesner, J. ( 2012 ). Beyond citations: Scholars' visibility on the social web . In E. Archambault , Y. Gingras , & V. Larivière (Eds.), 17th International Conference on Science and Technology Indicators (STI2012) (pp. 98 – 109 ). Montreal : Science-Metrix and OST.
+    Barjak, F. ( 2006 ). The role of the internet in informal scholarly communication . Journal of the American Society for Information Science and Technology , 57 ( 10 ), 1350 – 1367 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(325K)
+        References
+        Web of Science® Times Cited: 26
+    Barjak, F. , Li, X. , & Thelwall, M. ( 2007 ). Which factors explain the web impact of scientists' personal home pages? Journal of the American Society for Information Science and Technology , 58 ( 2 ), 200 – 211 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(268K)
+        References
+        Web of Science® Times Cited: 14
+    Bittner, S. , & Müller, A. ( 2011 ). Social networking tools and research information systems: Do they compete? Proceedings of the ACM WebSci'11 (pp. 1 – 4 ). Koblenz, Germany : ACM.
+    Bogers, T. , & Bosch, A.v.d. ( 2008 ). Recommending scientific articles using citeulike . Proceedings of the 2008 ACM Conference on Recommender Systems (RecSys '08) (pp. 287 – 290 ). New York : ACM.
+        CrossRef
+    Borgman, C. , & Furner, J. ( 2002 ). Scholarly communication and bibliometrics . Annual Review of Information Science and Technology , 36 , Medford, NJ : Information Today. pp. 3 – 72 .
+        Web of Science® Times Cited: 154
+    Borrego, A. , & Fry, J. ( 2012 ). Measuring researchers' use of scholarly information through social bookmarking data: A case study of BibSonomy . Journal of Information Science , 38 ( 3 ), 297 – 308 .
+        CrossRef ,
+        Web of Science®
+    boyd, d. , & Ellison, N. ( 2007 ). Social network sites: Definition, history, and scholarship . Journal of Computer-Mediated Communication , 13 ( 1 ). Retrieved from: http://jcmc.indiana.edu/vol13/issue1/boyd.ellison.html
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(217K)
+        References
+    boyd, d. , Golder, S. , & Lotan, G. ( 2009 ). Tweet, tweet, retweet: Conversational aspects of retweeting on twitter. Proceedings of HICSS-43 . Retrieved from: http://www.danah.org/papers/TweetTweetRetweet.pdf
+    Brenner, J. ( 2013 ). Pew internet: Social networking . Retrieved from: http://pewinternet.org/Commentary/2012/March/Pew-Internet-Social-Networking-full-detail.aspx
+    Caldas, A. ( 2003 ). Are newsgroups extending “invisible colleges” into the digital infrastructure of science? Economics of Innovation and New Technology , 12 ( 1 ), 43 – 60 .
+        CrossRef
+    Ceci, S.J. , & Williams, W.M. ( 2011 ). Understanding current causes of women's underrepresentation in science . Proceedings of the National Academy of Sciences , 108 ( 8 ), 3157 – 3162 .
+        CrossRef ,
+        Web of Science® Times Cited: 54 ,
+        ADS
+    Chen, G.M. ( 2011 ). Tweet this: A uses and gratifications perspective on how active twitter use gratifies a need to connect with others . Computers in Human Behavior , 27 ( 2 ), 755 – 762 .
+        CrossRef ,
+        Web of Science® Times Cited: 20
+    Crane, D. ( 1972 ). Invisible colleges: Diffusion of knowledge in scientific communities . London : University of Chicago Press.
+    Cronin, B. ( 2013 ). Metrics à la mode . Journal of the American Society for Information Science and Technology , 64 ( 6 ), 1091 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(37K)
+        References
+        Web of Science® Times Cited: 1
+    Desai, T. , Shariff, A. , Shariff, A. , Kats, M. , Fang, X.M. , Christiano, C. , … ( 2012 ). Tweeting the meeting: An in-depth analysis of twitter activity at kidney week 2011 . PLoS ONE , 7 ( 7 ). Retrieved from: http://www.plosone.org/article/info:doi/10.1371/journal.pone.0040253
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 4 ,
+        ADS
+    Dutton, W.H. , & Blank, G. ( 2011 ). Next generation users: The internet in Britain (The Oxford Internet Survey 2011 Report) . Oxford , UK: Oxford Internet Institute.
+    Ellison, N.B. , Steinfield, C. , & Lampe, C. ( 2007 ). The benefits of Facebook “friends:” social capital and college students' use of online social network sites . Journal of Computer-Mediated Communication , 12 ( 4 ), 1143 – 1168 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(399K)
+        References
+    European Commission ( 2012 ). She figures 2012 . Retrieved from: http://ec.europa.eu/research/science-society/document_library/pdf_06/she-figures-2012_en.pdf
+    Eysenbach, G. ( 2011 ). Can tweets predict citations? Metrics of social impact based on twitter and correlation with traditional metrics of scientific impact . Journal of Medical Internet Research , 13 ( 4 ), e123 .
+        CrossRef ,
+        Web of Science® Times Cited: 30
+    Fry, J. , & Talja, S. ( 2007 ). The intellectual and social organization of academic fields and the shaping of digital resources . Journal of Information Science , 33 ( 2 ), 115 – 133 .
+        CrossRef ,
+        Web of Science® Times Cited: 1
+    Gewin, V. ( 2010 ). Collaboration: Social networking seeks critical mass . Nature , 468 , 993 – 994 .
+        CrossRef ,
+        CAS
+    Hargittai, E. ( 2007 ). Whose space? Differences among users and non-users of social network sites . Journal of Computer-Mediated Communication , 13 ( 1 ), 276 – 297 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(128K)
+        References
+    Henning, V. , & Reichelt, J. ( 2008 ). Mendeley — A last.fm for research? IEEE Fourth International Conference on eScience (eScience '08) (pp. 327 – 328 ). Los Alamitos, CA : IEEE.
+    Hicks, D.M. ( 2004 ). The four literatures of social science . In H. Moed (Ed.), Handbook of quantitative science and technology research (pp. 473 – 496 ). Dordrecht, Netherlands : Kluwer Academic.
+    Hirsch, J.E. ( 2005 ). An index to quantify an individual's scientific research output . Proceedings of the National Academy of Sciences , 102 ( 46 ), 16569 – 16572 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 1468 ,
+        ADS
+    Hotho, A. , Jäschke, R. , Schmitz, C. , & Stumme, G. ( 2006 ). BibSonomy: A social bookmark and publication sharing system . Aalborg, Denmark : Aalborg University Press (pp. 87 – 102 ).
+    Hotho, A. , Jäschke, R. , Schmitz, C. , Stumme, G. ( 2007 ). Analysis of the publication sharing behaviour in BibSonomy . Lecture Notes in Computer Science , 4604 , 283 – 295 .
+        CrossRef
+    Hristovaa, M. ( 2012 ). RefWorks usage patterns: Exploring the first four semesters of use by faculty, graduate students, and undergraduates . Internet Reference Services Quarterly , 17 ( 2 ), 45 – 64 .
+        CrossRef
+    Hughes, A.L. , & Palen, L. ( 2009 ). Twitter adoption and use in mass convergence and emergency events . International Journal of Emergency Management , 6 ( 3-4 ), 248 – 260 .
+        CrossRef
+    Hull, D. , Pettifer, S.R. , & Kell, D.B. ( 2008 ). Defrosting the digital library: Bibliographic tools for the next generation web . PLoS Computational Biology , 4 ( 10 ), e1000204 .
+        CrossRef ,
+        PubMed ,
+        CAS ,
+        Web of Science® Times Cited: 26
+    Jansen, B.J. , Zhang, M. , Sobel, K. , & Chowdury, A. ( 2009 ). Twitter power: Tweets as electronic word of mouth . Journal of the American Society for Information Science & Technology , 60 ( 11 ), 2169 – 2188 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(785K)
+        References
+        Web of Science® Times Cited: 84
+    Joinson, A.N. ( 2008 ). “Looking at”, “Looking up” or “Keeping up with” people? Motives and uses of Facebook , In: CHI 2008 Proceedings . New York : ACM Press (pp. 1027 – 1036 ).
+        Web of Science® Times Cited: 58
+    Junco, R. ( 2011 ). Too much face and not enough books: The relationship between multiple indices of Facebook use and academic performance . Computers in Human Behavior , 28 ( 1 ), 187 – 198 .
+        CrossRef ,
+        Web of Science® Times Cited: 26
+    Kling, R. , & McKim, G. ( 2000 ). Not just a matter of time: Field differences and the shaping of electronic media in supporting scientific communication . Journal of the American Society for Information Science , 51 ( 14 ), 1306 – 1320 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(110K)
+        References
+        Web of Science® Times Cited: 144
+    Kortelainen, T. , & Katvala, M. ( 2012 ). “Everything is plentiful—Except attention”. Attention data of scientific journals on social web tools . Journal of Informetrics , 6 ( 4 ), 661 – 668 .
+        CrossRef ,
+        Web of Science®
+    Kousha, K. , Thelwall, M. , & Rezaie, S. ( 2010 ). Using the Web for research evaluation: The Integrated Online Impact indicator . Journal of Informetrics , 4 ( 1 ), 124 – 135 .
+        CrossRef ,
+        Web of Science® Times Cited: 13
+    Lee, D.H. , & Schleyer, T. ( 2012 ). Social tagging is no substitute for controlled indexing: A comparison of medical subject headings and CiteULike tags assigned to 231,388 papers . Journal of the American Society for Information Science and Technology , 63 ( 9 ), 1747 – 1757 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(296K)
+        References
+        Web of Science®
+    Li, X. , Thelwall, M. , & Giustini, D. ( 2012 ). Validating online reference managers for scholarly impact measurement . Scientometrics , 91 ( 2 ), 461 – 471 .
+        CrossRef ,
+        Web of Science®
+    Lin, T. ( 2012 ). Cracking open the scientific process . The New York Times , 16 January, D1.
+    Madisch, I.M. ( 2008 ). ResearchGATE scientific network: A first step towards science 2.0 . Clinical and Experimental Immunology , 154 , 214 .
+        Web of Science®
+    Mangan, K. ( 2012 ). Social networks for academics proliferate, despite some doubts . Chronicle of Higher Education , 58 ( 35 ), 1 – 7 .
+    Mathelus, S. , Pittman, G. , & Yablonski-Crepeau, J. ( 2012 ). Promotion of research articles to the lay press: A summary of a three-year project . Learned Publishing , 25 ( 3 ), 207 – 212 .
+        CrossRef ,
+        Web of Science® Times Cited: 1
+    Matzat, U. ( 2004 ). Academic communication and internet discussion groups: Transfer of information or creation of social contacts? Social Networks , 26 ( 3 ), 221 – 255 .
+        CrossRef ,
+        Web of Science® Times Cited: 29
+    Maxmen, A. ( 2010 ). Science networking gets serious . Cell , 141 ( 3 ), 387 – 389 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 4
+    Mitzlaff, F. , Benz, D. , Stumme, G. , & Hotho, A. ( 2010 ). Visit me, click me, be my friend: An analysis of evidence networks of user relationships in BibSonomy . Proceedings of the 21st ACM conference on Hypertext and hypermedia . New York : ACM Press (pp. 265 – 270 ).
+        CrossRef
+    Moed, H.F. ( 2007 ). The effect of “open access” on citation impact: An analysis of ArXiv's condensed matter section . Journal of the American Society for Information Science and Technology , 58 ( 13 ), 2047 – 2054 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(1643K)
+        References
+        Web of Science® Times Cited: 34
+    NCES . ( 2000 ). Salary, promotion, and tenure status of minority and women faculty in U.S. colleges and universities . National Center for Education Statistics, Statistical Analysis Report, March 2000; U.S. Department of Education, Office of Education Research and Improvement . Report # NCES 2000–173. Retrieved from: http://nces.ed.gov/pubs2000/2000173.pdf
+    Nederhof, A. ( 2006 ). Bibliometric monitoring of research performance in the social sciences and the humanities: A review . Scientometrics , 66 ( 1 ), 81 – 100 .
+        CrossRef ,
+        Web of Science® Times Cited: 119
+    Nelson, D.J. , & Brammer, C.N. ( 2011 ). A national analysis of minorities in science and engineering faculties at research universities . Retrieved from: http://faculty-staff.ou.edu/N/Donna.J.Nelson-1/diversity/Faculty_Tables_FY07/07Report.pdf
+    Neo, E. , & Calvert, P.J. ( 2012 ). Facebook and the diffusion of innovation in New Zealand public libraries . Journal of Librarianship and Information Science , 44 ( 4 ), 227 – 237 .
+        CrossRef ,
+        Web of Science®
+    NSF . ( 2011 ). Doctorate recipients from U.S. universities: 2011 . Retrieved from: http://www.nsf.gov/statistics/sed/2011/start.cfm
+    Palmer, M. ( 2005 ). Scholarly work and the shaping of digital access . Journal of the American Society for Information Science and Technology , 56 ( 11 ), 1140 – 1153 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(175K)
+        References
+        Web of Science® Times Cited: 25
+    Paxton, M. , Figdor, C. , & Tiberius, V. ( 2012 ). Quantifying the gender gap: An empirical study of the underrepresentation of women in philosophy . Hypatia , 27 ( 4 ), 949 – 957 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(165K)
+        References
+        Web of Science®
+    Priem, J. , Groth, P. , & Taraborelli, D. ( 2012 ). The altmetrics collection . PLOS ONE , 7 ( 11 ), e48753 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 4 ,
+        ADS
+    Priem, J. , Piwowar, H.A. , & Hemminger, B.M. ( 2012 ). Altmetrics in the wild: Using social media to explore scholarly impact . ArXiv.Org, http://arxiv.org/abs/1203.4745v1 .
+    Raacke, J. , & Bonds-Raacke, J. ( 2008 ). MySpace and Facebook: Applying the uses and gratifications theory to exploring friend-networking sites . CyberPsychology & Behavior , 11 ( 2 ), 169 – 174 .
+        CrossRef ,
+        PubMed ,
+        Web of Science® Times Cited: 133
+    Ritterbusha, J. ( 2007 ). Supporting library research with LibX and zotero: Two open source Firefox extensions . Journal of Web Librarianship , 1 ( 3 ), 111 – 122 .
+        CrossRef
+    Shuai, X. , Pepe, A. , & Bollen, J. ( 2012 ). How the scientific community reacts to newly submitted preprints: Article downloads, twitter mentions, and citations . PLOS ONE , 7 ( 11 ), e47523 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 6 ,
+        ADS
+    Skeels, M.M. , & Grudin, J. ( 2009 ). When social networks cross boundaries: A case study of workplace use of Facebook and Linkedin . In S. Teasley , P. Havn , & W. Lutters (Eds.), Proceedings of the ACM International Conference on Supporting Group Work (GROUP) (pp. 95 – 104 ). New York : ACM.
+        Web of Science® Times Cited: 14
+    Thelwall, M. , Haustein, S. , Larivière, V. , & Sugimoto, C. ( 2013 ). Do altmetrics work? Twitter and ten other candidates . PLOS ONE , 8 ( 5 ), e64841 .
+        CrossRef ,
+        CAS ,
+        Web of Science® Times Cited: 2 ,
+        ADS
+    Thelwall, M. ( 2008 ). Social networks, gender and friending: An analysis of MySpace member profiles , Journal of the American Society for Information Science and Technology , 59 ( 8 ), 1321 – 1330 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(4190K)
+        References
+        Web of Science® Times Cited: 56
+    Thelwall, M. , Wilkinson, D. , & Uppal, S. ( 2010 ). Data mining emotion in social network communication: Gender differences in MySpace . Journal of the American Society for Information Science and Technology , 21 ( 1 ), 190 – 199 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(99K)
+        References
+        Web of Science® Times Cited: 22
+    Tufekci, Z. ( 2008 ). Grooming, gossip, Facebook and MySpace: What can we learn about these sites from those who won't assimilate? Information, Communication & Society , 11 ( 4 ), 544 – 564 .
+        CrossRef
+    Valenzuela, S. , Park, N. , & Kee, K.F. ( 2009 ). Is there social capital in a social network site?: Facebook use and college students' life satisfaction, trust, and participation . Journal of Computer-Mediated Communication , 14 ( 4 ), 875 – 901 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(567K)
+        References
+        Web of Science® Times Cited: 132
+    Walther, J. , Van der Heide, B. , Kim, S. , Westerman, D. , & Tong, S.T. ( 2008 ). The role of friends' appearance and behavior on evaluations of individuals on facebook: Are we known by the company we keep? Human Communication Research , 34 , 28 – 49 .
+    Direct Link:
+        Abstract
+        Full Article (HTML)
+        PDF(359K)
+        References
+        Web of Science® Times Cited: 129
+    Weller, K. , Dröge, E. , & Puschmann, C. ( 2011 ). Citation analysis in twitter: Approaches for defining and measuring information flows within tweets during scientific conferences . In 1st Workshop on Making Sense of Microposts. Retrieved from: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-718/paper_04.pdf
+    Wigand, F.D.L. ( 2010 ). Twitter in government: Building relationships one tweet at a time . Proceedings of the Seventh International Conference on Information Technology (pp. 563 – 567 ). Los Alamitos, CA : IEEE.
+    Zanardi, V. , & Capra, L. ( 2008 ). Social ranking: Uncovering relevant content using tag-based recommender systems . Proceedings of the 2008 ACM Conference on Recommender Systems (RECSYS'08) (pp. 51 – 58 ). New York : ACM.
+        CrossRef
+
+Appendix. Broad research interests registered by Academia.edu users (20 March 2013)
+
+    Top of page
+    Abstract
+    Introduction
+    Related Work
+    Research Questions
+    Methods
+    Results
+    Discussion and Conclusions
+    Acknowledgment
+    References
+    Appendix. Broad research interests registered by Academia.edu users (20 March 2013)
+
+Discipline 	Users
+Law 	107,289
+History 	38,938
+Computer science 	33,639
+Philosophy 	33,306
+Psychology 	31,729
+Education 	28,827
+Anthropology 	25,353
+Archaeology 	23,828
+Sociology 	23,191
+Economics 	22,293
+Architecture 	20,072
+Political science 	19,311
+Business 	16,904
+Communication 	15,578
+Languages and linguistics 	14,763
+Biology 	14,608
+Physics 	14,274
+Literature 	12,446
+Music 	12,326
+Cultural studies 	12,042
+Social sciences 	11,944
+Engineering 	11,028
+Chemistry 	10,904
+Art 	10,693
+Mathematics 	9,672
+Religion 	8,445
+Environment 	8,438
+Media studies 	8,278
+Management 	7,984
+Health sciences 	5,802
+Agriculture 	4,956
+Ecology 	4,956
+Public health 	4,023
+Performing arts 	3,502
+Medicine 	3,296
+Biochemistry 	3,273
+Environmental studies 	2,405
+Pharmacology 	1,319
+Medical sciences 	1,184
+Get PDF (182K)
+More content like this
+Find more content:
+
+    like this article
+
+Find more content written by:
+
+    Mike Thelwall
+    Kayvan Kousha
+    All Authors
+
+    Publications
+    Browse by Subject
+    Resources
+
+    About Us
+    Help
+    Contact Us
+    Agents
+    Advertisers
+    Media
+    Privacy
+    Cookies
+    Terms & Conditions
+    Site Map
+
+Copyright © 1999-2014 John Wiley & Sons, Inc. All Rights Reserved.
+
+    About Wiley
+    Wiley.com
+    Wiley Job Network
+    Wiley
+

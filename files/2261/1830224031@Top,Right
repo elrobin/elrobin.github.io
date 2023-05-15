@@ -1,0 +1,54 @@
+function OAS_RICH(position) {
+if (position == 'Right') {
+document.write ('<A HREF="http://oasc12029.247realmedia.com/RealMedia/ads/click_lx.ads/www.jneurosci.org/content/28/45/11433.short/L25/1712685066/Right/sfnmktg/AAASEppendorfAward2014/AAASEppendorf2014Skyscraper.gif/1?x" target="_blank"><IMG SRC="http://imagec12.247realmedia.com/RealMedia/ads/Creatives/sfnmktg/AAASEppendorfAward2014/AAASEppendorf2014Skyscraper.gif"  ALT=""  BORDER="0"></A>');
+}
+if (position == 'Top') {
+document.write ('\n');
+document.write ('\n');
+document.write ('\n');
+document.write ('\n');
+document.write ('\n');
+document.write ('\n');
+document.write ('<script type="text/javascript">\n');
+document.write ('//<![CDATA[\n');
+document.write ('var filePath                     = "http://imagec12.247realmedia.com/RealMedia/ads/Creatives/sfnmktg/FSTMarch2014/FST2014_Leaderboard.swf/1387903429";\n');
+document.write ('var TFSMFlash_PRETAG             = "";\n');
+document.write ('var TFSMFlash_POSTTAG            = "";\n');
+document.write ('var TFSMFlash_VERSION            = "9";\n');
+document.write ('var TFSMFlash_WMODE              = "window";\n');
+document.write ('\n');
+document.write ('			var TFSMFlash_OASCLICK           = "http://oasc12029.247realmedia.com/RealMedia/ads/click_lx.ads/www.jneurosci.org/content/28/45/11433.short/L25/1739514533/Top/sfnmktg/FSTMarch2014/FSTMarch2014.html/1";\n');
+document.write ('	\n');
+document.write ('\n');
+document.write ('\n');
+document.write ('var TFSMFlash_SWFCLICKVARIABLE   = "?clickTAG="+TFSMFlash_OASCLICK + "";\n');
+document.write ('var TFSMFlash_SWFFILE            = filePath + TFSMFlash_SWFCLICKVARIABLE;\n');
+document.write ('var TFSMFlash_FSCOMMAND          = "";\n');
+document.write ('var TFSMFlash_IMAGEALTERNATE     = "";\n');
+document.write ('\n');
+document.write ('\n');
+document.write ('var TFSMFlash_OASALTTEXT         = "";\n');
+document.write ('var TFSMFlash_OASTARGET          = "_blank";\n');
+document.write ('var TFSMFlash_OASPROTOCOL        = "http://";\n');
+document.write ('var TFSMFlash_OASDIM             = "width=');
+document.write ("'");
+document.write ('728px');
+document.write ("'");
+document.write (' height=');
+document.write ("'");
+document.write ('90px');
+document.write ("'");
+document.write ('";\n');
+document.write ('var TFSMFlash_OASADID            = "OAS_RMF_Top_FLASH";\n');
+document.write ('document.write("<"+"scr"+"ipt type=\\');
+document.write ('"text/javascript\\');
+document.write ('" src=\\');
+document.write ('"http://imagec12.247realmedia.com/RealMedia/ads/Creatives/sfnmktg/FSTMarch2014/TFSMFlashWrapper301.js/1387903429\\');
+document.write ('"><\\');
+document.write ('/scr"+"ipt"+">");\n');
+document.write ('//]]>\n');
+document.write ('</script>\n');
+document.write ('\n');
+document.write ('\n');
+}
+}
