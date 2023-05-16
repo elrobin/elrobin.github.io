@@ -26,29 +26,29 @@ I ocassionally get invited to give talks on my work or share my experience in ac
 
 ### 2023
 
-Feb 9 | **El doctorado perjudica seriamente la salud** | II Jornadas Doctorales Lenguas, Textos y Contextos at the University of Granada. [https://doi.org/10.5281/zenodo.7627901](https://doi.org/10.5281/zenodo.7627901)
+**El doctorado perjudica seriamente la salud** | Feb 9, II Jornadas Doctorales Lenguas, Textos y Contextos at the University of Granada. [https://doi.org/10.5281/zenodo.7627901](https://doi.org/10.5281/zenodo.7627901)
 
-Jan 14-21 | **Diseño y aplicación de análisis bibliométricos** | Escuela de Bibliotecología, Universidad de San José. [https://doi.org/10.5281/zenodo.7556999](https://doi.org/10.5281/zenodo.7556999)
+**Diseño y aplicación de análisis bibliométricos** | Jan 14-21, Escuela de Bibliotecología, Universidad de San José. [https://doi.org/10.5281/zenodo.7556999](https://doi.org/10.5281/zenodo.7556999)
 
-Jan 14-21 | **Métricas a nivel de autores** | Escuela de Bibliotecología, Universidad de San José. [https://doi.org/10.5281/zenodo.7556891](https://doi.org/10.5281/zenodo.7556891)
+**Métricas a nivel de autores** | Jan 14-21, Escuela de Bibliotecología, Universidad de San José. [https://doi.org/10.5281/zenodo.7556891](https://doi.org/10.5281/zenodo.7556891)
 
-Jan 14-21 | **La irrupción del Acceso Abierto en los procesos de comunicación científica** | Escuela de Bibliotecología, Universidad de San José. [https://doi.org/10.5281/zenodo.7556893](https://doi.org/10.5281/zenodo.7556893)]
+**La irrupción del Acceso Abierto en los procesos de comunicación científica** | Jan 14-21, Escuela de Bibliotecología, Universidad de San José. [https://doi.org/10.5281/zenodo.7556893](https://doi.org/10.5281/zenodo.7556893)]
 
-Jan 10 | **Diversity and recognition in research teams** | Royal Irish Academy and Higher Education Authority. [Programme](https://www.ria.ie/sites/default/files/ensuring-inclusive-research-careers-programme.pdf) – [https://doi.org/10.5281/zenodo.7524610](https://doi.org/10.5281/zenodo.7524610)
+**Diversity and recognition in research teams** | Jan 10, Royal Irish Academy and Higher Education Authority. [Programme](https://www.ria.ie/sites/default/files/ensuring-inclusive-research-careers-programme.pdf) – [https://doi.org/10.5281/zenodo.7524610](https://doi.org/10.5281/zenodo.7524610)
 
 ### 2022
 
-Dec 2 | **Elaboración de planes de difusión y gestión de datos** | yosigopublicando. [https://doi.org/10.5281/zenodo.7390087](https://doi.org/10.5281/zenodo.7390087)
+**Elaboración de planes de difusión y gestión de datos** | Dec 2, #yosigopublicando. [https://doi.org/10.5281/zenodo.7390087](https://doi.org/10.5281/zenodo.7390087)
 
-Nov 29 | **Herramientas y estrategias para construir nuestra identidad digital** | MediaLab UGR. [https://doi.org/10.5281/zenodo.7381737](https://doi.org/10.5281/zenodo.7381737)
+**Herramientas y estrategias para construir nuestra identidad digital** | Nov 29, MediaLab UGR. [https://doi.org/10.5281/zenodo.7381737](https://doi.org/10.5281/zenodo.7381737)
 
-Nov 10 | **La irrupción del Acceso Abierto en los procesos de comunicación científica** | Jornada sobre la Situación y Perspectivas del Acceso Abierto, Universitat de València. [https://doi.org/10.5281/zenodo.7325697](https://doi.org/10.5281/zenodo.7325697)
+**La irrupción del Acceso Abierto en los procesos de comunicación científica** | Nov 10, Jornada sobre la Situación y Perspectivas del Acceso Abierto, Universitat de València. [https://doi.org/10.5281/zenodo.7325697](https://doi.org/10.5281/zenodo.7325697)
 
-Sep 22 | **Altmetrics** | European Summer School for Scientometrics, Berlin [http://doi.org/10.5281/zenodo.3355276](http://doi.org/10.5281/zenodo.3355276)
+**Altmetrics** | Sep 22, European Summer School for Scientometrics, Berlin [http://doi.org/10.5281/zenodo.3355276](http://doi.org/10.5281/zenodo.3355276)
 
-Sep 19 | **Introduction to bibliometric data sources: Open and free data sources** | European Summer School for Scientometrics, Berlin [http://doi.org/10.5281/zenodo.7095736](http://doi.org/10.5281/zenodo.7095736)
+**Introduction to bibliometric data sources: Open and free data sources** | Sep 19, European Summer School for Scientometrics, Berlin [http://doi.org/10.5281/zenodo.7095736](http://doi.org/10.5281/zenodo.7095736)
 
-Jun 30 | **¿Cómo ser feliz en la universidad y seguir publicando?** | yosigopublicando. [YouTube video](https://youtu.be/d6rIqz2KljM)
+**¿Cómo ser feliz en la universidad y seguir publicando?** | Jun 30, #yosigopublicando. [YouTube video](https://youtu.be/d6rIqz2KljM)
 
-Jun 29 | **Compartir datos de investigación: Experiencias y lecciones aprendidas para investigadores y revistas científicas** | Inter-CRECS. [YouTube video](https://youtu.be/RXnqakhgVCY)
+**Compartir datos de investigación: Experiencias y lecciones aprendidas para investigadores y revistas científicas** | Jun 29, Inter-CRECS. [YouTube video](https://youtu.be/RXnqakhgVCY)
 
