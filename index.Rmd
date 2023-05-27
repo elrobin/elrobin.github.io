@@ -24,7 +24,9 @@ output:
 
 Nicolas Robinson-Garcia is a Ramón y Cajal fellow in the field of bibliometrics and research evaluation at the University of Granada. He is director of the EC3 Research Group, Associate Editor on Open Science and New Metrics for the journal Scientometrics, and member of the Steering Committee of the European Summer School for Scientometrics. His research interests are research careers and diversity, and science communication and social outreach. He is also member of the editorial board of Research Evaluation and Quantitative Science Studies, and member of the Advisory Board of the International Center for the Study of Research.
 
-## Research projects
+## Main research projects (active)
+
+Check complete [list of projects here](projects.html)
 
 **[COMPARE](https://compare-project.eu)** | Research project on team diversity in academia
 
