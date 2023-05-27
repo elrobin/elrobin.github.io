@@ -22,7 +22,7 @@ output:
  
 ## Outreach
 
-Whenever possible, feasible and meaningful I try to outreach to other audiences beyond academia. Sometimes I've even been asked to do so or I've been featured in news pieces. 
+Opinion pieces and other non-academic outputs as well as news stories in which either me or my work have been mentioned. 
 
 ## Opinion pieces and comments
 
@@ -53,17 +53,53 @@ Whenever possible, feasible and meaningful I try to outreach to other audiences 
 #### 2017  
 **[Los resultados del REF2014 de Reino Unido marcan el camino a seguir en la evaluación científica](https://www.ub.edu/blokdebid/es/content/los-resultados-del-ref2014-del-reino-unido-marcan-el-camino-seguir-en-la-evaluacion)** | **Blok de BiD**, Dec 12, 2017.
 
-Costas, R., Yegros, A., Larivière, V., Sugimoto, C., Robinson-Garcia, N., Murray, D. The global scientific brain: Policy implications of barriers to scientific mobility. CWTS Blog, Oct 5, 2017.  
+**[The global scientific brain: Policy implications of barriers to scientific mobility](https://www.cwts.nl/blog?article=n-r2r284)** | **CWTS Blog**, Oct 5, 2017.  
 
-Woolley, R. & Robinson-Garcia, N. The 2014 REF results show only a very weak relationship between excellence in research and achieving societal impact. LSE Impact Blog, July, 19, 2017.  
+**[The 2014 REF results show only a very weak relationship between excellence in research and achieving societal impact](https://blogs.lse.ac.uk/impactofsocialsciences/2017/07/19/what-do-the-2014-ref-results-tell-us-about-the-relationship-between-excellent-research-and-societal-impact/)** | **LSE Impact Blog**, July, 19, 2017.  
 
-Rafols, I., Robinson-Garcia & van Leeuwen, T.N. How to make altmetrics useful in societal impact assessments: shifting from citation to interaction approaches. LSE Impact Blog, March, 23, 2017.  
+**[How to make altmetrics useful in societal impact assessments: shifting from citation to interaction approaches](https://blogs.lse.ac.uk/impactofsocialsciences/2017/03/23/how-to-make-altmetrics-useful-in-societal-impact-assessments-shifting-from-citation-to-interaction-approaches/?share=pocket)** | **LSE Impact Blog**, March, 23, 2017.  
 
-#### 2015  
-Robinson-Garcia, N. Edición 2015 de Shanghai Ranking Expanded España e Iberoamérica. EC3metrics Noticias, Sept, 30, 2015.  
-  Robinson-Garcia, N. Informes EC3metrics – Las universidades españolas en la edición 2015 del Ranking de Leiden. EC3metrics Noticias, Sept, 11, 2015. 
-  
 ###  2014  
-Robinson-Garcia, N. & Torres-Salinas, D. Los nuevos índices de citas de Thomson Reuters ofrecen oportunidades para mejorar los rankings de universidades. Anuario ThinkEPI, 2014, 9, 207-210. doi:10.3145/thinkepi.2015.47. Material
+**[Los nuevos índices de citas de Thomson Reuters ofrecen oportunidades para mejorar los rankings de universidades](https://zenodo.org/record/1043364)** | **Anuario ThinkEPI**, 2014, 9, 207-210.
 
 ## Featured elsewhere
+
+[How critics say a computer scientist in Spain artificially boosted his Google Scholar metrics](https://retractionwatch.com/2022/03/25/how-critics-say-a-computer-scientist-in-spain-artificially-boosted-his-google-scholar-metrics/). **Retraction Watch**, March 25, 2021
+
+[Scientists at odds on Utrecht University reforms to hiring and promotion criteria](https://www.nature.com/nature-index/news-blog/scientists-argue-over-use-of-impact-factors-for-evaluating-research). **Nature Index**, August 9, 2021.
+
+[You've tweeted about your hot new paper! Don't expect many clicks](https://www.science.org/content/article/you-ve-tweeted-about-your-hot-new-paper-don-t-expect-many-clicks). **Science**, February 12, 2021.
+
+[Scientists are drowning in COVID-19 papers. Can new tools keep them afloat?](https://www.science.org/content/article/scientists-are-drowning-covid-19-papers-can-new-tools-keep-them-afloat) **Science** May 14, 2020.
+
+[Science has more impact when researchers travel, collaborate](https://www.upi.com/Science_News/2017/11/09/Science-has-more-impact-when-researchers-travel-collaborate/8481510092041/). **United Press International**. Nov 9, 2017
+
+[P09 - #Evaluando en la I Reunión de Servicios de Evaluación Científica en los Vicerrectorados de Investigación](https://www.ivoox.com/p09-evaluando-i-reunion-de-audios-mp3_rf_32995477_1.html) **Radiolab UGR**. Oct 27, 2017
+
+[Las fronteras, una amenaza para la producción e impacto científico internacional, según un estudio](https://www.europapress.es/comunitat-valenciana/noticia-fronteras-amenaza-produccion-impacto-cientifico-internacional-estudio-20171006121658.html). **Europa Press**. Oct 6, 2017
+
+[La fuite des cerveaux est bonne pour la recherche.](https://www.lepoint.fr/sciences-nature/la-fuite-des-cerveaux-est-bonne-pour-la-recherche-06-10-2017-2162688_1924.php#11) **Le Point Sciences**. Oct 6, 2017.
+
+[Audio fil du vendredi 6 octubre 2017. Étude: Mobilité des chercheurs menacée par Trump et le Brexit.](https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-toronto/episodes/391391/audio-fil-du-vendredi-6-octobre-2017). **L'Heure de point**. Oct 6, 2017.
+
+[Researchers who change country produce more influential work](https://www.economist.com/science-and-technology/2017/10/07/researchers-who-change-country-produce-more-influential-work). **The Economist**, Oct 4, 2017.
+
+[Migrating researchers are cited the most](https://doi.org/10.1126/science.aaq1218). **Science**, Oct 4, 2017.
+
+[Editorial: Science without walls is good for all](https://doi.org/10.1038/550007b). **Nature**, 2017, 550, 7-8.
+
+[Fresh data supports freedom of movement for scientists](https://www.timeshighereducation.com/news/fresh-data-support-freedom-movement-scientists). **Times Higher Education Magazine**, Oct 4, 2017.
+
+[Tweets on academic papers ‘mechanical and devoid of original thought’](https://www.timeshighereducation.com/news/tweets-academic-papers-mechanical-and-devoid-original-thought). **Times Higher Education Magazine**, Sept 2, 2017.
+
+[The "unbearable emptiness" of Science in Twitter?](http://blogs.discovermagazine.com/neuroskeptic/?p=9080&alm_mvr=0) **Discover Magazine**, Aug 27, 2017.
+
+[Publishers withdraw more than 120 gibberish papers](https://doi.org/10.1038/nature.2014.14763). **Nature**, Feb 24, 2014.
+
+[Google Scholar wins raves - But can it be trusted?](https://doi.org/10.1126/science.343.6166.14) **Science**, 2014, 343(6166), 14.
+
+[Radioscopio en revisión](https://www.ivoox.com/radioscopio-n-072-radioscopio-revision-audios-mp3_rf_2676279_1.html) **El Radioscopio**. Canal Sur Radio, Dec 28, 2013
+
+[Las grandes revistas científicas y los métodos de medición, cada vez más cuestionados](https://www.ivoox.com/a-hombros-gigantes-las-grandes-revistas-cientificas-y-audios-mp3_rf_2647117_1.html) **A hombros de gigantes**. Radio Nacional de España, Dec 16, 2013.
+
+[Así lograron engañar a Google varios científicos españoles](https://www.abc.es/tecnologia/redes/20131214/abci-google-hackear-cientificos-201312141935.html). **ABC**, Dec 14, 2013.
