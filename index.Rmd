@@ -42,7 +42,7 @@ Check complete [list of projects here](projects.html)
 
 ## Outputs
 
-**[Publications](https://www.zotero.org/elrobin)** | Papers, chapters and whatnot in my Zotero profile
+**[Publications](pubs.html)** | Papers, chapters and whatnot.
 
 **[Bibliometría o Barbarie](https://open.spotify.com/show/7rXUELu4XO33dH2sGLFmgj?si=9b426f6849144830)** | Podcast on scientometrics
 

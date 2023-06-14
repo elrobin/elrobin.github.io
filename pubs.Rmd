@@ -17,41 +17,75 @@ links:
   - label: EC3 Research Group
     url: "https://ec3-research.com" 
 output:
-  postcards::trestles
+  html_document
 ---
  
 ## Publications {.tabset}
 
-Complete list of publications. Filter by [journal articles](articles.html) - [conference proceedings](conference.html) - [book chapters](chapters.html) - [working papers](workpapers.hmtl) - [others](other.html)
+[HOME](https://elrobin.github.io)
 
-### Under review
+Still updating...
 
-1. Torres-Salinas, D., Docampo, D., Arroyo-Machado, W., Robinson-Garcia, N. The Many Publics of Science: Using Altmetrics to Identify Common Communication Channels by Scientific field. [Preprint](https://doi.org/10.5281/zenodo.7817445)
+### Journal Articles
 
-### Forthcoming
+#### Under review
 
-1. Robinson-Garcia, N., Costas, R., Nane, G.F., van Leeuwen, T.N. Valuation regimes in academia: Researchers’ attitudes towards their diversity of activities and academic performance. Research Evaluation. [DOI](https://doi.org/10.1093/reseval/rvac049) - [Preprint](https://osf.io/preprints/socarxiv/ve7d3/)
+- Torres-Salinas, D., Docampo, D., Arroyo-Machado, W., Robinson-Garcia, N. The Many Publics of Science: Using Altmetrics to Identify Common Communication Channels by Scientific field. [Preprint](https://doi.org/10.5281/zenodo.7817445)
+
+#### Forthcoming
+
+- Robinson-Garcia, N., Costas, R., Nane, G.F., van Leeuwen, T.N. Valuation regimes in academia: Researchers’ attitudes towards their diversity of activities and academic performance. Research Evaluation. [DOI](https://doi.org/10.1093/reseval/rvac049) - [Preprint](https://osf.io/preprints/socarxiv/ve7d3/)
 
 2. Arroyo-Machado, W., Robinson-Garcia, N. Towards a Science of Humanities: How Big Data can solve the limitations of scientometrics. In A. Gallego Cuiñas & D. Torres-Salinas (eds.). Humanities and Big Data in Ibero-America: Methodological issues and practical applications. De Gruyter.
 
 3. Costas, R., Corona, C., Robinson-Garcia, N. Could ORCID play a key role in meta-research? Discussing new analytical possibilitites to study the dynamics of science and scientists. In A. Oancea, G. Derrick & N. Nuseibeh (eds.). Handbook on Meta-Research. Edward Elgar. [Preprint](https://doi.org/10.31235/osf.io/sjck6)
 
-### 2023
+#### 2023
 
-1. Robinson-Garcia, N., Corona-Sobrino, C., Chinchilla-Rodríguez, Z, Torres-Salinas, D., Costas, R. Informetric methods for studying the diversity of the scientific workforce: Towards a state-of-the-art. _Atlanta Conference on Science and Innovation Policy 2023_, 24-26 May, Atlanta GA, United States. [Slides](https://doi.org/10.5281/zenodo.7984135)
+- Robinson-Garcia, N., Corona-Sobrino, C., Chinchilla-Rodríguez, Z, Torres-Salinas, D., Costas, R. Informetric methods for studying the diversity of the scientific workforce: Towards a state-of-the-art. _Atlanta Conference on Science and Innovation Policy 2023_, 24-26 May, Atlanta GA, United States. [Slides](https://doi.org/10.5281/zenodo.7984135)
 
-1. Torres-Salinas, D., Robinson-Garcia, N., Jiménez-Contreras, E. The bibliometric journey towards technological and social change: A review of current challenges and issues. El profesional de la información, 32(2). [DOI](https://doi.org/10.3145/epi.2023.mar.28) - [Preprint](https://doi.org/10.3145/epi.2023.mar.28)
+- Torres-Salinas, D., Robinson-Garcia, N., Jiménez-Contreras, E. The bibliometric journey towards technological and social change: A review of current challenges and issues. El profesional de la información, 32(2). [DOI](https://doi.org/10.3145/epi.2023.mar.28) - [Preprint](https://doi.org/10.3145/epi.2023.mar.28)
 
-1. Abramo, G., Aguillo, I.F., Aksnes, D.W., Boyack, K., Burrell, Q.L., Campanario, J.M., Chinchilla-Rodríguez, Z., Costas, R., D’Angelo, C.A., Harzing, A.-W., Jamali, H.R., Larivière, V., Leydesdorff, L., Luwel, M., Martin, B., Mayr, P., McCain, K.W., Peters, I., Rafols, I., Robinson-Garcia, N., Schubert, T., Small, H., Sugimoto, C.R., Thelwall, M., van den Besselaar, P., van Leeuwen, T., Waltman, L. Retraction of Predatory publishing in Scopus: evidence on cross-country differences lacks justification. Scientometrics, 128, 1459–1461. [DOI](https://doi.org/10.1007/s11192-022-04565-6)
+- Abramo, G., Aguillo, I.F., Aksnes, D.W., Boyack, K., Burrell, Q.L., Campanario, J.M., Chinchilla-Rodríguez, Z., Costas, R., D’Angelo, C.A., Harzing, A.-W., Jamali, H.R., Larivière, V., Leydesdorff, L., Luwel, M., Martin, B., Mayr, P., McCain, K.W., Peters, I., Rafols, I., Robinson-Garcia, N., Schubert, T., Small, H., Sugimoto, C.R., Thelwall, M., van den Besselaar, P., van Leeuwen, T., Waltman, L. Retraction of Predatory publishing in Scopus: evidence on cross-country differences lacks justification. Scientometrics, 128, 1459–1461. [DOI](https://doi.org/10.1007/s11192-022-04565-6)
 
-1. Nane, G.F., Robinson-Garcia, N., van Schalkwyk, F., Torres-Salinas, D. COVID-19 and the scientific publishing system: Growth, open access and scientific fields. Scientometrics, 128, 345-362. [DOI](https://doi.org/10.1007/s11192-022-04536-x) - [Preprint](https://doi.org/10.31235/osf.io/ntrpx) - [Data](https://doi.org/10.5281/zenodo.5774870) - [Material](https://doi.org/10.5281/zenodo.5774878)
+- Nane, G.F., Robinson-Garcia, N., van Schalkwyk, F., Torres-Salinas, D. COVID-19 and the scientific publishing system: Growth, open access and scientific fields. Scientometrics, 128, 345-362. [DOI](https://doi.org/10.1007/s11192-022-04536-x) - [Preprint](https://doi.org/10.31235/osf.io/ntrpx) - [Data](https://doi.org/10.5281/zenodo.5774870) - [Material](https://doi.org/10.5281/zenodo.5774878)
 
-1. D’Este, P., Robinson-Garcia, N. Interdisciplinary research and the societal visibility of science: The advantages of spanning multiple and distant scientific fields. Research Policy, 52(2), 104609. [DOI](https://10.1016/j.respol.2022.104609)
+- D’Este, P., Robinson-Garcia, N. Interdisciplinary research and the societal visibility of science: The advantages of spanning multiple and distant scientific fields. Research Policy, 52(2), 104609. [DOI](https://doi.org/10.1016/j.respol.2022.104609)
 
-### 2022
+#### 2022
+
+- Ramos-Vielba, I., Robinson-Garcia, N., Woolley, R. A value creation model from science-society interconnections: Archetypal analysis combining publications, survey and altmetric data. Plos One, 17(6), e0269004. [DOI](https://doi.org/10.1371/journal.pone.0269004) - [Preprint](https://osf.io/preprints/socarxiv/tkzc5) - [Material](https://zenodo.org/record/4767452)
+
+- Arroyo-Machado, W., Robinson-Garcia, N., Torres-Salinas, D. A comprehensive dataset of the Spanish research output and its associated social media and altmetric mentions (2016-2020). Data, 7(5), 59. [DOI](https://doi.org/10.3390/data7050059) - [Data](https://doi.org/10.6084/m9.figshare.19204686.v2)
+
+- Torres-Salinas, D., Robinson-Garcia, N., Arroyo-Machado, W. Coverage and distribution of altmetric mentions in Spain: A cross-country comparison in 22 research fields. El Profesional de la Información, 31(2). [DOI](https://doi.org/10.3145/epi.2022.mar.20)
+
+- Macháček, V., Shrolec, M., Ferreira, M.R., Robinson-Garcia, N., Costas, R. Studying researchers’ institutional mobility: Bibliometric evidence on academic inbreeding and internationalization. Science and Public Policy, 49(1), 85-97. [DOI](https://doi.org/10.1093/scipol/scab064)
+
+#### 2021
+
+- El-Ouahi, J., Robinson-Garcia, N., Costas, R. Analysing Scientific Mobility and Collaboration in the Middle East and North Africa. Quantitative Science Studies, 2(3), 1023–1047. [DOI](https://doi.org/10.1162/qss_a_00149)
+
+- Arroyo-Machado, W., Torres-Salinas, D., Robinson-Garcia, N. Identifying and characterizing social media communities: A socio-semantic network approach to altmetrics. Scientometrics, 126, 9267-9289. [DOI](https://doi.org/10.1007/s11192-021-04167-8) - [Data](https://doi.org/10.5281/zenodo.4148941) - [Code](https://github.com/Wences91/social_media_communities)
+
+- Sixto-Costoya, A., Robinson-Garcia, N., van Leeuwen, T.N., Costas, R. Exploring the relevance of ORCID as a source of study of data sharing activities at the individual-level: a methodological discussion. Scientometrics, 126, 7149-7165. [DOI](https://doi.org/10.1007/s11192-021-04043-5) - [Preprint](https://arxiv.org/abs/2105.11825)
+
+- Chinchilla-Rodríguez, Z., Bu, Y., Robinson-Garcia, N., Sugimoto, C.R. An empirical review of the different variants of the Probabilistic Affinity Index as applied to scientific collaboration. Scientometrics, 126, 1775-1795.[DOI](https://doi.org/10.1007/s11192-020-03815-9) - [Preprint](https://arxiv.org/ftp/arxiv/papers/2008/2008.12007.pdf) - [Material](https://drive.google.com/file/d/1PoYVkBQ1aNRou4HFBCXCCmlvLM-v4afk/view?usp=sharing)
+
+#### 2020
+
+- Robinson-Garcia, N., van Leeuwen, T.N., Torres-Salinas, D. Measuring Open Access uptake: Data sources, expectations and misconceptions. Scholarly Assesment Reports, 2(1), p. 15. [DOI](https://doi.org/10.29024/sar.23) - [Preprint](https://zenodo.org/record/4071143)
+
+- Robinson-Garcia, N., Costas, R., Sugimoto, C.R., Larivière, V., Nane, G.F. Meta-Research: Task specialization across research careers. ELife, 9, e60586.  [DOI](https://doi.org/10.7554/eLife.60586) - [Data](https://zenodo.org/record/3891055)
+
+- Robinson-Garcia, N., Costas, R., van Leeuwen, T.N. Open Access uptake by universities worldwide. PeerJ 8:e9410 [DOI](https://doi.org/10.7717/peerj.9410) - [Material](https://zenodo.org/record/3874959/files/S1_supplemental_material.xlsx?download=1)
+
+- Azagra-Caro, J.M., Fernández-Mesa, A., Robinson-Garcia, N. ‘Getting out of the closet’: Scientific authorship of literary fiction and knowledge transfer. Journal of Technology Transfer, 45(1), 56-85. [DOI](https://doi.org/10.1007/s10961-018-9672-6) - [Preprint](https://arxiv.org/abs/1802.05012)
 
 
 
 ### Conference proceedings
 
-asfadf
+#### 2023
+
+- Robinson-Garcia, N., Corona-Sobrino, C., Chinchilla-Rodríguez, Z., Torres-Salinas, D., Costas, R. Informetric methods for studying the diversity of the scientific workforce: Towards a state-of-the-art. Atlanta Conference on Science Policy and Innovation 2023, Atlanta GA, 24-26 May, 2023. [Slides](https://doi.org/10.5281/zenodo.7984135)
