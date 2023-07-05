@@ -188,6 +188,8 @@ OA version
 
 ### Conference proceedings
 
+1. Robinson-Garcia, N., Torres-Salinas, D., Vargas-Quesada, B., Chinchilla-Rodriguez, Z., Gorraiz, J. (2023) Errors of measurement in scientometrics: Identification and calculation of systematic errors. ISSI Conference 2013, Bloomington, Indiana (United States). July 2-5, 2023 [Paper](https://10.5281/zenodo.8116577) - [Slides](https://docs.google.com/presentation/d/11D215XHhu9OnbKY_twNBAMGSrK_6oxL2-DCxQ3y_h4Y/edit?usp=sharing)
+
 1. Melkers, J., Welch, E., Morales Tirado, M., Woolley, R., Robinson-Garcia, N., Klein, A. Social innovation for resilience in international collaborative research. 27th International Conference on Science, Technology and Innovation Indicators (STI 2023). [Paper](https://dapp.orvium.io/deposits/6443009fc93d17c257de27ae/view)
 
 1. Arroyo-Machado, W., Torres-Salinas, D., Robinson-Garcia, N. Who handles dissemination on Twitter? 27th International Conference on Science, Technology and Innovation Indicators (STI 2023). [Paper](https://dapp.orvium.io/deposits/644240c8722f31118270b7ec/view)
