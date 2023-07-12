@@ -25,13 +25,11 @@ output:
  
 ## Publications {.tabset}
 
-Still updating...
-
 ### Journal Articles
 
 1. Chinchilla-Rodriguez, Z., Costas, R., Robinson-Garcia, N., Larivière, V. (Under review) Validity of corresponding authorship using Web of Science and Scopus.
 
-1. Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N. (Accepted). Bibliometric denialism. Scientometrics.
+1. Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N. (Accepted). Bibliometric negationism. Scientometrics.
 
 1. Torres-Salinas, D., Docampo, D., Arroyo-Machado, W., Robinson-Garcia, N. (Under review) The Many Publics of Science: Using Altmetrics to Identify Common Communication Channels by Scientific field. [Preprint](https://doi.org/10.5281/zenodo.7817445)
 
@@ -195,3 +193,35 @@ OA version
 1. Halevi, G., Fry, R., Milicevic, N., Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N. The academic age of researchers by SDG and region – in which region more early career researchers are needed to advance SDGs related science? 27th International Conference on Science, Technology and Innovation Indicators (STI 2023) [Paper](https://dapp.orvium.io/deposits/6442d0ae2e6751bb8378275e/view)
 
 1. Robinson-Garcia, N., Corona-Sobrino, C., Chinchilla-Rodríguez, Z., Torres-Salinas, D., Costas, R. Informetric methods for studying the diversity of the scientific workforce: Towards a state-of-the-art. Atlanta Conference on Science Policy and Innovation 2023, Atlanta GA, 24-26 May, 2023. [Slides](https://doi.org/10.5281/zenodo.7984135)
+
+2. Chinchilla-Rodríguez, Z., Costas, R., Larivière, V., Robinson-Garcia, N. & Sugimoto, C.R.) The relationship between corresponding authorship and author position. STI 2022 “From Global Indicators to Local Applications” Conference Proceedings, Sept, 7-9, Granada (Spain) [Paper](https://doi.org/10.5281/zenodo.6957638)
+
+3. Escabias, M. & Robinson-Garcia, N. The relation between contribution statements and academic age. STI 2022 “From Global Indicators to Local Applications” Conference Proceedings, Sept, 7-9, Granada (Spain) [Paper](https://zenodo.org/record/6974732)
+
+4. Arroyo-Machado, W. and Robinson-Garcia, N. (2021). Big Data and the birth of a Science of Humanities. The 1st International Conference on Humanities and Big Data in Ibero-America: Methodological issues and practical applications. Zenodo. doi:10.5281/zenodo.5793176 [Slides](https://doi.org/10.5281/zenodo.5793176)
+
+5. D’Este, P., Robinson-Garcia, N. Interdisciplinary research and the societal visibility of science: The advantages of spanning multiple and distant fields. EU-SPRI 2021 Conference, Jun. 9-11, Oslo (Norway) [Online event].
+
+6. Macháček, V., Shrolec, M., Ferreira, M.R., Robinson-Garcia, N., Costas, R. Studying researchers’ institutional mobility: bibliometric evidence on academic inbreeding and internationalization. 18th Conference of the International Society for Scientometrics and Informetrics, Jul. 12-15, Leuven (Belgium) [Online event].
+
+7. Torres-Salinas, D., Robinson-Garcia, N., van Schalkwyk, F., Nane, G.F., Castillo-Valdivieso, P. The growth of COVID-19 scientific literature: A forecast analysis of different daily time series in specific settings. 18th Conference of the International Society for Scientometrics and Informetrics, Jul. 12-15, Leuven (Belgium) [Online event]. [Paper](https://arxiv.org/abs/2101.12455)
+
+8. Robinson-Garcia, N., Costas, R., Sugimoto, C.R., Larivière, V., Nane, T. The effects of specialization on research careers. International Conference Evaluating Knowledge Transfer and Impact, Dec. 12-13, 2019, Córdoba (Spain). [Slides](https://doi.org/10.5281/zenodo.3580984)
+
+9. D’Este, P., Ramos-Vielba, I., Robinson-Garcia, N., Woolley, R. Aligning scientific impact and societal relevance: The roles of academic engagement and interdisciplinary research. Atlanta Conference on Science and Innovation Policy, Oct. 14-16, Atlanta (United States). [Slides](https://www.slideshare.net/figaro/aligning-scientific-impact-and-societal-relevance-the-roles-of-academic-engagement-and-interdisciplinary-research)
+
+10. van Leeuwen, T.N., Robinson-Garcia, N., Costas, R. Using Unpaywall for tracking Open Science: discussing changes in Open Access labels in a year-by-year update regime. altmetrics19 The 2019 Altmetrics Workshop. Oct 11, Stirling (Scotland).
+
+11. Robinson-Garcia, N., Costas, R., van Leeuwen, T.N., Nane, T. Towards a multidimensional valuation model of scientists. Atlanta Conference on Science and Innovation Policy, Oct. 14-16, Atlanta (United States). [Slides](https://www.slideshare.net/figaro/towards-a-multidimensional-valuation-model-of-scientists)
+
+12. Robinson-Garcia, N., Costas, R., van Leeuwen, T.N., Nane, T. Towards a multidimensional valuation model of scientists [Poster]. G. Catalano et al. (eds) Proceedings of the 17th Conference of the International Society for Scientometrics and Informetrics, Sep. 2-5, Rome (Italy), vol. 2, pp. 2565-2566. [Paper](https://doi.org/10.5281/zenodo.3376407)
+
+13. Robinson-Garcia, N., Woolley, R., Costas, R. Making sense of global collaboration dynamics: Developing a methodological framework to study (dis)similiarities between country disciplinary profiles and choice of collaboration partners. G. Catalano et al. (eds) Proceedings of the 17th Conference of the International Society for Scientometrics and Informetrics, Sep. 2-5, Rome (Italy), vol. 2, pp. 703-713. [Paper](https://doi.org/10.5281/zenodo.3376411)
+
+14. Robinson-Garcia, N., Costas, R., van Leeuwen, T.N. Indicators of Open Access for universities. In: G. Catalano et al. (eds) Proceedings of the 17th Conference of the International Society for Scientometrics and Informetrics, Sep. 2-5, Rome (Italy), vol. 1, pp. 1415-1423. [Paper](htpps://doi.org/10.5281/zenodo.3387449)
+
+15. Diaz-Faes, A.A., Robinson-Garcia, N., Bowman, T., Costas, R. Towards a multidimensional classification of social media users around science on Twitter. In: G. Catalano et al. (eds) Proceedings of the 17th Conference of the International Society for Scientometrics and Informetrics, Sep. 2-5, Rome (Italy), vol. 2, pp. 2070-2075. [Paper](https://drive.google.com/file/d/1xbhCtNvHx3sBDPGrmdDWFCMazWRsKD5u/view)
+
+16. Arroyo-Machado, W., Torres-Salinas, D., Robinson-Garcia, N. Identifying communities of interest in social media: Microbiology as a case study. In: G. Catalano et al. (eds) Proceedings of the 17th Conference of the International Society for Scientometrics and Informetrics, Sep. 2-5, Rome (Italy), vol. 2, pp. 1201-1209 [Paper](https://doi.org/10.5281/zenodo.3384573)
+
+17. Welch, E., Siciliano, M., Robinson-Garcia, N. Network Churn in the Professional Networks of Foreign-Born and Globally Mobile Faculty. AAAS 2019 Meeting, March 14-17, Washington DC, United States.
