@@ -85,21 +85,21 @@ output:
 
 1. Chinchilla-Rodriguez, Miao, L., Murray, D., Robinson-Garcia, N., Costas, R., Sugimoto, C.R. (2018) A global comparison of scientific mobility and collaboration according to national scientific capacities. Frontiers in Research Metrics and Analytics, 3, 17 pp. [DOI](https://doi/10.3389/frma.2018.00017)
 
-1. Robinson-Garcia, N., Amat, C.B. (2018) ¿Tiene sentido limitar la coautoría científica? No existe inflación de autores en Ciencias Sociales y Educación en España. Revista Española de Documentación Científica, 41(2), e201. doi:10.3989/redc.2018.2.1499 - Preprint - Material
+1. Robinson-Garcia, N., Amat, C.B. (2018) ¿Tiene sentido limitar la coautoría científica? No existe inflación de autores en Ciencias Sociales y Educación en España. Revista Española de Documentación Científica, 41(2), e201. [DOI](https://doi.org/10.3989/redc.2018.2.1499) - [Preprint](https://arxiv.org/abs/1710.04242) - [Material](https://doi.org/10.6084/m9.figshare.5173144.v3)
 
-1. Torres-Salinas, D., Robinson-Garcia, N., Herrera-Viedma, E., Jimenez-Contreras, E. (2018) Consideraciones metodológicas sobre el uso del impacto normalizado en las convocatorias Severo Ochoa y María de Maetzu. El profesional de la información, 27(2), 367-374. doi:10.3145/epi.2018.mar.15 OA version
+1. Torres-Salinas, D., Robinson-Garcia, N., Herrera-Viedma, E., Jimenez-Contreras, E. (2018) Consideraciones metodológicas sobre el uso del impacto normalizado en las convocatorias Severo Ochoa y María de Maetzu. El profesional de la información, 27(2), 367-374. [DOI](https://doi.org/10.3145/epi.2018.mar.15) - [Preprint](https://arxiv.org/abs/1804.03446)
 
-1. Torres-Salinas, D., Robinson-Garcia, N., Gorraiz, J. (2017) Filling the citation gap: Measuring the multidimensional impact of the academic book at institutional level with PlumX. Scientometrics, 113(3), 1371-1384. doi:10.1007/s11192-017-2539-z
-OA version
-1. Mongeon, P., Robinson-Garcia, N., Wei, J., Costas, R. (2017) Incorporating data sharing into the reward system of science: Linking DataCite records to authors in the Web of Science. ASLIB Journal of Information Management, 69(5), 545-556. doi:10.1108/AJIM-01-2017-0024
+1. Torres-Salinas, D., Robinson-Garcia, N., Gorraiz, J. (2017) Filling the citation gap: Measuring the multidimensional impact of the academic book at institutional level with PlumX. Scientometrics, 113(3), 1371-1384. [DOI](https://doi.org/10.1007/s11192-017-2539-z) - [Preprint](https://arxiv.org/abs/1710.00368)
 
-1. Sugimoto, C.R., Robinson-Garcia, N., Murray, D.S., Yegros-Yegros, A., Costas, R., Larivière, V. (2017) Scientists have most impact when they’re free to move. Nature, 550, 29-31. doi:10.1038/550029a Material
+1. Mongeon, P., Robinson-Garcia, N., Wei, J., Costas, R. (2017) Incorporating data sharing into the reward system of science: Linking DataCite records to authors in the Web of Science. ASLIB Journal of Information Management, 69(5), 545-556. [DOI](https://doi.org/10.1108/AJIM-01-2017-0024)
 
-1. Robinson-Garcia, N., Mongeon, P., Wei, J., Costas, R. (2017) DataCite as a novel bibliometric source: Coverage, strengths and limitations. Journal of Informetrics, 11(3), 841-854. doi:10.1016/j.joi.2017.07.003 OA version
+1. Sugimoto, C.R., Robinson-Garcia, N., Murray, D.S., Yegros-Yegros, A., Costas, R., Larivière, V. (2017) Scientists have most impact when they’re free to move. Nature, 550, 29-31. [DOI](https://doi.org/10.1038/550029a) - [Material](https://www.nature.com/polopoly_fs/7.46691.1506939999!/suppinfoFile/Comment%20Sugimoto%20Supplementary%20info_27%20sept.pdf)
 
-1. Robinson-Garcia, N., Costas, R., Isett, K.R., Melkers, J., Hicks, D. (2017) The unbearable emptiness of tweeting – about journal articles. PLOS One, 12(8), e0183551. doi:10.1371/journal.pone.0183551 OA version
+1. Robinson-Garcia, N., Mongeon, P., Wei, J., Costas, R. (2017) DataCite as a novel bibliometric source: Coverage, strengths and limitations. Journal of Informetrics, 11(3), 841-854. [DOI](https://doi.org/10.1016/j.joi.2017.07.003) - [Preprint](https://arxiv.org/abs/1707.06070)
 
-1. Romero-Frías, E., Robinson-Garcia, N. (2017) Social labs in universities: Innovation and impact. The case of Medialab UGR. Comunicar, 51. doi:10.3916/C51-2017-03 OA version
+1. Robinson-Garcia, N., Costas, R., Isett, K.R., Melkers, J., Hicks, D. (2017) The unbearable emptiness of tweeting – about journal articles. PLOS One, 12(8), e0183551. [DOI](https://doi.org/10.1371/journal.pone.0183551)
+
+1. Romero-Frías, E., Robinson-Garcia, N. (2017) Social labs in universities: Innovation and impact. The case of Medialab UGR. Comunicar, 51. [DOI](https://doi.org/10.3916/C51-2017-03) - [Preprint](http://digibug.ugr.es/handle/10481/44867)
 
 1. Robinson-Garcia, N., Jiménez-Contreras, E., Torres-Salinas, D. (2016) Analyzing data citation practices using the Data Citation Index. Journal of the Association for Information Science and Technology, 67(12), 2964-2975. doi:10.1002/asi.23529 OA version Material
 
