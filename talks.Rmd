@@ -26,7 +26,8 @@ I ocassionally get invited to give talks on my work or share my experience in ac
 
 ### 2023
 
-**Meaningful Data Metrics: The State of Evidence from Bibliometrics Studies on Data Reuse** (Discussion panel) | Sep 12-13, [MDC Summit](https://summit.makedatacount.org/program/), Washington DC
+**Meaningful Data Metrics: The State of Evidence from Bibliometrics Studies on Data Reuse** (Discussion panel) | Sep 12-13, [MDC Summit](https://summit.makedatacount.org/program/), Washington DC. [https://doi.org/10.5281/zenodo.8370593
+](https://doi.org/10.5281/zenodo.8370593)
 
 **Bibliometrics in practice how to generate reports for institutions** | Sep 8, [European Summer School for Scientometrics](https://esss.info), Sapienza University, Rome. [https://doi.org/10.5281/zenodo.5524178](https://doi.org/10.5281/zenodo.5524178)
 
