@@ -73,7 +73,7 @@ output:
 
 1. Robinson-Garcia, N., Sugimoto, C.R., Murray, D., Yegros-Yegros, A., Larivière, V., Costas, R. (2019) The many faces of mobility: Using bibliometric data to measure the movement of scientists. Journal of Informetrics, 13(1), 50-63. [DOI](https://doi.org/10.1016/j.joi.2018.11.002) - [Preprint](https://arxiv.org/abs/1803.03449)
 
-1. Robinson-Garcia, N., van Leeuwen, T.N., Rafols, I. (2018) Using almetrics for contextualised mapping of societal impact: From hits to networks. Science and Public Policy, 45(6), 815-826. [DOI](https://doi.org/10.1093/scipol/scy024) - [Preprint](https://ssrn.com/abstract=2932944) - [CODE](https://github.com/elrobin/twitter-networks)
+1. Robinson-Garcia, N., van Leeuwen, T.N., Rafols, I. (2018) Using altmetrics for contextualised mapping of societal impact: From hits to networks. Science and Public Policy, 45(6), 815-826. [DOI](https://doi.org/10.1093/scipol/scy024) - [Preprint](https://ssrn.com/abstract=2932944) - [CODE](https://github.com/elrobin/twitter-networks)
 
 1. Torres-Salinas, D., Gorraiz, J., Robinson-Garcia, N. (2018) The insoluble problems of books: What does Altmetric.com have to offer? ASLIB Journal of Information Management, 70(6), 691-707. [DOI](https://doi.org/10.1108/AJIM-06-2018-0152) - [Preprint](https://arxiv.org/abs/1809.10128)
 
