@@ -156,13 +156,11 @@ OA version
 
 1. Jiménez-Contreras, E.; Robinson-Garcia, N.; Cabezas-Clavijo, Á. (2011). Productivity and impact of Spanish researchers: reference thresholds within scientific areas. Revista Española de Documentación Científica, 34: 505-525. doi:10.3989/redc.2011.4.828. OA version
 
-1. Torres-Salinas, D.; García-Moreno-Torres, J.; Robinson-Garcia, N.; Delgado-López-Cózar, E.; Herrera, F. (2011). Rankings ISI de las Universidades Españolas según campos y disciplinas científicas (2ª ed. 2011). El Profesional de la Información, 20:701-711. doi:10.3145/epi.2011.nov.16. OA version
+1. Torres-Salinas, D.; García-Moreno-Torres, J.; Robinson-Garcia, N.; Delgado-López-Cózar, E.; Herrera, F. (2011). Rankings ISI de las Universidades Españolas según campos y disciplinas científicas (2ª ed. 2011). El Profesional de la Información, 20:701-711. [DOI](https://doi.org/10.3145/epi.2011.nov.16)
 
-1. Robinson-Garcia, N.; Delgado-López-Cózar, E.; Torres-Salinas, Daniel (2011). Cómo comunicar y diseminar información científica en Internet para obtener mayor visibilidad e impacto. Aula abierta 39(3): 41-50.
-OA version
+1. Robinson-Garcia, N.; Delgado-López-Cózar, E.; Torres-Salinas, Daniel (2011). Cómo comunicar y diseminar información científica en Internet para obtener mayor visibilidad e impacto. Aula abierta 39(3): 41-50. [Paper](https://dialnet.unirioja.es/descarga/articulo/3691479.pdf)
 
-1. Olvera-Lobo, M.D.; Robinson-Garcia, N. (2009). Tratamiento lingüístico de las preguntas en español en los sistemas de búsqueda de respuestas. El Profesional de la Información, 18: 180-187. doi: 10.3145/epi.2009.mar.08
-OA version
+1. Olvera-Lobo, M.D.; Robinson-Garcia, N. (2009). Tratamiento lingüístico de las preguntas en español en los sistemas de búsqueda de respuestas. El Profesional de la Información, 18: 180-187. [DOI](https://doi.org/10.3145/epi.2009.mar.08) - [Preprint](http://eprints.rclis.org/handle/10760/15093#.TtPO07JXtGU)
 
 ### Book chapters
 
@@ -190,7 +188,7 @@ OA version
 
 1. Melkers, J., Welch, E., Morales Tirado, M., Woolley, R., Robinson-Garcia, N., Klein, A. Social innovation for resilience in international collaborative research. 27th International Conference on Science, Technology and Innovation Indicators (STI 2023). [Paper](https://dapp.orvium.io/deposits/6443009fc93d17c257de27ae/view)
 
-1. Arroyo-Machado, W., Torres-Salinas, D., Robinson-Garcia, N. Who handles dissemination on Twitter? 27th International Conference on Science, Technology and Innovation Indicators (STI 2023). [Paper](https://dapp.orvium.io/deposits/644240c8722f31118270b7ec/view)
+1. Arroyo-Machado, W., Torres-Salinas, D., Robinson-Garcia, N. Tweet my paper: Who handles dissemination on Twitter? 27th International Conference on Science, Technology and Innovation Indicators (STI 2023). [Paper](https://dapp.orvium.io/deposits/644240c8722f31118270b7ec/view) - [Slides](https://doi.org/10.5281/zenodo.8385279)
 
 1. Halevi, G., Fry, R., Milicevic, N., Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N. The academic age of researchers by SDG and region – in which region more early career researchers are needed to advance SDGs related science? 27th International Conference on Science, Technology and Innovation Indicators (STI 2023) [Paper](https://dapp.orvium.io/deposits/6442d0ae2e6751bb8378275e/view)
 
