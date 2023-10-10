@@ -29,7 +29,7 @@ output:
 
 1. Aguilar-Soto, M., Robinson-Garcia, N., Vargas-Quesada, B. (Under review). Altmétricas para la Identificación de Controversias Científicas: El Caso de NeuroGenderings y el Neurosexismo.
 
-1. Chinchilla-Rodriguez, Z., Costas, R., Robinson-Garcia, N., Larivière, V. (Under review). Examining the quality of the corresponding authorship field in Web of Science and Scopus.
+1. Chinchilla-Rodriguez, Z., Costas, R., Robinson-Garcia, N., Larivière, V. (Accepted). Examining the quality of the corresponding authorship field in Web of Science and Scopus. Quantitative Science Studies
 
 1. Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N. (2023). Bibliometric denialism. Scientometrics, 128, 5357-5359. [DOI](https://doi.org/10.1007/s11192-023-04787-2)
 
@@ -103,9 +103,9 @@ output:
 
 1. Romero-Frías, E., Robinson-Garcia, N. (2017) Social labs in universities: Innovation and impact. The case of Medialab UGR. Comunicar, 51. [DOI](https://doi.org/10.3916/C51-2017-03) - [Preprint](http://digibug.ugr.es/handle/10481/44867)
 
-1. Robinson-Garcia, N., Jiménez-Contreras, E., Torres-Salinas, D. (2016) Analyzing data citation practices using the Data Citation Index. Journal of the Association for Information Science and Technology, 67(12), 2964-2975. doi:10.1002/asi.23529 OA version Material
+1. Robinson-Garcia, N., Jiménez-Contreras, E., Torres-Salinas, D. (2016) Analyzing data citation practices using the Data Citation Index. Journal of the Association for Information Science and Technology, 67(12), 2964-2975. [DOI](https://doi.org/10.1002/asi.23529) - [Preprint](http://arxiv.org/abs/1501.06285) - [Material](http://dx.doi.org/10.6084/m9.figshare.1250031)
 
-1. Torres-Salinas, D., Robinson-Garcia, N. (2016) Letter to the editor: The time for bibliometric applications. Journal of the Association for Information Science and Technology, 67(4), 1014-1015. doi:10.1002/asi.23604 OA version
+1. Torres-Salinas, D., Robinson-Garcia, N. (2016) Letter to the editor: The time for bibliometric applications. Journal of the Association for Information Science and Technology, 67(4), 1014-1015. [DOI](https://doi.org/10.1002/asi.23604) - [Preprint](http://digibug.ugr.es/bitstream/10481/39450/1/postprint.pdf)
 
 1. Robinson-Garcia, N., Cabezas-Clavijo, Á., Jiménez-Contreras, E. (2016) Tracking the performance of an R&D programme in the Biomedical Sciences. Research Evaluation, 25(3), 339-346 doi:10.1093/reseval/rvw003 OA version
 
