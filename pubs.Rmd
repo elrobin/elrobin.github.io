@@ -35,7 +35,7 @@ output:
 
 1. Torres-Salinas, D., Docampo, D., Arroyo-Machado, W., Robinson-Garcia, N. (Under review) The Many Publics of Science: Using Altmetrics to Identify Common Communication Channels by Scientific field. [Preprint](https://doi.org/10.5281/zenodo.7817445)
 
-1. Robinson-Garcia, N., Costas, R., Nane, G.F., van Leeuwen, T.N. (Forthcoming) Valuation regimes in academia: Researchers’ attitudes towards their diversity of activities and academic performance. Research Evaluation. [DOI](https://doi.org/10.1093/reseval/rvac049) - [Preprint](https://osf.io/preprints/socarxiv/ve7d3/)
+1. Robinson-Garcia, N., Costas, R., Nane, G.F., van Leeuwen, T.N. (2023) Valuation regimes in academia: Researchers’ attitudes towards their diversity of activities and academic performance. Research Evaluation, 32(2), 496-514. [DOI](https://doi.org/10.1093/reseval/rvac049) - [Preprint](https://osf.io/preprints/socarxiv/ve7d3/)
 
 1. Torres-Salinas, D., Robinson-Garcia, N., Jiménez-Contreras, E. (2023) The bibliometric journey towards technological and social change: A review of current challenges and issues. El profesional de la información, 32(2). [DOI](https://doi.org/10.3145/epi.2023.mar.28) - [Preprint](https://doi.org/10.3145/epi.2023.mar.28)
 
