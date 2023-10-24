@@ -27,6 +27,8 @@ output:
 
 ### Journal Articles
 
+1. González-Salmón, E., Robinson-Garcia, N. (Under review). A call for transparency in gender assignment approaches. [Preprint](https://zenodo.org/records/10036331)
+
 1. Aguilar-Soto, M., Robinson-Garcia, N., Vargas-Quesada, B. (Under review). Altmétricas para la Identificación de Controversias Científicas: El Caso de NeuroGenderings y el Neurosexismo.
 
 1. Chinchilla-Rodriguez, Z., Costas, R., Robinson-Garcia, N., Larivière, V. (Accepted). Examining the quality of the corresponding authorship field in Web of Science and Scopus. Quantitative Science Studies. [Preprint](https://zenodo.org/record/8430349)
