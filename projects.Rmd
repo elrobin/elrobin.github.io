@@ -24,6 +24,14 @@ output:
 
 Complete list of projects I have been involved in and role played.
 
+## U-CHASS Unit for Computational Humanities and Social Sciences
+- Funder: University of Granada
+- Role: Scientific Director
+- Partners: University of Granada
+- Period: 2023-2025
+- Budget: 40,000 €
+- Project website
+
 ### COMPARE – COntextual Mapping of academic Pathways Analysis for Research Evaluation
 - Funder: Ministerio de Ciencia e Innovación, Plan Nacional de I+D+i
 - Role: PI

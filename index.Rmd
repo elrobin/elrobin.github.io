@@ -28,9 +28,11 @@ Nicolas Robinson-Garcia is a Ramón y Cajal fellow in the field of bibliometrics
 
 Check complete [list of projects here](projects.html)
 
+**Unit for Computational Humanities and Social Sciences (U-CHASS)** | Research unit funded by the University of Granada
+
 **[COMPARE](https://compare-project.eu)** | Research project on team diversity in academia
 
-**[Visiting Scholars - CR Sugimoto](https://ec3-research.com/proyecto/visiting-scholars-2021-2/)** | Project on international mobility funded by UGR
+**[Visiting Scholars - CR Sugimoto](https://ec3-research.com/proyecto/visiting-scholars-2021-2/)** | Project on international mobility funded by the University of Granada
 
 ## Teaching
 
