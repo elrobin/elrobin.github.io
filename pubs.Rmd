@@ -168,6 +168,8 @@ OA version
 
 ### Book chapters
 
+1. Robinson-Garcia, N., Torres-Salinas, D. (Upcoming) Altmetrics. In: Encyclopedia of Libraries, Librarianship, and Information Science. Elsevier
+
 1. Costas, R., Corona, C., Robinson-Garcia, N. (2024) Could ORCID play a key role in meta-research? Discussing new analytical possibilitites to study the dynamics of science and scientists. In A. Oancea, G. Derrick, N. Nuseibeh & X. Xu (eds.). Handbook on Meta-Research. Edward Elgar. [Book website](https://www.e-elgar.com/shop/gbp/handbook-of-meta-research-9781839105715.html) - [Preprint](https://doi.org/10.31235/osf.io/sjck6)
 
 2. Arroyo-Machado, W., Robinson-Garcia, N. (2023) Towards a Science of Humanities: How Big Data can solve the limitations of scientometrics. In A. Gallego Cuiñas & D. Torres-Salinas (eds.). Humanities and Big Data in Ibero-America: Methodological issues and practical applications. De Gruyter. [Book website](https://www.degruyter.com/document/isbn/9783110753523/html)
