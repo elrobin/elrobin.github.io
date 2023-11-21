@@ -1,0 +1,70 @@
+---
+title: "Nicolas Robinson-Garcia"
+image: "nick.jpg"
+links:
+  - label: Home
+    url: "https://elrobin.github.io/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=Jd6KNkQAAAAJ&hl=en"
+  - label: ORCID
+    url: "http://orcid.org/0000-0002-0585-7359"
+  - label: ResearcherID
+    url: "https://www.webofscience.com/wos/author/rid/B-3590-2012" 
+  - label: Twitter
+    url: "https://twitter.com/nrobinsongarcia"
+  - label: Github
+    url: "https://github.com/elrobin" 
+  - label: EC3 Research Group
+    url: "https://ec3-research.com" 
+output:
+  postcards::trestles
+---
+
+## Prácticas extracurriculares en U-CHASS
+
+Ofertamos 2 contratos de 6 meses para trabajar con nosotros en la Unidad de Excelencia de Ciencias Sociales y Humanas Computacionales (U-CHASS) de reciente creación. Únete a un equipo de trabajo multidisciplinar formada por investigadores de las áreas de Ciencias de la Computación, Documentación, Comunicaciíon Audiovisual, Filología y Literatura Inglesa e Historia Contemporánea y de la Ciencia e iníciate en el mundo de la investigación.
+
+### Perfil Ciencias Sociales / Humanidades
+
+**Descripción.** Introducción a la investigación en Linguística Computacional y Humanidades Digitales. La persona contratada realizará labores de apoyo a la investigación y la gestión de la Unidad de Excelencia U-CHASS (Unit for Computational Humanities And Social Sciences). Será un miembro más de un equipo multidisciplinar e internacional de investigadores tanto de la Universidad de Granada como de otros centros nacionales e internacionales. Dentro de sus actividades se incluirán tareas tales como gestión y organización de reuniones y eventos académicos y científicos, trabajo de campo en la obtención y procesamiento de datos de investigaciíon y coordinación de tareas de comunicación tanto interna como externa de la Unidad.
+
+**Retribución/mes.** 400€
+
+**Fecha de inicio y final.** 1/03/2024 - 31/08/2024 (6 meses)
+
+**Estudios.** Aceptamos candidatos cursando cualquiera de los siguientes estudios:
+
+- Grado en Traducción e Interpretación
+- Grado en Comunicación Audiovisual
+- Grado en Historia
+- Grado en Información y Documentación
+- Grado en Lenguas Modernas y sus Literaturas
+- Máster Universitario en Cultura de Paz, Conflictos, Educación y Derechos Humanos
+- Máster Universitario en Información y Comunicación Científica
+- Máster Universitario en Nuevos Medios Interactivos y Periodismo Multimedia
+- Máster Universitario en Lenguas y Culturas Modernas
+- Máster Universitario en Información Científica: Tratamiento, Acceso y Evaluación
+- Máster Universitario en Traducción E Interpretación
+- Doble Grado en Traducción e Interpretación y Turismo
+- Máster Universitario en Lógica y Filosofía de la Ciencia
+- Máster Universitario en Estudios de Las Mujeres y de Género
+
+**Solicitud.** A través de la [plataforma ÍCARO](https://ugr.portalicaro.es/), Oferta código 400407
+
+### Perfil Ciencias de la Computación
+
+**Descripción.** Las prácticas se engloban dentro de la unidad de excelencia U-CHASS (Unit for Computational Humanities And Social Sciences), y por lo tanto la persona contratada será miembro de un grupo multidisciplinar e internacional de investigadores tanto de la propia universidad, como de otras universidades españolas y extranjeras. Dentro de las actividades, se incluirán tarea relacionadas con el desarrollo de aplicaciones web basadas en microservicios, el desarrollo y mantenimiento de la web de la unidad, así como. Además, podrá realizar actividades de investigación relacionadas con la unidad para el procesamiento y análisis de datos.
+
+**Retribución/mes.** 400€
+
+**Fecha de inicio y final.** 1/03/2024 - 31/08/2024 (6 meses)
+
+**Estudios.** Aceptamos candidatos cursando cualquiera de los siguientes estudios:
+
+- Grado en Ingeniería Informática
+- PCEO Grado en Ingeniería Informática / Grado en Matemáticas
+- Doble Grado en Administración y Dirección de Empresas e Informática
+- Máster Universitario en Ciencia de Datos e Ingeniería de Computadores
+- Máster Universitario en Ingeniería Informática
+
+**Solicitud.** A través de la [plataforma ÍCARO](https://ugr.portalicaro.es/), Oferta código 400488

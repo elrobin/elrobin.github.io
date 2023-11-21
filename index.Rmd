@@ -16,13 +16,15 @@ links:
     url: "https://github.com/elrobin" 
   - label: EC3 Research Group
     url: "https://ec3-research.com" 
+  - label: Work with us!
+    url: "https:/elrobin.github.io/icaro-uchass"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Nicolas Robinson-Garcia is a Ramón y Cajal fellow in the field of bibliometrics and research evaluation at the University of Granada. He is director of the EC3 Research Group, Associate Editor on Open Science and New Metrics for the journal Scientometrics, and member of the Steering Committee of the European Summer School for Scientometrics. His research interests are research careers and diversity, and science communication and social outreach. He is also member of the editorial board of Research Evaluation and Quantitative Science Studies, and member of the Advisory Board of the International Center for the Study of Research.
+Nicolas Robinson-Garcia is a Ramón y Cajal fellow in the field of bibliometrics and research evaluation at the University of Granada. He is scientific director of the Unit for Computational Humanities and Social Sciences (U-CHASS) and head of the [EC3 Research Group](https://ec3-research.com). He is Associate Editor on Open Science and New Metrics for the journal [Scientometrics](https://www.springer.com/journal/11192), and member of the Steering Committee of the [European Summer School for Scientometrics](https://esss.info). His research interests are research careers and diversity, and science communication and social outreach. He is also member of the editorial board of [Research Evaluation](https://academic.oup.com/rev/) and [Quantitative Science Studies](https://direct.mit.edu/qss), and member of the Advisory Board of the [International Center for the Study of Research](https://www.elsevier.com/insights/icsr/lab).
 
 ## Main research projects (active)
 
@@ -46,7 +48,7 @@ Check complete [list of projects here](projects.html)
 
 **[Publications](pubs.html)** | Papers, chapters and whatnot.
 
-**[Bibliometría o Barbarie](https://open.spotify.com/show/7rXUELu4XO33dH2sGLFmgj?si=9b426f6849144830)** | Podcast on scientometrics
+**[Bibliometría o Barbarie](https://ec3-research.com/podcast/)** | Podcast on scientometrics
 
 **[Talks](talks.html)** | Talks and invited lectures
 
