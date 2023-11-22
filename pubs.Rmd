@@ -109,17 +109,17 @@ output:
 
 1. Torres-Salinas, D., Robinson-Garcia, N. (2016) Letter to the editor: The time for bibliometric applications. Journal of the Association for Information Science and Technology, 67(4), 1014-1015. [DOI](https://doi.org/10.1002/asi.23604) - [Preprint](http://digibug.ugr.es/bitstream/10481/39450/1/postprint.pdf)
 
-1. Robinson-Garcia, N., Cabezas-Clavijo, Á., Jiménez-Contreras, E. (2016) Tracking the performance of an R&D programme in the Biomedical Sciences. Research Evaluation, 25(3), 339-346 doi:10.1093/reseval/rvw003 OA version
+1. Robinson-Garcia, N., Cabezas-Clavijo, Á., Jiménez-Contreras, E. (2016) Tracking the performance of an R&D programme in the Biomedical Sciences. Research Evaluation, 25(3), 339-346. [DOI](https://doi.org/10.1093/reseval/rvw003) - [Preprint](https://doi.org/10.48550/arXiv.1602.04049)
 
-1. Torres-Salinas, D., Robinson-Garcia, N., Aguillo, I. (2016) Bibliometric and benchmark analysis of Gold Open Access in Spain: Big output, little impact. El profesional de la información. 25(1), 17-24. doi:10.3145/epi.2016.ene.03 OA version
+1. Torres-Salinas, D., Robinson-Garcia, N., Aguillo, I. (2016) Bibliometric and benchmark analysis of Gold Open Access in Spain: Big output, little impact. El profesional de la información. 25(1), 17-24. [DOI](https://doi.org/10.3145/epi.2016.ene.03)
 
-1. Torres-Salinas, D., Robinson-Garcia, N., Jiménez-Contreras, E., de la Fuente, E. (2015) The BiPublishers ranking: Main results and methodological problems when constructing rankings of academic publishers. Revista Española de Documentación Científica, 38(4), e111 doi:10.3989/redc.2015.4.1287b OA version
+1. Torres-Salinas, D., Robinson-Garcia, N., Jiménez-Contreras, E., de la Fuente, E. (2015) The BiPublishers ranking: Main results and methodological problems when constructing rankings of academic publishers. Revista Española de Documentación Científica, 38(4), e111. [DOI](https://doi.org/10.3989/redc.2015.4.1287b) - [Preprint](http://arxiv.org/abs/1505.01074)
 
-1. Robinson-Garcia, N.; Torres-Salinas, D.; Delgado López-Cózar, E.; Herrera, F. (2014) An insight into the importance of national university rankings in an international context: The case of the I-UGR Rankings of Spanish universities. Scientometrics, 101(2), 1309-1324. doi:10.1007/s11192-014-1263-1. OA version
+1. Robinson-Garcia, N.; Torres-Salinas, D.; Delgado López-Cózar, E.; Herrera, F. (2014) An insight into the importance of national university rankings in an international context: The case of the I-UGR Rankings of Spanish universities. Scientometrics, 101(2), 1309-1324. [DOI](https://doi.org/10.1007/s11192-014-1263-1) - [Preprint](http://arxiv.org/ftp/arxiv/papers/1305/1305.1216.pdf)
 
-1. Robinson-Garcia, N.; Torres-Salinas, D.; Zahedi, Z.; Costas, R. (2014) New data, new possibilities: Exploring the insides of Altmetric.com. El profesional de la información, 23(4), 359-366. doi:10.3145/epi.2014.jul.03. OA version SCImago award
+1. Robinson-Garcia, N.; Torres-Salinas, D.; Zahedi, Z.; Costas, R. (2014) New data, new possibilities: Exploring the insides of Altmetric.com. El profesional de la información, 23(4), 359-366.  [DOI](https://doi.org/10.3145/epi.2014.jul.03) - [Preprint](http://arxiv.org/ftp/arxiv/papers/1408/1408.0135.pdf) **Scimago Award to the Best paper in Library Studies in 2019**
 
-1. Torres-Salinas, D.; Jiménez-Contreras, E.; Robinson-Garcia, N. (2014) Tendencias en mapas de la ciencia: Co-uso de información científica como reflejo de los intereses de los investigadores. El profesional de la información, 23(3), 253-258. doi:10.3145/epi.2014.may.05. OA version
+1. Torres-Salinas, D.; Jiménez-Contreras, E.; Robinson-Garcia, N. (2014) Tendencias en mapas de la ciencia: Co-uso de información científica como reflejo de los intereses de los investigadores. El profesional de la información, 23(3), 253-258. [DOI](https://doi.org/10.3145/epi.2014.may.05) - [Preprint](http://digibug.ugr.es/bitstream/10481/30671/1/Trends%20in%20science%20mapping_The%20co-use%20of%20scientific%20literature%20as%20evidence%20of%20the%20interests%20of%20researchers.pdf)
 
 1. García, J.A.; Rodriguez-Sánchez, Rosa; Fdez-Valdivia, J.; Robinson-Garcia, N.; Torres-Salinas, D. (2014) Best-in-class and Strategic Benchmarking of Scientific Subject Categories of Web of Science in 2010. Scientometrics, 99(3), 615-630. doi:10.1007/s11192-013-1000-1. OA version
 
@@ -189,6 +189,8 @@ OA version
 9. Torres-Salinas, D.; Robinson-Garcia, N. (2012). Los blogs de salud y la gestión online de información médica. In Medina-Aguerrebere, P.; González-Pacanowski, T. (eds.).La comunicación médica interactiva: el desafío de Internet. Madrid: Fragua. [Preprint](http://hdl.handle.net/10481/21522)
 
 ### Conference proceedings
+
+1. Cortes, J.D., Robinson-Garcia, N., Chinchilla-Rodríguez, Z., Ramírez-Cajiao, M.C. (2024) The scholarly age — Beyond the academic age using techno-scientific, knowledge appropriation and mentoring outputs. iConference 2024, Changchun, China: April 22 - 26, 2024
 
 1. Robinson-Garcia, N., Torres-Salinas, D., Vargas-Quesada, B., Chinchilla-Rodriguez, Z., Gorraiz, J. (2023) Errors of measurement in scientometrics: Identification and calculation of systematic errors. ISSI Conference 2013, Bloomington, Indiana (United States). July 2-5, 2023 [Paper](https://zenodo.org/record/8116577) - [Slides](https://docs.google.com/presentation/d/11D215XHhu9OnbKY_twNBAMGSrK_6oxL2-DCxQ3y_h4Y/edit?usp=sharing)
 
