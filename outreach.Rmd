@@ -16,6 +16,8 @@ links:
     url: "https://github.com/elrobin" 
   - label: EC3 Research Group
     url: "https://ec3-research.com" 
+  - label: Work with us!
+    url: "jobs.html"
 output:
   postcards::trestles
 ---
