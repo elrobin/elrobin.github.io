@@ -1,0 +1,29 @@
+---
+title: "Unveiling the Ecosystem of Science"
+image: "sheep.png"
+links:
+  - label: Home
+    url: "ecosci.html"
+  - label: Outputs
+    url: "ecosci-pubs.html"
+  - label: The project
+    url: "ecosci-about.html"
+output:
+  postcards::solana
+---
+ 
+## Publications
+
+- **Meta-Research: Task specialization across research careers**. Robinson-Garcia, N., Costas, R., Sugimoto, C.R., Larivière, V., Nane, G.F. ELife, 9, e60586. [doi:10.7554/eLife.60586](https://doi.org/10.7554/eLife.60586)
+
+- **Valuation regimes in academia: Researchers’ attitudes towards their diversity of activities and academic performance**. Robinson-Garcia, N., Costas, R., Nane, G.F., van Leeuwen, T.N. Research Evaluation, 32(2), 496-514. [doi:10.1093/reseval/rvac049](https://doi.org/10.1093/reseval/rvac049)
+
+## Conferences
+
+- **The effects of specialization on research careers.** Robinson-Garcia, N., Costas, R., Sugimoto, C.R., Larivière, V., T.N., Nane, T. Evaluating Knowledge Transfer and Impact: Metrics, procedures and governance for science and innovation, Córdoba 2019
+
+- **Towards a multidimensional valuation model of scientists** [poster]. Robinson-Garcia, N., Costas, R., van Leeuwen, T.N., Nane, T. ISSI Conference, 2019, Rome (Italy) September 2-5. [doi:10.5281/zenodo.3369663](https://zenodo.org/doi/10.5281/zenodo.3369663)
+
+## Reports
+
+- **Using Structured Expert Judgment to predict a university ranking in the Humanities**. Robinson-Garcia, N. [doi:10.5281/zenodo.3770391](https://zenodo.org/record/3770391)

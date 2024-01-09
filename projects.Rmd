@@ -77,7 +77,7 @@ Complete list of projects I have been involved in and role played.
 - Partners: TU Delft and Leiden University
 - Period: 2019-2021
 - Budget: 220,000 €
-- Project Website
+- [Project summary](ecosci.html)
 
 ### Connecting nuances of foreign status, professional networks and higher education
 - Funder: US National Science Foundation
