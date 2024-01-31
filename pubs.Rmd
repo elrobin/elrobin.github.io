@@ -31,7 +31,7 @@ output:
 
 **Forthcoming**
 
-1. González-Salmón E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N. (Under review). The Woman Researcher’s Tale: A Review of Bibliometric Methods and Results for Studying Gender in Science.
+1. González-Salmón E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N. (Under review). The Woman Researcher’s Tale: A Review of Bibliometric Methods and Results for Studying Gender in Science. [Preprint](https://doi.org/10.5281/zenodo.10590300)
 
 1. Robinson-Garcia, N., Vargas-Quesada, B., Torres-Salinas, D., Chinchilla-Rodriguez, Z., Gorraiz, J. (Under review). Errors of measurement in scientometrics: Classification schemes and document types in citation and publication rankings.
 
