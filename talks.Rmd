@@ -8,16 +8,12 @@ links:
     url: "https://scholar.google.com/citations?user=Jd6KNkQAAAAJ&hl=en"
   - label: ORCID
     url: "http://orcid.org/0000-0002-0585-7359"
-  - label: ResearcherID
-    url: "https://www.webofscience.com/wos/author/rid/B-3590-2012" 
-  - label: Twitter
-    url: "https://twitter.com/nrobinsongarcia"
-  - label: Github
-    url: "https://github.com/elrobin" 
+  - label: U-CHASS
+    url: "https://uchass.ugr.es"
   - label: EC3 Research Group
-    url: "https://ec3-research.com"
+    url: "https://ec3-research.com" 
   - label: Work with us!
-    url: "jobs.html" 
+    url: "jobs.html"
 output:
   postcards::trestles
 ---
