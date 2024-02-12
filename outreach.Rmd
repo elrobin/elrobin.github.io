@@ -24,6 +24,8 @@ Opinion pieces and other non-academic outputs as well as news stories in which e
 
 ## Opinion pieces and comments
 
+[WikiGenDex: Un nuevo algoritmo de identificación de género basado en fuentes abiertas](https://doi.org/10.3145/infonomy.24.010) | **Infonomy**, 2(1), e24010
+
 [Acceso Abierto: utopías, realidades y cuentas pendientes](https://doi.org/10.3145/thinkepi.2023.e17a17) | **ThinkEPI**, Jun, 2023
 
 [Contra el pensamiento mágico de la bibliometría](https://doi.org/10.3145/thinkepi.2022.e16a21) | **ThinkEPI**, 2022.
