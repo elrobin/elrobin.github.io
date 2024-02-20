@@ -39,7 +39,9 @@ output:
 
 1. González-Salmón, E., Robinson-Garcia, N. (Accepted). A call for transparency in gender assignment approaches. Scientometrics [Preprint](https://zenodo.org/records/10036331)
 
-1. Chinchilla-Rodriguez, Z., Costas, R., Robinson-Garcia, N., Larivière, V. (Accepted). Examining the quality of the corresponding authorship field in Web of Science and Scopus. Quantitative Science Studies. [Preprint](https://zenodo.org/record/8430349)
+**2024**
+
+5. Chinchilla-Rodriguez, Z., Costas, R., Robinson-Garcia, N., Larivière, V. (2024). Examining the quality of the corresponding authorship field in Web of Science and Scopus. Quantitative Science Studies. [DOI](https://doi.org/10.1162/qss_a_00288) - [Preprint](https://zenodo.org/record/8430349)
 
 **2023**
 
