@@ -22,6 +22,10 @@ output:
 
 I ocassionally get invited to give talks on my work or share my experience in academia with early career researchers. Here are the slides and materiales I've used.
 
+### 2024
+
+**Innovación en los servicios bibliotecarios** (Discussion panel) | Feb 27, [XI Foro de la AAPID](https://www.aapid.org/2024/01/22/xi-foro-aapid-2024/), Sevilla.
+
 ### 2023
 
 **Inteligencia artificial aplicada al mundo de las bibliotecas de la salud** (Discussion panel) | Oct 19, [BiblioSalud2023](https://bibliosalud2023.com), Valladolid. [https://doi.org/10.5281/zenodo.10033113](https://doi.org/10.5281/zenodo.10033113)
