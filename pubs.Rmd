@@ -37,9 +37,9 @@ output:
 
 1. Torres-Salinas, D., Docampo, D., Arroyo-Machado, W., Robinson-Garcia, N. (Under review) The Many Publics of Science: Using Altmetrics to Identify Common Communication Channels by Scientific field. [Preprint](https://doi.org/10.5281/zenodo.7817445)
 
-1. González-Salmón, E., Robinson-Garcia, N. (Accepted). A call for transparency in gender assignment approaches. Scientometrics [Preprint](https://zenodo.org/records/10036331)
-
 **2024**
+
+4. González-Salmón, E., Robinson-Garcia, N. (2024). A call for transparency in gender assignment approaches. Scientometrics. [DOI](https://doi.org/10.1007/s11192-024-04995-4) - [Preprint](https://zenodo.org/records/10036331)
 
 5. Chinchilla-Rodriguez, Z., Costas, R., Robinson-Garcia, N., Larivière, V. (2024). Examining the quality of the corresponding authorship field in Web of Science and Scopus. Quantitative Science Studies. [DOI](https://doi.org/10.1162/qss_a_00288) - [Preprint](https://zenodo.org/record/8430349)
 
@@ -228,6 +228,8 @@ OA version
 9. Torres-Salinas, D.; Robinson-Garcia, N. (2012). Los blogs de salud y la gestión online de información médica. In Medina-Aguerrebere, P.; González-Pacanowski, T. (eds.).La comunicación médica interactiva: el desafío de Internet. Madrid: Fragua. [Preprint](http://hdl.handle.net/10481/21522)
 
 ### Conference proceedings
+
+1. D'Aniello, L., Robinson-Garcia, N., Aria, M., Cuccurullo, C. (2024). Measuring Knowledge Distance: A Semantic Analysis of scientific publications. [Data Science & Social Research 2024](https://dssr2024.unina.it/index.html), 4th International Conference – March 25-27, 2024, Naples. 
 
 1. Cortes, J.D., Robinson-Garcia, N., Chinchilla-Rodríguez, Z., Ramírez-Cajiao, M.C. (2024) The scholarly age — Beyond the academic age using techno-scientific, knowledge appropriation and mentoring outputs. iConference 2024, Changchun, China: April 22 - 26, 2024
 
