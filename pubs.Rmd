@@ -231,11 +231,11 @@ OA version
 
 **2024**
 
-1. Arroyo-Machado, W., Torres-Salinas, D., González-Salmón, E., Robinson-Garcia, N. (2024). Unraveling the diversity of scholars in the Humanities: Profiling humanists based on their publication patterns. Research Evaluation in Social Sciences and Humanities [RESSH 2024](https://ressh2024.wordpress.com/), May 23-24, Galway, Ireland.
+1. Arroyo-Machado, W., Torres-Salinas, D., González-Salmón, E., Robinson-Garcia, N. (2024). Unraveling the diversity of scholars in the Humanities: Profiling humanists based on their publication patterns. Research Evaluation in Social Sciences and Humanities [RESSH 2024](https://ressh2024.wordpress.com/), May 23-24, Galway, Ireland. [Slides](https://doi.org/10.5281/zenodo.11234968)
 
 1. D'Aniello, L., Robinson-Garcia, N., Aria, M., Cuccurullo, C. (2024). Measuring Knowledge Distance: A Semantic Analysis of scientific publications. [Data Science & Social Research 2024](https://dssr2024.unina.it/index.html), 4th International Conference – March 25-27, 2024, Naples, Italy. 
 
-1. Cortes, J.D., Robinson-Garcia, N., Chinchilla-Rodríguez, Z., Ramírez-Cajiao, M.C. (2024) The scholarly age — Beyond the academic age using techno-scientific, knowledge appropriation and mentoring outputs. iConference 2024, Changchun, China: April 22 - 26, 2024
+1. Cortes, J.D., Robinson-Garcia, N., Chinchilla-Rodríguez, Z., Ramírez-Cajiao, M.C. (2024) The scholarly age — Beyond the academic age using techno-scientific, knowledge appropriation and mentoring outputs. In: Sserwanga, I., et al. Wisdom, Well-Being, Win-Win. iConference 2024. Lecture Notes in Computer Science, vol 14596. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-031-57850-2_24)
 
 **2023**
 
