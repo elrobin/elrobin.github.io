@@ -35,11 +35,11 @@ output:
 
 1. Robinson-Garcia, N., Vargas-Quesada, B., Torres-Salinas, D., Chinchilla-Rodriguez, Z., Gorraiz, J. (Under review). Errors of measurement in scientometrics: Classification schemes and document types in citation and publication rankings.
 
-1. Torres-Salinas, D., Docampo, D., Arroyo-Machado, W., Robinson-Garcia, N. (Accepted) The Many Publics of Science: Using Altmetrics to Identify Common Communication Channels by Scientific field. Scientometrics [Preprint](https://doi.org/10.5281/zenodo.7817445)
-
 **2024**
 
-4. González-Salmón, E., Robinson-Garcia, N. (2024). A call for transparency in gender assignment approaches. Scientometrics. [DOI](https://doi.org/10.1007/s11192-024-04995-4) - [Preprint](https://zenodo.org/records/10036331)
+3. Torres-Salinas, D., Docampo, D., Arroyo-Machado, W., Robinson-Garcia, N. (Accepted) The Many Publics of Science: Using Altmetrics to Identify Common Communication Channels by Scientific field. Scientometrics. [DOI](https://doi.org/10.1007/s11192-024-05077-1) - [Preprint](https://doi.org/10.5281/zenodo.7817445)
+
+4. González-Salmón, E., Robinson-Garcia, N. (2024). A call for transparency in gender assignment approaches. Scientometrics, 129, 2451-2454. [DOI](https://doi.org/10.1007/s11192-024-04995-4) - [Preprint](https://zenodo.org/records/10036331)
 
 5. Chinchilla-Rodriguez, Z., Costas, R., Robinson-Garcia, N., Larivière, V. (2024). Examining the quality of the corresponding authorship field in Web of Science and Scopus. Quantitative Science Studies, 5(1), 76-97. [DOI](https://doi.org/10.1162/qss_a_00288) - [Preprint](https://zenodo.org/record/8430349)
 
