@@ -14,6 +14,8 @@ links:
     url: "https://ec3-research.com" 
   - label: Work with us!
     url: "jobs.html"
+  - label: Blog
+    url: "blog/_site/index.html"
 output:
   postcards::trestles
 ---
