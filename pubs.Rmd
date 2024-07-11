@@ -231,9 +231,9 @@ OA version
 
 **2024**
 
-1. Robinson-Garcia, N., van Schalkwyk, F., Tirado, M.M., Pham, V., Melkers, J. (2024). What’s in a team? Variability and discrepancies in the conceptualization and operationalization of scientific teams. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany.
+1. Robinson-Garcia, N., van Schalkwyk, F., Tirado, M.M., Pham, V., Melkers, J. (2024). What’s in a team? Variability and discrepancies in the conceptualization and operationalization of scientific teams. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany. [DOI](https://zenodo.org/doi/10.5281/zenodo.12726920)
 
-1. González-Salmón, E., Chinchilla-Rodriguez, Z., Nane, G.F., Robinson-Garcia, N. (2024). What contributes to gender parity in science? A Bayesian Network analysis. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany.
+1. González-Salmón, E., Chinchilla-Rodriguez, Z., Nane, G.F., Robinson-Garcia, N. (2024). What contributes to gender parity in science? A Bayesian Network analysis. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany. [DOI](http://dx.doi.org/10.5281/zenodo.12609269)
 
 1. Xiao, A., Robinson-Garcia, N. (2024). Generals or Soldiers? Scholars' Roles in Interdisciplinary Collaboration. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany.
 

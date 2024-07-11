@@ -15,7 +15,7 @@ links:
   - label: Work with us!
     url: "jobs.html"
   - label: Blog
-    url: "blog/_site/index.html"
+    url: "blog/index.html"
 output:
   postcards::trestles
 ---
