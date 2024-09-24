@@ -35,11 +35,11 @@ output:
 
 1. González-Salmón E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N. (Under review). The Woman Researcher’s Tale: A Review of Bibliometric Methods and Results for Studying Gender in Science. [Preprint](https://zenodo.org/doi/10.5281/zenodo.10590299)
 
-1. Robinson-Garcia, N., Vargas-Quesada, B., Torres-Salinas, D., Chinchilla-Rodriguez, Z., Gorraiz, J. (Under review). Errors of measurement in scientometrics: Classification schemes and document types in citation and publication rankings. [Preprint](https://zenodo.org/doi/10.5281/zenodo.13752257)
-
 **2024**
 
-4. Torres-Salinas, D., Docampo, D., Arroyo-Machado, W., Robinson-Garcia, N. (Accepted) The Many Publics of Science: Using Altmetrics to Identify Common Communication Channels by Scientific field. Scientometrics. [DOI](https://doi.org/10.1007/s11192-024-05077-1) - [Preprint](https://doi.org/10.5281/zenodo.7817445)
+3. Robinson-Garcia, N., Vargas-Quesada, B., Torres-Salinas, D., Chinchilla-Rodriguez, Z., Gorraiz, J. (Accepted). Errors of measurement in scientometrics: Classification schemes and document types in citation and publication rankings. Scientometrics [Preprint](https://zenodo.org/doi/10.5281/zenodo.13752257)
+
+4. Torres-Salinas, D., Docampo, D., Arroyo-Machado, W., Robinson-Garcia, N. (2024) The Many Publics of Science: Using Altmetrics to Identify Common Communication Channels by Scientific field. Scientometrics, 129, 3705-3723. [DOI](https://doi.org/10.1007/s11192-024-05077-1) - [Preprint](https://doi.org/10.5281/zenodo.7817445)
 
 4. González-Salmón, E., Robinson-Garcia, N. (2024). A call for transparency in gender assignment approaches. Scientometrics, 129, 2451-2454. [DOI](https://doi.org/10.1007/s11192-024-04995-4) - [Preprint](https://zenodo.org/records/10036331)
 
@@ -209,7 +209,7 @@ OA version
 
 ### Book chapters
 
-1. Robinson-Garcia, N., Torres-Salinas, D. (Upcoming) Altmetrics. In: Encyclopedia of Libraries, Librarianship, and Information Science. Elsevier
+1. Robinson-Garcia, N., Torres-Salinas, D. (2024) Altmetrics. In: Encyclopedia of Libraries, Librarianship, and Information Science. Elsevier. ISBN:9780323956901
 
 1. Costas, R., Corona, C., Robinson-Garcia, N. (2024) Could ORCID play a key role in meta-research? Discussing new analytical possibilitites to study the dynamics of science and scientists. In A. Oancea, G. Derrick, N. Nuseibeh & X. Xu (eds.). Handbook on Meta-Research. Edward Elgar. [Book website](https://www.e-elgar.com/shop/gbp/handbook-of-meta-research-9781839105715.html) - [Preprint](https://doi.org/10.31235/osf.io/sjck6)
 
@@ -237,13 +237,15 @@ OA version
 
 1. González-Salmón, E., Chinchilla-Rodriguez, Z., Nane, G.F., Robinson-Garcia, N. (2024). What contributes to gender parity in science? A Bayesian Network analysis. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany. [DOI](http://dx.doi.org/10.5281/zenodo.12609269)
 
-1. Xiao, A., Robinson-Garcia, N. (2024). Generals or Soldiers? Scholars' Roles in Interdisciplinary Collaboration. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany.
+1. Xiao, A., Robinson-Garcia, N. (2024). Generals or Soldiers? Scholars' Roles in Interdisciplinary Collaboration. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany. [DOI](https://zenodo.org/doi/10.5281/zenodo.13769497)
 
 1. D'Aniello, L., Robinson-Garcia, N., Aria, M., Cuccurullo, C. (2024). Decoding Knowledge Claims: The Evaluation of Scientific Publication Contributions through Semantic Analysis. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany. [DOI](https://doi.org/10.48550/arXiv.2407.18646)
 
-1. Cortés, J.D., Robinson-Garcia, N., Chinchilla-Rodriguez, Z., Ramirez-Cajiao, M.C. (2024). Academic Age Standards Underestimate Global South Career Stages and Research Capacity Building — An Outlook of the Scientific Workforce of Colombia. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany.
+1. Cortés, J.D., Robinson-Garcia, N., Chinchilla-Rodriguez, Z., Ramirez-Cajiao, M.C. (2024). Academic Age Standards Underestimate Global South Career Stages and Research Capacity Building — An Outlook of the Scientific Workforce of Colombia. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany. [DOI](http://dx.doi.org/https://doi.org/10.13140/RG.2.2.28137.92004)
 
-1. Van Schalkwyk, F., González-Salmón, E., Ferreira, M.R., Robinson-Garcia, N. (2024). The Role of Mobility in Mitigating Core-Periphery Inequalities: Contribution Statements of African Scholars in International Collaboration. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany.
+1. Van Schalkwyk, F., González-Salmón, E., Ferreira, M.R., Robinson-Garcia, N. (2024). The Role of Mobility in Mitigating Core-Periphery Inequalities: Contribution Statements of African Scholars in International Collaboration. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany. [DOI](https://zenodo.org/doi/10.5281/zenodo.13767579)
+
+1. Melkers, J., Robinson-Garcia, N., Du, L. (2024). They Collaborate, But Do They “Co-Produce?” Examining Academic Scientists’ Collaborative Patterns with Non-Academics. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany.
 
 1. Arroyo-Machado, W., Torres-Salinas, D., González-Salmón, E., Robinson-Garcia, N. (2024). Unraveling the diversity of scholars in the Humanities: Profiling humanists based on their publication patterns. Research Evaluation in Social Sciences and Humanities [RESSH 2024](https://ressh2024.wordpress.com/), May 23-24, Galway, Ireland. [Slides](https://doi.org/10.5281/zenodo.11234968)
 
