@@ -31,7 +31,7 @@ output:
 
 **Forthcoming**
 
-1. Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E., Torres-Salinas, D. (Under review). Publication patterns in the Humanities: Generational shifts and changing research agendas.
+1. Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E., Torres-Salinas, D. (Under review). Publication patterns in the Humanities: Generational shifts and changing research agendas.[Preprint](https://doi.org/10.5281/zenodo.13969298) - [Data](https://doi.org/10.5281/zenodo.13905464) - [Code](https://github.com/Wences91/humanities_patterns)
 
 1. Robinson-Garcia, N., Corona-Sobrino, Z., Chinchilla-Rodriguez, Z., Torres-Salinas, D., Costas, R. (Under review). The use of informetric methods to study diversity in the scientific workforce: A literature review.
 
