@@ -22,11 +22,17 @@ output:
 
 I ocassionally get invited to give talks on my work or share my experience in academia with early career researchers. Here are the slides and materiales I've used.
 
+### Upcoming
+
+**Language use and publication patterns in the humanities** | Dec 2, 2024. [4th Helsinki Initiative Webinar on Multilingualism in Scholarly Communication](https://www.helsinki-initiative.org/en/events/4th-helsinki-initiative-webinar-multilingualism-scholarly-communication)
+
+**Introducción al análisis de textos con Quanteda** | Nov 8, 2024. [YoSigo UGR](https://yosigo.ugr.es)
+
 ### 2024
 
 **Collaboration or teamwork? Investigating work distribution in science through contribution statements** | Oct 18, 2024. [Economics of Science & Engineering Seminars](https://economics.harvard.edu/seminars-economics-science-engineering), Harvard University, United States. [Video](https://www.youtube.com/watch?v=rVWnTWxdA9w) - [Slides](https://doi.org/10.5281/zenodo.13968955)
 
-**Técnicas esenciales para preparar una revisión de la literatura** | Oct 11, [YoSigo UGR](https://yosigo.ugr.es), Online [Video](https://www.youtube.com/watch?v=iS3SbpYf98o) - [Slides](https://sl.ugr.es/ysp_litrev)
+**Técnicas esenciales para preparar una revisión de la literatura** | Oct 11, [YoSigo UGR](https://yosigo.ugr.es), [Video](https://www.youtube.com/watch?v=iS3SbpYf98o) - [Slides](https://sl.ugr.es/ysp_litrev)
 
 **Practice II: Applications of Narrative Bibliometrics for Institutions: The Experience of the University of Granada** | Sep 6, [European Summer School for Scientometrics](https://esss.info), University of Vienna, Austria. [Slides](https://docs.google.com/presentation/d/1CcnsKpaEYGhY1pqCnFVz9bB4rJp5JqhPWvj1VwiK9do/edit?usp=sharing)
 
