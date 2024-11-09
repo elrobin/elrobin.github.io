@@ -26,9 +26,11 @@ I ocassionally get invited to give talks on my work or share my experience in ac
 
 **Language use and publication patterns in the humanities** | Dec 2, 2024. [4th Helsinki Initiative Webinar on Multilingualism in Scholarly Communication](https://www.helsinki-initiative.org/en/events/4th-helsinki-initiative-webinar-multilingualism-scholarly-communication)
 
-**Introducción al análisis de textos con Quanteda** | Nov 8, 2024. [YoSigo UGR](https://yosigo.ugr.es)
-
 ### 2024
+
+**Iniciación a la investigación: Becas, contratos y experiencias vitales** | Nov 8, 2024. Jornada de Orientación Profesional de Biología. [Slides](https://docs.google.com/presentation/d/12jFL7PSIXz5CFbeU_fAgFounagQO-wja6ZVfThKbAUk/edit?usp=sharing)
+
+**Introducción al análisis de textos con Quanteda** | Nov 8, 2024. [YoSigo UGR](https://yosigo.ugr.es). [Material](https://elrobin.github.io/ysp-quanteda)
 
 **Collaboration or teamwork? Investigating work distribution in science through contribution statements** | Oct 18, 2024. [Economics of Science & Engineering Seminars](https://economics.harvard.edu/seminars-economics-science-engineering), Harvard University, United States. [Video](https://www.youtube.com/watch?v=rVWnTWxdA9w) - [Slides](https://doi.org/10.5281/zenodo.13968955)
 
