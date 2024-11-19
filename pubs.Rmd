@@ -31,7 +31,7 @@ output:
 
 **Forthcoming**
 
-1. González-Salmón, E., Di Césare, V., Xiao, A., Robinson-Garcia, N. (Under review). Beyond authorship: Analyzing disciplinary patterns of contribution statements using the CRediT taxonomy. 
+1. González-Salmón, E., Di Césare, V., Xiao, A., Robinson-Garcia, N. (Under review). Beyond authorship: Analyzing disciplinary patterns of contribution statements using the CRediT taxonomy. [Preprint](https://doi.org/10.5281/zenodo.14168888)
 
 1. Di Césare, V., Robinson-Garcia, N. (Under review). What is local research? Towards a multidimensional framework linking theory and methods. [Preprint](https://doi.org/10.5281/zenodo.14033472)
 
