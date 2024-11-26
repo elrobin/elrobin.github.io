@@ -47,7 +47,7 @@ output:
 
 7. Mir-Planells, N., Robinson-Garcia, N., Martel, M. (Accepted). Mapping trends and projections for the third-place public library concept through bibliometric data analysis. Canadian Journal of Information and Library Science
 
-6. Robinson-Garcia, N., Vargas-Quesada, B., Torres-Salinas, D., Chinchilla-Rodriguez, Z., Gorraiz, J. (Accepted). Errors of measurement in scientometrics: Classification schemes and document types in citation and publication rankings. Scientometrics. [DOI](https://doi.org/10.1007/s11192-024-05159-0) - [Preprint](https://zenodo.org/doi/10.5281/zenodo.13752257)
+6. Robinson-Garcia, N., Vargas-Quesada, B., Torres-Salinas, D., Chinchilla-Rodriguez, Z., Gorraiz, J. (2024). Errors of measurement in scientometrics: Classification schemes and document types in citation and publication rankings. Scientometrics, 129, 6455-6475. [DOI](https://doi.org/10.1007/s11192-024-05159-0) - [Preprint](https://zenodo.org/doi/10.5281/zenodo.13752257)
 
 4. Torres-Salinas, D., Docampo, D., Arroyo-Machado, W., Robinson-Garcia, N. (2024) The Many Publics of Science: Using Altmetrics to Identify Common Communication Channels by Scientific field. Scientometrics, 129, 3705-3723. [DOI](https://doi.org/10.1007/s11192-024-05077-1) - [Preprint](https://doi.org/10.5281/zenodo.7817445)
 
