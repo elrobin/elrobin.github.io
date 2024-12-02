@@ -4,20 +4,16 @@ image: "nick.jpg"
 links:
   - label: Home
     url: "https://elrobin.github.io/"
+  - label: Do not read
+    url: "https://elrobin.github.io/blog"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=Jd6KNkQAAAAJ&hl=en"
   - label: ORCID
     url: "http://orcid.org/0000-0002-0585-7359"
-  - label: ResearcherID
-    url: "https://www.webofscience.com/wos/author/rid/B-3590-2012" 
-  - label: Twitter
-    url: "https://twitter.com/nrobinsongarcia"
-  - label: Github
-    url: "https://github.com/elrobin" 
+  - label: U-CHASS
+    url: "https://uchass.ugr.es"
   - label: EC3 Research Group
     url: "https://ec3-research.com" 
-  - label: Work with us!
-    url: "jobs.html"
 output:
   html_document
 ---
@@ -39,7 +35,7 @@ output:
 
 1. Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E., Torres-Salinas, D. (Under review). Publication patterns in the Humanities: Generational shifts and changing research agendas. [Preprint](https://doi.org/10.5281/zenodo.13969298) - [Data](https://doi.org/10.5281/zenodo.13905464) - [Code](https://github.com/Wences91/humanities_patterns)
 
-1. Robinson-Garcia, N., Corona-Sobrino, Z., Chinchilla-Rodriguez, Z., Torres-Salinas, D., Costas, R. (Under review). The use of informetric methods to study diversity in the scientific workforce: A literature review. [Preprint](https://www.doi.org/10.5281/zenodo.13880355)
+1. Robinson-Garcia, N., Corona-Sobrino, Z., Chinchilla-Rodriguez, Z., Torres-Salinas, D., Costas, R. (Accepted). The use of informetric methods to study diversity in the scientific workforce: A literature review. Quantitative Science Studies. [Preprint](https://www.doi.org/10.5281/zenodo.13880355)
 
 1. González-Salmón E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N. (Under review). The Woman Researcher’s Tale: A Review of Bibliometric Methods and Results for Studying Gender in Science. [Preprint](https://zenodo.org/doi/10.5281/zenodo.10590299)
 
