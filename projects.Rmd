@@ -4,7 +4,7 @@ image: "nick.jpg"
 links:
   - label: Home
     url: "https://elrobin.github.io/"
-  - label: Blog
+  - label: Do not read
     url: "https://elrobin.github.io/blog"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=Jd6KNkQAAAAJ&hl=en"
