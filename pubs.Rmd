@@ -160,13 +160,13 @@ output:
 
 1. Torres-Salinas, D.; Jiménez-Contreras, E.; Robinson-Garcia, N. (2014) Tendencias en mapas de la ciencia: Co-uso de información científica como reflejo de los intereses de los investigadores. El profesional de la información, 23(3), 253-258. [DOI](https://doi.org/10.3145/epi.2014.may.05) - [Preprint](http://digibug.ugr.es/bitstream/10481/30671/1/Trends%20in%20science%20mapping_The%20co-use%20of%20scientific%20literature%20as%20evidence%20of%20the%20interests%20of%20researchers.pdf)
 
-1. García, J.A.; Rodriguez-Sánchez, Rosa; Fdez-Valdivia, J.; Robinson-Garcia, N.; Torres-Salinas, D. (2014) Best-in-class and Strategic Benchmarking of Scientific Subject Categories of Web of Science in 2010. Scientometrics, 99(3), 615-630. doi:10.1007/s11192-013-1000-1. OA version
+1. García, J.A.; Rodriguez-Sánchez, Rosa; Fdez-Valdivia, J.; Robinson-Garcia, N.; Torres-Salinas, D. (2014) Best-in-class and Strategic Benchmarking of Scientific Subject Categories of Web of Science in 2010. Scientometrics, 99(3), 615-630. [DOI](https://doi.org/10.1007/s11192-013-1000-1) - [Preprint](https://arxiv.org/abs/1304.3924)
 
-1. Torres-Salinas, D.; Robinson-Garcia, N.; Cabezas-Clavijo, Á.; Jiménez-Contreras, E. (2014) Analyzing the citation characteristics of books: edited books, book series and publisher types in the Book Citation Index. Scientometrics,98(3), 2113-2127. doi:10.1007/s11192-013-1168-4. OA version
+1. Torres-Salinas, D.; Robinson-Garcia, N.; Cabezas-Clavijo, Á.; Jiménez-Contreras, E. (2014) Analyzing the citation characteristics of books: edited books, book series and publisher types in the Book Citation Index. Scientometrics,98(3), 2113-2127. [DOI](https://doi.org/10.1007/s11192-013-1168-4) - [Preprint](https://arxiv.org/abs/1305.1483)
 
-1. Robinson-Garcia, N.; Calero-Medina, C. (2014) What do rankings by fields rank? Exploring discrepancies between the organizational structure of universities and bibliometric classifications. Scientometrics, 98(3), 1955-1970. doi:10.1007/s11192-013-1157-7. OA version
+1. Robinson-Garcia, N.; Calero-Medina, C. (2014) What do rankings by fields rank? Exploring discrepancies between the organizational structure of universities and bibliometric classifications. Scientometrics, 98(3), 1955-1970. [DOI](https://doi.org/10.1007/s11192-013-1157-7) - [Preprint](https://arxiv.org/abs/1310.5892)
 
-1. Delgado López-Cózar, E.; Robinson-Garcia, N.; Torres-Salinas, D. (2014) The Google Scholar Experiment: how to index false papers and manipulate bibliometric indicators Journal of the Association for Information Science and Technology, 65(3), 446-454. doi:10.1002/asi.23056. OA version Material
+1. Delgado López-Cózar, E.; Robinson-Garcia, N.; Torres-Salinas, D. (2014) The Google Scholar Experiment: how to index false papers and manipulate bibliometric indicators Journal of the Association for Information Science and Technology, 65(3), 446-454. [DOI](https://doi.org/10.1002/asi.23056) - [Preprint](https://digibug.ugr.es/handle/10481/27972) - [Material](https://digibug.ugr.es/handle/10481/24753)
 
 1. Torres-Salinas, D.; Robinson-Garcia, N.; Campanario, J.M.; Delgado López-Cózar, E. (2014) Coverage, specialization and impact of scientific publishers in the ‘Book Citation Index’. Online Information Review, 38(1), 24-42. doi:10.1108/OIR-10-2012-0169. OA version
 
@@ -203,7 +203,7 @@ OA version
 
 **2011**
 
-74. Jiménez-Contreras, E.; Robinson-Garcia, N.; Cabezas-Clavijo, Á. (2011). Productivity and impact of Spanish researchers: reference thresholds within scientific areas. Revista Española de Documentación Científica, 34: 505-525. doi:10.3989/redc.2011.4.828. OA version
+74. Jiménez-Contreras, E.; Robinson-Garcia, N.; Cabezas-Clavijo, Á. (2011). Productivity and impact of Spanish researchers: reference thresholds within scientific areas. Revista Española de Documentación Científica, 34: 505-525. [DOI](https://doi.org/10.3989/redc.2011.4.828) -[Preprint](https://digibug.ugr.es/handle/10481/19151)
 
 1. Torres-Salinas, D.; García-Moreno-Torres, J.; Robinson-Garcia, N.; Delgado-López-Cózar, E.; Herrera, F. (2011). Rankings ISI de las Universidades Españolas según campos y disciplinas científicas (2ª ed. 2011). El Profesional de la Información, 20:701-711. [DOI](https://doi.org/10.3145/epi.2011.nov.16)
 
