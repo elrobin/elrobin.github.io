@@ -31,19 +31,19 @@ output:
 
 1. Di Césare, V., Robinson-Garcia, N. (Under review). What is local research? Towards a multidimensional framework linking theory and methods. [Preprint](https://doi.org/10.5281/zenodo.14033472)
 
-1. González-Salmón, E., Robinson-Garcia, N. (Under review). Mujeres Científicas en España: Un estudio comparativo de los últimos 30 años. [Preprint](https://doi.org/10.5281/zenodo.13970417)
-
 1. Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E., Torres-Salinas, D. (Under review). Publication patterns in the Humanities: Generational shifts and changing research agendas. [Preprint](https://doi.org/10.5281/zenodo.13969298) - [Data](https://doi.org/10.5281/zenodo.13905464) - [Code](https://github.com/Wences91/humanities_patterns)
 
 1. Robinson-Garcia, N., Corona-Sobrino, Z., Chinchilla-Rodriguez, Z., Torres-Salinas, D., Costas, R. (Accepted). The use of informetric methods to study diversity in the scientific workforce: A literature review. Quantitative Science Studies. [Preprint](https://www.doi.org/10.5281/zenodo.13880355)
 
 1. González-Salmón E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N. (Under review). The Woman Researcher’s Tale: A Review of Bibliometric Methods and Results for Studying Gender in Science. [Preprint](https://zenodo.org/doi/10.5281/zenodo.10590299)
 
+**2025**
+
+6. González-Salmón, E., Robinson-Garcia, N. (Accepted). Mujeres Científicas en España: Un estudio comparativo de los últimos 30 años. Revista Española de Documentación Científica. [Preprint](https://doi.org/10.5281/zenodo.13970417)
+
 **2024**
 
-7. Mir-Planells, N., Robinson-Garcia, N., Martel, M. (Accepted). Mapping trends and projections for the third-place public library concept through bibliometric data analysis. Canadian Journal of Information and Library Science
-
-6. Robinson-Garcia, N., Vargas-Quesada, B., Torres-Salinas, D., Chinchilla-Rodriguez, Z., Gorraiz, J. (2024). Errors of measurement in scientometrics: Classification schemes and document types in citation and publication rankings. Scientometrics, 129, 6455-6475. [DOI](https://doi.org/10.1007/s11192-024-05159-0) - [Preprint](https://zenodo.org/doi/10.5281/zenodo.13752257)
+7. Robinson-Garcia, N., Vargas-Quesada, B., Torres-Salinas, D., Chinchilla-Rodriguez, Z., Gorraiz, J. (2024). Errors of measurement in scientometrics: Classification schemes and document types in citation and publication rankings. Scientometrics, 129, 6455-6475. [DOI](https://doi.org/10.1007/s11192-024-05159-0) - [Preprint](https://zenodo.org/doi/10.5281/zenodo.13752257)
 
 4. Torres-Salinas, D., Docampo, D., Arroyo-Machado, W., Robinson-Garcia, N. (2024) The Many Publics of Science: Using Altmetrics to Identify Common Communication Channels by Scientific field. Scientometrics, 129, 3705-3723. [DOI](https://doi.org/10.1007/s11192-024-05077-1) - [Preprint](https://doi.org/10.5281/zenodo.7817445)
 
@@ -53,7 +53,7 @@ output:
 
 **2023**
 
-12. Aguilar-Soto, M., Robinson-Garcia, N., Vargas-Quesada, B. (2023). Altmétricas para la Identificación de Controversias Científicas: El Caso de NeuroGenderings y el Neurosexismo. El profesional de la información, 32(6) [DOI](https://doi.org/10.3145/epi.2023.nov.10)
+11. Aguilar-Soto, M., Robinson-Garcia, N., Vargas-Quesada, B. (2023). Altmétricas para la Identificación de Controversias Científicas: El Caso de NeuroGenderings y el Neurosexismo. El profesional de la información, 32(6) [DOI](https://doi.org/10.3145/epi.2023.nov.10)
 
 7. Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N. (2023). Bibliometric denialism. Scientometrics, 128, 5357-5359. [DOI](https://doi.org/10.1007/s11192-023-04787-2)
 
@@ -69,7 +69,7 @@ output:
 
 **2022**
 
-19. Ramos-Vielba, I., Robinson-Garcia, N., Woolley, R. (2022) A value creation model from science-society interconnections: Archetypal analysis combining publications, survey and altmetric data. Plos One, 17(6), e0269004. [DOI](https://doi.org/10.1371/journal.pone.0269004) - [Preprint](https://osf.io/preprints/socarxiv/tkzc5) - [Material](https://zenodo.org/record/4767452)
+18. Ramos-Vielba, I., Robinson-Garcia, N., Woolley, R. (2022) A value creation model from science-society interconnections: Archetypal analysis combining publications, survey and altmetric data. Plos One, 17(6), e0269004. [DOI](https://doi.org/10.1371/journal.pone.0269004) - [Preprint](https://osf.io/preprints/socarxiv/tkzc5) - [Material](https://zenodo.org/record/4767452)
 
 1. Arroyo-Machado, W., Robinson-Garcia, N., Torres-Salinas, D. (2022) A comprehensive dataset of the Spanish research output and its associated social media and altmetric mentions (2016-2020). Data, 7(5), 59. [DOI](https://doi.org/10.3390/data7050059) - [Data](https://doi.org/10.6084/m9.figshare.19204686.v2)
 
@@ -79,7 +79,7 @@ output:
 
 **2021**
 
-23. El-Ouahi, J., Robinson-Garcia, N., Costas, R. (2021) Analysing Scientific Mobility and Collaboration in the Middle East and North Africa. Quantitative Science Studies, 2(3), 1023–1047. [DOI](https://doi.org/10.1162/qss_a_00149)
+22. El-Ouahi, J., Robinson-Garcia, N., Costas, R. (2021) Analysing Scientific Mobility and Collaboration in the Middle East and North Africa. Quantitative Science Studies, 2(3), 1023–1047. [DOI](https://doi.org/10.1162/qss_a_00149)
 
 1. Arroyo-Machado, W., Torres-Salinas, D., Robinson-Garcia, N. (2021) Identifying and characterizing social media communities: A socio-semantic network approach to altmetrics. Scientometrics, 126, 9267-9289. [DOI](https://doi.org/10.1007/s11192-021-04167-8) - [Data](https://doi.org/10.5281/zenodo.4148941) - [Code](https://github.com/Wences91/social_media_communities)
 
@@ -89,7 +89,7 @@ output:
 
 **2020**
 
-27. Robinson-Garcia, N., van Leeuwen, T.N., Torres-Salinas, D. (2020) Measuring Open Access uptake: Data sources, expectations and misconceptions. Scholarly Assesment Reports, 2(1), p. 15. [DOI](https://doi.org/10.29024/sar.23) - [Preprint](https://zenodo.org/record/4071143)
+26. Robinson-Garcia, N., van Leeuwen, T.N., Torres-Salinas, D. (2020) Measuring Open Access uptake: Data sources, expectations and misconceptions. Scholarly Assesment Reports, 2(1), p. 15. [DOI](https://doi.org/10.29024/sar.23) - [Preprint](https://zenodo.org/record/4071143)
 
 1. Robinson-Garcia, N., Costas, R., Sugimoto, C.R., Larivière, V., Nane, G.F. (2020) Meta-Research: Task specialization across research careers. ELife, 9, e60586.  [DOI](https://doi.org/10.7554/eLife.60586) - [Data](https://zenodo.org/record/3891055)
 
@@ -99,7 +99,7 @@ output:
 
 **2019**
 
-31. Robinson-Garcia, N., Torres-Salinas, D., Herrera-Viedma, E., Docampo, D. (2019) Mining university rankings: Publication output and citation impact as their basis. Research Evaluation, 28(3), 232-240. [DOI](https://doi.org/10.1093/reseval/rvz014) -  [Preprint](https://arxiv.org/abs/1905.07141)
+30. Robinson-Garcia, N., Torres-Salinas, D., Herrera-Viedma, E., Docampo, D. (2019) Mining university rankings: Publication output and citation impact as their basis. Research Evaluation, 28(3), 232-240. [DOI](https://doi.org/10.1093/reseval/rvz014) -  [Preprint](https://arxiv.org/abs/1905.07141)
 
 1. Robinson-Garcia, N., Arroyo-Machado, W., Torres-Salinas, D. (2019) Mapping social media attention in Microbiology: Identifying main topics and actors. FEMS Microbiology Letters, 366(7), fnz075. [DOI](https://doi.org/10.1093/femsle/fnz075) - [Preprint](https://arxiv.org/abs/1904.00646)
 
@@ -108,7 +108,7 @@ output:
 **2018**
 
 
-34. Robinson-Garcia, N., van Leeuwen, T.N., Rafols, I. (2018) Using altmetrics for contextualised mapping of societal impact: From hits to networks. Science and Public Policy, 45(6), 815-826. [DOI](https://doi.org/10.1093/scipol/scy024) - [Preprint](https://ssrn.com/abstract=2932944) - [CODE](https://github.com/elrobin/twitter-networks)
+33. Robinson-Garcia, N., van Leeuwen, T.N., Rafols, I. (2018) Using altmetrics for contextualised mapping of societal impact: From hits to networks. Science and Public Policy, 45(6), 815-826. [DOI](https://doi.org/10.1093/scipol/scy024) - [Preprint](https://ssrn.com/abstract=2932944) - [CODE](https://github.com/elrobin/twitter-networks)
 
 1. Torres-Salinas, D., Gorraiz, J., Robinson-Garcia, N. (2018) The insoluble problems of books: What does Altmetric.com have to offer? ASLIB Journal of Information Management, 70(6), 691-707. [DOI](https://doi.org/10.1108/AJIM-06-2018-0152) - [Preprint](https://arxiv.org/abs/1809.10128)
 
@@ -126,7 +126,7 @@ output:
 
 **2017**
 
-42. Torres-Salinas, D., Robinson-Garcia, N., Gorraiz, J. (2017) Filling the citation gap: Measuring the multidimensional impact of the academic book at institutional level with PlumX. Scientometrics, 113(3), 1371-1384. [DOI](https://doi.org/10.1007/s11192-017-2539-z) - [Preprint](https://arxiv.org/abs/1710.00368)
+41. Torres-Salinas, D., Robinson-Garcia, N., Gorraiz, J. (2017) Filling the citation gap: Measuring the multidimensional impact of the academic book at institutional level with PlumX. Scientometrics, 113(3), 1371-1384. [DOI](https://doi.org/10.1007/s11192-017-2539-z) - [Preprint](https://arxiv.org/abs/1710.00368)
 
 1. Mongeon, P., Robinson-Garcia, N., Wei, J., Costas, R. (2017) Incorporating data sharing into the reward system of science: Linking DataCite records to authors in the Web of Science. ASLIB Journal of Information Management, 69(5), 545-556. [DOI](https://doi.org/10.1108/AJIM-01-2017-0024)
 
@@ -140,7 +140,7 @@ output:
 
 **2016**
 
-48. Robinson-Garcia, N., Jiménez-Contreras, E., Torres-Salinas, D. (2016) Analyzing data citation practices using the Data Citation Index. Journal of the Association for Information Science and Technology, 67(12), 2964-2975. [DOI](https://doi.org/10.1002/asi.23529) - [Preprint](http://arxiv.org/abs/1501.06285) - [Material](http://dx.doi.org/10.6084/m9.figshare.1250031)
+47. Robinson-Garcia, N., Jiménez-Contreras, E., Torres-Salinas, D. (2016) Analyzing data citation practices using the Data Citation Index. Journal of the Association for Information Science and Technology, 67(12), 2964-2975. [DOI](https://doi.org/10.1002/asi.23529) - [Preprint](http://arxiv.org/abs/1501.06285) - [Material](http://dx.doi.org/10.6084/m9.figshare.1250031)
 
 1. Torres-Salinas, D., Robinson-Garcia, N. (2016) Letter to the editor: The time for bibliometric applications. Journal of the Association for Information Science and Technology, 67(4), 1014-1015. [DOI](https://doi.org/10.1002/asi.23604) - [Preprint](http://digibug.ugr.es/bitstream/10481/39450/1/postprint.pdf)
 
@@ -154,7 +154,7 @@ output:
 
 **2014**
 
-53. Robinson-Garcia, N.; Torres-Salinas, D.; Delgado López-Cózar, E.; Herrera, F. (2014) An insight into the importance of national university rankings in an international context: The case of the I-UGR Rankings of Spanish universities. Scientometrics, 101(2), 1309-1324. [DOI](https://doi.org/10.1007/s11192-014-1263-1) - [Preprint](http://arxiv.org/ftp/arxiv/papers/1305/1305.1216.pdf)
+52. Robinson-Garcia, N.; Torres-Salinas, D.; Delgado López-Cózar, E.; Herrera, F. (2014) An insight into the importance of national university rankings in an international context: The case of the I-UGR Rankings of Spanish universities. Scientometrics, 101(2), 1309-1324. [DOI](https://doi.org/10.1007/s11192-014-1263-1) - [Preprint](http://arxiv.org/ftp/arxiv/papers/1305/1305.1216.pdf)
 
 1. Robinson-Garcia, N.; Torres-Salinas, D.; Zahedi, Z.; Costas, R. (2014) New data, new possibilities: Exploring the insides of Altmetric.com. El profesional de la información, 23(4), 359-366.  [DOI](https://doi.org/10.3145/epi.2014.jul.03) - [Preprint](http://arxiv.org/ftp/arxiv/papers/1408/1408.0135.pdf) **Scimago Award to the Best paper in Library Studies in 2019**
 
@@ -172,7 +172,7 @@ output:
 
 **2013**
 
-61. Delgado López-Cózar, Robinson-Garcia, N.; Torres-Salinas, D. (2013) Science Communication: Flawed Citation Indexing. Science, 342(6163), 1169. [DOI](https://doi.org/10.1126/science.342.6163.1169-b)
+60. Delgado López-Cózar, Robinson-Garcia, N.; Torres-Salinas, D. (2013) Science Communication: Flawed Citation Indexing. Science, 342(6163), 1169. [DOI](https://doi.org/10.1126/science.342.6163.1169-b)
 
 1. Robinson-Garcia, N.; Rodriguez-Sánchez, R.; García, J.A.; Torres-Salinas, D.; Fdez-Valdivia, J. (2013) Análisis de redes de las universidades españolas de acuerdo a su perfil de publicación en revistas por áreas científicas. Revista Española de Documentación Científica, 36(4), e027. doi:10.3989/redc.2013.4.1042. OA version Material
 
@@ -191,7 +191,7 @@ OA version
 
 **2012**
 
-69. Torres-Salinas, D.; Robinson-Garcia, N.; Jiménez-Contreras, E.; Delgado López-Cózar, E. (2012). Towards a ‘Book Publishers Citation Reports’. First approach using the ‘Book Citation Index. Revista Española de Documentación Científica, 35(4), 615-620. doi:10.3989/redc.2012.4.1010. OA version
+68. Torres-Salinas, D.; Robinson-Garcia, N.; Jiménez-Contreras, E.; Delgado López-Cózar, E. (2012). Towards a ‘Book Publishers Citation Reports’. First approach using the ‘Book Citation Index. Revista Española de Documentación Científica, 35(4), 615-620. doi:10.3989/redc.2012.4.1010. OA version
 
 1. Garcia, J.; Rodriguez-Sanchez, R.; Fdez-Valdivia, J.; Robinson-Garcia, N.; Torres-Salinas, D. (2012). Mapping Academic Institutions According to Their Journal Publication Profile: Spanish Universities as a Case Study. Journal of the American Society for Information Science and Technology, 63(11): 2328-2340. doi:10.1002/asi.22735. OA version
 
@@ -203,7 +203,7 @@ OA version
 
 **2011**
 
-74. Jiménez-Contreras, E.; Robinson-Garcia, N.; Cabezas-Clavijo, Á. (2011). Productivity and impact of Spanish researchers: reference thresholds within scientific areas. Revista Española de Documentación Científica, 34: 505-525. [DOI](https://doi.org/10.3989/redc.2011.4.828) -[Preprint](https://digibug.ugr.es/handle/10481/19151)
+73. Jiménez-Contreras, E.; Robinson-Garcia, N.; Cabezas-Clavijo, Á. (2011). Productivity and impact of Spanish researchers: reference thresholds within scientific areas. Revista Española de Documentación Científica, 34: 505-525. [DOI](https://doi.org/10.3989/redc.2011.4.828) -[Preprint](https://digibug.ugr.es/handle/10481/19151)
 
 1. Torres-Salinas, D.; García-Moreno-Torres, J.; Robinson-Garcia, N.; Delgado-López-Cózar, E.; Herrera, F. (2011). Rankings ISI de las Universidades Españolas según campos y disciplinas científicas (2ª ed. 2011). El Profesional de la Información, 20:701-711. [DOI](https://doi.org/10.3145/epi.2011.nov.16)
 
@@ -211,7 +211,7 @@ OA version
 
 **2009**
 
-77. Olvera-Lobo, M.D.; Robinson-Garcia, N. (2009). Tratamiento lingüístico de las preguntas en español en los sistemas de búsqueda de respuestas. El Profesional de la Información, 18: 180-187. [DOI](https://doi.org/10.3145/epi.2009.mar.08) - [Preprint](http://eprints.rclis.org/handle/10760/15093#.TtPO07JXtGU)
+76. Olvera-Lobo, M.D.; Robinson-Garcia, N. (2009). Tratamiento lingüístico de las preguntas en español en los sistemas de búsqueda de respuestas. El Profesional de la Información, 18: 180-187. [DOI](https://doi.org/10.3145/epi.2009.mar.08) - [Preprint](http://eprints.rclis.org/handle/10760/15093#.TtPO07JXtGU)
 
 ### Book chapters
 
