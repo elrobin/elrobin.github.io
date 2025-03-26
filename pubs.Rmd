@@ -237,9 +237,13 @@ OA version
 
 ### Conference proceedings
 
+**2025**
+
+1. Ng, J.Y., Liu, H., Masood, M., Syed, N., Waltman, L., Haustein, S., Sabé, M., Solmi, M., Stephen, D., Schniedermann, A., Willemin, S., Gauffriau, M., Andersen, J.P., Bornmann, L., Costas, R., Glänzel, W., Hinze, S., Robinson-Garcia, N., Sivertsen, G., Stahlschmidt, S., van Leeuwen, T., Yan, E., Neylon, C., Weimer, V., Zuccala, A., & Moher, D. (2025). Guidance List for repOrting Bibliometric AnaLyses (GLOBAL): A Two-Round Modified Delphi Study. Proceedings of the International Conference on Scientometrics & Informetrics (ISSI 2024), Yerevan, Armenia.
+
 **2024**
 
-1. Di Césare, V., Robinson-Garcia (2024). What is local research? A theoretical and operational framework [Poster]. Nordic Workshop on Bibliometrics & Research Policy 2024. Nov 20-22, Reykjavík, Iceland.
+2. Di Césare, V., Robinson-Garcia (2024). What is local research? A theoretical and operational framework [Poster]. Nordic Workshop on Bibliometrics & Research Policy 2024. Nov 20-22, Reykjavík, Iceland.
 
 1. Robinson-Garcia, N., van Schalkwyk, F., Tirado, M.M., Pham, V., Melkers, J. (2024). What’s in a team? Variability and discrepancies in the conceptualization and operationalization of scientific teams. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany. [DOI](https://zenodo.org/doi/10.5281/zenodo.12726920)
 
@@ -263,7 +267,7 @@ OA version
 
 **2023**
 
-10. Robinson-Garcia, N., Torres-Salinas, D., Vargas-Quesada, B., Chinchilla-Rodriguez, Z., Gorraiz, J. (2023) Errors of measurement in scientometrics: Identification and calculation of systematic errors. ISSI Conference 2013, Bloomington, Indiana (United States). July 2-5, 2023 [Paper](https://zenodo.org/record/8116577) - [Slides](https://docs.google.com/presentation/d/11D215XHhu9OnbKY_twNBAMGSrK_6oxL2-DCxQ3y_h4Y/edit?usp=sharing)
+13. Robinson-Garcia, N., Torres-Salinas, D., Vargas-Quesada, B., Chinchilla-Rodriguez, Z., Gorraiz, J. (2023) Errors of measurement in scientometrics: Identification and calculation of systematic errors. ISSI Conference 2013, Bloomington, Indiana (United States). July 2-5, 2023 [Paper](https://zenodo.org/record/8116577) - [Slides](https://docs.google.com/presentation/d/11D215XHhu9OnbKY_twNBAMGSrK_6oxL2-DCxQ3y_h4Y/edit?usp=sharing)
 
 1. Melkers, J., Welch, E., Morales Tirado, M., Woolley, R., Robinson-Garcia, N., Klein, A. Social innovation for resilience in international collaborative research. 27th International Conference on Science, Technology and Innovation Indicators (STI 2023). [Paper](https://dapp.orvium.io/deposits/6443009fc93d17c257de27ae/view)
 
@@ -275,13 +279,13 @@ OA version
 
 **2022**
 
-15. Chinchilla-Rodríguez, Z., Costas, R., Larivière, V., Robinson-Garcia, N. & Sugimoto, C.R.) The relationship between corresponding authorship and author position. STI 2022 “From Global Indicators to Local Applications” Conference Proceedings, Sept, 7-9, Granada (Spain) [Paper](https://doi.org/10.5281/zenodo.6957638)
+18. Chinchilla-Rodríguez, Z., Costas, R., Larivière, V., Robinson-Garcia, N. & Sugimoto, C.R.) The relationship between corresponding authorship and author position. STI 2022 “From Global Indicators to Local Applications” Conference Proceedings, Sept, 7-9, Granada (Spain) [Paper](https://doi.org/10.5281/zenodo.6957638)
 
 1. Escabias, M. & Robinson-Garcia, N. The relation between contribution statements and academic age. STI 2022 “From Global Indicators to Local Applications” Conference Proceedings, Sept, 7-9, Granada (Spain) [Paper](https://zenodo.org/record/6974732)
 
 **2021**
 
-17. Arroyo-Machado, W. and Robinson-Garcia, N. (2021). Big Data and the birth of a Science of Humanities. The 1st International Conference on Humanities and Big Data in Ibero-America: Methodological issues and practical applications. Zenodo. doi:10.5281/zenodo.5793176 [Slides](https://doi.org/10.5281/zenodo.5793176)
+20. Arroyo-Machado, W. and Robinson-Garcia, N. (2021). Big Data and the birth of a Science of Humanities. The 1st International Conference on Humanities and Big Data in Ibero-America: Methodological issues and practical applications. Zenodo. doi:10.5281/zenodo.5793176 [Slides](https://doi.org/10.5281/zenodo.5793176)
 
 1. D’Este, P., Robinson-Garcia, N. Interdisciplinary research and the societal visibility of science: The advantages of spanning multiple and distant fields. EU-SPRI 2021 Conference, Jun. 9-11, Oslo (Norway) [Online event].
 
@@ -291,7 +295,7 @@ OA version
 
 **2019**
 
-21. Robinson-Garcia, N., Costas, R., Sugimoto, C.R., Larivière, V., Nane, T. The effects of specialization on research careers. International Conference Evaluating Knowledge Transfer and Impact, Dec. 12-13, 2019, Córdoba (Spain). [Slides](https://doi.org/10.5281/zenodo.3580984)
+24. Robinson-Garcia, N., Costas, R., Sugimoto, C.R., Larivière, V., Nane, T. The effects of specialization on research careers. International Conference Evaluating Knowledge Transfer and Impact, Dec. 12-13, 2019, Córdoba (Spain). [Slides](https://doi.org/10.5281/zenodo.3580984)
 
 1. D’Este, P., Ramos-Vielba, I., Robinson-Garcia, N., Woolley, R. Aligning scientific impact and societal relevance: The roles of academic engagement and interdisciplinary research. Atlanta Conference on Science and Innovation Policy, Oct. 14-16, Atlanta (United States). [Slides](https://www.slideshare.net/figaro/aligning-scientific-impact-and-societal-relevance-the-roles-of-academic-engagement-and-interdisciplinary-research)
 
