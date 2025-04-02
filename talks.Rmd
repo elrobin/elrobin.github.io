@@ -24,6 +24,10 @@ output:
 
 I ocassionally get invited to give talks on my work or share my experience in academia with early career researchers. Here are the slides and materiales I've used.
 
+### 2025
+
+**Métricas de impacto alternativas para revistas científicas** | April 2, 2025. Ciclo Trimestral de Métricas y Evaluación de Revistas Académicas, Universidad Nacional de Colombia. [Slides](https://docs.google.com/presentation/d/1KGn_n4UwkY43vU5XXz4AZSAuKd4j4yk5YCzN8pmi84w/edit?usp=sharing)
+
 ### 2024
 
 **Language use and publication patterns in the humanities** | Dec 2, 2024. [4th Helsinki Initiative Webinar on Multilingualism in Scholarly Communication](https://www.helsinki-initiative.org/en/events/4th-helsinki-initiative-webinar-multilingualism-scholarly-communication)
