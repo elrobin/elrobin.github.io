@@ -39,7 +39,7 @@ output:
 
 **2025**
 
-6. Robinson-Garcia, N., Corona-Sobrino, Z., Chinchilla-Rodriguez, Z., Torres-Salinas, D., Costas, R. (Accepted). The use of informetric methods to study diversity in the scientific workforce: A literature review. Quantitative Science Studies. [Preprint](https://www.doi.org/10.5281/zenodo.13880355)
+6. Robinson-Garcia, N., Corona-Sobrino, Z., Chinchilla-Rodriguez, Z., Torres-Salinas, D., Costas, R. (2025). The use of informetric methods to study diversity in the scientific workforce: A literature review. Quantitative Science Studies. [DOI](https://doi.org/10.1162/qss_a_00367) - [Preprint](https://www.doi.org/10.5281/zenodo.13880355)
 
 6. González-Salmón, E., Robinson-Garcia, N. (Accepted). Mujeres Científicas en España: Un estudio comparativo de los últimos 30 años. Revista Española de Documentación Científica. [Preprint](https://doi.org/10.5281/zenodo.13970417)
 
