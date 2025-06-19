@@ -29,8 +29,6 @@ output:
 
 1. Van Schalkwyk, F., González-Salmón, E., & Robinson-Garcia, N. (Under review). Collaboration in Education Research from Africa.
 
-1. Arroyo-Machado, W., Robinson-Garcia, N., & Torres-Salinas, D. (under review). Are there stars in Bluesky? A comparative exploratory analysis of altmetric mentions between X and Bluesky. [Preprint](https://doi.org/10.5281/zenodo.14290752)
-
 1. González-Salmón, E., Di Césare, V., Xiao, A., Robinson-Garcia, N. (Under review). Beyond authorship: Analyzing disciplinary patterns of contribution statements using the CRediT taxonomy. [Preprint](https://doi.org/10.5281/zenodo.14168888)
 
 1. Di Césare, V., Robinson-Garcia, N. (Under review). What is local research? Towards a multidimensional framework linking theory and methods. [Preprint](https://doi.org/10.5281/zenodo.14033472)
@@ -38,6 +36,8 @@ output:
 1. Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E., Torres-Salinas, D. (Under review). Publication patterns in the Humanities: Generational shifts and changing research agendas. [Preprint](https://doi.org/10.5281/zenodo.13969298) - [Data](https://doi.org/10.5281/zenodo.13905464) - [Code](https://github.com/Wences91/humanities_patterns)
 
 **2025**
+
+5. Arroyo-Machado, W., Robinson-Garcia, N., & Torres-Salinas, D. (accepted). Are there stars in Bluesky after the return of Donald Trump to the White House? A comparative exploratory analysis of altmetric mentions between X and Bluesky. Journal of Informetrics. [Preprint](https://doi.org/10.5281/zenodo.15538328)
 
 6. González-Salmón E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N. (2025). The Woman Researcher’s Tale: A Review of Bibliometric Methods and Results for Studying Gender in Science. Journal of the Association for Information Science and Technology. [DOI](https://doi.org/10.1002/asi.25012) - [Preprint](https://zenodo.org/doi/10.5281/zenodo.10590299)
 
