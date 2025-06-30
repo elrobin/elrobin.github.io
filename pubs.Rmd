@@ -37,7 +37,7 @@ output:
 
 **2025**
 
-5. Arroyo-Machado, W., Robinson-Garcia, N., & Torres-Salinas, D. (accepted). Are there stars in Bluesky after the return of Donald Trump to the White House? A comparative exploratory analysis of altmetric mentions between X and Bluesky. Journal of Informetrics. [Preprint](https://doi.org/10.5281/zenodo.15538328)
+5. Arroyo-Machado, W., Robinson-Garcia, N., & Torres-Salinas, D. (2025). Are there stars in Bluesky? A comparative exploratory analysis of altmetric mentions between X and Bluesky. Journal of Informetrics, 101700. [DOI](https://doi.org/10.1016/j.joi.2025.101700) - [Preprint](https://doi.org/10.5281/zenodo.15538328)
 
 6. González-Salmón E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N. (2025). The Woman Researcher’s Tale: A Review of Bibliometric Methods and Results for Studying Gender in Science. Journal of the Association for Information Science and Technology. [DOI](https://doi.org/10.1002/asi.25012) - [Preprint](https://zenodo.org/doi/10.5281/zenodo.10590299)
 
@@ -154,11 +154,11 @@ output:
 
 **2015**
 
-54. Torres-Salinas, D., Robinson-Garcia, N., Jiménez-Contreras, E., de la Fuente, E. (2015) The BiPublishers ranking: Main results and methodological problems when constructing rankings of academic publishers. Revista Española de Documentación Científica, 38(4), e111. [DOI](https://doi.org/10.3989/redc.2015.4.1287b) - [Preprint](http://arxiv.org/abs/1505.01074)
+53. Torres-Salinas, D., Robinson-Garcia, N., Jiménez-Contreras, E., de la Fuente, E. (2015) The BiPublishers ranking: Main results and methodological problems when constructing rankings of academic publishers. Revista Española de Documentación Científica, 38(4), e111. [DOI](https://doi.org/10.3989/redc.2015.4.1287b) - [Preprint](http://arxiv.org/abs/1505.01074)
 
 **2014**
 
-55. Robinson-Garcia, N.; Torres-Salinas, D.; Delgado López-Cózar, E.; Herrera, F. (2014) An insight into the importance of national university rankings in an international context: The case of the I-UGR Rankings of Spanish universities. Scientometrics, 101(2), 1309-1324. [DOI](https://doi.org/10.1007/s11192-014-1263-1) - [Preprint](http://arxiv.org/ftp/arxiv/papers/1305/1305.1216.pdf)
+54. Robinson-Garcia, N.; Torres-Salinas, D.; Delgado López-Cózar, E.; Herrera, F. (2014) An insight into the importance of national university rankings in an international context: The case of the I-UGR Rankings of Spanish universities. Scientometrics, 101(2), 1309-1324. [DOI](https://doi.org/10.1007/s11192-014-1263-1) - [Preprint](http://arxiv.org/ftp/arxiv/papers/1305/1305.1216.pdf)
 
 1. Robinson-Garcia, N.; Torres-Salinas, D.; Zahedi, Z.; Costas, R. (2014) New data, new possibilities: Exploring the insides of Altmetric.com. El profesional de la información, 23(4), 359-366.  [DOI](https://doi.org/10.3145/epi.2014.jul.03) - [Preprint](http://arxiv.org/ftp/arxiv/papers/1408/1408.0135.pdf) **Scimago Award to the Best paper in Library Studies in 2019**
 
@@ -243,6 +243,10 @@ OA version
 
 **2025**
 
+1. Di Césare, V., Costas, R., & Robinson-Garcia, N. (2025). Testing the knowledge bridging function of non-mainstream journals in scholarly Communication. 29th International Conference on Science, Technology and Innovation Indicators [STI 2025](https://www.stienid2025.org/), Sep 2-5, Bristol, United Kingdom.
+
+1. González-Salmón, E. & Robinson-Garcia, N. (2025). Contagion of disrespect: Is there an inverse relation between gender parity and citation impact? [Poster] 29th International Conference on Science, Technology and Innovation Indicators [STI 2025](https://www.stienid2025.org/), Sep 2-5, Bristol, United Kingdom.
+
 1. Robinson-Garcia, N., Bird, A., Melkers, J., & Leahey, E. (2025). Exploring the social organization of the sciences. Atlanta Conference on Science and Innovation Policy, May 13-16, Atlanta (GA), United States. [Slides](https://doi.org/10.5281/zenodo.15479475)
 
 1. Di Césare, V., & Robinson-Garcia, N. (2025). The representation of local journals in mainstream databases and its implications for the Global South. Atlanta Conference on Science and Innovation Policy, May 13-16, Atlanta (GA), United States.
@@ -251,7 +255,7 @@ OA version
 
 **2024**
 
-4. Di Césare, V., Robinson-Garcia (2024). What is local research? A theoretical and operational framework [Poster]. Nordic Workshop on Bibliometrics & Research Policy 2024. Nov 20-22, Reykjavík, Iceland.
+6. Di Césare, V., Robinson-Garcia (2024). What is local research? A theoretical and operational framework [Poster]. Nordic Workshop on Bibliometrics & Research Policy 2024. Nov 20-22, Reykjavík, Iceland.
 
 1. Robinson-Garcia, N., van Schalkwyk, F., Tirado, M.M., Pham, V., Melkers, J. (2024). What’s in a team? Variability and discrepancies in the conceptualization and operationalization of scientific teams. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany. [DOI](https://zenodo.org/doi/10.5281/zenodo.12726920)
 
@@ -275,7 +279,7 @@ OA version
 
 **2023**
 
-15. Robinson-Garcia, N., Torres-Salinas, D., Vargas-Quesada, B., Chinchilla-Rodriguez, Z., Gorraiz, J. (2023) Errors of measurement in scientometrics: Identification and calculation of systematic errors. ISSI Conference 2013, Bloomington, Indiana (United States). July 2-5, 2023 [Paper](https://zenodo.org/record/8116577) - [Slides](https://docs.google.com/presentation/d/11D215XHhu9OnbKY_twNBAMGSrK_6oxL2-DCxQ3y_h4Y/edit?usp=sharing)
+17. Robinson-Garcia, N., Torres-Salinas, D., Vargas-Quesada, B., Chinchilla-Rodriguez, Z., Gorraiz, J. (2023) Errors of measurement in scientometrics: Identification and calculation of systematic errors. ISSI Conference 2013, Bloomington, Indiana (United States). July 2-5, 2023 [Paper](https://zenodo.org/record/8116577) - [Slides](https://docs.google.com/presentation/d/11D215XHhu9OnbKY_twNBAMGSrK_6oxL2-DCxQ3y_h4Y/edit?usp=sharing)
 
 1. Melkers, J., Welch, E., Morales Tirado, M., Woolley, R., Robinson-Garcia, N., Klein, A. Social innovation for resilience in international collaborative research. 27th International Conference on Science, Technology and Innovation Indicators (STI 2023). [Paper](https://dapp.orvium.io/deposits/6443009fc93d17c257de27ae/view)
 
@@ -287,13 +291,13 @@ OA version
 
 **2022**
 
-20. Chinchilla-Rodríguez, Z., Costas, R., Larivière, V., Robinson-Garcia, N. & Sugimoto, C.R.) The relationship between corresponding authorship and author position. STI 2022 “From Global Indicators to Local Applications” Conference Proceedings, Sept, 7-9, Granada (Spain) [Paper](https://doi.org/10.5281/zenodo.6957638)
+22. Chinchilla-Rodríguez, Z., Costas, R., Larivière, V., Robinson-Garcia, N. & Sugimoto, C.R.) The relationship between corresponding authorship and author position. STI 2022 “From Global Indicators to Local Applications” Conference Proceedings, Sept, 7-9, Granada (Spain) [Paper](https://doi.org/10.5281/zenodo.6957638)
 
 1. Escabias, M. & Robinson-Garcia, N. The relation between contribution statements and academic age. STI 2022 “From Global Indicators to Local Applications” Conference Proceedings, Sept, 7-9, Granada (Spain) [Paper](https://zenodo.org/record/6974732)
 
 **2021**
 
-22. Arroyo-Machado, W. and Robinson-Garcia, N. (2021). Big Data and the birth of a Science of Humanities. The 1st International Conference on Humanities and Big Data in Ibero-America: Methodological issues and practical applications. Zenodo. doi:10.5281/zenodo.5793176 [Slides](https://doi.org/10.5281/zenodo.5793176)
+24. Arroyo-Machado, W. and Robinson-Garcia, N. (2021). Big Data and the birth of a Science of Humanities. The 1st International Conference on Humanities and Big Data in Ibero-America: Methodological issues and practical applications. Zenodo. doi:10.5281/zenodo.5793176 [Slides](https://doi.org/10.5281/zenodo.5793176)
 
 1. D’Este, P., Robinson-Garcia, N. Interdisciplinary research and the societal visibility of science: The advantages of spanning multiple and distant fields. EU-SPRI 2021 Conference, Jun. 9-11, Oslo (Norway) [Online event].
 
@@ -303,7 +307,7 @@ OA version
 
 **2019**
 
-26. Robinson-Garcia, N., Costas, R., Sugimoto, C.R., Larivière, V., Nane, T. The effects of specialization on research careers. International Conference Evaluating Knowledge Transfer and Impact, Dec. 12-13, 2019, Córdoba (Spain). [Slides](https://doi.org/10.5281/zenodo.3580984)
+28. Robinson-Garcia, N., Costas, R., Sugimoto, C.R., Larivière, V., Nane, T. The effects of specialization on research careers. International Conference Evaluating Knowledge Transfer and Impact, Dec. 12-13, 2019, Córdoba (Spain). [Slides](https://doi.org/10.5281/zenodo.3580984)
 
 1. D’Este, P., Ramos-Vielba, I., Robinson-Garcia, N., Woolley, R. Aligning scientific impact and societal relevance: The roles of academic engagement and interdisciplinary research. Atlanta Conference on Science and Innovation Policy, Oct. 14-16, Atlanta (United States). [Slides](https://www.slideshare.net/figaro/aligning-scientific-impact-and-societal-relevance-the-roles-of-academic-engagement-and-interdisciplinary-research)
 
