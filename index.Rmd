@@ -29,8 +29,6 @@ Check complete [list of projects here](projects.html)
 
 **[Unit for Computational Humanities and Social Sciences (U-CHASS)](https://uchass.ugr.es)** | Research unit funded by the University of Granada
 
-**[COMPARE](https://compare-project.eu)** | Research project on team diversity in academia
-
 ## Teaching
 
 **[Courses](https://sites.google.com/go.ugr.es/nrobinsongarcia-docencia)** | Portal with materials of courses currently taught at University of Granada
@@ -56,3 +54,5 @@ Check complete [list of projects here](projects.html)
 **[Victoria Di Césare](https://sites.google.com/view/vdicesare)** | PhD on Social Sciences, Universidad de Granada (on-going)
 
 **[Néstor Mir Planells](https://nestormirplanells.wordpress.com/)** | PhD on Library Studies, Universitat Politècnica de València (on-going)
+
+**[Alwaleed Alkhaja](https://creativecommons.org/person/alwaleed-alkhaja/)** | PhD on Library Studies, University of Tampere (on-going)
