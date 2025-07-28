@@ -24,6 +24,14 @@ output:
 
 Complete list of projects I have been involved in and role played.
 
+## Impacto del Programa Fulbright - España
+- Commissioned by: Fundación Comisión Fulbright España
+- Role: Principal investigator
+- Partners: University of Granada
+- Period: 2024-2025
+- Budget: 15,105€
+- Final report
+
 ## U-CHASS Unit for Computational Humanities and Social Sciences
 - Funder: University of Granada
 - Role: Scientific Director
