@@ -24,6 +24,15 @@ output:
 
 Complete list of projects I have been involved in and role played.
 
+## STITCH - Scientific Teams and Inequalities: Collaboration and Heterogeneity in Science
+- Funder: Ministerio de Ciencia e Innovación, Plan Nacional de I+D+i
+- Role: PI
+- Partners: Universidad de Granada, Georgia Institute of Technology, Instituto de Estudios Sociales Avanzados (CSIC), Arizona State University, Indiana University Bloomington
+- Period: 2026-2028
+- Budget: 50,000 €
+- Project website
+
+
 ## Impacto del Programa Fulbright - España
 - Commissioned by: Fundación Comisión Fulbright España
 - Role: Principal investigator

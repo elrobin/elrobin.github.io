@@ -27,6 +27,8 @@ Nicolas Robinson-Garcia is a Ramón y Cajal fellow in the field of bibliometrics
 
 Check complete [list of projects here](projects.html)
 
+**Scientific Teams and Inequalities: Collaboration and Heterogeneity in Science (STITCH)** | Funded by the Spanish National Research Agency
+
 **[Unit for Computational Humanities and Social Sciences (U-CHASS)](https://uchass.ugr.es)** | Research unit funded by the University of Granada
 
 ## Teaching
