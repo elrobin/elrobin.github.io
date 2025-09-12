@@ -26,7 +26,13 @@ I ocassionally get invited to give talks on my work or share my experience in ac
 
 ### 2025
 
+**Principles of Evaluative Bibliometrics in a DORA/CoARA Context** [in collaboration with Daniel Torres-Salinas] | Sep 11, 2025. European Summer School of Scientometrics, Granada, Spain. [Slides](https://docs.google.com/document/d/1BKW7UXt00eLzfdExhWWkzVQOBa5-6xbC2niSyLV5Uu8/edit?usp=sharing)
+
+**Altmetrics & Open Science** | Sep 9, 2025. European Summer School of Scientometrics, Granada, Spain.. [Slides](https://doi.org/10.5281/zenodo.15658289)
+
 **Metodologías y técnicas de evaluación: desde la investigación a la transferencia** [in collaboration with María Blanco-Palencia] | Jul 23, 2025. [Curso de verano de la UIMP: Transferencia e intercambio de conocimiento para la creación de valor social](https://ingles.uimp.es/agenda-link.html?id_actividad=660J&anyaca=2025-26), Santander, Spain.
+
+**Evaluative Bibliometrics in a DORA/CoARA Context** [in collaboration with Daniel Torres-Salinas] | Jul 3, 2025. KB Open Research Seminars. Kompetenznetzwerk Bibliometrie. [Slides](https://docs.google.com/document/d/1BKW7UXt00eLzfdExhWWkzVQOBa5-6xbC2niSyLV5Uu8/edit?usp=sharing)
 
 **Altmetrics & Open Science** | June 10, 2025. Summer School on Science Mapping, Università degli Studio di Napoli Federico II, Naples, Italy. [Slides](https://doi.org/10.5281/zenodo.15658289)
 
