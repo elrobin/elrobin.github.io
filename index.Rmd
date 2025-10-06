@@ -16,12 +16,26 @@ links:
     url: "https://ec3-research.com" 
 
 output:
-  postcards::trestles
+  postcards::trestles:
+    pandoc_args: ["--mathjax", "--webtex", "--variable", "allow-html:true"]
+
 ---
- 
+
 ## Bio
 
 Nicolas Robinson-Garcia is a Ramón y Cajal fellow in the field of bibliometrics and research evaluation at the University of Granada. He is scientific director of the [Unit for Computational Humanities and Social Sciences (U-CHASS)](https://uchass.ugr.es) and head of the [EC3 Research Group](https://ec3-research.com). He is co-editor of the journal [Research Evaluation](https://academic.oup.com/rev/), and member of the Steering Committee of the [European Summer School for Scientometrics](https://esss.info). His research interests are research careers and diversity, and science communication and social outreach. He is also member of the editorial board of [Quantitative Science Studies](https://direct.mit.edu/qss).
+
+---
+
+📘 **New book: _Diversidad y reconocimiento en la academia_**
+
+![](portada.png){width=120px style="float:left; margin-right:15px; margin-top:5px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,.1);"}
+
+La imagen del científico aislado en su laboratorio pertenece al pasado. Hoy, la ciencia es un esfuerzo colectivo en el que la diversidad ?de ideas, trayectorias y perspectivas? es clave para generar conocimiento que refleje la complejidad del mundo en que vivimos. Este libro explora cómo se reconoce y valora la contribución de los científicos, qué retos afronta el sistema académico y cómo avanzar hacia una evaluación más justa e inclusiva. Una lectura imprescindible para investigadores, gestores y cualquier persona interesada en entender cómo se hace ciencia en el siglo XXI.
+
+**[→ Más información y compra en Casa del Libro](https://www.casadellibro.com/libro-diversidad-y-reconocimiento--en-la-academia/9788411661805/17478911)**
+
+---
 
 ## Main research projects (active)
 

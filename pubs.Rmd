@@ -217,6 +217,32 @@ OA version
 
 78. Olvera-Lobo, M.D.; Robinson-Garcia, N. (2009). Tratamiento lingüístico de las preguntas en español en los sistemas de búsqueda de respuestas. El Profesional de la Información, 18: 180-187. [DOI](https://doi.org/10.3145/epi.2009.mar.08) - [Preprint](http://eprints.rclis.org/handle/10760/15093#.TtPO07JXtGU)
 
+### Books
+
+<div class="book-card">
+
+<img class="book-cover" src="portada.png" alt="Book cover: Title">
+
+<div class="book-info">
+  <h3 class="book-title">_Diversidad y reconocimiento en la academia_</h3>
+  <p class="book-meta">
+    <strong>Author:</strong> Nicolás Robinson-García<br>
+    <strong>Publisher:</strong> UOC (Universitat Oberta de Catalunya) · <strong>Year:</strong> 2025<br>
+    <strong>ISBN:</strong> 978 84 11661805
+  </p>
+
+  <p class="book-abstract">
+La imagen del científico aislado en su laboratorio pertenece al pasado. Hoy, la ciencia es un esfuerzo colectivo en el que la diversidad ?de ideas, trayectorias y perspectivas? es clave para generar conocimiento que refleje la complejidad del mundo en que vivimos. Este libro explora cómo se reconoce y valora la contribución de los científicos, qué retos afronta el sistema académico y cómo podemos avanzar hacia una evaluación más justa e inclusiva. Una lectura imprescindible para investigadores, gestores y cualquier persona interesada en entender cómo se hace ciencia en el siglo XXI.
+  </p>
+
+  <p>
+    <a class="btn-buy" href="https://www.casadellibro.com/libro-diversidad-y-reconocimiento--en-la-academia/9788411661805/17478911" target="_blank" rel="noopener">Buy / More info</a>
+  </p>
+</div>
+
+</div>
+
+
 ### Book chapters
 
 1. Robinson-Garcia, N., Torres-Salinas, D. (2024) Altmetrics. In: Encyclopedia of Libraries, Librarianship, and Information Science. Elsevier. ISBN:9780323956901
@@ -326,3 +352,47 @@ OA version
 1. Arroyo-Machado, W., Torres-Salinas, D., Robinson-Garcia, N. Identifying communities of interest in social media: Microbiology as a case study. In: G. Catalano et al. (eds) Proceedings of the 17th Conference of the International Society for Scientometrics and Informetrics, Sep. 2-5, Rome (Italy), vol. 2, pp. 1201-1209 [Paper](https://doi.org/10.5281/zenodo.3384573)
 
 1. Welch, E., Siciliano, M., Robinson-Garcia, N. Network Churn in the Professional Networks of Foreign-Born and Globally Mobile Faculty. AAAS 2019 Meeting, March 14-17, Washington DC, United States.
+
+<style>
+.book-card {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  background: #fff;
+}
+.book-cover {
+  width: 180px;
+  max-width: 35vw;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,.08);
+  flex-shrink: 0;
+}
+.book-info { flex: 1; min-width: 220px; }
+.book-title { margin-top: 0; margin-bottom: .35rem; }
+.book-meta {
+  font-size: 1.2rem;
+  color: #555;
+  margin-top: 0;
+  margin-bottom: .75rem;
+}
+.book-abstract { line-height: 1.55; margin-bottom: 1rem; }
+.btn-buy {
+  display: inline-block;
+  padding: .55rem .9rem;
+  border-radius: 8px;
+  border: 1px solid #2c3e50;
+  text-decoration: none;
+  font-weight: 600;
+}
+.btn-buy:hover { filter: brightness(97%); }
+@media (max-width: 700px) {
+  .book-card { flex-direction: column; align-items: stretch; }
+  .book-cover { width: 100%; max-width: 420px; }
+}
+</style>
+
