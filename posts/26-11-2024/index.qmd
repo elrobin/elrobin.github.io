@@ -1,0 +1,25 @@
+---
+title: "More on multiauthorship"
+author: "N. Robinson-Garcia"
+date: "2024-11-26"
+categories: [reviews]
+bibliography: references.bib
+---
+
+![Image generated with DALL-E](images/autoriamultiple.png){width="410"}
+
+Lately I am very interested on authorship and more specifically, on the problems this concept brings in terms of allocation of credit among researchers given the current collaborative nature of research. This is very much related to the book I am writing on diversity and recognition in academia.
+
+Here some notes for some of the papers I am reading.
+
+**Cronin, B. (2001). Hyperauthorship: A postmodern perversion or evidence of a structural shift in scholarly communication practices? *Journal of the American Society for Information Science and Technology*, *52*(7), 558–569. <https://doi.org/10.1002/asi.1097>**
+
+He focuses on the issues arising in biomedical sciences with regard to honorary authorship and authorship inflation. Takes a historical perspective, from the birth of scientific authorship to the development of the current scientific publishing system. It discusses disciplinary differences on authorship order. Authorship is tied to credit and responsibility, but also is linked with an individualistic notion and not a collective endeavour which is an anachronistic conception of science.
+
+Collaboration becomes a reality especially after WWII, with the expansion of 'big science' which required funding, infrastructure and coordination and management. Currently it is the norm, with some fields and projects requiring the development of an internal structure and division of labour while others are more informal levels of collaboration. He mentions the suggestion by [@rennie1997] of abandoning the concept of author in favour of alternatives such as contributor or guarantor. As we know this proposal later gained track within the biomedical sciences with the [CRediT taxonomy](https://credit.niso.org/) becoming a NISO standard more than 15 years later [@allen2014]. This has to do with the inefficacy of the initial solution proposed by ICMJE which was to make all authors responsible of the complete content of a paper.
+
+Still, Cronin is critical with this proposal because it is still difficult to enforce responsibility in cases of what he terms *hyperauthorship*. He entertains the idea of using the 'Acknowledgements' section for contributions of second order, but recognizes also its limitations. Finally, he discusses the HEP model where all the recognition and authorship discussions are ridden internally, while an external observer would be incapable of administrating credit through authorship.
+
+**Walsh, J. P., & Lee, Y.-N. (2015). The bureaucratization of science. *Research Policy*, *44*(8), 1584–1600. <https://doi.org/10.1016/j.respol.2015.04.010>**
+
+This paper examines how scientific teams organize internally based on their size, interdisciplinarity and task interdependence. It uses organizational theory (similarly to [@whitley2000]) and emphasizes the importance of internal structure to ensure a successful performance. They make some interesting points, such as the changes on the training model of scientists from the apprentice-model kind of model suggested by [@laudel2008] (although not cited in the paper) to an industrialized model of scientific careers with more of a professor-employer kind of model. Again they bring up the misalignment between credit allocation and multiauthorship.

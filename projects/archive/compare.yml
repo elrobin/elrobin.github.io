@@ -1,0 +1,9 @@
+- path:  "https://compare-project.eu" # o la URL que tengas (puedes quitarlo si no quieres enlace)
+  image:   # opcional
+  title: "COMPARE"
+  subtitle: "COntextual Mapping of academic Pathways Analysis for Research Evaluation"
+  role: "Principal Investigator"
+  funder: "Ministerio de Ciencia e Innovación, Plan Nacional de I+D+i"
+  budget: "54,934€"
+  year_start: "2021"
+  year_end: "2025"

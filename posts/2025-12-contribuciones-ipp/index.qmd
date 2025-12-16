@@ -1,0 +1,22 @@
+---
+title: "Research seminar at the IPP-CSIC on contribution statements"
+author: "N. Robinson-Garcia"
+date: "2025-12-11"
+categories: [talks]
+---
+
+![Snapshot of the video during my presentation](semianr.png){fig-align="center"}
+
+Yesterday I had the opportunity to present my current (and past) research obsession, which is relates to understanding how researchers collaborate and distribute tasks when doing so. I was kindly invited by Luis Sanz-Menéndez to provide a research seminar and visit IPP-CSIC for the first time. Also had the chance to catch up with Zaida Chinchilla-Rodríguez.
+
+During the presentation I gave a quick overview on how we are using contribution statements to study scientists, some of the past studies I have led in this regard and where our thinking is moving to nowadays. It was perfect timing, as we are just starting with the planning of the STITCH project, which give continuity to COMPARE by changing the unit of analysis and focusing on teams rather than individuals.
+
+Many thanks to all the attendants to the seminar and especially to Luis, Zaida and Catalina for a very warm reception!
+
+::: {.callout-important appearance="simple"}
+## Slides and recording of the seminar are available
+
+-   [Slides](https://zenodo.org/records/17897585)
+
+-   [YouTube video](https://www.youtube.com/watch?v=Gerxxe_WXds)
+:::

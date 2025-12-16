@@ -1,0 +1,9 @@
+- path:   # o la URL que tengas (puedes quitarlo si no quieres enlace)
+  image:   # opcional
+  title: "Foreign-born"
+  subtitle: "Connecting nuances of foreign status, professional networks and higher education"
+  role: "Postdoctoral researcher (with PI Eric W. Welch and Co-PI Julia Melkers)"
+  funder: "US National Science Foundation"
+  budget: "$1,100,000"
+  year_start: "2017"
+  year_end: "2019"

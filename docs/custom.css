@@ -1,0 +1,72 @@
+/*Inline block for altmetric badges, will keep the badges in the same line*/
+span.__dimensions_badge_embed__, div.altmetric-embed {
+  display: inline-block;
+}
+
+/* === Minimal Black & White Theme === */
+
+body {
+  background-color: #ffffff;
+  color: #111111;
+  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Links */
+a {
+  color: #B82132;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+
+a:hover {
+  color: #555555;
+  text-decoration: none;
+}
+
+/* Header and navigation */
+.navbar, .navbar-brand, .navbar-nav .nav-link {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #777777 !important;
+}
+
+/* Section headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 400;
+  color: #000000;
+}
+
+/* Footer */
+footer {
+  background-color: #ffffff;
+  border-top: 1px solid #e0e0e0;
+  color: #555555;
+  font-size: 0.9em;
+}
+
+/* Buttons (ORCID, LinkedIn, etc.) */
+.btn {
+  background-color: transparent;
+  border: 1px solid #000000;
+  color: #000000;
+  border-radius: 0;
+}
+
+.btn:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+/* Descripción de proyectos un pelín más discreta */
+#current-projects .description,
+#current-projects .listing-description {
+  font-size: 0.9rem;
+  color: #444444;
+}
+

@@ -1,0 +1,10 @@
+# options specified here will apply to all posts in this folder
+
+# freeze computational output
+freeze: true
+
+# Disable banner-style title blocks
+title-block-banner: false
+
+# Draft support
+draft-mode: unlinked

@@ -1,0 +1,15 @@
+- path:  "https://uchass.ugr.es" # o la URL que tengas (puedes quitarlo si no quieres enlace)
+  image:  "projects/uchass.png" # opcional
+  title: "U^CHASS"
+  subtitle: "U^CHASS"   # sólo para poder ordenar
+  subtitle: "Unit for Computational Humanities and Social Sciences"
+  description: |
+    **Role:** Scientific director  
+    **Funder:** University of Granada  
+    **Budget:** 40,000€  
+    **Period:** 2024–2027
+  role: "Scientific director"
+  funder: "University of Granada"
+  budget: "40,000€"
+  year_start: "2024"
+  year_end: "2027"

@@ -1,0 +1,24 @@
+---
+title: "Scientific authorship and dealing with multiauthorship"
+author: "N. Robinson-Garcia"
+date: "2024-11-25"
+categories: [reviews]
+---
+
+[![Illustration from Davis Parkins, Source: Nature](multiauthorship.png){fig-align="left" width="423"}](https://www.nature.com/articles/d41586-018-06185-8)
+
+**Notes from Biagioli, M. (2013). Rights or Rewards? Changing Frameworks of Scientific Authorship. In M. Biagioli & P. Gallison (eds) *Scientific Authorship: Credit and Intellectual Property in Science* (1st ed., pp. 253-279). Routledge.**
+
+> Scientific authorship is a misnomer, a historical vestige. **Mario Biagioli, p. 274**
+
+The problems derived from using authorship as an attribution of credit in times of *Big Science* are a common issue for those studying the social dynamics of science through the use of publications. Authorship and author order are extremely polluted by seniority and power dynamics, furthermore, authorship seems a limited concept for reflecting each author's contribution and responsibility, especially when dealing with papers produced by large teams.
+
+Scientific authorship is considered a symbolic reward not attached to the specific object (the article) but to the true claims made in such object, and it is given by peers. This means that *"a scientific claim does not count as such unless it is made public and subjected to peer evaluation"* (p. 254). Multiauthorship includes a layer of complexity to the evaluation of scientific performance, as it introduces ambiguity: evaluators have to assess the value of the paper and the share of such value attributed to the candidate. *"\[T\]he economy of science is inherently based on trust"* (p. 260). The author argues that copyright does not hold for our understanding of scientific author and hence proposes a redefinition.
+
+He revises how two different fields approached to this issue. The first one is the biomedical sciences. IMCJE's first solution to this issue, was to reinforce the figure of the author in the traditional sense, which does not work in highly stratified science formed by dozens or even hundreds of authors. Hence it moved towards the concept of *contributorship*, where team members indicate their specific contribution to a given output, with the order of contributors reflecting the importance of such contribution. One of those contributors would play the role of the *guarantor*, that is, the person(s) who is responsible for overseeing the whole study and coordinating.
+
+The second approach comes from high energy physics, instead of approaching authorship as a matter of responsibility and ownership, it considers it a matter of labour recognition. There is a Standard Author List for all people who have contributed in any way to a given lab or research centre, regardless of their involvement on specific papers or projects, and they appear alphabetically. To be part of this list, researchers have to compromise a share of their time and work, and this list is updated biannually by a committee. Furthermore, leaves of absence are allowed of up to a year without meaning being removed from the list, and researchers are even recognized a year after being removed from the list, as a way to recognize that contributions can be direct or indirect and are cumulative. In this second setting, authorship does not have the same value or credit as in biomedical sciences, and prestige and recognition operate differently through recommendation letters and internal dynamics and correspondence.
+
+The review process in high energy physics operates in a different way to what we know from other fields. After a subgroup from the Standard Author List writes up a manuscript, it is submitted internally to all members of the list, who are asked to comment electronically. The paper goes three rounds of internal reviews and then, members of the list who still disagree with the contents, remove their name from the manuscript, hence here less authors would equate to less acceptance. As all the validation process is internal, so are issues with research integrity, fraud or misconduct.
+
+Hence, Biagioli concludes indicating that scientific authorship is a tied more to disciplinary ecologies and the economy of science rather than to a legal category, more related with responsibility and disciplinary norms.

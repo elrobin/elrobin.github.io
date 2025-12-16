@@ -1,5 +1,0 @@
-function OAS_RICH(position) {
-if (position == 'Bottom') {
-document.write ('<A HREF="http://oas.oxfordjournals.org/5c/rev.oxfordjournals.org/content/11/2/81/1880752897/Bottom/default/empty.gif/1?x" target="_top"><IMG SRC="http://imagec16.247realmedia.com/0/default/empty.gif"  WIDTH=1 HEIGHT=1 ALT="" BORDER=0 BORDER="0"></A>');
-}
-}

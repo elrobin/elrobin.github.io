@@ -1,0 +1,78 @@
+---
+title: "Nicolas Robinson-Garcia"
+description-meta: "Nicolas Robinson-Garcia"
+image: "files/images/nick.JPG"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 90%
+  links:
+    - icon: house
+      text: Home
+      href: https://elrobin.github.io
+      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=Jd6KNkQAAAAJ&hl=en
+      target: _blank
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+      href: http://orcid.org/0000-0002-0585-7359
+      target: _blank
+    - icon: people-fill
+      text: U^CHASS
+      href: https://uchass.ugr.es  
+      target: _blank
+    - icon: people
+      text: EC3 Research Group
+      href: https://ec3-research.com
+      target: _blank
+
+# listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+#   - id: recent-posts
+#     contents: 
+#       - posts
+#       - posts/post-links.yml
+#     exclude:
+#       title: ""
+#     type: grid
+#     max-items: 3
+# #    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort: 
+#       - "date desc"
+#       - "title asc"
+---
+
+::: {.callout-note appearance="simple"}
+## New book: *Diversidad y reconocimiento en la academia*
+
+![](files/images/portada.png){width="50px" style="float:left; margin-right:15px; margin-top:5px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,.1);"}
+La imagen del científico aislado en su laboratorio pertenece al pasado. Hoy, la ciencia es un esfuerzo colectivo en el que la diversidad —de ideas, trayectorias y perspectivas— es clave para generar conocimiento que refleje la complejidad del mundo en que vivimos.  
+
+[Más información y compra en Casa del Libro →](https://www.casadellibro.com)
+
+:::
+
+:::{#hero-heading}
+
+## Bio
+
+Nicolas Robinson-Garcia is a Ramón y Cajal fellow in the field of bibliometrics and research evaluation at the University of Granada. He is interested on understanding how collaboration and social organization shape the way science works and on the diversity of career paths and trajectories scientists transition. He is scientific director of the [Unit for Computational Humanities and Social Sciences (U-CHASS)](https://uchass.ugr.es) and head of the [EC3 Research Group](https://ec3-research.com). He is co-editor of the journal [Research Evaluation](https://academic.oup.com/rev/), and member of the Steering Committee of the [European Summer School for Scientometrics](https://esss.info). He is also member of the editorial board of [Quantitative Science Studies](https://direct.mit.edu/qss).
+
+:::
+
+
+<!-- <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts --> <!---->
+<!-- ## Recent Posts -->
+<!-- Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd) -->
+
+<!-- :::{#recent-posts} -->
+<!-- ::: -->
+
+<!-- <p align="right">[All Posts »](/posts.qmd)</p> -->

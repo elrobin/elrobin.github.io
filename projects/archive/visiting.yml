@@ -1,0 +1,9 @@
+- path:   # o la URL que tengas (puedes quitarlo si no quieres enlace)
+  image:   # opcional
+  title: "Visiting Scholar"
+  subtitle: "Cassidy Sugimoto"
+  role: "Principal Investigator"
+  funder: "University of Granada"
+  budget: "15,000€"
+  year_start: "2021"
+  year_end: "2023"

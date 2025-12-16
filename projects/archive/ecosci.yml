@@ -1,0 +1,9 @@
+- path:   # o la URL que tengas (puedes quitarlo si no quieres enlace)
+  image:   # opcional
+  title: "ECOSCI"
+  subtitle: "Unveiling the Ecosystem of Science: A Contextual Perspective into the Many Roles of Scientists"
+  role: "PI (with supervisor Gabriela F. Nane)"
+  funder: "European Commission, COFUND Marie Curie Fellowship, LEaDing Fellows programme"
+  budget: "220,000€"
+  year_start: "2019"
+  year_end: "2021"

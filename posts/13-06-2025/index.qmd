@@ -1,0 +1,17 @@
+---
+title: "Altmetrics and Open Science @ Napoli SSSM"
+author: "N. Robinson-Garcia"
+date: "2025-06-13"
+toc: true
+categories: [talks]
+---
+
+![Napoli recently won its 4th Scudetto and of course, the city was a big party](napoli-che.jpg){width="3994"}
+
+Last Monday I had the chance to participate as an invited speaker in the I International Edition of the [**Summer School in Science Mapping**](https://www.bibliometrix.org/home/index.php/school/sssm-2025/sssm2023-description) organized by research team led by Massimo Aria and Corrado Cuccurullo. These are the people behind the wonderful R package [Bibliometrix](https://www.bibliometrix.org/home/index.php), and now also [TaLL](https://github.com/massimoaria/tall) (for text analysis). It is a really nice and smart group of people, doing a fantastic job on the development of tools that can be used both, for people with and w/o programming skills. I have been in touch with them for several years, as we have invited them in several occasions to the ESSS to introduce students to their software, and even Dani created a [videotutorial in Spanish](https://www.youtube.com/watch?v=CoRcJg15XVA) for the Biblioshiny interface and I've used it for my [teaching](https://zenodo.org/records/7556999).
+
+In this occasion I was invited to talk about **Altmetrics and Open Science**, based on previous lectures I periodically give at the ESSS. I took the occasion to improve my materials, update them and improve the narrative. The lecture went well with an interesting follow up given the multidisciplinary background of the students.
+
+::: callout-tip
+## [Download the slides here](https://doi.org/10.5281/zenodo.15658289)
+:::

@@ -1,0 +1,9 @@
+- path:   # o la URL que tengas (puedes quitarlo si no quieres enlace)
+  image:   # opcional
+  title: "Henk"
+  subtitle: "Visiting Scholar Henk F. Moed - Disentangling Gold Open Access"
+  role: "Core scientific team (with PI Daniel Torres-Salinas)"
+  funder: "University of Granada"
+  budget: "10,000€"
+  year_start: "2017"
+  year_end: "2018"

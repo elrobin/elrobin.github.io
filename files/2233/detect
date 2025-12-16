@@ -1,3 +1,0 @@
-window.CM8DispatcherApps=window.CM8DispatcherApps||[];
-window.CM8DispatcherApps.push('http://sage.checkm8.com/adam/detected?cat=social_science_humanities.sociology.asr&page=7639826052653732&serial=1000:1:A&&LOC=http://asr.sagepub.com/content/79/1/1.abstract\\qrss=1&WIDTH=1366&HEIGHT=0&WIDTH_RANGE=WR_E&DATE=01140203&HOUR=20&RES=RS27&RESW=1366&RESH=768&ORD=05996940039734733&req=fr&&150.214.205.28&~=&');
-document.write("<SCR"+"IPT TYPE='text/javascript' SRC='http://sage.checkm8.com/dispatcher_scripts/browserDataDetect.js?Ver=99'></SCR"+"IPT>");

@@ -1,0 +1,44 @@
+---
+title: "Projects"
+page-layout: full
+
+listing: 
+- id: current-projects
+  sort: "year_end desc"
+  type: default
+  fields: [image, title, subtitle, description]
+  contents:
+      - projects/*.yml
+
+- id: past-projects
+  sort: "year_end desc, year_start_desc"
+  type: table
+  field-display-names:
+    title: "Acronym"
+    subtitle: "Project"
+    role: "Role"
+    funder: "Funder"
+    budget: "Budget"
+    year_start: "Start"
+    year_end: "End"
+  contents: 
+    - projects/archive/*.yml
+    
+page-navigation: false
+title-block-banner: false
+toc: false
+
+format:
+  html:
+    link-external-newwindow: true
+---
+
+## Current projects
+
+:::{#current-projects}
+:::
+
+## Past projects
+
+:::{#past-projects}
+:::

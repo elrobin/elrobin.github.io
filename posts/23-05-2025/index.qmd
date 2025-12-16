@@ -1,0 +1,24 @@
+---
+title: "Exploring the social organization of the sciences"
+author: "N. Robinson-Garcia"
+date: "2025-05-23"
+toc: true
+categories: [talks]
+bibliography: references.bib
+---
+
+![Presenting at the ATL Conference our paper on science teams](images/atl_presentation.jpg)
+
+Last week I went to the [Atlanta Conference on Science and Innovation Policy](https://atlconf.spp.gatech.edu/), which celebrated its 10th Anniversary. This is one of my favorite conferences, very different from others I've been to. It has a special vibe where people are really engaged and friendly, always providing constructive feedback and very opened to new ideas. Contrarily to other conferences such as ISSI or STI, the profile of the attendants is quite broad which I believe is extremely important to create interdisciplinary linkages. Plus its wonderful organizers, Julia, Diana and Cassidy.
+
+I had the chance to present our paper on science teams and contribution data, titled [**Exploring the organization of the sciences**](https://doi.org/10.5281/zenodo.15479475), done in collaboration with Julia Melkers, Alick Bird and Erin Leahey. In this paper we use the largest dataset (to my knowledge) on contribution statements based on Scopus data, with over 650,000 publications, and try to explore empirically Richard Whitley's concept of *task uncertainty* [@whitley2000] and the distribution of labour across fields. We do this by computing two indicators:
+
+-   **Task entropy**, which reflects the (un)balance on the distribution of tasks among authors.
+
+-   **Task specialization**, which looks into the average distance of the authors task profile, based on the grouping of contributions into three groups: technical tasks, conceptual tasks and management tasks.
+
+Our preliminary findings suggest a relation between team size and task uncertainty, identifying 3 types of research teams based on the balance of the task distribution: small collaboration (2-8 authors), which is the most common type of team (\~85%), functional teams (9-29 authors) and super teams (30+ authors). From what we've seen based on our approach (probably needs more refinement) disciplines do not play a big role on differences on task uncertainty.
+
+::: {.callout-tip appearance="simple"}
+[**🗒️Check the slides here to learn more about our work**](https://doi.org/10.5281/zenodo.15479475)
+:::

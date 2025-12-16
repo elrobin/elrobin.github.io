@@ -1,3 +1,0 @@
-window.CM8DispatcherApps=window.CM8DispatcherApps||[];
-window.CM8DispatcherApps.push('http://sage.checkm8.com/adam/detected?cat=social_science_humanities.education.jsi&page=6766594604121764&serial=1000:1:A&&LOC=http://jsi.sagepub.com/content/11/3-4/306.short&WIDTH=1366&HEIGHT=0&WIDTH_RANGE=WR_E&DATE=20140317&HOUR=19&OS=WIN7&JE=0&UL=en&RES=RS31&RESW=1366&RESH=768&ORD=1743307764649501&req=fr&&150.214.205.28&~=&');
-document.write("<SCR"+"IPT TYPE='text/javascript' SRC='http://sage.checkm8.com/dispatcher_scripts/browserDataDetect.js?Ver=101'></SCR"+"IPT>");

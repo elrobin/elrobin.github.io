@@ -1,0 +1,97 @@
+---
+title: "Talks"
+title-block-banner: false
+page-layout: article
+---
+
+I ocassionally get invited to give talks on my work or share my experience in academia with early career researchers. Here are the slides and materiales I've used.
+
+### 2025
+
+**Contribuciones y distribución de tareas en equipos de investigación** | Dec 10, 2025, IPP-CSIC, Madrid. [Video](https://www.youtube.com/watch?v=Gerxxe_WXds) - [Slides](https://doi.org/10.5281/zenodo.15551187)
+
+**Principles of Evaluative Bibliometrics in a DORA/CoARA Context** [in collaboration with Daniel Torres-Salinas] | Sep 11, 2025. European Summer School of Scientometrics, Granada, Spain. [Slides](https://docs.google.com/document/d/1BKW7UXt00eLzfdExhWWkzVQOBa5-6xbC2niSyLV5Uu8/edit?usp=sharing)
+
+**Altmetrics & Open Science** | Sep 9, 2025. European Summer School of Scientometrics, Granada, Spain.. [Slides](https://doi.org/10.5281/zenodo.15658289)
+
+**Metodologías y técnicas de evaluación: desde la investigación a la transferencia** [in collaboration with María Blanco-Palencia] | Jul 23, 2025. [Curso de verano de la UIMP: Transferencia e intercambio de conocimiento para la creación de valor social](https://ingles.uimp.es/agenda-link.html?id_actividad=660J&anyaca=2025-26), Santander, Spain.
+
+**Evaluative Bibliometrics in a DORA/CoARA Context** [in collaboration with Daniel Torres-Salinas] | Jul 3, 2025. KB Open Research Seminars. Kompetenznetzwerk Bibliometrie. [Slides](https://docs.google.com/document/d/1BKW7UXt00eLzfdExhWWkzVQOBa5-6xbC2niSyLV5Uu8/edit?usp=sharing)
+
+**Altmetrics & Open Science** | June 10, 2025. Summer School on Science Mapping, Università degli Studio di Napoli Federico II, Naples, Italy. [Slides](https://doi.org/10.5281/zenodo.15658289)
+
+**Métricas de impacto alternativas para revistas científicas** | April 2, 2025. Ciclo Trimestral de Métricas y Evaluación de Revistas Académicas, Universidad Nacional de Colombia. [Slides](https://docs.google.com/presentation/d/1KGn_n4UwkY43vU5XXz4AZSAuKd4j4yk5YCzN8pmi84w/edit?usp=sharing)
+
+### 2024
+
+**Language use and publication patterns in the humanities** | Dec 2, 2024. [4th Helsinki Initiative Webinar on Multilingualism in Scholarly Communication](https://www.helsinki-initiative.org/en/events/4th-helsinki-initiative-webinar-multilingualism-scholarly-communication). [Slides](https://doi.org/10.5281/zenodo.15551187)
+
+**¿Pensando en hacer el doctorado?** | Nov 29. Sesión informativa sobre contratos predoctorales, [SAAS Young Scholars](https://t.co/zsVgZuayWO)
+
+**Iniciación a la investigación: Becas, contratos y experiencias vitales** | Nov 8, 2024. Jornada de Orientación Profesional de Biología. [Slides](https://docs.google.com/presentation/d/12jFL7PSIXz5CFbeU_fAgFounagQO-wja6ZVfThKbAUk/edit?usp=sharing)
+
+**Introducción al análisis de textos con Quanteda** | Nov 8, 2024. [YoSigo UGR](https://yosigo.ugr.es). [Video](https://youtu.be/Red1GXGUzyQ) - [Material](https://elrobin.github.io/ysp-quanteda)
+
+**Collaboration or teamwork? Investigating work distribution in science through contribution statements** | Oct 18, 2024. [Economics of Science & Engineering Seminars](https://economics.harvard.edu/seminars-economics-science-engineering), Harvard University, United States. [Video](https://www.youtube.com/watch?v=rVWnTWxdA9w) - [Slides](https://doi.org/10.5281/zenodo.13968955)
+
+**Técnicas esenciales para preparar una revisión de la literatura** | Oct 11, [YoSigo UGR](https://yosigo.ugr.es), [Video](https://www.youtube.com/watch?v=iS3SbpYf98o) - [Slides](https://sl.ugr.es/ysp_litrev)
+
+**Practice II: Applications of Narrative Bibliometrics for Institutions: The Experience of the University of Granada** | Sep 6, [European Summer School for Scientometrics](https://esss.info), University of Vienna, Austria. [Slides](https://docs.google.com/presentation/d/1CcnsKpaEYGhY1pqCnFVz9bB4rJp5JqhPWvj1VwiK9do/edit?usp=sharing)
+
+**Altmetrics and Open Science** | Sep 3, [European Summer School for Scientometrics](https://esss.info), University of Vienna, Austria. [Slides](https://docs.google.com/presentation/d/12t99EPpmPB8WwoQpfr9i_adJOVeL-Yr8d52QEOGwFyI/edit?usp=sharing)
+
+**Introduction to Bibliometric Data Sources** | Sep 2, [European Summer School for Scientometrics](https://esss.info), University of Vienna, Austria. [Slides](https://docs.google.com/presentation/d/1lDKIO6yOeoD8NQbc5Et11nDtpFPWDoPS2KwZgTgIejQ/edit?usp=sharing)
+
+**Diversity and Recognition in research teams** | July 18, CHET Seminar, University of Bristol, Bristol, United Kingdom [Slides](https://sl.ugr.es/compare)
+
+**IA en el ámbito de la publicación en Ciencias de la Salud** | March 14, [XXVIII Congreso ASTURPAR 2024](https://asturpar.com/xxviii-congreso-asturpar-2024), Oviedo. [https://doi.org/10.5281/zenodo.10819161](https://doi.org/10.5281/zenodo.10819161)
+
+**Docencia de supervivencia** | March 8, [YoSigo UGR](https://yosigo.ugr.es/), Online. [YouTube video](https://youtu.be/UaN873uTclA)
+
+**Innovación en los servicios bibliotecarios** (Discussion panel) | Feb 27, [XI Foro de la AAPID](https://www.aapid.org/2024/01/22/xi-foro-aapid-2024/), Sevilla.
+
+### 2023
+
+**Inteligencia artificial aplicada al mundo de las bibliotecas de la salud** (Discussion panel) | Oct 19, [BiblioSalud2023](https://bibliosalud2023.com), Valladolid. [https://doi.org/10.5281/zenodo.10033113](https://doi.org/10.5281/zenodo.10033113)
+
+**Meaningful Data Metrics: The State of Evidence from Bibliometrics Studies on Data Reuse** (Discussion panel) | Sep 12-13, [MDC Summit](https://summit.makedatacount.org/program/), Washington DC. [https://doi.org/10.5281/zenodo.8370593](https://doi.org/10.5281/zenodo.8370593)
+
+**Bibliometrics in practice how to generate reports for institutions** | Sep 8, [European Summer School for Scientometrics](https://esss.info), Sapienza University, Rome. [https://doi.org/10.5281/zenodo.5524178](https://doi.org/10.5281/zenodo.5524178)
+
+**Altmetrics + Open Science** | Sep 8, [European Summer School for Scientometrics](https://esss.info), Sapienza University, Rome. [https://doi.org/10.5281/zenodo.8354272](https://doi.org/10.5281/zenodo.8354272)
+
+**Relevance and Quantification of Diversity in Bibliometric and Scientometric Applications** (with W. Glänzel) | Sep 7, [European Summer School for Scientometrics](https://esss.info), Sapienza University, Rome. [https://doi.org/10.5281/zenodo.7984135](https://doi.org/10.5281/zenodo.7984135)
+
+**CV and social media profiles** | Jun 26, [POLISS Summer School](https://poliss.eu/output/poliss-training-events/), INGENIO (CSIC-UPV), Universitat Politècnica de València. [Contents](https://sites.google.com/go.ugr.es/nrobinsongarcia-docencia/cv-and-social-media-profiles) 
+
+**Principios básicos para la escritura de manuscritos científicos** | Jun 16, #yosigopublicando. [https://doi.org/10.5281/zenodo.8046632](https://doi.org/10.5281/zenodo.8046632)
+
+**El doctorado perjudica seriamente la salud** | Feb 9, II Jornadas Doctorales Lenguas, Textos y Contextos at the University of Granada. [https://doi.org/10.5281/zenodo.7627901](https://doi.org/10.5281/zenodo.7627901)
+
+**Diseño y aplicación de análisis bibliométricos** | Jan 14-21, Escuela de Bibliotecología, Universidad de San José. [https://doi.org/10.5281/zenodo.7556999](https://doi.org/10.5281/zenodo.7556999)
+
+**Métricas a nivel de autores** | Jan 14-21, Escuela de Bibliotecología, Universidad de San José. [https://doi.org/10.5281/zenodo.7556891](https://doi.org/10.5281/zenodo.7556891)
+
+**La irrupción del Acceso Abierto en los procesos de comunicación científica** | Jan 14-21, Escuela de Bibliotecología, Universidad de San José. [https://doi.org/10.5281/zenodo.7556893](https://doi.org/10.5281/zenodo.7556893)]
+
+**Diversity and recognition in research teams** | Jan 10, Royal Irish Academy and Higher Education Authority. [Programme](https://www.ria.ie/sites/default/files/ensuring-inclusive-research-careers-programme.pdf) – [https://doi.org/10.5281/zenodo.7524610](https://doi.org/10.5281/zenodo.7524610)
+
+### 2022
+
+**Elaboración de planes de difusión y gestión de datos** | Dec 2, #yosigopublicando. [https://doi.org/10.5281/zenodo.7390087](https://doi.org/10.5281/zenodo.7390087)
+
+**Herramientas y estrategias para construir nuestra identidad digital** | Nov 29, MediaLab UGR. [https://doi.org/10.5281/zenodo.7381737](https://doi.org/10.5281/zenodo.7381737)
+
+**La irrupción del Acceso Abierto en los procesos de comunicación científica** | Nov 10, Jornada sobre la Situación y Perspectivas del Acceso Abierto, Universitat de València. [https://doi.org/10.5281/zenodo.7325697](https://doi.org/10.5281/zenodo.7325697)
+
+**Altmetrics** | Sep 22, European Summer School for Scientometrics, Berlin [http://doi.org/10.5281/zenodo.3355276](http://doi.org/10.5281/zenodo.3355276)
+
+**Introduction to bibliometric data sources: Open and free data sources** | Sep 19, European Summer School for Scientometrics, Berlin [http://doi.org/10.5281/zenodo.7095736](http://doi.org/10.5281/zenodo.7095736)
+
+**¿Cómo ser feliz en la universidad y seguir publicando?** | Jun 30, #yosigopublicando. [YouTube video](https://youtu.be/d6rIqz2KljM)
+
+**Compartir datos de investigación: Experiencias y lecciones aprendidas para investigadores y revistas científicas** | Jun 29, Inter-CRECS. [YouTube video](https://youtu.be/RXnqakhgVCY)
+
+### 2019
+
+**Aplicaciones prácticas de las altmétricas** | 9ª Conferencia Internacional sobre Revistas de Ciencias Sociales y Humanidades, May 23-24, 2019 [Video](https://www.youtube.com/watch?v=T971Pkcff9U) - [Slides](https://drive.google.com/file/d/1SW_mr7Mj47tQYGX4Lq3koiTSYEggaryb/view?usp=sharing)

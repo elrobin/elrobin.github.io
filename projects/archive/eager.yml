@@ -1,0 +1,9 @@
+- path:   # o la URL que tengas (puedes quitarlo si no quieres enlace)
+  image:   # opcional
+  title: "EAGER"
+  subtitle: "Strengthening International Collaboration"
+  role: "Core Scientific Team (with PIs Julia Melkers and Eric Welch"
+  funder: "US National Science Foundation"
+  budget: "$300,000"
+  year_start: "2021"
+  year_end: "2023"

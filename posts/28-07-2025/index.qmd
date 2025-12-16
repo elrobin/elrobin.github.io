@@ -1,0 +1,23 @@
+---
+title: "Narrativas, narrativas - Curso de verano en la UIMP sobre transferencia de conocimiento"
+author: "N. Robinson-Garcia"
+date: "2025-07-28"
+categories: [talks]
+bibliography: references.bib
+---
+
+> "\[T\]he idea of excellence \[...\] has the singular advantage of being entirely meaningless, or to put it more precisely, non-referencial"
+
+::: {style="text-align: right;"}
+@lamont2009, p. 159
+:::
+
+![Hablando de evaluadores y narrativas en Santander](curso-uimp.jpg)
+
+La semana pasada tuve la maravillosa oportunidad de participar en el curso de verano de la UIMP [Transferencia e intercambio de conocimiento para la creación de valor social](https://www.uimp.es/agenda-link.html?id_actividad=660J&anyaca=2025-26) organizado por la [ANECA](https://www.aneca.es/web/guest/-/exito-curso-aneca-en-la-uimp-sobre-transferencia). Allí pudimos presentar los primeros resultados de un pequeño estudio piloto diseñado junto con [Julia Melkers](https://search.asu.edu/profile/846286), [Tina Nane](https://tinanane.com), [Gemma Derrick](https://research-information.bris.ac.uk/en/persons/gemma-derrick), [Irene Ramos-Vielba](https://www.iesa.csic.es/directorio/irene-ramos-vielba/) y María Blanco-Palencia, en el que analizamos posibles sesgos en la evaluación de sexenios de investigación en base a la narrativa empleada.
+
+El objetivo de la sesión era mostrar cómo diferentes diseños metodológicos a la hora de implementar o modificar los criterios de un sistema evaluativo afectan a su implementación *real* por parte de los evaluadores. Con ello, planteábamos algunas de las cuestiones en las que tanto ANECA como los que somos ajenos a la misma queremos centrarnos en un futuro próximo, el proceso de toma de decisiones y valoración por parte de los paneles de expertos. Asimismo, planteábamos una pequeña dinámica para empezar a perfilar posibles criterios de valoración de cara al diseño del futuro "sexenio de transferencia", uno de los grandes objetivos que tiene la actual directiva de la agencia.
+
+La experiencia fue francamente muy positiva con discusiones bastante profundas pasando desde el concepto mismo de transferencia hasta la identificación de elementos comunes a la gran diversidad de actividades de transferencia que se realizan desde las universidades con el fin de unificar criterios.
+
+Por último me gustaría resaltar la gran apertura que tiene esta dirección de la ANECA, con Pilar Paneque a la cabeza, al permitirnos indagar y evaluar sus propias acciones, aún a riesgo de encontrar problemas y contradicciones. La transparencia y actitud de colaboración, apertura y auto-reflexión que están mostrando es muy loable y ojalá fuese algo común al resto de instituciones universitarias y académicas.

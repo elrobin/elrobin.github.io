@@ -1,0 +1,20 @@
+---
+title: "El español como idioma científico y la evaluación"
+author: "N. Robinson-Garcia"
+date: "2025-11-17"
+categories: [talks]
+---
+
+![Mesa redonda sobre difusión y divulgación del español, junto a Ana Gallego Cuiñas, María Isabel Cabrera García y Christine Kelly-Vereda (de izq. a der.)](me-presenting.jpg){fig-align="center" width="618"}
+
+El pasado 5 de noviembre, tuve la oportunidad de participar en la [**I Jornada sobre el Español académico y científico internacional: Sinergias para su fomento transnacional**](https://canal.ugr.es/noticia/la-universidad-de-granada-impulsa-la-diversidad-linguistica-en-la-ciencia/), una jornada orgnizada por la Universidad de Granada en colaboración con la CRUE y la AUIP, que además contó con [Luis García Montero](https://luisgarciamontero.com/) director del Instituto Cervantes. Durante la celebración del evento, además, se firmó la [Declaración de Granada sobre la Creación, Expresión y Difusión de la Ciencia en Español](https://internacional.ugr.es/sites/vicerrectorados_files/vic_internacionalizacion2/public/inline-files/Declaración%20de%20Granada_DEF_0.pdf).
+
+La mesa redonda en la que participé estuvo moderada por Ana Gallego Cuiñas y también participaron María Isabel Cabrera, presidenta de la UNE y directora de la Editorial de la UGR, y Christine Kelly-Vereda, directora del Consortium for Advanced Studies Abroad (CASA). En ella, tuve la oportunidad de presentar los resultados de [nuestro estudio sobre patrones de publicación en las Humanidades](https://doi.org/10.5281/zenodo.13969298). Este paper ya he tenido la oportunidad de presentarlo también dentro de la serie de webinarios organizados por la [Helsinki Initiative on Multilingualism in Scholarly Communication](https://www.helsinki-initiative.org/en/events/4th-helsinki-initiative-webinar-multilingualism-scholarly-communication) ([aquí las diapos](https://doi.org/10.5281/zenodo.15551187)).
+
+Os dejo más abajo mi presentación:
+
+::: pdf-embed
+<iframe src="mesa2-jornadaespañol-nrg.pdf">
+
+</iframe>
+:::

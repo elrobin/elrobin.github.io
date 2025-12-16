@@ -1,0 +1,9 @@
+- path:   # o la URL que tengas (puedes quitarlo si no quieres enlace)
+  image:   # opcional
+  title: "Fulbright"
+  subtitle: "Impacto del Programa Fulbright-España"
+  role: "Principal Investigator"
+  funder: "Comisión Fulbright España"
+  budget: "18,277.05€"
+  year_start: "2024"
+  year_end: "2025"

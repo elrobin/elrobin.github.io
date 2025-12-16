@@ -1,0 +1,15 @@
+- path:   # o la URL que tengas (puedes quitarlo si no quieres enlace)
+  image: "projects/stitch.png"  # opcional
+  title: "STITCH"
+  subtitle: "Scientific Teams and Inequalities: Collaboration and Heterogeneity in Science"
+  description: |
+    **Ref:** PID2024-155412OB-I00
+    **Role:** Principal Investigator  
+    **Funder:** Ministerio de Ciencia e Innovación, Plan Nacional de I+D+i  
+    **Budget:** 49,750€  
+    **Period:** 2025–2028
+  role: "Principal Investigator"
+  funder: "Ministerio de Ciencia e Innovación, Plan Nacional de I+D+i"
+  budget: "49,750€"
+  year_start: "2025"
+  year_end: "2028"

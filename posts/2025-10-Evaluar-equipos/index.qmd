@@ -1,0 +1,21 @@
+---
+title: "Evaluar equipos de investigación"
+author: "N. Robinson-Garcia"
+date: "2025-10-21"
+categories: [gibberish]
+bibliography: references.bib
+---
+
+![](stitch.png){width="279"}
+
+El primer objetivo que persigo en el proyecto STITCH es el de resolver un problema básico que tiene la evaluación científica actual: evaluar esfuerzos de investigación colectivos[@walsh2015]. Esto es algo que no hemos conseguido solucionar hasta el momento, básicamente por desconocimiento de cómo los procesos de generación de conocimiento colectivos funcionan. Hasta el momento se utilizaba la posición de firma, que se ha ido adaptando para reflejar ese supuesto prestigio y facilitar la distribución de crédito entre autores, siempre bajo una mirada normativa que premia única y exclusivamente el liderazgo. Nos hemos inventado una infinidad de formas de contar autores de un paper[@gauffriau2020] y con eso hemos generado diferentes indicadores de productividad, liderazgo y tal. Los autores se han adaptado a este régimen y se ha estandarizado el orden de autoría en casi todos los campos científicos con notables excepciones como Matemáticas o Física ([Aquí una pequeña reseña sobre modelos de coautoría](https://elrobin.github.io/blog/posts/24-11-2024/)). Sin embargo, las soluciones siguen siendo a todas luces insuficientes.
+
+Con la introducción de las contribuciones y CRediT, esto parece ahora posible y de hecho, es lo que he ido explorando hasta ahora, aunque siempre a nivel de individuos [@gonzález-salmón; @robinson-garcia2020]. La cuestión, es que esto no resuelve le problema de cómo evaluar a equipos ni cómo entender los procesos sociales que llevan a la generación de nuevo conocimiento. He empleado el modelo de Richard Whitley [@robinson-garcia2025; @whitley2000] para intentar analizar variaciones y formas de trabajo en la ciencia, intentando aplicarlo de manera empírica mediante el uso de contribuciones. Sin embargo, no acabo de ver una alineación perfecta entre los conceptos the Whitley: *mutual dependence* y *task uncertainty*. Esto me hace retrotraerme y tal vez, cuestionar si el modelo de Whitley sirve para lo que yo quiero. La razón por la que quiero estudiar niveles de variación en la distribución del trabajo, tal vez integrando también medidas de interdisciplinariedad, es para entender si:
+
+1.  existen distintos modelos de distribución de tareas;
+2.  son predecibles estos modelos, o al menos cuáles y cuándo sí lo son;
+3.  qué otras variables inciden en que se adopte un modelo u otro (idr, colaboración internacional, tamaño del equipo, disciplina, etc.)
+
+Para todo esto, tal vez Whitley no sea el sustento teórico, aunque sí lo emplee para armar mi puzle. Por otra parte, ¿necesito un marco teórico como tal sobre el que construir? Tal vez deba fabricarlo a partir de la literatura existente. Tal vez he empezado por los datos cuando debía empezar por otro sitio.
+
+Tal vez lo interesante sea abordarlo desde un punto de vista más práctico para luego buscar e identificar patrones y luego utilizar algún modelo logístico para ver cómo variables tipo disciplina, tamaño del equipo, DDA o colaboración internacional o institucional afectan a cada tipo de organización.

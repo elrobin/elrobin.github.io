@@ -1,7 +1,0 @@
-
-var wt_socialMedia = function(conf) {
-	if(conf.mode == "page" && conf.type == "before" && conf.requestCounter == 1){
-		if(typeof(window.wt_instance) == "undefined"){window.wt_instance = [];}window.wt_instance.push(this);var ins = window.wt_instance[(window.wt_instance.length - 1)];try{if(FB && FB.Event && FB.Event.subscribe){FB.Event.subscribe('edge.create',function(targetUrl){ins.send("social media button","click","ck550=facebook - i like");});}}catch(e){};try{if(FB && FB.Event && FB.Event.subscribe){FB.Event.subscribe('edge.remove',function(targetUrl){ins.send("social media button","click","ck550=facebook - unlike");});}}catch(e){};try{if(FB && FB.Event && FB.Event.subscribe){FB.Event.subscribe('message.send',function(targetUrl){ins.send("social media button","click","ck550=facebook - send");});}}catch(e){};try{if(twttr && twttr.events && twttr.events.bind){twttr.events.bind('tweet',function(event){if(event){ins.send("social media button","click","ck550=twitter - tweet");}});}}catch(e){};this.googlePlusone = function(a){for(var i = 0; i < window.wt_instance.length; i++){if(typeof(window.wt_instance[i].sendGooglePlusone) == "undefined"){window.wt_instance[i].send("social media button","click","ck550=google - plus one");window.wt_instance[i].sendGooglePlusone = true;}}};window.wt_googlePlusone = this.googlePlusone;
-	}
-};
- 

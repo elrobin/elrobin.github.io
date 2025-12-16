@@ -1,0 +1,46 @@
+---
+title: "Reading on African collaboration patterns"
+author: "N. Robinson-Garcia"
+date: "2025-01-13"
+categories: [reviews]
+---
+
+!['The Sleeping Sickness' — American cartoon published in Puck magazine, 1911, showing European nations colonising Africa while a giant African man lies against a tree. Artist: Gordon Ross.](/images/FxaAXp8WwAU77aX.jpg){fig-align="center" width="750"}
+
+Here some self-notes on my readings regarding African collaboration dynamics. I include the reference and some notes pointing at things relevant to the work I am doing right now and probably useless from everyone else 🙄.
+
+## Inequalities
+
+**Holmarsdottir, H. B., Desai, Z., Botha, L. R., Breidlid, A., Bastien, S., Mukoma, W., Ezekiel, M. J., Helleve, A., Farag, A. I., & Nomlomo, V. (2013). COMPARE Forum: The idea of North-South and South-South collaboration. *Compare: A Journal of Comparative and International Education*, *43*(2), 265-286. <https://doi.org/10.1080/03057925.2013.765274>**
+
+The idea that North helps South is simplistic and unrealistic, there is growing awareness and concern on the need of African countries to reassert their own research agenda to foster innovation as well as to strengthen intra-regionald and south-south collaboration networks.
+
+There is a difference between internationalising research and being involved in international cooperation networks as the former should look towards global and common aims while the latter can lead (and leads) to inequalities due to power dynamics.
+
+## General patterns and use of indicators
+
+**Confraria, H., Mira Godinho, M., & Wang, L. (2017). Determinants of citation impact: A comparative analysis of the Global South versus the Global North. *Research Policy*, *46*(1), 265-279. <https://doi.org/10.1016/j.respol.2016.11.004>**
+
+**Confraria, H., & Godinho, M. M. (2015). The impact of African science: A bibliometric analysis. *Scientometrics*, *102*(2), 1241-1268. <https://doi.org/10.1007/s11192-014-1463-8>**
+
+Research in Africa has increased lately, although specialization seems to play a greater role in African countries as a triggering factor for impact.
+
+In Confraria & Godinho (2015) there is an interesting discussion related to the adequacy of WoS to measure African output, although that is what they finally do.
+
+## Factors associated with scientific workforce
+
+**Eduan, W. (2019). Influence of study abroad factors on international research collaboration: Evidence from higher education academics in sub-Saharan Africa. *Studies in Higher Education*, *44*(4), 774-785. <https://doi.org/10.1080/03075079.2017.1401060>**
+
+Mobility experience improves outcomes, but is dependent on the intensity of the experience (immersion programmes, internshipst, etc.).
+
+**El-Ouahi, J., Robinson-García, N., & Costas, R. (2021). Analyzing scientific mobility and collaboration in the Middle East and North Africa. *Quantitative Science Studies*, *2*(3), 1023-1047. <https://doi.org/10.1162/qss_a_00149>**
+
+**El-Ouahi, J., & Larivière, V. (2023). On the lack of women researchers in the Middle East and North Africa. *Scientometrics*, *128*(8), 4321-4348. <https://doi.org/10.1007/s11192-023-04768-5>**
+
+These are studies focused on MENA countries disclosing regional mobility within the country and a disproportionate gender gap which affects career trajectories.
+
+## Specific studies on fields
+
+**Maina, M. B., Ahmad, U., Ibrahim, H. A., Hamidu, S. K., Nasr, F. E., Salihu, A. T., Abushouk, A. I., Abdurrazak, M., Awadelkareem, M. A., Amin, A., Imam, A., Akinrinade, I. D., Yakubu, A. H., Azeez, I. A., Mohammed, Y. G., Adamu, A. A., Ibrahim, H. B., Bukar, A. M., Yaro, A. U., … Baden, T. (2021). Two decades of neuroscience publication trends in Africa. *Nature Communications*, *12*(1), Article 1. <https://doi.org/10.1038/s41467-021-23784-8>**
+
+Intra-regional collaboration seems to be close-distance collaboration, long distance collaboration is normally outside the continent. There is lack of research dependent on infrastructure (e.g., state-or-the-art equipment).

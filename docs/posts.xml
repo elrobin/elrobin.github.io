@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Nicolas Robinson-Garcia</title>
+<link>https://elrobin.github.io/posts.html</link>
+<atom:link href="https://elrobin.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://elrobin.github.io/privatesign.png</url>
+<title>Nicolas Robinson-Garcia</title>
+<link>https://elrobin.github.io/posts.html</link>
+<height>123</height>
+<width>144</width>
+</image>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Wed, 10 Dec 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Research seminar at the IPP-CSIC on contribution statements</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/2025-12-contribuciones-ipp/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://elrobin.github.io/posts/2025-12-contribuciones-ipp/semianr.png" class="img-fluid figure-img"></p>
+<figcaption>Snapshot of the video during my presentation</figcaption>
+</figure>
+</div>
+<p>Yesterday I had the opportunity to present my current (and past) research obsession, which is relates to understanding how researchers collaborate and distribute tasks when doing so. I was kindly invited by Luis Sanz-Menéndez to provide a research seminar and visit IPP-CSIC for the first time. Also had the chance to catch up with Zaida Chinchilla-Rodríguez.</p>
+<p>During the presentation I gave a quick overview on how we are using contribution statements to study scientists, some of the past studies I have led in this regard and where our thinking is moving to nowadays. It was perfect timing, as we are just starting with the planning of the STITCH project, which give continuity to COMPARE by changing the unit of analysis and focusing on teams rather than individuals.</p>
+<p>Many thanks to all the attendants to the seminar and especially to Luis, Zaida and Catalina for a very warm reception!</p>
+<div class="callout callout-style-simple callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Slides and recording of the seminar are available
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p><a href="https://zenodo.org/records/17897585">Slides</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=Gerxxe_WXds">YouTube video</a></p></li>
+</ul>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>https://elrobin.github.io/posts/2025-12-contribuciones-ipp/</guid>
+  <pubDate>Wed, 10 Dec 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Buscándole las costuras a CoARA: Una lectura multinivel del sistema evaluativo español</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/2025-11-las-costuras-de-coara/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://elrobin.github.io/posts/2025-11-las-costuras-de-coara/costuras.png" class="img-fluid figure-img"></p>
+<figcaption>Photo by <a href="https://unsplash.com/@duygug">Duygu Güngör</a> on <a href="https://unsplash.com/photos/a-cat-laying-on-a-pile-of-pink-yarn-hrk4w6Qivhw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</figcaption>
+</figure>
+</div>
+<p>Este texto se publicó originariamente como <a href="https://listserv.rediris.es/cgi-bin/wa?A2=IWETEL;343cd594.2511c&amp;S=">una nota para ThinkEPI lanzada a la lista de mailing IWETEL</a>. Lo reproduzco a continuación para quien sea de interés.</p>
+<p>Las acciones impulsadas por la ANECA desde que su adhesión a CoARA en 2023 no se orientan únicamente a una reforma de criterios del sistema nacional de evaluación, sino que buscan promover un cambio cultural en la ciencia española basado en valores como la inclusión, la transparencia y la responsabilidad <span class="citation" data-cites="blanco-palencia2024">(Blanco-Palencia, Paneque, and Ramos-Vielba 2024)</span>. Sin embargo, cualquier debate sobre estas cuestiones tiene inevitablemente a replegarse en torno a criterios, baremos e indicadores. Así, se confunde la naturaleza de estos indicadores, mezclando aquellos dirigidos a medir el impacto científico (p.&nbsp;ej., citas), con los que evalúan la visibilidad (p.&nbsp;ej., indexación o factores de impacto), o la accesibilidad (p.&nbsp;ej., acceso abierto), presentándolos como criterios antagónicos cuando en realidad responden a lógicas distintas.</p>
+<p>Esta confusión responde a una excesiva simplificación de lo que es un proceso complejo del que participan múltiples actores. Actores que inciden en distintos momentos en los resultados del proceso evaluativo. También contribuye a la confusión una definición vaga de los objetivos que pretende alcanzar cada una de las herramientas evaluativas de las que dispone el sistema español (sexenios, acreditaciones) que además ha ido mutando con el tiempo (complemento salarial, horas de docencia, etc.).</p>
+<p>En esta nota me gustaría proponer un marco analítico general que aporte claridad y dé una visión holística a la hora de analizar el éxito de la reforma evaluativa e identificar los puntos críticos o de mayor tensión. Con ello espero que este marco enriquezca las discusiones y lleven a un diálogo útil, más alejado de los instrumentos (baremos e indicadores) y centrado en los procesos. Este modelo se basa en cuatro niveles de implementación: el nivel estratégico, en el que se desarrollan los objetivos generales de la reforma; el nivel operativo o procedimental, en el que se diseña el sistema de evaluación y las herramientas a emplear; el nivel de implementación, que tiene lugar en el momento en el que se aplican dichos instrumentos; y, por último, el nivel de resultados, que aborda los efectos observables de dicha reforma. A continuación, detallo el marco y describo detenidamente cada uno de los niveles.</p>
+<section id="delegación-y-control" class="level2">
+<h2 class="anchored" data-anchor-id="delegación-y-control">Delegación y control</h2>
+<p>Uno de los aspectos clave que hay que tener claro, es que son muchos y de muy diferente naturaleza, convicción y&nbsp;<em>expertise</em>, los actores que participan en un sistema evaluativo. A bote pronto, se me ocurren al menos cuatro tipos de actores involucrados en un proceso evaluativo:</p>
+<p><strong>Las instituciones</strong>, que deciden adoptar o no principios como los que marcan organizaciones supranacionales tipo CoARA o DORA. O que en cualquier caso, establecen la visión y misión de los programas de financiación, contratación o distribución de recursos a nivel nacional, regional o institucional. Instituciones que no siempre adoptan los compromisos a los que se adhieren desde el convencimiento, sino influidos por la tendencia general que siguen otras instituciones similares. Esto afectará a su nivel de compromiso, desde aquellas que implementen cambios meramente cosméticos a aquellas que transformen y rediseñen sus procesos de evaluación internos.</p>
+<p><strong>Los gestores y técnicos</strong>&nbsp;<strong>de agencias de evaluación o financiación</strong>, tanto a nivel nacional como autonómico.&nbsp; No sólo son los responsables del diseño de herramientas y procesos evaluativos, sino que emplean distintos instrumentos, destinados a finalidades distintas. Por un lado, tendríamos el sistema de acreditaciones o sexenios que gestiona ANECA en el plano nacional, pero también la AEI que gestiona la dotación de contratos posdoctorales, ayudas de movilidad, financiación de proyectos o financiación de centros de investigación, u otras entidades como es el ISCIII con sus propios programas de recursos humanos, proyectos y centros, por mencionar algunos del sector público.</p>
+<p><strong>Los gestores y técnicos de universidades y centros de investigación,</strong> que no sólo cuentan con convocatorias internas, sino que, especialmente en el caso de las universidades, diseñan el programa formativo de doctorandos y, por tanto, juegan un papel clave a la hora de moldear la cultura científica de los futuros investigadores. Esto es especialmente reseñable en el caso de programas de doctorado que en muchos casos ya introducen métricas y baremos en sus normativas para establecer unos criterios mínimos para la defensa de la tesis doctoral.</p>
+<p><strong>Los investigadores</strong>, el grupo más diverso y clave en el éxito de cualquier reforma evaluativa. Los habrá que tal vez ni se cuestionen el sistema actual de evaluación, los que estén a favor y los que, si bien sean críticos, lo hagan desde una visión particular, anecdótica y sesgada del sistema. Además tienen un doble papel, como miembros de las comisiones que implementan la evaluación y sujetos evaluados por las mismas, muchas veces presos de un claro conflicto de interés.</p>
+<p>Todos estos tipos de actores que interactúan, muchas veces por un objetivo común, otras con intereses cruzados, establecen una serie de relaciones entre sí que se mueven entre la delegación de tareas y el control del resultado. Esto lo reflejan bien&nbsp;<strong>Braun y Guston</strong>&nbsp;(2003), cuando presentan el modelo Principal-Agente. Se trata de un modelo en el que un actor principal delega en otro actor (el agente), una serie de tareas, al carecer del&nbsp;<em>expertise</em>&nbsp;o los recursos necesarios para llevarla a cabo. El problema aparece cuando el agente aprovecha su posición de poder para tergiversar los mandatos del actor principal, reduciendo la capacidad de control de éste en los resultados que se deriven. Algo así ocurrirá en casos en los que, independientemente de las reformas que ANECA o cualquier otra entidad quiera implementar, los agentes de dicha reforma (en este caso, tanto universidades como investigadores) no se alineen con los principios y objetivos de la agencia.</p>
+</section>
+<section id="los-cuatro-niveles-de-implementación-de-la-reforma" class="level2">
+<h2 class="anchored" data-anchor-id="los-cuatro-niveles-de-implementación-de-la-reforma">Los cuatro niveles de implementación de la reforma</h2>
+<p>Cerramos por tanto el círculo, describiendo los diferentes niveles de implementación, y el lugar que ocupa cada uno de los actores para así poder entender, identificar y explicar posibles puntos de tensión en la reforma. Hay que reseñar que no hay una alineación exacta entre actores y nivel. Los niveles más bien representan estadios en el diseño del sistema. De este modo, habrá actores que tengan un rol híbrido en muchas instancias, actuando tanto como actores principales como agentes.</p>
+<section id="nivel-estratégico" class="level3">
+<h3 class="anchored" data-anchor-id="nivel-estratégico">Nivel estratégico</h3>
+<p>En este nivel se definen la visión y principios generales del sistema de evaluación. Estas intenciones estratégicas se expresan en términos amplios y aspiracionales. La falta de concreción permite una fácil adhesión por parte del resto de los actores del sistema, pero genera interpretaciones divergentes que pueden resultar problemáticas al trasladarse a niveles inferiores. En el caso de CoARA, ésta habla de una evaluación responsable, transparente, que abrace la diversidad de contribuciones, trayectorias y perfiles, principios que,&nbsp;<em>a priori</em>, parecen razonables y deseables.</p>
+</section>
+<section id="nivel-operativo" class="level3">
+<h3 class="anchored" data-anchor-id="nivel-operativo">Nivel operativo</h3>
+<p>Aquí los principios estratégicos deben traducirse en procedimientos, estructuras y criterios concretos que permitan alcanzar esas metas aspiracionales. El gran reto consiste en traducir lo abstracto en lo concreto. Este es un espacio compartido por múltiples actores. ANECA, AEI, ISCIII, agencias autonómicas, universidades o centros de investigación ocupan este espacio. Las líneas estratégicas se traducen en programas, convocatorias, comisiones y baremos. De momento, los cambios introducidos por ANECA afectan a este nivel. Por ejemplo, la introducción del currículo narrativo es un cambio a nivel operativo que pretende modificar el procedimiento evaluativo, la modificación de criterios sería otro ejemplo más.</p>
+<p>Los actores de este nivel se sitúan en una posición híbrida: actúan como agentes ante los poderes públicos que dictan la estrategia, pero también como entidades principales antes las comunidades científicas a las que deben evaluar. El éxito de radicará en su capacidad para equilibrar ambas lógicas y mantener la coherencia en el proceso. CoARA además, presenta una paradoja evidente, al introducir compromisos que inciden en el nivel de implementación. Así, determina que la evaluación debe ser principalmente cualitativa, que los indicadores cuantitativos deberán tener un papel secundario, y que, en cualquier caso, no deben emplearse ni Factores de Impacto ni rankings institucionales. Esta apostilla acota la capacidad de actuación de los actores que participan en este nivel.</p>
+</section>
+<section id="nivel-de-implementación" class="level3">
+<h3 class="anchored" data-anchor-id="nivel-de-implementación">Nivel de implementación</h3>
+<p>Es el nivel más crítico y a menudo el más opaco de todo el proceso. Evaluadores y comisiones deberán aplicar los criterios y emitir juicios de valor. Aquí, las directrices de las entidades principales chocarán con la cultura disciplinar y la tradición evaluativa que caracterice a cada campo, institución o comunidad. En caso de que topen con comunidades más conservadoras y consolidadas con relación al uso de métricas de revista, difícilmente verán fructificar la reforma. En áreas sin una postura consensuada en cuanto a criterios de calidad, como las Humanidades, el riesgo será el de caer en una laxitud evaluativa.</p>
+<p>Mientras que CoARA es especialmente explícita a nivel operativo, más allá del papel principal de la evaluación cualitativa, no arroja luz sobre la implementación de dicha evaluación. La bibliometría narrativa <span class="citation" data-cites="torres-salinas2024">(Torres-Salinas et al. 2024)</span> intenta solucionar parcialmente esta laguna. Sin embargo, hay otras consideraciones importantes que deben tenerse en cuenta. En este sentido, es especialmente interesante la reflexión de&nbsp;<span class="citation" data-cites="lamont2009">Lamont (2009)</span>, al final de su estudio sobre la evaluación por pares en paneles de evaluación de proyectos, donde habla del tamaño del sistema evaluativo como clave para mitigar el conflicto de interés entre evaluadores y evaluados (habla sobre las dificultades de implementar un sistema de evaluación por expertos como el de Estados Unidos, en países como Francia, con sistemas científicos de menor tamaño).</p>
+</section>
+<section id="nivel-de-resultados" class="level3">
+<h3 class="anchored" data-anchor-id="nivel-de-resultados">Nivel de resultados</h3>
+<p>Por último, el nivel de resultados es el que permite analizar el éxito de la reforma e identificar efectos observables en las prácticas de publicación, perfiles de investigadores y diversidad de trayectorias. No obstante, analizar los resultados de reformas del calado de lo que propone CoARA, requiere grandes periodos de tiempo de observación tanto antes como después de su implementación. Esto hace que otros muchos factores entren en juego (p.&nbsp;ej., relevos generacionales en las plantillas de investigadores, cambios sociales), dificultando la capacidad de aislar el efecto de la reforma. Algo especialmente evidente cuando hablamos de un cultural como al que aspira CoARA.</p>
+</section>
+</section>
+<section id="a-modo-de-cierre" class="level2">
+<h2 class="anchored" data-anchor-id="a-modo-de-cierre">A modo de cierre</h2>
+<p>Espero que esta propuesta de análisis sea útil para orientar un debate complejo que combina perspectivas y visiones muy distintas del sistema. Entender la reforma evaluativa a través de sus distintos niveles ayuda a identificar dónde se producen los desajustes y qué condiciones son necesarias para que las transformaciones sean efectivas. El caso español, tal vez junto al italiano, es paradigmático en Europa. Con un contexto histórico muy particular, es un sistema caracterizado por estar centralizado a nivel nacional y por centrarse en evaluar personas, y no instituciones, como es habitual en otros países. Entender qué decisiones afectan a cada nivel y cómo interactúan los actores que operan en ellos es clave para diseñar intervenciones efectivas. Igualmente lo es entender las competencias reales de cada nivel y hasta qué punto pueden influir en el resto. Sólo así se puede aspirar a un sistema más transparente y plural.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-blanco-palencia2024" class="csl-entry">
+Blanco-Palencia, María, Pilar Paneque, and Irene Ramos-Vielba. 2024. <span>“Plan de Acción 2024-2027. En El Marco de La Coalición Para El Avance de La Evaluación de La Investigación (CoARA).”</span> <a href="https://www.aneca.es/documents/20123/205902/Plan+de+Acción+CoARA_ANECA-final.pdf">https://www.aneca.es/documents/20123/205902/Plan+de+Acción+CoARA_ANECA-final.pdf</a>.
+</div>
+<div id="ref-lamont2009" class="csl-entry">
+Lamont, Michèle. 2009. <em>How Professors Think</em>. Harvard University Press.
+</div>
+<div id="ref-torres-salinas2024" class="csl-entry">
+Torres-Salinas, Daniel, Enrique Orduña-Malea, Ángel Delgado-Vázquez, Juan Gorraiz, and Wenceslao Arroyo-Machado. 2024. <span>“Foundations of Narrative Bibliometrics.”</span> <em>Journal of Informetrics</em> 18 (3): 101546. <a href="https://doi.org/10.1016/j.joi.2024.101546">https://doi.org/10.1016/j.joi.2024.101546</a>.
+</div>
+</div></section></div> ]]></description>
+  <category>gibberish</category>
+  <guid>https://elrobin.github.io/posts/2025-11-las-costuras-de-coara/</guid>
+  <pubDate>Tue, 18 Nov 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>El español como idioma científico y la evaluación</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/2025-10-El-español/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://elrobin.github.io/posts/2025-10-El-español/me-presenting.jpg" class="img-fluid figure-img" width="618"></p>
+<figcaption>Mesa redonda sobre difusión y divulgación del español, junto a Ana Gallego Cuiñas, María Isabel Cabrera García y Christine Kelly-Vereda (de izq. a der.)</figcaption>
+</figure>
+</div>
+<p>El pasado 5 de noviembre, tuve la oportunidad de participar en la <a href="https://canal.ugr.es/noticia/la-universidad-de-granada-impulsa-la-diversidad-linguistica-en-la-ciencia/"><strong>I Jornada sobre el Español académico y científico internacional: Sinergias para su fomento transnacional</strong></a>, una jornada orgnizada por la Universidad de Granada en colaboración con la CRUE y la AUIP, que además contó con <a href="https://luisgarciamontero.com/">Luis García Montero</a> director del Instituto Cervantes. Durante la celebración del evento, además, se firmó la <a href="https://internacional.ugr.es/sites/vicerrectorados_files/vic_internacionalizacion2/public/inline-files/Declaración%20de%20Granada_DEF_0.pdf">Declaración de Granada sobre la Creación, Expresión y Difusión de la Ciencia en Español</a>.</p>
+<p>La mesa redonda en la que participé estuvo moderada por Ana Gallego Cuiñas y también participaron María Isabel Cabrera, presidenta de la UNE y directora de la Editorial de la UGR, y Christine Kelly-Vereda, directora del Consortium for Advanced Studies Abroad (CASA). En ella, tuve la oportunidad de presentar los resultados de <a href="https://doi.org/10.5281/zenodo.13969298">nuestro estudio sobre patrones de publicación en las Humanidades</a>. Este paper ya he tenido la oportunidad de presentarlo también dentro de la serie de webinarios organizados por la <a href="https://www.helsinki-initiative.org/en/events/4th-helsinki-initiative-webinar-multilingualism-scholarly-communication">Helsinki Initiative on Multilingualism in Scholarly Communication</a> (<a href="https://doi.org/10.5281/zenodo.15551187">aquí las diapos</a>).</p>
+<p>Os dejo más abajo mi presentación:</p>
+<div class="pdf-embed">
+<iframe src="mesa2-jornadaespañol-nrg.pdf">
+</iframe>
+</div>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>https://elrobin.github.io/posts/2025-10-El-español/</guid>
+  <pubDate>Sun, 16 Nov 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Evaluar equipos de investigación</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/2025-10-Evaluar-equipos/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://elrobin.github.io/posts/2025-10-Evaluar-equipos/stitch.png" class="img-fluid" width="279"></p>
+<p>El primer objetivo que persigo en el proyecto STITCH es el de resolver un problema básico que tiene la evaluación científica actual: evaluar esfuerzos de investigación colectivos<span class="citation" data-cites="walsh2015">(Walsh and Lee 2015)</span>. Esto es algo que no hemos conseguido solucionar hasta el momento, básicamente por desconocimiento de cómo los procesos de generación de conocimiento colectivos funcionan. Hasta el momento se utilizaba la posición de firma, que se ha ido adaptando para reflejar ese supuesto prestigio y facilitar la distribución de crédito entre autores, siempre bajo una mirada normativa que premia única y exclusivamente el liderazgo. Nos hemos inventado una infinidad de formas de contar autores de un paper<span class="citation" data-cites="gauffriau2020">(Gauffriau 2020)</span> y con eso hemos generado diferentes indicadores de productividad, liderazgo y tal. Los autores se han adaptado a este régimen y se ha estandarizado el orden de autoría en casi todos los campos científicos con notables excepciones como Matemáticas o Física (<a href="https://elrobin.github.io/blog/posts/24-11-2024/">Aquí una pequeña reseña sobre modelos de coautoría</a>). Sin embargo, las soluciones siguen siendo a todas luces insuficientes.</p>
+<p>Con la introducción de las contribuciones y CRediT, esto parece ahora posible y de hecho, es lo que he ido explorando hasta ahora, aunque siempre a nivel de individuos <span class="citation" data-cites="gonzález-salmón robinson-garcia2020">(González-Salmón et al., n.d.; Robinson-Garcia et al. 2020)</span>. La cuestión, es que esto no resuelve le problema de cómo evaluar a equipos ni cómo entender los procesos sociales que llevan a la generación de nuevo conocimiento. He empleado el modelo de Richard Whitley <span class="citation" data-cites="robinson-garcia2025 whitley2000">(Robinson-Garcia et al. 2025; Whitley 2000)</span> para intentar analizar variaciones y formas de trabajo en la ciencia, intentando aplicarlo de manera empírica mediante el uso de contribuciones. Sin embargo, no acabo de ver una alineación perfecta entre los conceptos the Whitley: <em>mutual dependence</em> y <em>task uncertainty</em>. Esto me hace retrotraerme y tal vez, cuestionar si el modelo de Whitley sirve para lo que yo quiero. La razón por la que quiero estudiar niveles de variación en la distribución del trabajo, tal vez integrando también medidas de interdisciplinariedad, es para entender si:</p>
+<ol type="1">
+<li>existen distintos modelos de distribución de tareas;</li>
+<li>son predecibles estos modelos, o al menos cuáles y cuándo sí lo son;</li>
+<li>qué otras variables inciden en que se adopte un modelo u otro (idr, colaboración internacional, tamaño del equipo, disciplina, etc.)</li>
+</ol>
+<p>Para todo esto, tal vez Whitley no sea el sustento teórico, aunque sí lo emplee para armar mi puzle. Por otra parte, ¿necesito un marco teórico como tal sobre el que construir? Tal vez deba fabricarlo a partir de la literatura existente. Tal vez he empezado por los datos cuando debía empezar por otro sitio.</p>
+<p>Tal vez lo interesante sea abordarlo desde un punto de vista más práctico para luego buscar e identificar patrones y luego utilizar algún modelo logístico para ver cómo variables tipo disciplina, tamaño del equipo, DDA o colaboración internacional o institucional afectan a cada tipo de organización.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-gauffriau2020" class="csl-entry">
+Gauffriau, Marianne. 2020. <span>“Counting Methods Introduced into the Bibliometric Research Literature 1970-2018: A Review.”</span> <em>arXiv:2012.04986 [Cs]</em>, December. <a href="http://arxiv.org/abs/2012.04986">http://arxiv.org/abs/2012.04986</a>.
+</div>
+<div id="ref-gonzález-salmón" class="csl-entry">
+González-Salmón, Elvira, Victoria Di Césare, Aoxia Xiao, and Nicolas Robinson-Garcia. n.d. <span>“Beyond authorship: Analyzing disciplinary patterns of contribution statements using the CRediT taxonomy.”</span> <a href="https://doi.org/10.5281/zenodo.14168888">https://doi.org/10.5281/zenodo.14168888</a>.
+</div>
+<div id="ref-robinson-garcia2020" class="csl-entry">
+Robinson-Garcia, Nicolas, Rodrigo Costas, Cassidy R Sugimoto, Vincent Larivière, and Gabriela F Nane. 2020. <span>“Task Specialization Across Research Careers.”</span> Edited by Peter Rodgers and Allison Morgan. <em>eLife</em> 9 (October): e60586. <a href="https://doi.org/10.7554/eLife.60586">https://doi.org/10.7554/eLife.60586</a>.
+</div>
+<div id="ref-robinson-garcia2025" class="csl-entry">
+Robinson-Garcia, Nicolas, Julia Melkers, Alick Bird, and Erin Leahey. 2025. <span>“Exploring the social organization of the sciences,”</span> May. <a href="https://doi.org/10.5281/zenodo.15479476">https://doi.org/10.5281/zenodo.15479476</a>.
+</div>
+<div id="ref-walsh2015" class="csl-entry">
+Walsh, John P., and You-Na Lee. 2015. <span>“The Bureaucratization of Science.”</span> <em>Research Policy</em> 44 (8): 1584–1600. <a href="https://doi.org/10.1016/j.respol.2015.04.010">https://doi.org/10.1016/j.respol.2015.04.010</a>.
+</div>
+<div id="ref-whitley2000" class="csl-entry">
+Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Sciences</em>. 2nd ed. Oxford: Oxford University Press.
+</div>
+</div></section></div> ]]></description>
+  <category>gibberish</category>
+  <guid>https://elrobin.github.io/posts/2025-10-Evaluar-equipos/</guid>
+  <pubDate>Mon, 20 Oct 2025 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Narrativas, narrativas - Curso de verano en la UIMP sobre transferencia de conocimiento</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/28-07-2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<blockquote class="blockquote">
+<p>“[T]he idea of excellence […] has the singular advantage of being entirely meaningless, or to put it more precisely, non-referencial”</p>
+</blockquote>
+<div style="text-align: right;">
+<p><span class="citation" data-cites="lamont2009">Lamont (2009)</span>, p.&nbsp;159</p>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://elrobin.github.io/posts/28-07-2025/curso-uimp.jpg" class="img-fluid figure-img"></p>
+<figcaption>Hablando de evaluadores y narrativas en Santander</figcaption>
+</figure>
+</div>
+<p>La semana pasada tuve la maravillosa oportunidad de participar en el curso de verano de la UIMP <a href="https://www.uimp.es/agenda-link.html?id_actividad=660J&amp;anyaca=2025-26">Transferencia e intercambio de conocimiento para la creación de valor social</a> organizado por la <a href="https://www.aneca.es/web/guest/-/exito-curso-aneca-en-la-uimp-sobre-transferencia">ANECA</a>. Allí pudimos presentar los primeros resultados de un pequeño estudio piloto diseñado junto con <a href="https://search.asu.edu/profile/846286">Julia Melkers</a>, <a href="https://tinanane.com">Tina Nane</a>, <a href="https://research-information.bris.ac.uk/en/persons/gemma-derrick">Gemma Derrick</a>, <a href="https://www.iesa.csic.es/directorio/irene-ramos-vielba/">Irene Ramos-Vielba</a> y María Blanco-Palencia, en el que analizamos posibles sesgos en la evaluación de sexenios de investigación en base a la narrativa empleada.</p>
+<p>El objetivo de la sesión era mostrar cómo diferentes diseños metodológicos a la hora de implementar o modificar los criterios de un sistema evaluativo afectan a su implementación <em>real</em> por parte de los evaluadores. Con ello, planteábamos algunas de las cuestiones en las que tanto ANECA como los que somos ajenos a la misma queremos centrarnos en un futuro próximo, el proceso de toma de decisiones y valoración por parte de los paneles de expertos. Asimismo, planteábamos una pequeña dinámica para empezar a perfilar posibles criterios de valoración de cara al diseño del futuro “sexenio de transferencia”, uno de los grandes objetivos que tiene la actual directiva de la agencia.</p>
+<p>La experiencia fue francamente muy positiva con discusiones bastante profundas pasando desde el concepto mismo de transferencia hasta la identificación de elementos comunes a la gran diversidad de actividades de transferencia que se realizan desde las universidades con el fin de unificar criterios.</p>
+<p>Por último me gustaría resaltar la gran apertura que tiene esta dirección de la ANECA, con Pilar Paneque a la cabeza, al permitirnos indagar y evaluar sus propias acciones, aún a riesgo de encontrar problemas y contradicciones. La transparencia y actitud de colaboración, apertura y auto-reflexión que están mostrando es muy loable y ojalá fuese algo común al resto de instituciones universitarias y académicas.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-lamont2009" class="csl-entry">
+Lamont, Michèle. 2009. <em>How Professors Think</em>. Harvard University Press.
+</div>
+</div></section></div> ]]></description>
+  <category>talks</category>
+  <guid>https://elrobin.github.io/posts/28-07-2025/</guid>
+  <pubDate>Sun, 27 Jul 2025 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Altmetrics and Open Science @ Napoli SSSM</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/13-06-2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://elrobin.github.io/posts/13-06-2025/napoli-che.jpg" class="img-fluid figure-img" width="3994"></p>
+<figcaption>Napoli recently won its 4th Scudetto and of course, the city was a big party</figcaption>
+</figure>
+</div>
+<p>Last Monday I had the chance to participate as an invited speaker in the I International Edition of the <a href="https://www.bibliometrix.org/home/index.php/school/sssm-2025/sssm2023-description"><strong>Summer School in Science Mapping</strong></a> organized by research team led by Massimo Aria and Corrado Cuccurullo. These are the people behind the wonderful R package <a href="https://www.bibliometrix.org/home/index.php">Bibliometrix</a>, and now also <a href="https://github.com/massimoaria/tall">TaLL</a> (for text analysis). It is a really nice and smart group of people, doing a fantastic job on the development of tools that can be used both, for people with and w/o programming skills. I have been in touch with them for several years, as we have invited them in several occasions to the ESSS to introduce students to their software, and even Dani created a <a href="https://www.youtube.com/watch?v=CoRcJg15XVA">videotutorial in Spanish</a> for the Biblioshiny interface and I’ve used it for my <a href="https://zenodo.org/records/7556999">teaching</a>.</p>
+<p>In this occasion I was invited to talk about <strong>Altmetrics and Open Science</strong>, based on previous lectures I periodically give at the ESSS. I took the occasion to improve my materials, update them and improve the narrative. The lecture went well with an interesting follow up given the multidisciplinary background of the students.</p>
+<div class="callout callout-style-default callout-tip callout-empty-content callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span><a href="https://doi.org/10.5281/zenodo.15658289">Download the slides here</a>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>https://elrobin.github.io/posts/13-06-2025/</guid>
+  <pubDate>Thu, 12 Jun 2025 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Materials on scientific publishing and OA</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/30-05-2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Last Tuesday I taught the 3rd session of the course ‘Cómo escribir y publicar artículos científicos en Ciencias Sociales y Humanidades’. This is a course I have taught for several years along with my colleagues <a href="https://sites.google.com/go.ugr.es/torressalinas/">Daniel Torres-Salinas</a> and <a href="https://ec3-research.com/miembro/evaristo-jimenez-contreras/">Evaristo Jiménez-Contreras</a>. We normally end up switching sessions based on availability and tend to change contents on the fly, but this time we went for organization and method, and Dani created a nice layout which followed a sensible workflow (you can have a look at it at the end of the post, all in Spanish).</p>
+<p>I was in charge of Session III and I took the baton and decided to also be methodic, and developed the following materials. I hope someone finds them useful!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://elrobin.github.io/posts/30-05-2025/images/portada.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<div class="callout callout-style-default callout-important callout-empty-content callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span><a href="https://zenodo.org/records/15551106">Download here</a>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+<section id="sesión-i---organización-personal-y-planificación-del-texto-académico" class="level3">
+<h3 class="anchored" data-anchor-id="sesión-i---organización-personal-y-planificación-del-texto-académico"><strong>SESIÓN I - Organización personal y planificación del texto académico</strong></h3>
+<ol type="1">
+<li><p>Tiempo, espacio y foco<br>
+ 1.1. Elección del momento óptimo para escribir<br>
+ 1.2. Configuración de un espacio personal sin distracciones<br>
+ 1.3. Técnicas de concentración y trabajo profundo</p></li>
+<li><p>Notas, método Zettelkasten y Zotero<br>
+ 2.1. Importancia de la lectura activa en la escritura académica<br>
+ 2.2. Aplicación del método Zettelkasten para organizar ideas<br>
+ 2.3. Uso de Zotero como herramienta de gestión de notas</p></li>
+<li><p>Estructura y planificación textual<br>
+ 3.1. Organización del contenido en un texto académico<br>
+ 3.2. Diseño previo del guion y los párrafos del texto<br>
+ 3.3. Empleo de plantillas para estructurar la escritura</p></li>
+</ol>
+</section>
+<section id="sesión-ii---estructura-del-artículo-y-el-ecosistema-de-publicación" class="level3">
+<h3 class="anchored" data-anchor-id="sesión-ii---estructura-del-artículo-y-el-ecosistema-de-publicación"><strong>SESIÓN II - Estructura del artículo y el ecosistema de publicación</strong></h3>
+<ol type="1">
+<li><p>Exigencias institucionales: agencias y programas</p></li>
+<li><p>El artículo científico<br>
+ 2.1. Qué es un artículo científico<br>
+ 2.2. Tipologías de resultados<br>
+ 2.3. Estructura IMRyD: Introducción, Metodología, Resultados, Discusión y Conclusiones<br>
+ 2.4. Elementos adicionales: título, resumen, palabras clave, filiaciones<br>
+ 2.5. Tablas, gráficos, figuras y datos complementarios<br>
+ 2.6. Bibliografía y normas editoriales<br>
+ 2.7. Financiación y agradecimientos</p></li>
+<li><p>Revistas científicas e impacto<br>
+ 3.1. Qué es una revista de impacto<br>
+ 3.2. Historia y cálculo del factor de impacto<br>
+ 3.3. Estrategias ante el rechazo editorial<br>
+ 3.4. Bases de datos e indicadores: SCOPUS, Dialnet Métricas, CIRC<br>
+ 3.5. Publicación en monografías</p></li>
+<li><p>Autoría y colaboración<br>
+ 4.1. Normas ICMJE y definición de autoría<br>
+ 4.2. Taxonomía CRediT<br>
+ 4.3. Malas prácticas de autoría</p></li>
+</ol>
+</section>
+<section id="sesión-iii---publicación-acceso-abierto-y-ética-científica" class="level3">
+<h3 class="anchored" data-anchor-id="sesión-iii---publicación-acceso-abierto-y-ética-científica"><strong>SESIÓN III - Publicación, acceso abierto y ética científica</strong></h3>
+<ol type="1">
+<li><p>Selección de revistas y preparación del manuscrito<br>
+ 1.1. Selección adecuada de la revista<br>
+ 1.2. Carta de remisión</p></li>
+<li><p>Gestión de datos y reproducibilidad<br>
+ 2.1. Reproducibilidad y data sharing<br>
+ 2.2. Repositorios</p></li>
+<li><p>Envío y evaluación del manuscrito<br>
+ 3.1. Revisión por pares y tipos de evaluación<br>
+ 3.2. Herramientas del proceso editorial<br>
+ 3.3. Decisiones editoriales y respuesta a revisores</p></li>
+<li><p>Acceso Abierto<br>
+ 4.1. Tipos de Acceso Abierto<br>
+ 4.2. Revistas en acceso abierto<br>
+ 4.3. Revistas depredadoras</p></li>
+<li><p>Ética de la publicación científica<br>
+ 5.1. Malas prácticas y prevención</p></li>
+<li><p>Divulgación científica y visibilidad del artículo publicado<br>
+ 6.1. Difusión en redes académicas y científicas<br>
+ 6.2. Perfil digital de investigador (ORCID, Google Scholar, etc.)<br>
+ 6.3. Métricas alternativas (altmetrics)</p></li>
+<li><p>Consejos finales para publicar con éxito</p></li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>https://elrobin.github.io/posts/30-05-2025/</guid>
+  <pubDate>Thu, 29 May 2025 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Exploring the social organization of the sciences</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/23-05-2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://elrobin.github.io/posts/23-05-2025/images/atl_presentation.jpg" class="img-fluid figure-img"></p>
+<figcaption>Presenting at the ATL Conference our paper on science teams</figcaption>
+</figure>
+</div>
+<p>Last week I went to the <a href="https://atlconf.spp.gatech.edu/">Atlanta Conference on Science and Innovation Policy</a>, which celebrated its 10th Anniversary. This is one of my favorite conferences, very different from others I’ve been to. It has a special vibe where people are really engaged and friendly, always providing constructive feedback and very opened to new ideas. Contrarily to other conferences such as ISSI or STI, the profile of the attendants is quite broad which I believe is extremely important to create interdisciplinary linkages. Plus its wonderful organizers, Julia, Diana and Cassidy.</p>
+<p>I had the chance to present our paper on science teams and contribution data, titled <a href="https://doi.org/10.5281/zenodo.15479475"><strong>Exploring the organization of the sciences</strong></a>, done in collaboration with Julia Melkers, Alick Bird and Erin Leahey. In this paper we use the largest dataset (to my knowledge) on contribution statements based on Scopus data, with over 650,000 publications, and try to explore empirically Richard Whitley’s concept of <em>task uncertainty</em> <span class="citation" data-cites="whitley2000">(Whitley 2000)</span> and the distribution of labour across fields. We do this by computing two indicators:</p>
+<ul>
+<li><p><strong>Task entropy</strong>, which reflects the (un)balance on the distribution of tasks among authors.</p></li>
+<li><p><strong>Task specialization</strong>, which looks into the average distance of the authors task profile, based on the grouping of contributions into three groups: technical tasks, conceptual tasks and management tasks.</p></li>
+</ul>
+<p>Our preliminary findings suggest a relation between team size and task uncertainty, identifying 3 types of research teams based on the balance of the task distribution: small collaboration (2-8 authors), which is the most common type of team (~85%), functional teams (9-29 authors) and super teams (30+ authors). From what we’ve seen based on our approach (probably needs more refinement) disciplines do not play a big role on differences on task uncertainty.</p>
+<div class="callout callout-style-simple callout-tip">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><a href="https://doi.org/10.5281/zenodo.15479475"><strong>🗒️Check the slides here to learn more about our work</strong></a></p>
+</div>
+</div>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-whitley2000" class="csl-entry">
+Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Sciences</em>. 2nd ed. Oxford: Oxford University Press.
+</div>
+</div></section></div> ]]></description>
+  <category>talks</category>
+  <guid>https://elrobin.github.io/posts/23-05-2025/</guid>
+  <pubDate>Thu, 22 May 2025 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Reading on African collaboration patterns</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/13-01-2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://elrobin.github.io/images/FxaAXp8WwAU77aX.jpg" class="img-fluid figure-img" width="750"></p>
+<figcaption>‘The Sleeping Sickness’ — American cartoon published in Puck magazine, 1911, showing European nations colonising Africa while a giant African man lies against a tree. Artist: Gordon Ross.</figcaption>
+</figure>
+</div>
+<p>Here some self-notes on my readings regarding African collaboration dynamics. I include the reference and some notes pointing at things relevant to the work I am doing right now and probably useless from everyone else 🙄.</p>
+<section id="inequalities" class="level2">
+<h2 class="anchored" data-anchor-id="inequalities">Inequalities</h2>
+<p><strong>Holmarsdottir, H. B., Desai, Z., Botha, L. R., Breidlid, A., Bastien, S., Mukoma, W., Ezekiel, M. J., Helleve, A., Farag, A. I., &amp; Nomlomo, V. (2013). COMPARE Forum: The idea of North-South and South-South collaboration. <em>Compare: A Journal of Comparative and International Education</em>, <em>43</em>(2), 265-286. <a href="https://doi.org/10.1080/03057925.2013.765274" class="uri">https://doi.org/10.1080/03057925.2013.765274</a></strong></p>
+<p>The idea that North helps South is simplistic and unrealistic, there is growing awareness and concern on the need of African countries to reassert their own research agenda to foster innovation as well as to strengthen intra-regionald and south-south collaboration networks.</p>
+<p>There is a difference between internationalising research and being involved in international cooperation networks as the former should look towards global and common aims while the latter can lead (and leads) to inequalities due to power dynamics.</p>
+</section>
+<section id="general-patterns-and-use-of-indicators" class="level2">
+<h2 class="anchored" data-anchor-id="general-patterns-and-use-of-indicators">General patterns and use of indicators</h2>
+<p><strong>Confraria, H., Mira Godinho, M., &amp; Wang, L. (2017). Determinants of citation impact: A comparative analysis of the Global South versus the Global North. <em>Research Policy</em>, <em>46</em>(1), 265-279. <a href="https://doi.org/10.1016/j.respol.2016.11.004" class="uri">https://doi.org/10.1016/j.respol.2016.11.004</a></strong></p>
+<p><strong>Confraria, H., &amp; Godinho, M. M. (2015). The impact of African science: A bibliometric analysis. <em>Scientometrics</em>, <em>102</em>(2), 1241-1268. <a href="https://doi.org/10.1007/s11192-014-1463-8" class="uri">https://doi.org/10.1007/s11192-014-1463-8</a></strong></p>
+<p>Research in Africa has increased lately, although specialization seems to play a greater role in African countries as a triggering factor for impact.</p>
+<p>In Confraria &amp; Godinho (2015) there is an interesting discussion related to the adequacy of WoS to measure African output, although that is what they finally do.</p>
+</section>
+<section id="factors-associated-with-scientific-workforce" class="level2">
+<h2 class="anchored" data-anchor-id="factors-associated-with-scientific-workforce">Factors associated with scientific workforce</h2>
+<p><strong>Eduan, W. (2019). Influence of study abroad factors on international research collaboration: Evidence from higher education academics in sub-Saharan Africa. <em>Studies in Higher Education</em>, <em>44</em>(4), 774-785. <a href="https://doi.org/10.1080/03075079.2017.1401060" class="uri">https://doi.org/10.1080/03075079.2017.1401060</a></strong></p>
+<p>Mobility experience improves outcomes, but is dependent on the intensity of the experience (immersion programmes, internshipst, etc.).</p>
+<p><strong>El-Ouahi, J., Robinson-García, N., &amp; Costas, R. (2021). Analyzing scientific mobility and collaboration in the Middle East and North Africa. <em>Quantitative Science Studies</em>, <em>2</em>(3), 1023-1047. <a href="https://doi.org/10.1162/qss_a_00149" class="uri">https://doi.org/10.1162/qss_a_00149</a></strong></p>
+<p><strong>El-Ouahi, J., &amp; Larivière, V. (2023). On the lack of women researchers in the Middle East and North Africa. <em>Scientometrics</em>, <em>128</em>(8), 4321-4348. <a href="https://doi.org/10.1007/s11192-023-04768-5" class="uri">https://doi.org/10.1007/s11192-023-04768-5</a></strong></p>
+<p>These are studies focused on MENA countries disclosing regional mobility within the country and a disproportionate gender gap which affects career trajectories.</p>
+</section>
+<section id="specific-studies-on-fields" class="level2">
+<h2 class="anchored" data-anchor-id="specific-studies-on-fields">Specific studies on fields</h2>
+<p><strong>Maina, M. B., Ahmad, U., Ibrahim, H. A., Hamidu, S. K., Nasr, F. E., Salihu, A. T., Abushouk, A. I., Abdurrazak, M., Awadelkareem, M. A., Amin, A., Imam, A., Akinrinade, I. D., Yakubu, A. H., Azeez, I. A., Mohammed, Y. G., Adamu, A. A., Ibrahim, H. B., Bukar, A. M., Yaro, A. U., … Baden, T. (2021). Two decades of neuroscience publication trends in Africa. <em>Nature Communications</em>, <em>12</em>(1), Article 1. <a href="https://doi.org/10.1038/s41467-021-23784-8" class="uri">https://doi.org/10.1038/s41467-021-23784-8</a></strong></p>
+<p>Intra-regional collaboration seems to be close-distance collaboration, long distance collaboration is normally outside the continent. There is lack of research dependent on infrastructure (e.g., state-or-the-art equipment).</p>
+
+
+</section>
+
+ ]]></description>
+  <category>reviews</category>
+  <guid>https://elrobin.github.io/posts/13-01-2025/</guid>
+  <pubDate>Sun, 12 Jan 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>More on multiauthorship</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/26-11-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://elrobin.github.io/posts/26-11-2024/images/autoriamultiple.png" class="img-fluid figure-img" width="410"></p>
+<figcaption>Image generated with DALL-E</figcaption>
+</figure>
+</div>
+<p>Lately I am very interested on authorship and more specifically, on the problems this concept brings in terms of allocation of credit among researchers given the current collaborative nature of research. This is very much related to the book I am writing on diversity and recognition in academia.</p>
+<p>Here some notes for some of the papers I am reading.</p>
+<p><strong>Cronin, B. (2001). Hyperauthorship: A postmodern perversion or evidence of a structural shift in scholarly communication practices? <em>Journal of the American Society for Information Science and Technology</em>, <em>52</em>(7), 558–569. <a href="https://doi.org/10.1002/asi.1097" class="uri">https://doi.org/10.1002/asi.1097</a></strong></p>
+<p>He focuses on the issues arising in biomedical sciences with regard to honorary authorship and authorship inflation. Takes a historical perspective, from the birth of scientific authorship to the development of the current scientific publishing system. It discusses disciplinary differences on authorship order. Authorship is tied to credit and responsibility, but also is linked with an individualistic notion and not a collective endeavour which is an anachronistic conception of science.</p>
+<p>Collaboration becomes a reality especially after WWII, with the expansion of ‘big science’ which required funding, infrastructure and coordination and management. Currently it is the norm, with some fields and projects requiring the development of an internal structure and division of labour while others are more informal levels of collaboration. He mentions the suggestion by <span class="citation" data-cites="rennie1997">(Rennie, Yank, and Emanuel 1997)</span> of abandoning the concept of author in favour of alternatives such as contributor or guarantor. As we know this proposal later gained track within the biomedical sciences with the <a href="https://credit.niso.org/">CRediT taxonomy</a> becoming a NISO standard more than 15 years later <span class="citation" data-cites="allen2014">(Allen et al. 2014)</span>. This has to do with the inefficacy of the initial solution proposed by ICMJE which was to make all authors responsible of the complete content of a paper.</p>
+<p>Still, Cronin is critical with this proposal because it is still difficult to enforce responsibility in cases of what he terms <em>hyperauthorship</em>. He entertains the idea of using the ‘Acknowledgements’ section for contributions of second order, but recognizes also its limitations. Finally, he discusses the HEP model where all the recognition and authorship discussions are ridden internally, while an external observer would be incapable of administrating credit through authorship.</p>
+<p><strong>Walsh, J. P., &amp; Lee, Y.-N. (2015). The bureaucratization of science. <em>Research Policy</em>, <em>44</em>(8), 1584–1600. <a href="https://doi.org/10.1016/j.respol.2015.04.010" class="uri">https://doi.org/10.1016/j.respol.2015.04.010</a></strong></p>
+<p>This paper examines how scientific teams organize internally based on their size, interdisciplinarity and task interdependence. It uses organizational theory (similarly to <span class="citation" data-cites="whitley2000">(Whitley 2000)</span>) and emphasizes the importance of internal structure to ensure a successful performance. They make some interesting points, such as the changes on the training model of scientists from the apprentice-model kind of model suggested by <span class="citation" data-cites="laudel2008">(Laudel and Gläser 2008)</span> (although not cited in the paper) to an industrialized model of scientific careers with more of a professor-employer kind of model. Again they bring up the misalignment between credit allocation and multiauthorship.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-allen2014" class="csl-entry">
+Allen, Liz, Jo Scott, Amy Brand, Marjorie Hlava, and Micah Altman. 2014. <span>“Publishing: Credit Where Credit Is Due.”</span> <em>Nature</em> 508 (7496): 312–13. <a href="https://doi.org/10.1038/508312a">https://doi.org/10.1038/508312a</a>.
+</div>
+<div id="ref-laudel2008" class="csl-entry">
+Laudel, Grit, and Jochen Gläser. 2008. <span>“From Apprentice to Colleague: The Metamorphosis of Early Career Researchers.”</span> <em>Higher Education</em> 55 (3): 387–406. <a href="https://doi.org/10.1007/s10734-007-9063-7">https://doi.org/10.1007/s10734-007-9063-7</a>.
+</div>
+<div id="ref-rennie1997" class="csl-entry">
+Rennie, Drummond, Veronica Yank, and Linda Emanuel. 1997. <span>“When Authorship Fails: A Proposal to Make Contributors Accountable.”</span> <em>JAMA</em> 278 (7): 579–85. <a href="https://doi.org/10.1001/jama.1997.03550070071041">https://doi.org/10.1001/jama.1997.03550070071041</a>.
+</div>
+<div id="ref-whitley2000" class="csl-entry">
+Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Sciences</em>. 2nd ed. Oxford: Oxford University Press.
+</div>
+</div></section></div> ]]></description>
+  <category>reviews</category>
+  <guid>https://elrobin.github.io/posts/26-11-2024/</guid>
+  <pubDate>Mon, 25 Nov 2024 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Scientific authorship and dealing with multiauthorship</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/24-11-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="https://www.nature.com/articles/d41586-018-06185-8"><img src="https://elrobin.github.io/posts/24-11-2024/multiauthorship.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="423"></a></p>
+</figure>
+</div>
+<figcaption>Illustration from Davis Parkins, Source: Nature</figcaption>
+</figure>
+</div>
+<p><strong>Notes from Biagioli, M. (2013). Rights or Rewards? Changing Frameworks of Scientific Authorship. In M. Biagioli &amp; P. Gallison (eds) <em>Scientific Authorship: Credit and Intellectual Property in Science</em> (1st ed., pp.&nbsp;253-279). Routledge.</strong></p>
+<blockquote class="blockquote">
+<p>Scientific authorship is a misnomer, a historical vestige. <strong>Mario Biagioli, p.&nbsp;274</strong></p>
+</blockquote>
+<p>The problems derived from using authorship as an attribution of credit in times of <em>Big Science</em> are a common issue for those studying the social dynamics of science through the use of publications. Authorship and author order are extremely polluted by seniority and power dynamics, furthermore, authorship seems a limited concept for reflecting each author’s contribution and responsibility, especially when dealing with papers produced by large teams.</p>
+<p>Scientific authorship is considered a symbolic reward not attached to the specific object (the article) but to the true claims made in such object, and it is given by peers. This means that <em>“a scientific claim does not count as such unless it is made public and subjected to peer evaluation”</em> (p.&nbsp;254). Multiauthorship includes a layer of complexity to the evaluation of scientific performance, as it introduces ambiguity: evaluators have to assess the value of the paper and the share of such value attributed to the candidate. <em>“[T]he economy of science is inherently based on trust”</em> (p.&nbsp;260). The author argues that copyright does not hold for our understanding of scientific author and hence proposes a redefinition.</p>
+<p>He revises how two different fields approached to this issue. The first one is the biomedical sciences. IMCJE’s first solution to this issue, was to reinforce the figure of the author in the traditional sense, which does not work in highly stratified science formed by dozens or even hundreds of authors. Hence it moved towards the concept of <em>contributorship</em>, where team members indicate their specific contribution to a given output, with the order of contributors reflecting the importance of such contribution. One of those contributors would play the role of the <em>guarantor</em>, that is, the person(s) who is responsible for overseeing the whole study and coordinating.</p>
+<p>The second approach comes from high energy physics, instead of approaching authorship as a matter of responsibility and ownership, it considers it a matter of labour recognition. There is a Standard Author List for all people who have contributed in any way to a given lab or research centre, regardless of their involvement on specific papers or projects, and they appear alphabetically. To be part of this list, researchers have to compromise a share of their time and work, and this list is updated biannually by a committee. Furthermore, leaves of absence are allowed of up to a year without meaning being removed from the list, and researchers are even recognized a year after being removed from the list, as a way to recognize that contributions can be direct or indirect and are cumulative. In this second setting, authorship does not have the same value or credit as in biomedical sciences, and prestige and recognition operate differently through recommendation letters and internal dynamics and correspondence.</p>
+<p>The review process in high energy physics operates in a different way to what we know from other fields. After a subgroup from the Standard Author List writes up a manuscript, it is submitted internally to all members of the list, who are asked to comment electronically. The paper goes three rounds of internal reviews and then, members of the list who still disagree with the contents, remove their name from the manuscript, hence here less authors would equate to less acceptance. As all the validation process is internal, so are issues with research integrity, fraud or misconduct.</p>
+<p>Hence, Biagioli concludes indicating that scientific authorship is a tied more to disciplinary ecologies and the economy of science rather than to a legal category, more related with responsibility and disciplinary norms.</p>
+
+
+
+ ]]></description>
+  <category>reviews</category>
+  <guid>https://elrobin.github.io/posts/24-11-2024/</guid>
+  <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Hello world</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://elrobin.github.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>gibberish</category>
+  <guid>https://elrobin.github.io/posts/welcome/</guid>
+  <pubDate>Sat, 23 Nov 2024 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Quarto Academic Website Examples and Tips</title>
+  <link>https://elrobin.github.io/</link>
+  <description>Examples and tips for Quarto Academic Website</description>
+  <category>news</category>
+  <guid>https://elrobin.github.io/</guid>
+  <pubDate>Mon, 14 Oct 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://elrobin.github.io/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

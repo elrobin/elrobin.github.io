@@ -1,0 +1,89 @@
+---
+title: "Materials on scientific publishing and OA"
+author: "N. Robinson-Garcia"
+date: "2025-05-30"
+toc: true
+categories: [talks]
+---
+
+Last Tuesday I taught the 3rd session of the course 'Cómo escribir y publicar artículos científicos en Ciencias Sociales y Humanidades'. This is a course I have taught for several years along with my colleagues [Daniel Torres-Salinas](https://sites.google.com/go.ugr.es/torressalinas/) and [Evaristo Jiménez-Contreras](https://ec3-research.com/miembro/evaristo-jimenez-contreras/). We normally end up switching sessions based on availability and tend to change contents on the fly, but this time we went for organization and method, and Dani created a nice layout which followed a sensible workflow (you can have a look at it at the end of the post, all in Spanish).
+
+I was in charge of Session III and I took the baton and decided to also be methodic, and developed the following materials. I hope someone finds them useful!
+
+![](images/portada.png){fig-align="center"}
+
+::: callout-important
+## [Download here](https://zenodo.org/records/15551106)
+:::
+
+### **SESIÓN I - Organización personal y planificación del texto académico**
+
+1.  Tiempo, espacio y foco\
+     1.1. Elección del momento óptimo para escribir\
+     1.2. Configuración de un espacio personal sin distracciones\
+     1.3. Técnicas de concentración y trabajo profundo
+
+2.  Notas, método Zettelkasten y Zotero\
+     2.1. Importancia de la lectura activa en la escritura académica\
+     2.2. Aplicación del método Zettelkasten para organizar ideas\
+     2.3. Uso de Zotero como herramienta de gestión de notas
+
+3.  Estructura y planificación textual\
+     3.1. Organización del contenido en un texto académico\
+     3.2. Diseño previo del guion y los párrafos del texto\
+     3.3. Empleo de plantillas para estructurar la escritura
+
+### **SESIÓN II - Estructura del artículo y el ecosistema de publicación**
+
+1.  Exigencias institucionales: agencias y programas
+
+2.  El artículo científico\
+     2.1. Qué es un artículo científico\
+     2.2. Tipologías de resultados\
+     2.3. Estructura IMRyD: Introducción, Metodología, Resultados, Discusión y Conclusiones\
+     2.4. Elementos adicionales: título, resumen, palabras clave, filiaciones\
+     2.5. Tablas, gráficos, figuras y datos complementarios\
+     2.6. Bibliografía y normas editoriales\
+     2.7. Financiación y agradecimientos
+
+3.  Revistas científicas e impacto\
+     3.1. Qué es una revista de impacto\
+     3.2. Historia y cálculo del factor de impacto\
+     3.3. Estrategias ante el rechazo editorial\
+     3.4. Bases de datos e indicadores: SCOPUS, Dialnet Métricas, CIRC\
+     3.5. Publicación en monografías
+
+4.  Autoría y colaboración\
+     4.1. Normas ICMJE y definición de autoría\
+     4.2. Taxonomía CRediT\
+     4.3. Malas prácticas de autoría
+
+### **SESIÓN III - Publicación, acceso abierto y ética científica**
+
+1.  Selección de revistas y preparación del manuscrito\
+     1.1. Selección adecuada de la revista\
+     1.2. Carta de remisión
+
+2.  Gestión de datos y reproducibilidad\
+     2.1. Reproducibilidad y data sharing\
+     2.2. Repositorios
+
+3.  Envío y evaluación del manuscrito\
+     3.1. Revisión por pares y tipos de evaluación\
+     3.2. Herramientas del proceso editorial\
+     3.3. Decisiones editoriales y respuesta a revisores
+
+4.  Acceso Abierto\
+     4.1. Tipos de Acceso Abierto\
+     4.2. Revistas en acceso abierto\
+     4.3. Revistas depredadoras
+
+5.  Ética de la publicación científica\
+     5.1. Malas prácticas y prevención
+
+6.  Divulgación científica y visibilidad del artículo publicado\
+     6.1. Difusión en redes académicas y científicas\
+     6.2. Perfil digital de investigador (ORCID, Google Scholar, etc.)\
+     6.3. Métricas alternativas (altmetrics)
+
+7.  Consejos finales para publicar con éxito

@@ -1,8 +1,0 @@
-@media all and (max-width: 991px) {
-  .browsebysubject .search-results-content > .container-relative {
-    min-height: 40px; } }
-.aui .globalnav .collapse {
-  -webkit-transition: none;
-  -moz-transition: none;
-  -o-transition: none;
-  transition: none; }

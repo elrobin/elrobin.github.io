@@ -1,0 +1,25 @@
+---
+title: "Do not read"
+listing: 
+  sort: "date desc"
+  type: default
+  page-size: 100
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+  contents: 
+      - posts
+      - posts/post-links.yml  # Use this file to add external links
+#      categories: [] 
+
+#page-layout: full
+draft-mode: unlinked
+page-navigation: false
+title-block-banner: false
+---
+
+I occasionally write informal pieces related to my research interests, including research evaluation, scientometrics, academic careers, and the organisation of science. These posts are exploratory in nature and reflect ongoing ideas and reflections rather than polished research outputs.
+
+:::{#posts}
+:::

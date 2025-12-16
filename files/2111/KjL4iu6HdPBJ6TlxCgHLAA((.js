@@ -1,6 +1,0 @@
-
-Bootstrapper.bindImmediate(function(){window._sf_startpt=(new Date()).getTime();},151767,136500);Bootstrapper.bindDependencyDOMParsed(function(){_metaData=(function(){var meta=document.getElementsByTagName('meta'),n=meta.length,data={};while(n--){data[meta[n].name]=meta[n].content;}
-return data;})();if(typeof _sf_async_config==='undefined'){_sf_async_config={};}
-_sf_async_config.uid=21673;_sf_async_config.domain='nature.com';_sf_async_config.path=window.location.pathname;_sf_async_config.sections=_metaData['WT.cg_n']||'';_sf_async_config.authors=(function(authors){var names=authors.replace(/;\s*$/,'').split(/;\s*/),n=names.length,i=0,formatted=[],parts=null;for(i=0;i<n;++i){if(names[i].indexOf(',')!==-1){parts=names[i].split(/,\s*/);formatted.push(parts[1]+' '+parts[0]);}else{formatted.push(names[i]);}}
-return formatted.length?formatted.join(', '):'';})(_metaData.citation_authors||'');(function(){function loadChartbeat(){window._sf_endpt=(new Date()).getTime();var e=document.createElement('script');e.setAttribute('language','javascript');e.setAttribute('type','text/javascript');e.setAttribute('src',(('https:'==document.location.protocol)?'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/':'http://static.chartbeat.com/')+'js/chartbeat.js');document.body.appendChild(e);}
-loadChartbeat();})();},151786,[151767],136519,[136500]);

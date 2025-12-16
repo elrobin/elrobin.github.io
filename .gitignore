@@ -1,6 +1,3 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-.Rproj.user/498BCEBE/pcs/source-pane.pper
-.Rproj.user/shared/notebooks/paths
+/.quarto/
+
+**/*.quarto_ipynb
