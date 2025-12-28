@@ -19,17 +19,19 @@ css: custom.css
 
 1. Di Césare, V., Robinson-Garcia, N. (Under review). What is local research? Towards a multidimensional framework linking theory and methods. [Preprint](https://doi.org/10.5281/zenodo.14033472)
 
-1. Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E., Torres-Salinas, D. (Under review). Publication patterns in the Humanities: Generational shifts and changing research agendas. [Preprint](https://doi.org/10.5281/zenodo.13969298) - [Data](https://doi.org/10.5281/zenodo.13905464) - [Code](https://github.com/Wences91/humanities_patterns)
+**2026**
+
+5. Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E., Torres-Salinas, D. (Accepted). Publication patterns in the Humanities: Generational shifts and changing research agendas. Humanities & Social Sciences Communications. [Preprint](https://doi.org/10.5281/zenodo.13969298) - [Data](https://doi.org/10.5281/zenodo.13905464) - [Code](https://github.com/Wences91/humanities_patterns)
+
+6. González-Salmón, E., Robinson-Garcia, N. (Accepted). Mujeres Científicas en España: Un estudio comparativo de los últimos 30 años. Revista Española de Documentación Científica. [Preprint](https://doi.org/10.5281/zenodo.13970417)
 
 **2025**
 
-6. Arroyo-Machado, W., Robinson-Garcia, N., & Torres-Salinas, D. (2025). Are there stars in Bluesky? A comparative exploratory analysis of altmetric mentions between X and Bluesky. Journal of Informetrics, 19(3), 101700. [DOI](https://doi.org/10.1016/j.joi.2025.101700) - [Preprint](https://doi.org/10.5281/zenodo.15538328)
+7. Arroyo-Machado, W., Robinson-Garcia, N., & Torres-Salinas, D. (2025). Are there stars in Bluesky? A comparative exploratory analysis of altmetric mentions between X and Bluesky. Journal of Informetrics, 19(3), 101700. [DOI](https://doi.org/10.1016/j.joi.2025.101700) - [Preprint](https://doi.org/10.5281/zenodo.15538328)
 
 6. González-Salmón E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N. (2025). The Woman Researcher’s Tale: A Review of Bibliometric Methods and Results for Studying Gender in Science. Journal of the Association for Information Science and Technology, 76(9), 1188-1209. [DOI](https://doi.org/10.1002/asi.25012) - [Preprint](https://zenodo.org/doi/10.5281/zenodo.10590299)
 
 6. Robinson-Garcia, N., Corona-Sobrino, Z., Chinchilla-Rodriguez, Z., Torres-Salinas, D., Costas, R. (2025). The use of informetric methods to study diversity in the scientific workforce: A literature review. Quantitative Science Studies, 6, 652-685. [DOI](https://doi.org/10.1162/qss_a_00367) - [Preprint](https://www.doi.org/10.5281/zenodo.13880355)
-
-6. González-Salmón, E., Robinson-Garcia, N. (Accepted). Mujeres Científicas en España: Un estudio comparativo de los últimos 30 años. Revista Española de Documentación Científica. [Preprint](https://doi.org/10.5281/zenodo.13970417)
 
 **2024**
 
