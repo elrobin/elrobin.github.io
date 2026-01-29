@@ -11,7 +11,7 @@ css: custom.css
 
 **Forthcoming**
 
-1. González-Salmón, E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N., & Nane, G.F. (Under review). How to achieve gender parity in science? Providing global evidence on key educational and economic drivers.
+1. González-Salmón, E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N., & Nane, G.F. (Under review). How to achieve gender parity in science? Providing global evidence on key educational and economic drivers. [Preprint](https://zenodo.org/records/18412269)
 
 1. Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N., & Romero-Frías, E. (2025). From science to policy: A multilevel framework for measuring institutional policy influence through Overton. [Preprint](https://zenodo.org/records/15594572)
 
