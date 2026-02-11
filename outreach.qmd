@@ -13,7 +13,7 @@ I regularly give invited talks and seminars on research evaluation, scientometri
 - **Contribuciones y distribución de tareas en equipos de investigación** | Dec 10, 2025, IPP-CSIC, Madrid. [Video](https://www.youtube.com/watch?v=Gerxxe_WXds) - [Slides](https://doi.org/10.5281/zenodo.15551187)
 - **Principles of Evaluative Bibliometrics in a DORA/CoARA Context** [in collaboration with Daniel Torres-Salinas] | Sep 11, 2025. European Summer School of Scientometrics, Granada, Spain. [Slides](https://docs.google.com/document/d/1BKW7UXt00eLzfdExhWWkzVQOBa5-6xbC2niSyLV5Uu8/edit?usp=sharing)
 - **Language use and publication patterns in the humanities** | Dec 2, 2024. [4th Helsinki Initiative Webinar on Multilingualism in Scholarly Communication](https://www.helsinki-initiative.org/en/events/4th-helsinki-initiative-webinar-multilingualism-scholarly-communication). [Slides](https://doi.org/10.5281/zenodo.15551187)
-- Collaboration or teamwork? Investigating work distribution in science through contribution statements | Oct 18, 2024. Economics of Science & Engineering Seminars, Harvard University, United States. [Video](https://www.youtube.com/watch?v=rVWnTWxdA9w) - [Slides](https://doi.org/10.5281/zenodo.13968955)
+- **Collaboration or teamwork? Investigating work distribution in science through contribution statements** | Oct 18, 2024. Economics of Science & Engineering Seminars, Harvard University, United States. [Video](https://www.youtube.com/watch?v=rVWnTWxdA9w) - [Slides](https://doi.org/10.5281/zenodo.13968955)
 
 <p style="text-align: right;">
 [Full list of talks and materials →](talks.qmd)
