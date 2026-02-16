@@ -11,7 +11,7 @@ css: custom.css
 
 **Forthcoming**
 
-1. Herrero-Solana, V., González-Salmón, E., & Robinson-Garcia, N. (Under review). Inferring gender from author names with local LLMs: A multi-model evaluation.
+1. Herrero-Solana, V., González-Salmón, E., & Robinson-Garcia, N. (Under review). Inferring gender from author names with local LLMs: A multi-model evaluation. [Preprint](https://doi.org/10.5281/zenodo.18610103)
 
 1. González-Salmón, E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N., & Nane, G.F. (Under review). How to achieve gender parity in science? Providing global evidence on key educational and economic drivers. [Preprint](https://zenodo.org/records/18412269)
 
@@ -25,7 +25,7 @@ css: custom.css
 
 6. Di Césare, V., Robinson-Garcia, N. (Accepted). What is local research? Towards a multidimensional framework linking theory and methods. Research Evaluation [Preprint](https://doi.org/10.5281/zenodo.14033472)
 
-5. Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E., Torres-Salinas, D. (Accepted). Publication patterns in the Humanities: Generational shifts and changing research agendas. Humanities & Social Sciences Communications. [Preprint](https://doi.org/10.5281/zenodo.13969298) - [Data](https://doi.org/10.5281/zenodo.13905464) - [Code](https://github.com/Wences91/humanities_patterns)
+5. Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E., Torres-Salinas, D. (2026). Publication patterns in the Humanities: Generational shifts and changing research agendas. Humanities & Social Sciences Communications. [DOI](https://doi.org/10.1057/s41599-026-06604-6) - [Preprint](https://doi.org/10.5281/zenodo.13969298) - [Data](https://doi.org/10.5281/zenodo.13905464) - [Code](https://github.com/Wences91/humanities_patterns)
 
 
 **2025**
