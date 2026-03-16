@@ -19,9 +19,10 @@ css: custom.css
 
 1. Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N., & Romero-Frías, E. (2025). From science to policy: A multilevel framework for measuring institutional policy influence through Overton. [Preprint](https://zenodo.org/records/15594572)
 
-1. Van Schalkwyk, F., González-Salmón, E., & Robinson-Garcia, N. (Under review). Collaboration in Education Research from Africa.
 
 **2026**
+
+5. Van Schalkwyk, F., González-Salmón, E., & Robinson-Garcia, N. (Accepted). Collaboration in Education Research from Africa. International Journal of Educational Research
 
 6. González-Salmón, E., Di Césare, V., Xiao, A., Robinson-Garcia, N. (Under review). Beyond authorship: Analyzing disciplinary patterns of contribution statements using the CRediT taxonomy. Scientometrics [Preprint](https://doi.org/10.5281/zenodo.14168888)
 

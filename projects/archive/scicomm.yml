@@ -1,0 +1,9 @@
+- path:   # o la URL que tengas (puedes quitarlo si no quieres enlace)
+  image:   # opcional
+  title: "SCI-COMM"
+  subtitle: "COVID-19: Scientific communication in times of Corona virus"
+  role: "Co-PI"
+  funder: "TU Delft COVID-19 Response Fund"
+  budget: "20,000€"
+  year_start: "2020"
+  year_end: "2021"

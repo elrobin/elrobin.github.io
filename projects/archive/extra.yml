@@ -1,0 +1,9 @@
+- path:   # o la URL que tengas (puedes quitarlo si no quieres enlace)
+  image:   # opcional
+  title: "EXTRA"
+  subtitle: "Excelencia científica y transferencia de conocimiento, ¿van de la mano? Factores organizativos, antecedentes individuales e impacto social"
+  role: "Team member"
+  funder: "Ministerio de Economía y Competitividad"
+  budget: "101,000€"
+  year_start: "2014"
+  year_end: "2016"

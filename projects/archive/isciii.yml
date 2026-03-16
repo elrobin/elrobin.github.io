@@ -1,0 +1,9 @@
+- path:   # o la URL que tengas (puedes quitarlo si no quieres enlace)
+  image:   # opcional
+  title: "ISCIII"
+  subtitle: "Evaluación del impacto científico de las redes cooperativas de investigación en biomedicina financiadas por el ISCIII"
+  role: "Postdoc"
+  funder: "Instituto de Salud Carlos III"
+  budget: "--"
+  year_start: "2011"
+  year_end: "2014"
