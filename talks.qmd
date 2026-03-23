@@ -8,7 +8,7 @@ I ocassionally get invited to give talks on my work or share my experience in ac
 
 ### 2025
 
-**Contribuciones y distribución de tareas en equipos de investigación** | Dec 10, 2025, IPP-CSIC, Madrid. [Video](https://www.youtube.com/watch?v=Gerxxe_WXds) - [Slides](https://doi.org/10.5281/zenodo.15551187)
+**Contribuciones y distribución de tareas en equipos de investigación** | Dec 10, 2025, IPP-CSIC, Madrid. [Video](https://www.youtube.com/watch?v=Gerxxe_WXds) - [Slides](https://doi.org/10.5281/zenodo.17897584)
 
 **Principles of Evaluative Bibliometrics in a DORA/CoARA Context** [in collaboration with Daniel Torres-Salinas] | Sep 11, 2025. European Summer School of Scientometrics, Granada, Spain. [Slides](https://docs.google.com/document/d/1BKW7UXt00eLzfdExhWWkzVQOBa5-6xbC2niSyLV5Uu8/edit?usp=sharing)
 

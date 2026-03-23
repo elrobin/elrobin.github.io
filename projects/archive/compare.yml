@@ -1,4 +1,4 @@
-- path:  "https://compare-project.eu" # o la URL que tengas (puedes quitarlo si no quieres enlace)
+- path:  "https://uchass.ugr.es/compare" # o la URL que tengas (puedes quitarlo si no quieres enlace)
   image:   # opcional
   title: "COMPARE"
   subtitle: "COntextual Mapping of academic Pathways Analysis for Research Evaluation"

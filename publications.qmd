@@ -24,7 +24,7 @@ css: custom.css
 
 5. Van Schalkwyk, F., González-Salmón, E., & Robinson-Garcia, N. (Accepted). Collaboration in Education Research from Africa. International Journal of Educational Research
 
-6. González-Salmón, E., Di Césare, V., Xiao, A., Robinson-Garcia, N. (Under review). Beyond authorship: Analyzing disciplinary patterns of contribution statements using the CRediT taxonomy. Scientometrics [Preprint](https://doi.org/10.5281/zenodo.14168888)
+6. González-Salmón, E., Di Césare, V., Xiao, A., Robinson-Garcia, N. (2026). Beyond authorship: Analyzing disciplinary differences of contribution statements using the CRediT taxonomy. Scientometrics [DOI](https://doi.org/10.1007/s11192-026-05582-5) - [Preprint](https://doi.org/10.5281/zenodo.14168888)
 
 6. Di Césare, V., Robinson-Garcia, N. (Accepted). What is local research? Towards a multidimensional framework linking theory and methods. Research Evaluation [Preprint](https://doi.org/10.5281/zenodo.14033472)
 
