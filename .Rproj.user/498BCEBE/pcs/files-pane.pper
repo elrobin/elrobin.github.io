@@ -1,9 +1,13 @@
 {
     "sortOrder": [
         {
+            "columnIndex": 4,
+            "ascending": false
+        },
+        {
             "columnIndex": 2,
             "ascending": true
         }
     ],
-    "path": "~/GitHub/elrobin.github.io/projects/archive"
+    "path": "~/GitHub/elrobin.github.io/posts/2026-03-26-defensa-plaza"
 }
