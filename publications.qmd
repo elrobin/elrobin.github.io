@@ -22,7 +22,7 @@ css: custom.css
 
 **2026**
 
-5. Van Schalkwyk, F., González-Salmón, E., & Robinson-Garcia, N. (Accepted). Collaboration in Education Research from Africa. International Journal of Educational Research
+5. Van Schalkwyk, F., González-Salmón, E., & Robinson-Garcia, N. (2026). Collaboration in Education Research from Africa. International Journal of Educational Research, 138, 102992, [DOI](https://doi.org/10.1016/j.ijer.2026.102992)
 
 6. González-Salmón, E., Di Césare, V., Xiao, A., Robinson-Garcia, N. (2026). Beyond authorship: Analyzing disciplinary differences of contribution statements using the CRediT taxonomy. Scientometrics [DOI](https://doi.org/10.1007/s11192-026-05582-5) - [Preprint](https://doi.org/10.5281/zenodo.14168888)
 
