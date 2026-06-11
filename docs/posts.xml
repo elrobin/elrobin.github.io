@@ -13,8 +13,10 @@
 <url>https://elrobin.github.io/privatesign.png</url>
 <title>Nicolas Robinson-Garcia</title>
 <link>https://elrobin.github.io/posts.html</link>
+<height>123</height>
+<width>144</width>
 </image>
-<generator>quarto-1.8.25</generator>
+<generator>quarto-1.5.57</generator>
 <lastBuildDate>Wed, 25 Mar 2026 23:00:00 GMT</lastBuildDate>
 <item>
   <title>I become associate professor</title>
@@ -43,7 +45,7 @@
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Slides and recording of the seminar are available
+Slides and recording of the seminar are available
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -629,6 +631,15 @@ Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Scie
   <category>gibberish</category>
   <guid>https://elrobin.github.io/posts/welcome/</guid>
   <pubDate>Sat, 23 Nov 2024 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Quarto Academic Website Examples and Tips</title>
+  <link>https://elrobin.github.io/</link>
+  <description>Examples and tips for Quarto Academic Website</description>
+  <category>news</category>
+  <guid>https://elrobin.github.io/</guid>
+  <pubDate>Mon, 14 Oct 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://elrobin.github.io/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
