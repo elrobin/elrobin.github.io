@@ -13,7 +13,7 @@ css: custom.css
 
 1. Forchino, V., Robinson-Garcia, N., & Torres-Salinas, D. (under review). What do we mean by Global South? Evidence of a construct validity problem.
 
-1. Forchino, V., Robinson-Garcia, N., & Torres-Salinas, D. (under review). Sur global: Un marco de clasificación para estudios bibliométricos
+1. Forchino, V., Robinson-Garcia, N., & Torres-Salinas, D. (under review). Sur global: Un marco de clasificación para estudios bibliométricos. [Preprint](https://doi.org/10.5281/zenodo.20643687)
 
 1. Di Césare, V., & Robinson-Garcia, N. (Under review). Presence and visibility of local journals in international scientific databases. [Preprint](https://doi.org/10.5281/zenodo.18671033) - [Data](https://doi.org/10.5281/zenodo.18298992)
 
