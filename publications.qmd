@@ -26,6 +26,7 @@ css: custom.css
 6. Di Césare, V., Robinson-Garcia, N. (Under review). What is local research? Towards a multidimensional framework linking theory and methods. [Preprint](https://doi.org/10.5281/zenodo.14033472)
 
 **2026**
+
 8. Mir-Panells, N., Robinson-Garcia, N., & Martel, M.D. (2026) Mapping trends for the third-place public library concept through systematic review and co-occurrence analysis. Infonomy, 4(4). [DOI](https://doi.org/10.3145/infonomy.26.021)
 
 8. Van Schalkwyk, F., González-Salmón, E., & Robinson-Garcia, N. (2026). Collaboration in Education Research from Africa. International Journal of Educational Research, 138, 102992, [DOI](https://doi.org/10.1016/j.ijer.2026.102992)
