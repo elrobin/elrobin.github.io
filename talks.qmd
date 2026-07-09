@@ -6,13 +6,21 @@ page-layout: article
 
 I ocassionally get invited to give talks on my work or share my experience in academia with early career researchers. Here are the slides and materiales I've used.
 
+### 2026
+
+**Técnicas esenciales para preparar una revisión de la literatura** | July 6, [II Escuela de Formación GECOS](https://gecos.usal.es/escuela2026/), Universidad de Salamanca, Salamanca. [Handbook v2.0](https://elrobin.github.io/curso-rev-bibliograficas/revision_bibliografica.pdf)
+
+**Técnicas esenciales para preparar una revisión de la literatura** | April 10, Facultad de Educación, Economía y Tecnología de Ceuta. [Handbook v1.0]() 
+
 ### 2025
 
 **Contribuciones y distribución de tareas en equipos de investigación** | Dec 10, 2025, IPP-CSIC, Madrid. [Video](https://www.youtube.com/watch?v=Gerxxe_WXds) - [Slides](https://doi.org/10.5281/zenodo.17897584)
 
+**Entre la diversidad de audiencias y la eficiencia comunicativa** |Nov 5, 2025, [I Jornada sobre el Español académico y científico internacional: Sinergias para su fomento transnacional](https://canal.ugr.es/noticia/la-universidad-de-granada-impulsa-la-diversidad-linguistica-en-la-ciencia/) Universidad de Granada, Granada. [Slides](https://elrobin.github.io/posts/2025-10-El-espa%C3%B1ol/mesa2-jornadaespa%C3%B1ol-nrg.pdf)
+
 **Principles of Evaluative Bibliometrics in a DORA/CoARA Context** [in collaboration with Daniel Torres-Salinas] | Sep 11, 2025. European Summer School of Scientometrics, Granada, Spain. [Slides](https://docs.google.com/document/d/1BKW7UXt00eLzfdExhWWkzVQOBa5-6xbC2niSyLV5Uu8/edit?usp=sharing)
 
-**Altmetrics & Open Science** | Sep 9, 2025. European Summer School of Scientometrics, Granada, Spain.. [Slides](https://doi.org/10.5281/zenodo.15658289)
+**Altmetrics & Open Science** | Sep 9, 2025. European Summer School of Scientometrics, Granada, Spain. [Slides](https://doi.org/10.5281/zenodo.15658289)
 
 **Metodologías y técnicas de evaluación: desde la investigación a la transferencia** [in collaboration with María Blanco-Palencia] | Jul 23, 2025. [Curso de verano de la UIMP: Transferencia e intercambio de conocimiento para la creación de valor social](https://ingles.uimp.es/agenda-link.html?id_actividad=660J&anyaca=2025-26), Santander, Spain.
 

@@ -23,15 +23,15 @@ css: custom.css
 
 1. Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N., & Romero-Frías, E. (2025). From science to policy: A multilevel framework for measuring institutional policy influence through Overton. [Preprint](https://zenodo.org/records/15594572)
 
-6. Di Césare, V., Robinson-Garcia, N. (Under review). What is local research? Towards a multidimensional framework linking theory and methods. [Preprint](https://doi.org/10.5281/zenodo.14033472)
-
 **2026**
+
+7. Di Césare, V., Robinson-Garcia, N. (2026). What is local research? Towards a multidimensional framework linking theory and methods. Research Evaluation. [Preprint](https://doi.org/10.5281/zenodo.14033472)
 
 8. Mir-Panells, N., Robinson-Garcia, N., & Martel, M.D. (2026) Mapping trends for the third-place public library concept through systematic review and co-occurrence analysis. Infonomy, 4(4). [DOI](https://doi.org/10.3145/infonomy.26.021)
 
 8. Van Schalkwyk, F., González-Salmón, E., & Robinson-Garcia, N. (2026). Collaboration in Education Research from Africa. International Journal of Educational Research, 138, 102992, [DOI](https://doi.org/10.1016/j.ijer.2026.102992)
 
-6. González-Salmón, E., Di Césare, V., Xiao, A., Robinson-Garcia, N. (2026). Beyond authorship: Analyzing disciplinary differences of contribution statements using the CRediT taxonomy. Scientometrics [DOI](https://doi.org/10.1007/s11192-026-05582-5) - [Preprint](https://doi.org/10.5281/zenodo.14168888)
+6. González-Salmón, E., Di Césare, V., Xiao, A., Robinson-Garcia, N. (2026). Beyond authorship: Analyzing disciplinary differences of contribution statements using the CRediT taxonomy. Scientometrics, 131, 1415-1436. [DOI](https://doi.org/10.1007/s11192-026-05582-5) - [Preprint](https://doi.org/10.5281/zenodo.14168888)
 
 5. Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E., Torres-Salinas, D. (2026). Publication patterns in the Humanities: Generational shifts and changing research agendas. Humanities & Social Sciences Communications. [DOI](https://doi.org/10.1057/s41599-026-06604-6) - [Preprint](https://doi.org/10.5281/zenodo.13969298) - [Data](https://doi.org/10.5281/zenodo.13905464) - [Code](https://github.com/Wences91/humanities_patterns)
 
