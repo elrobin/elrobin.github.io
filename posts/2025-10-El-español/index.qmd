@@ -14,7 +14,8 @@ La mesa redonda en la que participé estuvo moderada por Ana Gallego Cuiñas y t
 Os dejo más abajo mi presentación:
 
 ::: pdf-embed
-<iframe src="mesa2-jornadaespañol-nrg.pdf">
-
+<iframe src="mesa2-jornadaespañol-nrg.pdf" width="100%" height="600px" style="border:none;">
 </iframe>
+
+<a href="mesa2-jornadaespañol-nrg.pdf" download>Descargar PDF</a>
 :::

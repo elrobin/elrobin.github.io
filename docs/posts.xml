@@ -13,10 +13,8 @@
 <url>https://elrobin.github.io/privatesign.png</url>
 <title>Nicolas Robinson-Garcia</title>
 <link>https://elrobin.github.io/posts.html</link>
-<height>123</height>
-<width>144</width>
 </image>
-<generator>quarto-1.5.57</generator>
+<generator>quarto-1.8.25</generator>
 <lastBuildDate>Wed, 25 Mar 2026 23:00:00 GMT</lastBuildDate>
 <item>
   <title>I become associate professor</title>
@@ -87,7 +85,7 @@ Slides and recording of the seminar are available
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Slides and recording of the seminar are available
+<span class="screen-reader-only">Important</span>Slides and recording of the seminar are available
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -121,7 +119,7 @@ Slides and recording of the seminar are available
 </figure>
 </div>
 <p>Este texto se publicó originariamente como <a href="https://listserv.rediris.es/cgi-bin/wa?A2=IWETEL;343cd594.2511c&amp;S=">una nota para ThinkEPI lanzada a la lista de mailing IWETEL</a>. Lo reproduzco a continuación para quien sea de interés.</p>
-<p>Las acciones impulsadas por la ANECA desde que su adhesión a CoARA en 2023 no se orientan únicamente a una reforma de criterios del sistema nacional de evaluación, sino que buscan promover un cambio cultural en la ciencia española basado en valores como la inclusión, la transparencia y la responsabilidad <span class="citation" data-cites="blanco-palencia2024">(Blanco-Palencia, Paneque, and Ramos-Vielba 2024)</span>. Sin embargo, cualquier debate sobre estas cuestiones tiene inevitablemente a replegarse en torno a criterios, baremos e indicadores. Así, se confunde la naturaleza de estos indicadores, mezclando aquellos dirigidos a medir el impacto científico (p.&nbsp;ej., citas), con los que evalúan la visibilidad (p.&nbsp;ej., indexación o factores de impacto), o la accesibilidad (p.&nbsp;ej., acceso abierto), presentándolos como criterios antagónicos cuando en realidad responden a lógicas distintas.</p>
+<p>Las acciones impulsadas por la ANECA desde que su adhesión a CoARA en 2023 no se orientan únicamente a una reforma de criterios del sistema nacional de evaluación, sino que buscan promover un cambio cultural en la ciencia española basado en valores como la inclusión, la transparencia y la responsabilidad <span class="citation" data-cites="blanco-palencia2024">(Blanco-Palencia et al. 2024)</span>. Sin embargo, cualquier debate sobre estas cuestiones tiene inevitablemente a replegarse en torno a criterios, baremos e indicadores. Así, se confunde la naturaleza de estos indicadores, mezclando aquellos dirigidos a medir el impacto científico (p.&nbsp;ej., citas), con los que evalúan la visibilidad (p.&nbsp;ej., indexación o factores de impacto), o la accesibilidad (p.&nbsp;ej., acceso abierto), presentándolos como criterios antagónicos cuando en realidad responden a lógicas distintas.</p>
 <p>Esta confusión responde a una excesiva simplificación de lo que es un proceso complejo del que participan múltiples actores. Actores que inciden en distintos momentos en los resultados del proceso evaluativo. También contribuye a la confusión una definición vaga de los objetivos que pretende alcanzar cada una de las herramientas evaluativas de las que dispone el sistema español (sexenios, acreditaciones) que además ha ido mutando con el tiempo (complemento salarial, horas de docencia, etc.).</p>
 <p>En esta nota me gustaría proponer un marco analítico general que aporte claridad y dé una visión holística a la hora de analizar el éxito de la reforma evaluativa e identificar los puntos críticos o de mayor tensión. Con ello espero que este marco enriquezca las discusiones y lleven a un diálogo útil, más alejado de los instrumentos (baremos e indicadores) y centrado en los procesos. Este modelo se basa en cuatro niveles de implementación: el nivel estratégico, en el que se desarrollan los objetivos generales de la reforma; el nivel operativo o procedimental, en el que se diseña el sistema de evaluación y las herramientas a emplear; el nivel de implementación, que tiene lugar en el momento en el que se aplican dichos instrumentos; y, por último, el nivel de resultados, que aborda los efectos observables de dicha reforma. A continuación, detallo el marco y describo detenidamente cada uno de los niveles.</p>
 <section id="delegación-y-control" class="level2">
@@ -163,9 +161,9 @@ Slides and recording of the seminar are available
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-blanco-palencia2024" class="csl-entry">
-Blanco-Palencia, María, Pilar Paneque, and Irene Ramos-Vielba. 2024. <span>“Plan de Acción 2024-2027. En El Marco de La Coalición Para El Avance de La Evaluación de La Investigación (CoARA).”</span> <a href="https://www.aneca.es/documents/20123/205902/Plan+de+Acción+CoARA_ANECA-final.pdf">https://www.aneca.es/documents/20123/205902/Plan+de+Acción+CoARA_ANECA-final.pdf</a>.
+Blanco-Palencia, María, Pilar Paneque, and Irene Ramos-Vielba. 2024. <em>Plan de Acción 2024-2027. En El Marco de La Coalición Para El Avance de La Evaluación de La Investigación (CoARA)</em>. <a href="https://www.aneca.es/documents/20123/205902/Plan+de+Acción+CoARA_ANECA-final.pdf">https://www.aneca.es/documents/20123/205902/Plan+de+Acción+CoARA_ANECA-final.pdf</a>.
 </div>
 <div id="ref-lamont2009" class="csl-entry">
 Lamont, Michèle. 2009. <em>How Professors Think</em>. Harvard University Press.
@@ -197,8 +195,9 @@ Torres-Salinas, Daniel, Enrique Orduña-Malea, Ángel Delgado-Vázquez, Juan Gor
 <p>La mesa redonda en la que participé estuvo moderada por Ana Gallego Cuiñas y también participaron María Isabel Cabrera, presidenta de la UNE y directora de la Editorial de la UGR, y Christine Kelly-Vereda, directora del Consortium for Advanced Studies Abroad (CASA). En ella, tuve la oportunidad de presentar los resultados de <a href="https://doi.org/10.5281/zenodo.13969298">nuestro estudio sobre patrones de publicación en las Humanidades</a>. Este paper ya he tenido la oportunidad de presentarlo también dentro de la serie de webinarios organizados por la <a href="https://www.helsinki-initiative.org/en/events/4th-helsinki-initiative-webinar-multilingualism-scholarly-communication">Helsinki Initiative on Multilingualism in Scholarly Communication</a> (<a href="https://doi.org/10.5281/zenodo.15551187">aquí las diapos</a>).</p>
 <p>Os dejo más abajo mi presentación:</p>
 <div class="pdf-embed">
-<iframe src="mesa2-jornadaespañol-nrg.pdf">
+<iframe src="mesa2-jornadaespañol-nrg.pdf" width="100%" height="600px" style="border:none;">
 </iframe>
+<p><a href="mesa2-jornadaespañol-nrg.pdf" download="">Descargar PDF</a></p>
 </div>
 
 
@@ -231,24 +230,24 @@ Torres-Salinas, Daniel, Enrique Orduña-Malea, Ángel Delgado-Vázquez, Juan Gor
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-gauffriau2020" class="csl-entry">
-Gauffriau, Marianne. 2020. <span>“Counting Methods Introduced into the Bibliometric Research Literature 1970-2018: A Review.”</span> <em>arXiv:2012.04986 [Cs]</em>, December. <a href="http://arxiv.org/abs/2012.04986">http://arxiv.org/abs/2012.04986</a>.
+Gauffriau, Marianne. 2020. <span>“Counting Methods Introduced into the Bibliometric Research Literature 1970-2018: A Review.”</span> <em>arXiv:2012.04986 [Cs]</em>, December 9. <a href="http://arxiv.org/abs/2012.04986">http://arxiv.org/abs/2012.04986</a>.
 </div>
 <div id="ref-gonzález-salmón" class="csl-entry">
-González-Salmón, Elvira, Victoria Di Césare, Aoxia Xiao, and Nicolas Robinson-Garcia. n.d. <span>“Beyond authorship: Analyzing disciplinary patterns of contribution statements using the CRediT taxonomy.”</span> <a href="https://doi.org/10.5281/zenodo.14168888">https://doi.org/10.5281/zenodo.14168888</a>.
+González-Salmón, Elvira, Victoria Di Césare, Aoxia Xiao, and Nicolas Robinson-Garcia. n.d. <em>Beyond authorship: Analyzing disciplinary patterns of contribution statements using the CRediT taxonomy</em>. <a href="https://doi.org/10.5281/zenodo.14168888">https://doi.org/10.5281/zenodo.14168888</a>.
 </div>
 <div id="ref-robinson-garcia2020" class="csl-entry">
-Robinson-Garcia, Nicolas, Rodrigo Costas, Cassidy R Sugimoto, Vincent Larivière, and Gabriela F Nane. 2020. <span>“Task Specialization Across Research Careers.”</span> Edited by Peter Rodgers and Allison Morgan. <em>eLife</em> 9 (October): e60586. <a href="https://doi.org/10.7554/eLife.60586">https://doi.org/10.7554/eLife.60586</a>.
+Robinson-Garcia, Nicolas, Rodrigo Costas, Cassidy R Sugimoto, Vincent Larivière, and Gabriela F Nane. 2020. <span>“Task Specialization Across Research Careers.”</span> <em>eLife</em> 9 (October): e60586. <a href="https://doi.org/10.7554/eLife.60586">https://doi.org/10.7554/eLife.60586</a>.
 </div>
 <div id="ref-robinson-garcia2025" class="csl-entry">
-Robinson-Garcia, Nicolas, Julia Melkers, Alick Bird, and Erin Leahey. 2025. <span>“Exploring the social organization of the sciences,”</span> May. <a href="https://doi.org/10.5281/zenodo.15479476">https://doi.org/10.5281/zenodo.15479476</a>.
+Robinson-Garcia, Nicolas, Julia Melkers, Alick Bird, and Erin Leahey. 2025. <em>Exploring the social organization of the sciences</em>. May 21. <a href="https://doi.org/10.5281/zenodo.15479476">https://doi.org/10.5281/zenodo.15479476</a>.
 </div>
 <div id="ref-walsh2015" class="csl-entry">
-Walsh, John P., and You-Na Lee. 2015. <span>“The Bureaucratization of Science.”</span> <em>Research Policy</em> 44 (8): 1584–1600. <a href="https://doi.org/10.1016/j.respol.2015.04.010">https://doi.org/10.1016/j.respol.2015.04.010</a>.
+Walsh, John P., and You-Na Lee. 2015. <span>“The Bureaucratization of Science.”</span> <em>Research Policy</em> 44 (8): 1584–600. <a href="https://doi.org/10.1016/j.respol.2015.04.010">https://doi.org/10.1016/j.respol.2015.04.010</a>.
 </div>
 <div id="ref-whitley2000" class="csl-entry">
-Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Sciences</em>. 2nd ed. Oxford: Oxford University Press.
+Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Sciences</em>. 2nd ed. Oxford University Press.
 </div>
 </div></section></div> ]]></description>
   <category>gibberish</category>
@@ -284,7 +283,7 @@ Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Scie
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-lamont2009" class="csl-entry">
 Lamont, Michèle. 2009. <em>How Professors Think</em>. Harvard University Press.
 </div>
@@ -310,13 +309,13 @@ Lamont, Michèle. 2009. <em>How Professors Think</em>. Harvard University Press.
 </div>
 <p>Last Monday I had the chance to participate as an invited speaker in the I International Edition of the <a href="https://www.bibliometrix.org/home/index.php/school/sssm-2025/sssm2023-description"><strong>Summer School in Science Mapping</strong></a> organized by research team led by Massimo Aria and Corrado Cuccurullo. These are the people behind the wonderful R package <a href="https://www.bibliometrix.org/home/index.php">Bibliometrix</a>, and now also <a href="https://github.com/massimoaria/tall">TaLL</a> (for text analysis). It is a really nice and smart group of people, doing a fantastic job on the development of tools that can be used both, for people with and w/o programming skills. I have been in touch with them for several years, as we have invited them in several occasions to the ESSS to introduce students to their software, and even Dani created a <a href="https://www.youtube.com/watch?v=CoRcJg15XVA">videotutorial in Spanish</a> for the Biblioshiny interface and I’ve used it for my <a href="https://zenodo.org/records/7556999">teaching</a>.</p>
 <p>In this occasion I was invited to talk about <strong>Altmetrics and Open Science</strong>, based on previous lectures I periodically give at the ESSS. I took the occasion to improve my materials, update them and improve the narrative. The lecture went well with an interesting follow up given the multidisciplinary background of the students.</p>
-<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout callout-style-default callout-tip callout-empty-content callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<a href="https://doi.org/10.5281/zenodo.15658289">Download the slides here</a>
+<span class="screen-reader-only">Tip</span><a href="https://doi.org/10.5281/zenodo.15658289">Download the slides here</a>
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -347,13 +346,13 @@ Lamont, Michèle. 2009. <em>How Professors Think</em>. Harvard University Press.
 <p><img src="https://elrobin.github.io/posts/30-05-2025/images/portada.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
-<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout callout-style-default callout-important callout-empty-content callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<a href="https://zenodo.org/records/15551106">Download here</a>
+<span class="screen-reader-only">Important</span><a href="https://zenodo.org/records/15551106">Download here</a>
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -471,9 +470,9 @@ Lamont, Michèle. 2009. <em>How Professors Think</em>. Harvard University Press.
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-whitley2000" class="csl-entry">
-Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Sciences</em>. 2nd ed. Oxford: Oxford University Press.
+Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Sciences</em>. 2nd ed. Oxford University Press.
 </div>
 </div></section></div> ]]></description>
   <category>talks</category>
@@ -549,7 +548,7 @@ Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Scie
 <p>Here some notes for some of the papers I am reading.</p>
 <p><strong>Cronin, B. (2001). Hyperauthorship: A postmodern perversion or evidence of a structural shift in scholarly communication practices? <em>Journal of the American Society for Information Science and Technology</em>, <em>52</em>(7), 558–569. <a href="https://doi.org/10.1002/asi.1097" class="uri">https://doi.org/10.1002/asi.1097</a></strong></p>
 <p>He focuses on the issues arising in biomedical sciences with regard to honorary authorship and authorship inflation. Takes a historical perspective, from the birth of scientific authorship to the development of the current scientific publishing system. It discusses disciplinary differences on authorship order. Authorship is tied to credit and responsibility, but also is linked with an individualistic notion and not a collective endeavour which is an anachronistic conception of science.</p>
-<p>Collaboration becomes a reality especially after WWII, with the expansion of ‘big science’ which required funding, infrastructure and coordination and management. Currently it is the norm, with some fields and projects requiring the development of an internal structure and division of labour while others are more informal levels of collaboration. He mentions the suggestion by <span class="citation" data-cites="rennie1997">(Rennie, Yank, and Emanuel 1997)</span> of abandoning the concept of author in favour of alternatives such as contributor or guarantor. As we know this proposal later gained track within the biomedical sciences with the <a href="https://credit.niso.org/">CRediT taxonomy</a> becoming a NISO standard more than 15 years later <span class="citation" data-cites="allen2014">(Allen et al. 2014)</span>. This has to do with the inefficacy of the initial solution proposed by ICMJE which was to make all authors responsible of the complete content of a paper.</p>
+<p>Collaboration becomes a reality especially after WWII, with the expansion of ‘big science’ which required funding, infrastructure and coordination and management. Currently it is the norm, with some fields and projects requiring the development of an internal structure and division of labour while others are more informal levels of collaboration. He mentions the suggestion by <span class="citation" data-cites="rennie1997">(Rennie et al. 1997)</span> of abandoning the concept of author in favour of alternatives such as contributor or guarantor. As we know this proposal later gained track within the biomedical sciences with the <a href="https://credit.niso.org/">CRediT taxonomy</a> becoming a NISO standard more than 15 years later <span class="citation" data-cites="allen2014">(Allen et al. 2014)</span>. This has to do with the inefficacy of the initial solution proposed by ICMJE which was to make all authors responsible of the complete content of a paper.</p>
 <p>Still, Cronin is critical with this proposal because it is still difficult to enforce responsibility in cases of what he terms <em>hyperauthorship</em>. He entertains the idea of using the ‘Acknowledgements’ section for contributions of second order, but recognizes also its limitations. Finally, he discusses the HEP model where all the recognition and authorship discussions are ridden internally, while an external observer would be incapable of administrating credit through authorship.</p>
 <p><strong>Walsh, J. P., &amp; Lee, Y.-N. (2015). The bureaucratization of science. <em>Research Policy</em>, <em>44</em>(8), 1584–1600. <a href="https://doi.org/10.1016/j.respol.2015.04.010" class="uri">https://doi.org/10.1016/j.respol.2015.04.010</a></strong></p>
 <p>This paper examines how scientific teams organize internally based on their size, interdisciplinarity and task interdependence. It uses organizational theory (similarly to <span class="citation" data-cites="whitley2000">(Whitley 2000)</span>) and emphasizes the importance of internal structure to ensure a successful performance. They make some interesting points, such as the changes on the training model of scientists from the apprentice-model kind of model suggested by <span class="citation" data-cites="laudel2008">(Laudel and Gläser 2008)</span> (although not cited in the paper) to an industrialized model of scientific careers with more of a professor-employer kind of model. Again they bring up the misalignment between credit allocation and multiauthorship.</p>
@@ -557,7 +556,7 @@ Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Scie
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-allen2014" class="csl-entry">
 Allen, Liz, Jo Scott, Amy Brand, Marjorie Hlava, and Micah Altman. 2014. <span>“Publishing: Credit Where Credit Is Due.”</span> <em>Nature</em> 508 (7496): 312–13. <a href="https://doi.org/10.1038/508312a">https://doi.org/10.1038/508312a</a>.
 </div>
@@ -568,7 +567,7 @@ Laudel, Grit, and Jochen Gläser. 2008. <span>“From Apprentice to Colleague: T
 Rennie, Drummond, Veronica Yank, and Linda Emanuel. 1997. <span>“When Authorship Fails: A Proposal to Make Contributors Accountable.”</span> <em>JAMA</em> 278 (7): 579–85. <a href="https://doi.org/10.1001/jama.1997.03550070071041">https://doi.org/10.1001/jama.1997.03550070071041</a>.
 </div>
 <div id="ref-whitley2000" class="csl-entry">
-Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Sciences</em>. 2nd ed. Oxford: Oxford University Press.
+Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Sciences</em>. 2nd ed. Oxford University Press.
 </div>
 </div></section></div> ]]></description>
   <category>reviews</category>
@@ -588,7 +587,7 @@ Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Scie
 <figure class="figure">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><a href="https://www.nature.com/articles/d41586-018-06185-8"><img src="https://elrobin.github.io/posts/24-11-2024/multiauthorship.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="423" alt="Illustration from Davis Parkins, Source: Nature"></a></p>
+<p><a href="https://www.nature.com/articles/d41586-018-06185-8"><img src="https://elrobin.github.io/posts/24-11-2024/multiauthorship.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="423"></a></p>
 </figure>
 </div>
 <figcaption>Illustration from Davis Parkins, Source: Nature</figcaption>
@@ -631,15 +630,6 @@ Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Scie
   <category>gibberish</category>
   <guid>https://elrobin.github.io/posts/welcome/</guid>
   <pubDate>Sat, 23 Nov 2024 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://elrobin.github.io/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
-  <category>news</category>
-  <guid>https://elrobin.github.io/</guid>
-  <pubDate>Mon, 14 Oct 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://elrobin.github.io/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
