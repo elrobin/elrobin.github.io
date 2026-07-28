@@ -86,6 +86,9 @@ I teach in a practical way, encouraging participation, critical thinking, and op
 
 ### Past courses
 
+- **Técnicas esenciales para preparar una revisión de la literatura**
+  - July 5, 2026. 2h. GECOS, Universidad de Salamanca [Material](https://doi.org/10.5281/zenodo.21257404)
+  - April 10, 2026. 4h. Campus de Ceuta, Universidad de Granada [Material](https://doi.org/10.5281/zenodo.21257136)
 - **CV and social media profiles** June 26, 2023. 3h. INGENIO (CSIC-UPV)
 - **Diseño y aplicación de análisis de bibliométricos**. January 16-19, 2023. 12h. Universidad de Costa Rica. [Materials](https://doi.org/10.5281/zenodo.7556999)
 - **Elaboración del CV en entornos digitales** 2021-2023. 10h. Social Sciences Doctoral Programme, University of Granada.
