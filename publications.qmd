@@ -27,7 +27,7 @@ css: custom.css
 
 **2026**
 
-8. Di Césare, V., Robinson-Garcia, N. (2026). What is local research? Towards a multidimensional framework linking theory and methods. Research Evaluation. [Preprint](https://doi.org/10.5281/zenodo.14033472)
+8. Di Césare, V., Robinson-Garcia, N. (2026). What is local research? Towards a multidimensional framework linking theory and methods. Research Evaluation, 35, rvag045. [DOI](https://doi.org/10.1093/reseval/rvag0450) - [Preprint](https://doi.org/10.5281/zenodo.14033472) - [Data](https://zenodo.org/records/172782970)
 
 8. Mir-Panells, N., Robinson-Garcia, N., & Martel, M.D. (2026) Mapping trends for the third-place public library concept through systematic review and co-occurrence analysis. Infonomy, 4(4). [DOI](https://doi.org/10.3145/infonomy.26.021)
 
