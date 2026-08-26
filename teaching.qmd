@@ -10,79 +10,18 @@ I teach in a practical way, encouraging participation, critical thinking, and op
 
 ### Undergraduate teaching
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/doctrad.jpg)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-**Documentación Aplicada a la Traducción** 
-
-2020-present | [Materials](https://sites.google.com/go.ugr.es/nrobinsongarcia-docencia/documentaci%C3%B3n-aplicada-a-la-traducci%C3%B3n)
-
-:::
-
-:::
-
+- **Análisis y Evaluación de los Sistemas de Documentación para las Empresas**. 2026-present
+- **Nuevas Tendencias en los Servicios de Información**. 2026-present
+- **Documentación Aplicada a la Traducción**. 2020-present | [Content](https://sites.google.com/go.ugr.es/nrobinsongarcia-docencia/documentaci%C3%B3n-aplicada-a-la-traducci%C3%B3n)
 
 ### Master's teaching 
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/metricas.jpg)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-**Nuevas métricas de la ciencia en red**
-
-2019-present
-
-:::
-
-:::
-
+- **Nuevas métricas de la ciencia en red**. 2019-present | [Content](https://docs.google.com/document/d/1WHZDao5eQwVRT-jI8Fr8aZBXWMp0TohGVnkHXDtaD_A/edit?usp=sharing)
 
 ### Doctoral teaching
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/computacionales.png)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-**Herramientas Computacionales para el Análisis y Visualización de Datos en CC Sociales**
-
-2024-present
-
-:::
-
-:::
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/escritura.jpg)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-**Cómo escribir y publicar artículos científicos en CC Sociales y Humanidades**
-
-2022-present
-
-:::
-
-:::
+- **Herramientas Computacionales para el Análisis y Visualización de Datos en CC Sociales**. 2024-present
+- **Cómo escribir y publicar artículos científicos en CC Sociales y Humanidades**. 2022-present | [Content](https://elrobin.github.io/escritura-academica/)
 
 ### Past courses
 
