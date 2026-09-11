@@ -8,9 +8,13 @@ I ocassionally get invited to give talks on my work or share my experience in ac
 
 ### 2026
 
-**Técnicas esenciales para preparar una revisión de la literatura** | July 6, [II Escuela de Formación GECOS](https://gecos.usal.es/escuela2026/), Universidad de Salamanca, Salamanca. [Handbook v2.0](https://elrobin.github.io/curso-rev-bibliograficas/revision_bibliografica.pdf)
+**Visualization tools: Overview and examples** | Sept 2, 2026. European Summer School for Scientometrics, Leuven, Belgium. [Slides](https://doi.org/10.5281/zenodo.22703624)
 
-**Técnicas esenciales para preparar una revisión de la literatura** | April 10, Facultad de Educación, Economía y Tecnología de Ceuta. [Handbook v1.0]() 
+**Altmetrics & Open Science** | Sep 1, 2026. European Summer School for Scientometrics, Leuven, Belgium. [Slides](https://doi.org/10.5281/zenodo.15658289)
+
+**Técnicas esenciales para preparar una revisión de la literatura** | July 6, [II Escuela de Formación GECOS](https://gecos.usal.es/escuela2026/), Universidad de Salamanca, Salamanca. [Handbook v2.0](https://doi.org/10.5281/zenodo.21257404)
+
+**Técnicas esenciales para preparar una revisión de la literatura** | April 10, Facultad de Educación, Economía y Tecnología de Ceuta. [Handbook v1.0](https://doi.org/10.5281/zenodo.21257136) 
 
 ### 2025
 

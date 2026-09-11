@@ -17,15 +17,15 @@ css: custom.css
 
 3.  Forchino, V., Robinson-Garcia, N., & Torres-Salinas, D. (under review). Sur global: Un marco de clasificación para estudios bibliométricos. [Preprint](https://doi.org/10.5281/zenodo.20643687)
 
-4.  Di Césare, V., & Robinson-Garcia, N. (Under review). Presence and visibility of local journals in international scientific databases. [Preprint](https://doi.org/10.5281/zenodo.18671033) - [Data](https://doi.org/10.5281/zenodo.18298992)
-
 5.  Herrero-Solana, V., González-Salmón, E., & Robinson-Garcia, N. (Under review). Inferring gender from author names with local LLMs: A multi-model evaluation. [Preprint](https://doi.org/10.5281/zenodo.18610103)
 
 6.  González-Salmón, E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N., & Nane, G.F. (Under review). How to achieve gender parity in science? Providing global evidence on key educational and economic drivers. [Preprint](https://zenodo.org/records/18412269)
 
 **2026**
 
-7.  Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N., & Romero-Frías, E. (2026). From science to policy: A multilevel framework for measuring institutional policy influence through Overton. Quantitative Science Studies. [Preprint](https://zenodo.org/records/15594572)
+6.  Di Césare, V., & Robinson-Garcia, N. (Under review). Presence and visibility of local journals in international scientific databases. Scientometrics. [Preprint](https://doi.org/10.5281/zenodo.18671032) - [Data](https://doi.org/10.5281/zenodo.18298992)
+
+7.  Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N., & Romero-Frías, E. (2026). From science to policy: A multilevel framework for measuring institutional policy influence through Overton. Quantitative Science Studies. [Preprint](https://doi.org/10.5281/zenodo.15594571)
 
 8.  Di Césare, V., Robinson-Garcia, N. (2026). What is local research? Towards a multidimensional framework linking theory and methods. Research Evaluation, 35, rvag045. [DOI](https://doi.org/10.1093/reseval/rvag0450) - [Preprint](https://doi.org/10.5281/zenodo.14033472) - [Data](https://zenodo.org/records/172782970)
 
