@@ -23,7 +23,7 @@ css: custom.css
 
 **2026**
 
-6.  Di Césare, V., & Robinson-Garcia, N. (Under review). Presence and visibility of local journals in international scientific databases. Scientometrics. [Preprint](https://doi.org/10.5281/zenodo.18671032) - [Data](https://doi.org/10.5281/zenodo.18298992)
+6.  Di Césare, V., & Robinson-Garcia, N. (2026). Presence and visibility of local journals in international scientific databases. Scientometrics. [DOI](https://doi.org/10.1007/s11192-026-05810-y) - [Preprint](https://doi.org/10.5281/zenodo.18671032) - [Data](https://doi.org/10.5281/zenodo.18298992)
 
 7.  Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N., & Romero-Frías, E. (2026). From science to policy: A multilevel framework for measuring institutional policy influence through Overton. Quantitative Science Studies. [Preprint](https://doi.org/10.5281/zenodo.15594571)
 
@@ -269,11 +269,15 @@ La imagen del científico aislado en su laboratorio pertenece al pasado. Hoy, la
 
 **2026**
 
-1.Ramos-Vielba, I., Robinson-Garcia, N., Paneque, P., Quicios, S. (2026). Transformative Monitoring, Evaluation and Learning in Research Assessment Reform: Experimental Insights from the Spanish Context. [EU Spri 2026](https://euspri2026.webs.upv.es/), Jun 10-12, Valencia, Spain.
+1. Di Césare, V., Robinson-Garcia, N., & Costas, R. (2026). Operationalising journals' communication functions through citation patterns and local dimensions. 30th Annual International Conference on Science and Technology Indicators (STI-ENID), Sept 9-11, Antwerp, Belgium. https://doi.org/10.5281/zenodo.22745068
+
+1. Du, L., Melkers, J., & Robinson-Garcia, N. (2026). They Collaborate, But Do They “Co-Produce?” Examining Academic Scientists’ Collaborative Patterns with Government in the United States. 
+
+1. Ramos-Vielba, I., Robinson-Garcia, N., Paneque, P., Quicios, S. (2026). Transformative Monitoring, Evaluation and Learning in Research Assessment Reform: Experimental Insights from the Spanish Context. [EU Spri 2026](https://euspri2026.webs.upv.es/), Jun 10-12, Valencia, Spain. 30th Annual International Conference on Science and Technology Indicators (STI-ENID), Sept 9-11, Antwerp, Belgium. https://virtual.oxfordabstracts.com/event/76329/submission/302
 
 **2025**
 
-2.  Di Césare, V., Costas, R., & Robinson-Garcia, N. (2025). Testing the knowledge bridging function of non-mainstream journals in scholarly Communication. 29th International Conference on Science, Technology and Innovation Indicators [STI 2025](https://www.stienid2025.org/), Sep 2-5, Bristol, United Kingdom.
+4.  Di Césare, V., Costas, R., & Robinson-Garcia, N. (2025). Testing the knowledge bridging function of non-mainstream journals in scholarly Communication. 29th International Conference on Science, Technology and Innovation Indicators [STI 2025](https://www.stienid2025.org/), Sep 2-5, Bristol, United Kingdom.
 
 3.  González-Salmón, E. & Robinson-Garcia, N. (2025). Contagion of disrespect: Is there an inverse relation between gender parity and citation impact? \[Poster\] 29th International Conference on Science, Technology and Innovation Indicators [STI 2025](https://www.stienid2025.org/), Sep 2-5, Bristol, United Kingdom.
 
@@ -285,7 +289,7 @@ La imagen del científico aislado en su laboratorio pertenece al pasado. Hoy, la
 
 **2024**
 
-7.  Di Césare, V., Robinson-Garcia (2024). What is local research? A theoretical and operational framework \[Poster\]. Nordic Workshop on Bibliometrics & Research Policy 2024. Nov 20-22, Reykjavík, Iceland.
+9.  Di Césare, V., Robinson-Garcia (2024). What is local research? A theoretical and operational framework \[Poster\]. Nordic Workshop on Bibliometrics & Research Policy 2024. Nov 20-22, Reykjavík, Iceland.
 
 8.  Robinson-Garcia, N., van Schalkwyk, F., Tirado, M.M., Pham, V., Melkers, J. (2024). What’s in a team? Variability and discrepancies in the conceptualization and operationalization of scientific teams. 28th International Conference on Science, Technology and Innovation Indicators [STI 2024](https://sti2024.org/), Sep 18-20, Berlin, Germany. [DOI](https://zenodo.org/doi/10.5281/zenodo.12726920)
 
@@ -309,7 +313,7 @@ La imagen del científico aislado en su laboratorio pertenece al pasado. Hoy, la
 
 **2023**
 
-18. Robinson-Garcia, N., Torres-Salinas, D., Vargas-Quesada, B., Chinchilla-Rodriguez, Z., Gorraiz, J. (2023) Errors of measurement in scientometrics: Identification and calculation of systematic errors. ISSI Conference 2013, Bloomington, Indiana (United States). July 2-5, 2023 [Paper](https://zenodo.org/record/8116577) - [Slides](https://docs.google.com/presentation/d/11D215XHhu9OnbKY_twNBAMGSrK_6oxL2-DCxQ3y_h4Y/edit?usp=sharing)
+20. Robinson-Garcia, N., Torres-Salinas, D., Vargas-Quesada, B., Chinchilla-Rodriguez, Z., Gorraiz, J. (2023) Errors of measurement in scientometrics: Identification and calculation of systematic errors. ISSI Conference 2013, Bloomington, Indiana (United States). July 2-5, 2023 [Paper](https://zenodo.org/record/8116577) - [Slides](https://docs.google.com/presentation/d/11D215XHhu9OnbKY_twNBAMGSrK_6oxL2-DCxQ3y_h4Y/edit?usp=sharing)
 
 19. Melkers, J., Welch, E., Morales Tirado, M., Woolley, R., Robinson-Garcia, N., Klein, A. Social innovation for resilience in international collaborative research. 27th International Conference on Science, Technology and Innovation Indicators (STI 2023). [Paper](https://dapp.orvium.io/deposits/6443009fc93d17c257de27ae/view)
 
@@ -321,13 +325,13 @@ La imagen del científico aislado en su laboratorio pertenece al pasado. Hoy, la
 
 **2022**
 
-23. Chinchilla-Rodríguez, Z., Costas, R., Larivière, V., Robinson-Garcia, N. & Sugimoto, C.R.) The relationship between corresponding authorship and author position. STI 2022 “From Global Indicators to Local Applications” Conference Proceedings, Sept, 7-9, Granada (Spain) [Paper](https://doi.org/10.5281/zenodo.6957638)
+25. Chinchilla-Rodríguez, Z., Costas, R., Larivière, V., Robinson-Garcia, N. & Sugimoto, C.R.) The relationship between corresponding authorship and author position. STI 2022 “From Global Indicators to Local Applications” Conference Proceedings, Sept, 7-9, Granada (Spain) [Paper](https://doi.org/10.5281/zenodo.6957638)
 
 24. Escabias, M. & Robinson-Garcia, N. The relation between contribution statements and academic age. STI 2022 “From Global Indicators to Local Applications” Conference Proceedings, Sept, 7-9, Granada (Spain) [Paper](https://zenodo.org/record/6974732)
 
 **2021**
 
-25. Arroyo-Machado, W. and Robinson-Garcia, N. (2021). Big Data and the birth of a Science of Humanities. The 1st International Conference on Humanities and Big Data in Ibero-America: Methodological issues and practical applications. Zenodo. doi:10.5281/zenodo.5793176 [Slides](https://doi.org/10.5281/zenodo.5793176)
+27. Arroyo-Machado, W. and Robinson-Garcia, N. (2021). Big Data and the birth of a Science of Humanities. The 1st International Conference on Humanities and Big Data in Ibero-America: Methodological issues and practical applications. Zenodo. doi:10.5281/zenodo.5793176 [Slides](https://doi.org/10.5281/zenodo.5793176)
 
 26. D’Este, P., Robinson-Garcia, N. Interdisciplinary research and the societal visibility of science: The advantages of spanning multiple and distant fields. EU-SPRI 2021 Conference, Jun. 9-11, Oslo (Norway) \[Online event\].
 
@@ -337,7 +341,7 @@ La imagen del científico aislado en su laboratorio pertenece al pasado. Hoy, la
 
 **2019**
 
-29. Robinson-Garcia, N., Costas, R., Sugimoto, C.R., Larivière, V., Nane, T. The effects of specialization on research careers. International Conference Evaluating Knowledge Transfer and Impact, Dec. 12-13, 2019, Córdoba (Spain). [Slides](https://doi.org/10.5281/zenodo.3580984)
+31. Robinson-Garcia, N., Costas, R., Sugimoto, C.R., Larivière, V., Nane, T. The effects of specialization on research careers. International Conference Evaluating Knowledge Transfer and Impact, Dec. 12-13, 2019, Córdoba (Spain). [Slides](https://doi.org/10.5281/zenodo.3580984)
 
 30. D’Este, P., Ramos-Vielba, I., Robinson-Garcia, N., Woolley, R. Aligning scientific impact and societal relevance: The roles of academic engagement and interdisciplinary research. Atlanta Conference on Science and Innovation Policy, Oct. 14-16, Atlanta (United States). [Slides](https://www.slideshare.net/figaro/aligning-scientific-impact-and-societal-relevance-the-roles-of-academic-engagement-and-interdisciplinary-research)
 
