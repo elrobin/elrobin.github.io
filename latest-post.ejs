@@ -1,0 +1,9 @@
+```{=html}
+<% for (const item of items) { %>
+<div class="latest-news">
+  <span class="latest-news-label">Latest news</span>
+  <a href="<%- item.path %>"><%= item.title %></a>
+  <span class="latest-news-date"><%= item.date %></span>
+</div>
+<% } %>
+```

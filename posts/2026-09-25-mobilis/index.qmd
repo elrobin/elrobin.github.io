@@ -1,0 +1,20 @@
+---
+title: "MOBILIS - EU funds a project on scientific mobility and research trajectories"
+author: "N. Robinosn-Garcia"
+date: "2026-09-25"
+categories: [news]
+---
+
+[![Photo by 姚 忠兵 on Unsplash](people-travelling.jpg){fig-align="center"}](https://unsplash.com/@xxgkz)
+
+We are happy to announce that we've been granted under the European Commission's **Horizon Europe** program, funding for the project **MOBILIS** – **Understanding the determinants and gains of international mobility**.
+
+MOBILIS is led by the [Danish Centre for Studies in Research and Research Policy](https://ps.au.dk/en/research/research-centres/danish-centre-for-studies-in-research-and-research-policy) from Aarhus University (Denmark), with a consortium that includes the [CWTS](https://www.universiteitleiden.nl/en/social-behavioural-sciences/cwts) at Leiden University (Netherlands) and the [Department on Research System and Science Dynamics](https://www.dzhw.eu/en/forschung/system) at the German Centre for Higher Education Research and Science Studies (DZHW). At the University of Granada, the [Unit for Computational Humanities and Social Sciences (U\^CHASS)](https://uchass.ugr.es) will be leading the initiative along with [Medialab UGR](https://medialab.ugr.es).
+
+# Summary of the project
+
+The overall objective of MOBILIS is to produce new knowledge and insights on the interaction and dynamics of research career networks and international research careers in EU countries, their role in shaping international collaboration and how policy can support improved research careers and their impact in the European Research Area (ERA). Key EU policy documents emphasize the importance of international research careers for the ERA and of creating conditions that both improve the attractiveness of research careers in the EU and their benefits for the EU Research & Innovation (R&I) ecosystem. These stress the need to monitor research careers, improve recruitment and working conditions, develop infrastructure and to promote intersectoral research careers. To address these needs, MOBILIS will utilize a systems-based, multi-methods approach focusing on four specific objectives that frame and guide the work in the project. First, MOBILIS will will combine large data sources (e.g., ORCID, CORDIS, Dimensions, OpenAlex), scientometric applications, and advanced data modelling and analytics to map and monitor international flows of researchers, their knowledge, skills, resources, and careers. Second, MOBILIS will launch large-scale surveys to identify and quantify the factors shaping attraction, retention, career progression, and sectoral mobility of international researchers in the EU. Third, MOBILIS will analyse how international researchers in the EU influence knowledge flows, research collaboration, and research career trajectories. Fourth, based on project results, MOBILIS will develop policy rec-ommendations to improve the attractiveness of research careers in the EU.
+
+::: {.callout-important appearance="minimal"}
+## [MORE INFORMATION ON THE PROJECT](https://cordis.europa.eu/project/id/101334241)
+:::

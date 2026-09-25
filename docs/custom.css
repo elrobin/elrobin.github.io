@@ -70,3 +70,9 @@ footer {
   color: #444444;
 }
 
+
+/* Cajita "Latest news" bajo la bio (index.qmd) */
+.latest-news{margin-top:1.5rem;padding:.8rem 1rem;border-left:3px solid #B82132;background:#f7f7f7;}
+.latest-news-label{display:block;font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:#555;}
+.latest-news a{font-weight:500;}
+.latest-news-date{display:block;font-size:.8rem;color:#777;}
