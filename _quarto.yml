@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Based on the Quarto Academic Website Template adapted by Dr. Gang He"
+description-meta: "Nicolas Robinson-Garcia. Associate professor in bibliometrics and research evaluation at the University of Granada."
 author-meta: "Nicolas Robinson-Garcia"
 
 website:
@@ -48,7 +48,7 @@ website:
   
   page-footer: 
     left: "[Nicolas Robinson-Garcia](http://www.github.com/elrobin) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Adapted with ❤️ from the [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    center: "Built with [Quarto](https://quarto.org). Design customised from the [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
         href: https://github.com/elrobin

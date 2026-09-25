@@ -1,0 +1,8 @@
+```{=html}
+<ul class="recent-posts">
+<% for (const item of items.slice(1)) { %>
+  <li><a href="<%- item.path %>"><%= item.title %></a><span class="recent-posts-date"><%= item.date %></span></li>
+<% } %>
+</ul>
+<p class="recent-posts-all"><a href="posts.html">All posts →</a></p>
+```

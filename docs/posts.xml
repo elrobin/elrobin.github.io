@@ -20,7 +20,7 @@
 <lastBuildDate>Thu, 24 Sep 2026 22:00:00 GMT</lastBuildDate>
 <item>
   <title>MOBILIS - EU funds a project on scientific mobility and research trajectories</title>
-  <dc:creator>N. Robinosn-Garcia</dc:creator>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
   <link>https://elrobin.github.io/posts/2026-09-25-mobilis/</link>
   <description><![CDATA[ 
 
@@ -678,15 +678,6 @@ Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Scie
   <category>gibberish</category>
   <guid>https://elrobin.github.io/posts/welcome/</guid>
   <pubDate>Sat, 23 Nov 2024 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://elrobin.github.io/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
-  <category>news</category>
-  <guid>https://elrobin.github.io/</guid>
-  <pubDate>Mon, 14 Oct 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://elrobin.github.io/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Nicolas Robinson-Garcia">
-<meta name="description" content="Nicolas Robinson-Garcia">
+<meta name="description" content="Nicolas Robinson-Garcia. Associate professor in bibliometrics and research evaluation at the University of Granada.">
 
 <title>Nicolas Robinson-Garcia</title>
 <style>
@@ -89,6 +89,34 @@ ul.task-list li input[type="checkbox"] {
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-latest-post'] = new List('listing-latest-post', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-description-meta','listing-author-meta','listing-website','listing-format','listing-language','listing-draft-mode','listing-freeze','listing-title-block-banner','listing-title','listing-author','listing-date','listing-categories','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-toc','listing-bibliography',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-description-meta","listing-author-meta","listing-website","listing-format","listing-language","listing-draft-mode","listing-freeze","listing-title-block-banner","listing-title","listing-author","listing-date","listing-categories","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-toc","listing-bibliography"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -251,9 +279,9 @@ window.Quarto = {
   </div>
 </header>
     <div class="about-links">
-  <a href="https://elrobin.github.io" class="about-link" rel="" target="_blank">
-    <i class="bi bi-house"></i>
-     <span class="about-link-text">Home</span>
+  <a href="mailto:elrobin@ugr.es" class="about-link" rel="" target="">
+    <i class="bi bi-envelope"></i>
+     <span class="about-link-text">Email</span>
   </a>
   <a href="https://scholar.google.com/citations?user=Jd6KNkQAAAAJ&amp;hl=en" class="about-link" rel="" target="_blank">
      <span class="about-link-text"><i class="ai  ai-google-scholar"></i> Google Scholar</span>
@@ -266,7 +294,7 @@ window.Quarto = {
      <span class="about-link-text">U^CHASS</span>
   </a>
   <a href="https://ec3investigacion.ugr.es" class="about-link" rel="" target="_blank">
-    <i class="bi bi-people"></i>
+    <i class="bi bi-people-fill"></i>
      <span class="about-link-text">EC3 Research Group</span>
   </a>
 </div>
@@ -274,7 +302,7 @@ window.Quarto = {
   <div class="about-contents"><div id="hero-heading">
 <section id="bio" class="level2">
 <h2 data-anchor-id="bio">Bio</h2>
-<p>Nicolas Robinson-Garcia is associate professor in the field of bibliometrics and research evaluation at the University of Granada. He is interested on understanding how collaboration and social organization shape the way science works and on the diversity of career paths and trajectories scientists transition. He is scientific director of the <a href="https://uchass.ugr.es">Unit for Computational Humanities and Social Sciences (U-CHASS)</a> and member of the <a href="https://ec3investigacion.ugr.es">EC3 Research Group</a>. He is co-editor of the journal <a href="https://academic.oup.com/rev/">Research Evaluation</a> and member of the editorial board of <a href="https://direct.mit.edu/qss">Quantitative Science Studies</a>.</p>
+<p>Nicolas Robinson-Garcia is associate professor in the field of bibliometrics and research evaluation at the University of Granada. He is interested in understanding how collaboration and social organization shape the way science works and the diversity of career paths scientists follow. He is scientific director of the <a href="https://uchass.ugr.es">Unit for Computational Humanities and Social Sciences (U^CHASS)</a> and member of the <a href="https://ec3investigacion.ugr.es">EC3 Research Group</a>. He is co-editor of the journal <a href="https://academic.oup.com/rev/">Research Evaluation</a> and member of the editorial board of <a href="https://direct.mit.edu/qss">Quantitative Science Studies</a>.</p>
 <div id="listing-latest-post" class="quarto-listing quarto-listing-container-custom">
 <div class="latest-news">
   <span class="latest-news-label">Latest news</span>
@@ -289,6 +317,23 @@ No matching items
 </div></div>
 </div>
 
+<section id="more-posts" class="level2">
+<h2 data-anchor-id="more-posts">Recent posts</h2>
+<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-custom">
+<ul class="recent-posts">
+
+  <li><a href="./posts/2026-03-26-defensa-plaza/index.html">I become associate professor</a><span class="recent-posts-date">26 Mar 2026</span></li>
+
+  <li><a href="./posts/2025-12-contribuciones-ipp/index.html">Research seminar at the IPP-CSIC on contribution statements</a><span class="recent-posts-date">11 Dec 2025</span></li>
+
+  <li><a href="./posts/2025-11-las-costuras-de-coara/index.html">Buscándole las costuras a CoARA: Una lectura multinivel del sistema evaluativo español</a><span class="recent-posts-date">19 Nov 2025</span></li>
+
+</ul>
+<p class="recent-posts-all"><a href="posts.html">All posts →</a></p>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 <!-- <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
 <!---->
 <!-- ## Recent Posts -->
@@ -300,6 +345,7 @@ No matching items
 
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -728,7 +774,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <script>document.write(new Date().getFullYear())</script>
 </div>   
     <div class="nav-footer-center">
-<p>Adapted with ❤️ from the <a href="https://github.com/drganghe/quarto-academic-website-template">Quart Academic Website Template</a> adapted by <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a></p>
+<p>Built with <a href="https://quarto.org">Quarto</a>. Design customised from the <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic Website Template</a> by <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a></p>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">

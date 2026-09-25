@@ -1,6 +1,6 @@
 ---
 title: "MOBILIS - EU funds a project on scientific mobility and research trajectories"
-author: "N. Robinosn-Garcia"
+author: "N. Robinson-Garcia"
 date: "2026-09-25"
 categories: [news]
 ---

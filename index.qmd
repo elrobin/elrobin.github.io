@@ -1,6 +1,6 @@
 ---
 title: "Nicolas Robinson-Garcia"
-description-meta: "Nicolas Robinson-Garcia"
+description-meta: "Nicolas Robinson-Garcia. Associate professor in bibliometrics and research evaluation at the University of Granada."
 image: "files/images/nick.JPG"
 page-navigation: false
 toc: false
@@ -12,10 +12,9 @@ about:
   template: trestles
   image-width: 90%
   links:
-    - icon: house
-      text: Home
-      href: https://elrobin.github.io
-      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:elrobin@ugr.es
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=Jd6KNkQAAAAJ&hl=en
       target: _blank
@@ -26,7 +25,7 @@ about:
       text: U^CHASS
       href: https://uchass.ugr.es  
       target: _blank
-    - icon: people
+    - icon: people-fill
       text: EC3 Research Group
       href: https://ec3investigacion.ugr.es
       target: _blank
@@ -38,16 +37,27 @@ listing:
     max-items: 1
     template: latest-post.ejs
     date-format: "D MMMM YYYY"
+  - id: recent-posts
+    contents: posts
+    sort: "date desc"
+    max-items: 4
+    template: recent-posts.ejs
+    date-format: "D MMM YYYY"
 ---
 
 
 ::: {#hero-heading}
 ## Bio
 
-Nicolas Robinson-Garcia is associate professor in the field of bibliometrics and research evaluation at the University of Granada. He is interested on understanding how collaboration and social organization shape the way science works and on the diversity of career paths and trajectories scientists transition. He is scientific director of the [Unit for Computational Humanities and Social Sciences (U-CHASS)](https://uchass.ugr.es) and member of the [EC3 Research Group](https://ec3investigacion.ugr.es). He is co-editor of the journal [Research Evaluation](https://academic.oup.com/rev/) and member of the editorial board of [Quantitative Science Studies](https://direct.mit.edu/qss).
+Nicolas Robinson-Garcia is associate professor in the field of bibliometrics and research evaluation at the University of Granada. He is interested in understanding how collaboration and social organization shape the way science works and the diversity of career paths scientists follow. He is scientific director of the [Unit for Computational Humanities and Social Sciences (U\^CHASS)](https://uchass.ugr.es) and member of the [EC3 Research Group](https://ec3investigacion.ugr.es). He is co-editor of the journal [Research Evaluation](https://academic.oup.com/rev/) and member of the editorial board of [Quantitative Science Studies](https://direct.mit.edu/qss).
 
 ::: {#latest-post}
 :::
+:::
+
+## Recent posts {#more-posts}
+
+::: {#recent-posts}
 :::
 
 <!-- <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->

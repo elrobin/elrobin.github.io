@@ -76,3 +76,10 @@ footer {
 .latest-news-label{display:block;font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:#555;}
 .latest-news a{font-weight:500;}
 .latest-news-date{display:block;font-size:.8rem;color:#777;}
+
+/* Listado "Recent posts" bajo la cabecera (index.qmd); omite el primero, que ya sale en la cajita */
+#more-posts{margin-top:2.5rem;}
+.recent-posts{list-style:none;padding:0;margin:0;}
+.recent-posts li{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;padding:.55rem 0;border-bottom:1px solid #eeeeee;}
+.recent-posts-date{flex-shrink:0;font-size:.85rem;color:#777;}
+.recent-posts-all{text-align:right;margin-top:.6rem;font-size:.9rem;}
