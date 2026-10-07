@@ -7,10 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Nicolas Robinson-Garcia">
-<meta name="dcterms.date" content="2026-10-06">
 <meta name="description" content="Nicolas Robinson-Garcia. Associate professor in bibliometrics and research evaluation at the University of Granada.">
 
-<title>La Comisión Europea presenta el informe SRIP 2026 – Nicolas Robinson-Garcia</title>
+<title>Projects – Nicolas Robinson-Garcia</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,24 +25,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,6 +71,63 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-current-projects .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-image","listing-title","listing-subtitle","listing-description","listing-role","listing-funder","listing-budget","listing-year_start","listing-year_end"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-current-projects'] = new List('listing-current-projects', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-past-projects .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-role','listing-funder','listing-budget','listing-year_start','listing-year_end',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-image","listing-title","listing-subtitle","listing-role","listing-funder","listing-budget","listing-year_start","listing-year_end"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-past-projects'] = new List('listing-past-projects', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
@@ -77,15 +135,46 @@ ul.task-list li input[type="checkbox"] {
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&amp;family=Playfair+Display:wght@400;500&amp;display=swap" rel="stylesheet">
 
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../../custom.css">
-<meta property="og:title" content="La Comisión Europea presenta el informe SRIP 2026 – Nicolas Robinson-Garcia">
-<meta property="og:description" content="">
-<meta property="og:image" content="https://elrobin.github.io/posts/2026-10-06-srip-launch/privatesign.png">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="custom.css">
+<meta property="og:title" content="Projects – Nicolas Robinson-Garcia">
+<meta property="og:image" content="https://elrobin.github.io/privatesign.png">
 <meta property="og:site_name" content="Nicolas Robinson-Garcia">
-<meta name="twitter:title" content="La Comisión Europea presenta el informe SRIP 2026 – Nicolas Robinson-Garcia">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://elrobin.github.io/posts/2026-10-06-srip-launch/privatesign.png">
+<meta property="og:image:height" content="631">
+<meta property="og:image:width" content="738">
+<meta name="twitter:title" content="Projects – Nicolas Robinson-Garcia">
+<meta name="twitter:image" content="https://elrobin.github.io/privatesign.png">
+<meta name="twitter:image-height" content="631">
+<meta name="twitter:image-width" content="738">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -96,7 +185,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Nicolas Robinson-Garcia</span>
     </a>
   </div>
@@ -107,7 +196,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -116,25 +205,25 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
         <li>
-    <a class="dropdown-item" href="../../projects.html">
+    <a class="dropdown-item" href="./projects.html">
  <span class="dropdown-text">Projects</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../publications.html">
+    <a class="dropdown-item" href="./publications.html">
  <span class="dropdown-text">Publications</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../../teaching.html"> 
+    <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../outreach.html"> 
+    <a class="nav-link" href="./outreach.html"> 
 <span class="menu-text">Outreach</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../posts.html"> 
+    <a class="nav-link" href="./posts.html"> 
 <span class="menu-text">Do not read</span></a>
   </li>  
 </ul>
@@ -154,7 +243,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="../../posts.xml" target="_blank"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="./posts.xml" target="_blank"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -171,40 +260,23 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">La Comisión Europea presenta el informe SRIP 2026</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">news</div>
-  </div>
-  </div>
+<h1 class="title">Projects</h1>
+</div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>N. Robinson-García </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">October 6, 2026</p>
-    </div>
-  </div>
   
     
   </div>
@@ -214,35 +286,405 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="panel-discussion.png" class="img-fluid figure-img"></p>
-<figcaption>Amanda Crowfoot (European University Association), Maria Leptin (European Research Council) y servidor mi intervención en el panel sobre Excellent Scinece for an innovative Europe</figcaption>
-</figure>
+<section id="current-projects" class="level2">
+<h2 class="anchored" data-anchor-id="current-projects">Current projects</h2>
+<div id="listing-current-projects" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0">
+<div class="thumbnail">
+<p><a href="https://uchass.ugr.es/stitch" class="no-external"></a></p><a href="https://uchass.ugr.es/stitch" class="no-external">
+<p><img loading="lazy" src="projects/stitch.png" class="thumbnail-image"></p>
+</a><p><a href="https://uchass.ugr.es/stitch" class="no-external"></a></p>
 </div>
-<p>El pasado 1 de octubre tuve la oportunidad de participar en la jornada que celebró la Comisión Europea en Bruselas para el lanzamiento del Informe Science, Research and Innovation Performance 2026, conocido por sus siglas en inglés SRIP. Este informe, de más de 500 páginas, tiene un carácter bianual y pretende analizar el estado actual del sistema científico y de innovación de Europa.</p>
-<p>En esta edición, gran parte de la discusión estuvo centrada en la comparativa con Estados Unidos y la ya dominante China. En este sentido, se destacó la capacidad de estas dos potencias no sólo para liderar la investigación en sectores estratégicos como el de la tecnología, sino también para poner de relieve la eterna <em><a href="https://en.wikipedia.org/wiki/European_paradox">paradoja europea</a></em>, esto es la dificultad que experimenta europa para traducir sus fortalezas científicas en innovación y transferencia al sector privado.</p>
-<p>Entre otros ponentes cabe destacar la presencia (eso sí, online) de Philippe Aghion, Premio Nobel de Economía de 2025 (junto a Joel Mokyr y Peter Howitt) por su teoría de crecimiento sostenido a través de la destrucción creativa, inspirada en las ideas de Schumpeter.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://uchass.ugr.es/stitch" class="no-external">STITCH</a>
+</h3>
+<div class="listing-subtitle">
+<a href="https://uchass.ugr.es/stitch" class="no-external">Scientific Teams and Inequalities: Collaboration and Heterogeneity in Science</a>
 </div>
-<div class="callout-title-container flex-fill">
-Más información
+<div class="listing-description">
+<a href="https://uchass.ugr.es/stitch" class="no-external"><strong>Ref:</strong> PID2024-155412OB-I00 <strong>Role:</strong> Principal Investigator<br>
+<strong>Funder:</strong> Ministerio de Ciencia e Innovación, Plan Nacional de I+D+i<br>
+<strong>Budget:</strong> 49,750€<br>
+<strong>Period:</strong> 2025–2028 </a>
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><a href="https://www.youtube.com/live/dmtMoMwEN3o?si=PkTQN7KR9N2FrykB&amp;t=3155">Grabación del panel</a></li>
-<li><a href="https://research-innovation-community.ec.europa.eu/events/4Dy2mLTXLo3coHDmCodohf/programme">Programa completo de la jornada</a></li>
-<li><a href="https://research-and-innovation.ec.europa.eu/knowledge-publications-tools-and-data/publications/all-publications/science-research-and-innovation-performance-eu-2026-report_en#description">El informe SRIP</a></li>
-<li><a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2041">Nota de prensa de la Comisión Europea</a></li>
-</ul>
+<div class="metadata">
+<p><a href="https://uchass.ugr.es/stitch" class="no-external"></a></p><a href="https://uchass.ugr.es/stitch" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1">
+<div class="thumbnail">
+<p><a href="https://uchass.ugr.es" class="no-external"></a></p><a href="https://uchass.ugr.es" class="no-external">
+<p><img loading="lazy" src="projects/uchass.png" class="thumbnail-image"></p>
+</a><p><a href="https://uchass.ugr.es" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://uchass.ugr.es" class="no-external">U^CHASS</a>
+</h3>
+<div class="listing-subtitle">
+<a href="https://uchass.ugr.es" class="no-external">Unit for Computational Humanities and Social Sciences</a>
+</div>
+<div class="listing-description">
+<a href="https://uchass.ugr.es" class="no-external"><strong>Role:</strong> Scientific director<br>
+<strong>Funder:</strong> University of Granada<br>
+<strong>Budget:</strong> 40,000€<br>
+<strong>Period:</strong> 2024–2027 </a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="https://uchass.ugr.es" class="no-external"></a></p><a href="https://uchass.ugr.es" class="no-external">
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="past-projects" class="level2">
+<h2 class="anchored" data-anchor-id="past-projects">Past projects</h2>
+<div id="listing-past-projects" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-past-projects-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-past-projects'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-image" data-direction="asc">
+        </option>
+         <option value="listing-title-sort" data-direction="asc">
+          Acronym
+        </option>
+         <option value="listing-subtitle" data-direction="asc">
+          Project
+        </option>
+         <option value="listing-role" data-direction="asc">
+          Role
+        </option>
+         <option value="listing-funder" data-direction="asc">
+          Funder
+        </option>
+         <option value="listing-budget" data-direction="asc">
+          Budget
+        </option>
+         <option value="listing-year_start" data-direction="asc">
+          Start
+        </option>
+         <option value="listing-year_end" data-direction="asc">
+          End
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-image" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;"> </a>
+</th>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Acronym</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-subtitle" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Project</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-role" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Role</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-funder" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Funder</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-budget" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Budget</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-year_start" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Start</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-year_end" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">End</a>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-title-sort="ISCIII">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<span class="listing-title">ISCIII</span>
+</td>
+<td>
+<span class="listing-subtitle">Evaluación del impacto científico de las redes cooperativas de investigación en biomedicina financiadas por el ISCIII</span>
+</td>
+<td>
+<span class="listing-role">Postdoc</span>
+</td>
+<td>
+<span class="listing-funder">Instituto de Salud Carlos III</span>
+</td>
+<td>
+<span class="listing-budget">–</span>
+</td>
+<td>
+<span class="listing-year_start">2011</span>
+</td>
+<td>
+<span class="listing-year_end">2014</span>
+</td>
+</tr>
+<tr data-index="1" data-listing-title-sort="EXTRA">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<span class="listing-title">EXTRA</span>
+</td>
+<td>
+<span class="listing-subtitle">Excelencia científica y transferencia de conocimiento, ¿van de la mano? Factores organizativos, antecedentes individuales e impacto social</span>
+</td>
+<td>
+<span class="listing-role">Team member</span>
+</td>
+<td>
+<span class="listing-funder">Ministerio de Economía y Competitividad</span>
+</td>
+<td>
+<span class="listing-budget">101,000€</span>
+</td>
+<td>
+<span class="listing-year_start">2014</span>
+</td>
+<td>
+<span class="listing-year_end">2016</span>
+</td>
+</tr>
+<tr data-index="2" data-listing-title-sort="Henk">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<span class="listing-title">Henk</span>
+</td>
+<td>
+<span class="listing-subtitle">Visiting Scholar Henk F. Moed - Disentangling Gold Open Access</span>
+</td>
+<td>
+<span class="listing-role">Core scientific team (with PI Daniel Torres-Salinas)</span>
+</td>
+<td>
+<span class="listing-funder">University of Granada</span>
+</td>
+<td>
+<span class="listing-budget">10,000€</span>
+</td>
+<td>
+<span class="listing-year_start">2017</span>
+</td>
+<td>
+<span class="listing-year_end">2018</span>
+</td>
+</tr>
+<tr data-index="3" data-listing-title-sort="Foreign-born">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<span class="listing-title">Foreign-born</span>
+</td>
+<td>
+<span class="listing-subtitle">Connecting nuances of foreign status, professional networks and higher education</span>
+</td>
+<td>
+<span class="listing-role">Postdoctoral researcher (with PI Eric W. Welch and Co-PI Julia Melkers)</span>
+</td>
+<td>
+<span class="listing-funder">US National Science Foundation</span>
+</td>
+<td>
+<span class="listing-budget">$1,100,000</span>
+</td>
+<td>
+<span class="listing-year_start">2017</span>
+</td>
+<td>
+<span class="listing-year_end">2019</span>
+</td>
+</tr>
+<tr data-index="4" data-listing-title-sort="ECOSCI">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<span class="listing-title">ECOSCI</span>
+</td>
+<td>
+<span class="listing-subtitle">Unveiling the Ecosystem of Science: A Contextual Perspective into the Many Roles of Scientists</span>
+</td>
+<td>
+<span class="listing-role">PI (with supervisor Gabriela F. Nane)</span>
+</td>
+<td>
+<span class="listing-funder">European Commission, COFUND Marie Curie Fellowship, LEaDing Fellows programme</span>
+</td>
+<td>
+<span class="listing-budget">220,000€</span>
+</td>
+<td>
+<span class="listing-year_start">2019</span>
+</td>
+<td>
+<span class="listing-year_end">2021</span>
+</td>
+</tr>
+<tr data-index="5" data-listing-title-sort="SCI-COMM">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<span class="listing-title">SCI-COMM</span>
+</td>
+<td>
+<span class="listing-subtitle">COVID-19: Scientific communication in times of Corona virus</span>
+</td>
+<td>
+<span class="listing-role">Co-PI</span>
+</td>
+<td>
+<span class="listing-funder">TU Delft COVID-19 Response Fund</span>
+</td>
+<td>
+<span class="listing-budget">20,000€</span>
+</td>
+<td>
+<span class="listing-year_start">2020</span>
+</td>
+<td>
+<span class="listing-year_end">2021</span>
+</td>
+</tr>
+<tr data-index="6" data-listing-title-sort="EAGER">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<span class="listing-title">EAGER</span>
+</td>
+<td>
+<span class="listing-subtitle">Strengthening International Collaboration</span>
+</td>
+<td>
+<span class="listing-role">Core Scientific Team (with PIs Julia Melkers and Eric Welch</span>
+</td>
+<td>
+<span class="listing-funder">US National Science Foundation</span>
+</td>
+<td>
+<span class="listing-budget">$300,000</span>
+</td>
+<td>
+<span class="listing-year_start">2021</span>
+</td>
+<td>
+<span class="listing-year_end">2023</span>
+</td>
+</tr>
+<tr data-index="7" data-listing-title-sort="Visiting Scholar">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<span class="listing-title">Visiting Scholar</span>
+</td>
+<td>
+<span class="listing-subtitle">Cassidy Sugimoto</span>
+</td>
+<td>
+<span class="listing-role">Principal Investigator</span>
+</td>
+<td>
+<span class="listing-funder">University of Granada</span>
+</td>
+<td>
+<span class="listing-budget">15,000€</span>
+</td>
+<td>
+<span class="listing-year_start">2021</span>
+</td>
+<td>
+<span class="listing-year_end">2023</span>
+</td>
+</tr>
+<tr data-index="8" data-listing-title-sort="COMPARE">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://uchass.ugr.es/compare" class="title listing-title">COMPARE</a>
+</td>
+<td>
+<span class="listing-subtitle">COntextual Mapping of academic Pathways Analysis for Research Evaluation</span>
+</td>
+<td>
+<span class="listing-role">Principal Investigator</span>
+</td>
+<td>
+<span class="listing-funder">Ministerio de Ciencia e Innovación, Plan Nacional de I+D+i</span>
+</td>
+<td>
+<span class="listing-budget">54,934€</span>
+</td>
+<td>
+<span class="listing-year_start">2021</span>
+</td>
+<td>
+<span class="listing-year_end">2025</span>
+</td>
+</tr>
+<tr data-index="9" data-listing-title-sort="Fulbright">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<span class="listing-title">Fulbright</span>
+</td>
+<td>
+<span class="listing-subtitle">Impacto del Programa Fulbright-España</span>
+</td>
+<td>
+<span class="listing-role">Principal Investigator</span>
+</td>
+<td>
+<span class="listing-funder">Comisión Fulbright España</span>
+</td>
+<td>
+<span class="listing-budget">18,277.05€</span>
+</td>
+<td>
+<span class="listing-year_start">2024</span>
+</td>
+<td>
+<span class="listing-year_end">2025</span>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="listing-no-matching d-none">
+No matching items
 </div>
 </div>
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -694,7 +1136,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="../../posts.xml" target="_blank">
+    <a class="nav-link" href="./posts.xml" target="_blank">
       <i class="bi bi-rss" role="img">
 </i> 
     </a>
