@@ -15,13 +15,13 @@ css: custom.css
 
 2.  Forchino, V., Robinson-Garcia, N., & Torres-Salinas, D. (under review). What do we mean by Global South? Evidence of a construct validity problem. [Preprint](https://doi.org/10.5281/zenodo.21631212)
 
-3.  Forchino, V., Robinson-Garcia, N., & Torres-Salinas, D. (under review). Sur global: Un marco de clasificación para estudios bibliométricos. [Preprint](https://doi.org/10.5281/zenodo.20643687)
-
 5.  Herrero-Solana, V., González-Salmón, E., & Robinson-Garcia, N. (Under review). Inferring gender from author names with local LLMs: A multi-model evaluation. [Preprint](https://doi.org/10.5281/zenodo.18610103)
 
 6.  González-Salmón, E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N., & Nane, G.F. (Under review). How to achieve gender parity in science? Providing global evidence on key educational and economic drivers. [Preprint](https://zenodo.org/records/18412269)
 
 **2026**
+
+5.  Forchino, V., Robinson-Garcia, N., & Torres-Salinas, D. (accepted). Sur global: Un marco de clasificación para estudios bibliométricos. Revista Española de Documentación Científica [Preprint](https://doi.org/10.5281/zenodo.20643687)
 
 6.  Di Césare, V., & Robinson-Garcia, N. (2026). Presence and visibility of local journals in international scientific databases. Scientometrics. [DOI](https://doi.org/10.1007/s11192-026-05810-y) - [Preprint](https://doi.org/10.5281/zenodo.18671032) - [Data](https://doi.org/10.5281/zenodo.18298992)
 
