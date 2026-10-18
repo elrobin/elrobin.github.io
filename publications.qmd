@@ -23,7 +23,7 @@ css: custom.css
 
 5.  Forchino, V., Robinson-Garcia, N., & Torres-Salinas, D. (accepted). Sur global: Un marco de clasificación para estudios bibliométricos. Revista Española de Documentación Científica [Preprint](https://doi.org/10.5281/zenodo.20643687)
 
-6.  Di Césare, V., & Robinson-Garcia, N. (2026). Presence and visibility of local journals in international scientific databases. Scientometrics. [DOI](https://doi.org/10.1007/s11192-026-05810-y) - [Preprint](https://doi.org/10.5281/zenodo.18671032) - [Data](https://doi.org/10.5281/zenodo.18298992)
+6.  Di Césare, V., & Robinson-Garcia, N. (2026). Presence and visibility of local journals in international scientific databases. Scientometrics, 131, 7695–7723. [DOI](https://doi.org/10.1007/s11192-026-05810-y) - [Preprint](https://doi.org/10.5281/zenodo.18671032) - [Data](https://doi.org/10.5281/zenodo.18298992)
 
 7.  Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N., & Romero-Frías, E. (2026). From science to policy: A multilevel framework for measuring institutional policy influence through Overton. Quantitative Science Studies. [Preprint](https://doi.org/10.5281/zenodo.15594571)
 
@@ -35,7 +35,7 @@ css: custom.css
 
 11. González-Salmón, E., Di Césare, V., Xiao, A., Robinson-Garcia, N. (2026). Beyond authorship: Analyzing disciplinary differences of contribution statements using the CRediT taxonomy. Scientometrics, 131, 1415-1436. [DOI](https://doi.org/10.1007/s11192-026-05582-5) - [Preprint](https://doi.org/10.5281/zenodo.14168888)
 
-12. Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E., Torres-Salinas, D. (2026). Publication patterns in the Humanities: Generational shifts and changing research agendas. Humanities & Social Sciences Communications. [DOI](https://doi.org/10.1057/s41599-026-06604-6) - [Preprint](https://doi.org/10.5281/zenodo.13969298) - [Data](https://doi.org/10.5281/zenodo.13905464) - [Code](https://github.com/Wences91/humanities_patterns)
+12. Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E., Torres-Salinas, D. (2026). Publication patterns in the Humanities: Generational shifts and changing research agendas. Humanities & Social Sciences Communications, 13, 1196. [DOI](https://doi.org/10.1057/s41599-026-06604-6) - [Preprint](https://doi.org/10.5281/zenodo.13969298) - [Data](https://doi.org/10.5281/zenodo.13905464) - [Code](https://github.com/Wences91/humanities_patterns)
 
 **2025**
 

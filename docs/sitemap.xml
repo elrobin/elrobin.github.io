@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://elrobin.github.io/index.html</loc>
-    <lastmod>2026-10-07T07:36:51.934Z</lastmod>
+    <lastmod>2026-10-18T14:13:51.060Z</lastmod>
   </url>
   <url>
     <loc>https://elrobin.github.io/teaching.html</loc>
-    <lastmod>2026-09-14T10:08:44.329Z</lastmod>
+    <lastmod>2026-10-18T14:13:51.136Z</lastmod>
   </url>
   <url>
     <loc>https://elrobin.github.io/public_out.html</loc>
@@ -18,18 +18,26 @@
   </url>
   <url>
     <loc>https://elrobin.github.io/publications.html</loc>
-    <lastmod>2026-10-08T06:59:09.180Z</lastmod>
+    <lastmod>2026-10-18T18:07:14.726Z</lastmod>
   </url>
   <url>
     <loc>https://elrobin.github.io/talks.html</loc>
-    <lastmod>2026-09-14T10:08:44.327Z</lastmod>
+    <lastmod>2026-10-18T14:13:51.126Z</lastmod>
   </url>
   <url>
     <loc>https://elrobin.github.io/posts.html</loc>
-    <lastmod>2026-09-25T08:38:27.471Z</lastmod>
+    <lastmod>2026-10-18T14:13:51.077Z</lastmod>
   </url>
   <url>
     <loc>https://elrobin.github.io/outreach.html</loc>
     <lastmod>2026-02-16T08:03:27.654Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/2026-09-25-mobilis/index.html</loc>
+    <lastmod>2026-10-18T14:13:51.081Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/2026-10-06-srip-launch/index.html</loc>
+    <lastmod>2026-10-18T14:13:51.093Z</lastmod>
   </url>
 </urlset>
