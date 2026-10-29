@@ -11,15 +11,15 @@ css: custom.css
 
 **Forthcoming**
 
-1.  Ramos-Vielba, I., Robinson-Garcia, N., & Paneque, P. (under review). La reforma de la evaluación de la investigación: un marco experimental para el cambio institucional en ANECA.
-
-2.  Forchino, V., Robinson-Garcia, N., & Torres-Salinas, D. (under review). What do we mean by Global South? Evidence of a construct validity problem. [Preprint](https://doi.org/10.5281/zenodo.21631212)
+1.  Forchino, V., Robinson-Garcia, N., & Torres-Salinas, D. (under review). What do we mean by Global South? Evidence of a construct validity problem. [Preprint](https://doi.org/10.5281/zenodo.21631212)
 
 5.  Herrero-Solana, V., González-Salmón, E., & Robinson-Garcia, N. (Under review). Inferring gender from author names with local LLMs: A multi-model evaluation. [Preprint](https://doi.org/10.5281/zenodo.18610103)
 
 6.  González-Salmón, E., Chinchilla-Rodríguez, Z., Robinson-Garcia, N., & Nane, G.F. (Under review). How to achieve gender parity in science? Providing global evidence on key educational and economic drivers. [Preprint](https://zenodo.org/records/18412269)
 
 **2026**
+
+4.  Ramos-Vielba, I., Robinson-Garcia, N., & Paneque, P. (accepted). La reforma de la evaluación de la investigación: un marco experimental para el cambio institucional en ANECA. Revista Española de Documentación Científica
 
 5.  Forchino, V., Robinson-Garcia, N., & Torres-Salinas, D. (accepted). Sur global: Un marco de clasificación para estudios bibliométricos. Revista Española de Documentación Científica [Preprint](https://doi.org/10.5281/zenodo.20643687)
 

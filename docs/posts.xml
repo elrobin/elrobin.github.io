@@ -16,8 +16,38 @@
 <height>123</height>
 <width>144</width>
 </image>
-<generator>quarto-1.10.18</generator>
-<lastBuildDate>Mon, 05 Oct 2026 22:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Sun, 25 Oct 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Transitioning from JIFs to CoARA: How are evaluators coping with it?</title>
+  <dc:creator>N. Robinson-García</dc:creator>
+  <link>https://elrobin.github.io/posts/2026-10-26-iran-aneca/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://elrobin.github.io/posts/2026-10-26-iran-aneca/front.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="584"></p>
+</figure>
+</div>
+<p>On October 14, 2026 I had the chance to present some of the findings of the PEI3AC Project at the First National Conference on Science, Technology, &amp; Innovation Evaluation and Policy-making Approaches, Challenges, &amp; Strategic solutions, organized online by Zoreh Zahedi. In this talk I provide a brief overview of the Spanish national evaluation system before digging into our study on evaluative practices of panel members of ANECA which we conducted last March.</p>
+<div class="bonus">
+<p>In this talk I will provide a brief overview of the Spanish Research Assessment. I will then focus on the role of the National Accreditation Agency, ANECA, a body in charge of accrediting any individual who aims to become faculty at Spanish universities. After signing CoARA, ANECA introduced an important reform in 2024 in which it modified all its evaluation criteria to adapt it to CoARA’s principles, especially those regarding the responsible use of metrics and the weight of qualitative expertise. In March 2026, led by ANECA, we experimented with members of the evaluation panel to have an insight on how these changes were being adopted by evaluators. We focused on three specific aspects: 1) changes on the CV format, moving from bullet lists to narrative Cvs; 2) narrative bibliometrics vs.&nbsp;traditional bibliometrics when arguing for the relevance and quality of publications; and, 3) unconscious biases. I will conclude by presenting some of the findings derived from these experiments.</p>
+</div>
+<div class="d-flex gap-2">
+<p><a href="https://doi.org/10.5281/zenodo.23760395" class="btn btn-primary" download=""><i class="bi bi-download"></i> Download the slides</a></p>
+<p><a href="https://www.youtube.com/watch?v=ENFusZVjUdg" class="btn btn-outline-primary" target="_blank"><i class="bi bi-play-circle"></i> Watch the video</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>https://elrobin.github.io/posts/2026-10-26-iran-aneca/</guid>
+  <pubDate>Sun, 25 Oct 2026 23:00:00 GMT</pubDate>
+</item>
 <item>
   <title>La Comisión Europea presenta el informe SRIP 2026</title>
   <dc:creator>N. Robinson-García</dc:creator>
@@ -42,7 +72,7 @@
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Más información
+Más información
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -75,7 +105,7 @@
 <figure class="figure">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://unsplash.com/@xxgkz"><img src="https://elrobin.github.io/posts/2026-09-25-mobilis/people-travelling.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
+<p><a href="https://unsplash.com/@xxgkz"><img src="https://elrobin.github.io/posts/2026-09-25-mobilis/people-travelling.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Photo by 姚 忠兵 on Unsplash"></a></p>
 </figure>
 </div>
 <figcaption>Photo by 姚 忠兵 on Unsplash</figcaption>
@@ -86,13 +116,13 @@
 <section id="summary-of-the-project" class="level1">
 <h1>Summary of the project</h1>
 <p>The overall objective of MOBILIS is to produce new knowledge and insights on the interaction and dynamics of research career networks and international research careers in EU countries, their role in shaping international collaboration and how policy can support improved research careers and their impact in the European Research Area (ERA). Key EU policy documents emphasize the importance of international research careers for the ERA and of creating conditions that both improve the attractiveness of research careers in the EU and their benefits for the EU Research &amp; Innovation (R&amp;I) ecosystem. These stress the need to monitor research careers, improve recruitment and working conditions, develop infrastructure and to promote intersectoral research careers. To address these needs, MOBILIS will utilize a systems-based, multi-methods approach focusing on four specific objectives that frame and guide the work in the project. First, MOBILIS will will combine large data sources (e.g., ORCID, CORDIS, Dimensions, OpenAlex), scientometric applications, and advanced data modelling and analytics to map and monitor international flows of researchers, their knowledge, skills, resources, and careers. Second, MOBILIS will launch large-scale surveys to identify and quantify the factors shaping attraction, retention, career progression, and sectoral mobility of international researchers in the EU. Third, MOBILIS will analyse how international researchers in the EU influence knowledge flows, research collaboration, and research career trajectories. Fourth, based on project results, MOBILIS will develop policy rec-ommendations to improve the attractiveness of research careers in the EU.</p>
-<div class="callout callout-style-simple callout-important no-icon callout-empty-content callout-titled">
+<div class="callout callout-style-simple callout-important no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span><a href="https://cordis.europa.eu/project/id/101334241">MORE INFORMATION ON THE PROJECT</a>
+<a href="https://cordis.europa.eu/project/id/101334241">MORE INFORMATION ON THE PROJECT</a>
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -135,7 +165,7 @@
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Slides and recording of the seminar are available
+Slides and recording of the seminar are available
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -177,7 +207,7 @@
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Slides and recording of the seminar are available
+Slides and recording of the seminar are available
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -401,13 +431,13 @@ Lamont, Michèle. 2009. <em>How Professors Think</em>. Harvard University Press.
 </div>
 <p>Last Monday I had the chance to participate as an invited speaker in the I International Edition of the <a href="https://www.bibliometrix.org/home/index.php/school/sssm-2025/sssm2023-description"><strong>Summer School in Science Mapping</strong></a> organized by research team led by Massimo Aria and Corrado Cuccurullo. These are the people behind the wonderful R package <a href="https://www.bibliometrix.org/home/index.php">Bibliometrix</a>, and now also <a href="https://github.com/massimoaria/tall">TaLL</a> (for text analysis). It is a really nice and smart group of people, doing a fantastic job on the development of tools that can be used both, for people with and w/o programming skills. I have been in touch with them for several years, as we have invited them in several occasions to the ESSS to introduce students to their software, and even Dani created a <a href="https://www.youtube.com/watch?v=CoRcJg15XVA">videotutorial in Spanish</a> for the Biblioshiny interface and I’ve used it for my <a href="https://zenodo.org/records/7556999">teaching</a>.</p>
 <p>In this occasion I was invited to talk about <strong>Altmetrics and Open Science</strong>, based on previous lectures I periodically give at the ESSS. I took the occasion to improve my materials, update them and improve the narrative. The lecture went well with an interesting follow up given the multidisciplinary background of the students.</p>
-<div class="callout callout-style-default callout-tip callout-empty-content callout-titled">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span><a href="https://doi.org/10.5281/zenodo.15658289">Download the slides here</a>
+<a href="https://doi.org/10.5281/zenodo.15658289">Download the slides here</a>
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -438,13 +468,13 @@ Lamont, Michèle. 2009. <em>How Professors Think</em>. Harvard University Press.
 <p><img src="https://elrobin.github.io/posts/30-05-2025/images/portada.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
-<div class="callout callout-style-default callout-important callout-empty-content callout-titled">
+<div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span><a href="https://zenodo.org/records/15551106">Download here</a>
+<a href="https://zenodo.org/records/15551106">Download here</a>
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -679,7 +709,7 @@ Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Scie
 <figure class="figure">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><a href="https://www.nature.com/articles/d41586-018-06185-8"><img src="https://elrobin.github.io/posts/24-11-2024/multiauthorship.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="423"></a></p>
+<p><a href="https://www.nature.com/articles/d41586-018-06185-8"><img src="https://elrobin.github.io/posts/24-11-2024/multiauthorship.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="423" alt="Illustration from Davis Parkins, Source: Nature"></a></p>
 </figure>
 </div>
 <figcaption>Illustration from Davis Parkins, Source: Nature</figcaption>

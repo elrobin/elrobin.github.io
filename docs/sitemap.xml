@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://elrobin.github.io/index.html</loc>
-    <lastmod>2026-10-18T14:13:51.060Z</lastmod>
-  </url>
-  <url>
     <loc>https://elrobin.github.io/teaching.html</loc>
-    <lastmod>2026-10-18T14:13:51.136Z</lastmod>
+    <lastmod>2026-09-14T10:08:44.329Z</lastmod>
   </url>
   <url>
     <loc>https://elrobin.github.io/public_out.html</loc>
@@ -17,27 +13,95 @@
     <lastmod>2026-01-07T11:06:21.952Z</lastmod>
   </url>
   <url>
-    <loc>https://elrobin.github.io/publications.html</loc>
-    <lastmod>2026-10-18T18:07:14.726Z</lastmod>
+    <loc>https://elrobin.github.io/posts/welcome/index.html</loc>
+    <lastmod>2026-01-07T11:06:21.941Z</lastmod>
   </url>
   <url>
-    <loc>https://elrobin.github.io/talks.html</loc>
-    <lastmod>2026-10-18T14:13:51.126Z</lastmod>
+    <loc>https://elrobin.github.io/posts/28-07-2025/index.html</loc>
+    <lastmod>2026-01-07T11:06:21.852Z</lastmod>
   </url>
   <url>
-    <loc>https://elrobin.github.io/posts.html</loc>
-    <lastmod>2026-10-18T14:13:51.077Z</lastmod>
+    <loc>https://elrobin.github.io/posts/24-11-2024/index.html</loc>
+    <lastmod>2026-01-07T11:06:21.814Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/2026-10-26-iran-aneca/index.html</loc>
+    <lastmod>2026-10-29T10:37:37.501Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/2026-09-25-mobilis/index.html</loc>
+    <lastmod>2026-09-25T08:38:27.439Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/2025-12-contribuciones-ipp/index.html</loc>
+    <lastmod>2026-01-07T11:06:21.794Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/2025-10-Evaluar-equipos/index.html</loc>
+    <lastmod>2026-01-07T11:06:21.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/13-06-2025/index.html</loc>
+    <lastmod>2026-01-07T11:06:21.697Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/people.html</loc>
+    <lastmod>2026-01-07T11:06:21.678Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/index.html</loc>
+    <lastmod>2026-10-07T07:36:51.934Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/contact.html</loc>
+    <lastmod>2026-01-07T11:06:21.083Z</lastmod>
   </url>
   <url>
     <loc>https://elrobin.github.io/outreach.html</loc>
     <lastmod>2026-02-16T08:03:27.654Z</lastmod>
   </url>
   <url>
-    <loc>https://elrobin.github.io/posts/2026-09-25-mobilis/index.html</loc>
-    <lastmod>2026-10-18T14:13:51.081Z</lastmod>
+    <loc>https://elrobin.github.io/posts/13-01-2025/index.html</loc>
+    <lastmod>2026-01-07T11:06:21.695Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/2025-10-El-español/index.html</loc>
+    <lastmod>2026-09-14T10:08:44.321Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/2025-11-las-costuras-de-coara/index.html</loc>
+    <lastmod>2026-01-07T11:06:21.792Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/2026-03-26-defensa-plaza/index.html</loc>
+    <lastmod>2026-06-11T08:03:17.189Z</lastmod>
   </url>
   <url>
     <loc>https://elrobin.github.io/posts/2026-10-06-srip-launch/index.html</loc>
-    <lastmod>2026-10-18T14:13:51.093Z</lastmod>
+    <lastmod>2026-10-07T07:36:51.946Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/23-05-2025/index.html</loc>
+    <lastmod>2026-01-07T11:06:21.812Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/26-11-2024/index.html</loc>
+    <lastmod>2026-01-07T11:06:21.847Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts/30-05-2025/index.html</loc>
+    <lastmod>2026-01-07T11:06:21.938Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/posts.html</loc>
+    <lastmod>2026-09-25T08:38:27.471Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/publications.html</loc>
+    <lastmod>2026-10-29T10:09:00.918Z</lastmod>
+  </url>
+  <url>
+    <loc>https://elrobin.github.io/talks.html</loc>
+    <lastmod>2026-09-14T10:08:44.327Z</lastmod>
   </url>
 </urlset>
