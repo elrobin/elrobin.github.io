@@ -25,7 +25,7 @@ css: custom.css
 
 6.  Di Césare, V., & Robinson-Garcia, N. (2026). Presence and visibility of local journals in international scientific databases. Scientometrics, 131, 7695–7723. [DOI](https://doi.org/10.1007/s11192-026-05810-y) - [Preprint](https://doi.org/10.5281/zenodo.18671032) - [Data](https://doi.org/10.5281/zenodo.18298992)
 
-7.  Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N., & Romero-Frías, E. (2026). From science to policy: A multilevel framework for measuring institutional policy influence through Overton. Quantitative Science Studies. [Preprint](https://doi.org/10.5281/zenodo.15594571)
+7.  Torres-Salinas, D., Arroyo-Machado, W., Robinson-Garcia, N., & Romero-Frías, E. (2026). From science to policy: A multilevel framework for measuring institutional policy influence through Overton. Quantitative Science Studies. [DOI](https://doi.org/10.1162/QSS.a.516) - [Preprint](https://doi.org/10.5281/zenodo.15594571)
 
 8.  Di Césare, V., Robinson-Garcia, N. (2026). What is local research? Towards a multidimensional framework linking theory and methods. Research Evaluation, 35, rvag045. [DOI](https://doi.org/10.1093/reseval/rvag0450) - [Preprint](https://doi.org/10.5281/zenodo.14033472) - [Data](https://zenodo.org/records/172782970)
 
