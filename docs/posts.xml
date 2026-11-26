@@ -49,6 +49,73 @@
   <pubDate>Sun, 25 Oct 2026 23:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>University rankings are back</title>
+  <dc:creator>N. Robinson-Garcia</dc:creator>
+  <link>https://elrobin.github.io/posts/2026-11-26-stellenbosh/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="mouton-inaugurates.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://elrobin.github.io/posts/2026-11-26-stellenbosh/mouton-inaugurates.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="610"></a></p>
+</figure>
+</div>
+<p>A couple of weeks have gone by since I came back from South Africa. There I had the chance to participate at the <strong>CREST Master Class in Research Evaluation</strong> held between November 9 and 11, 2026. It was organised by the <a href="https://www0.sun.ac.za/crest/">Centre for Research on Evaluation, Science and Technology (CREST)</a> from Stellenbosch University. The Master Class was organised and hosted by Johann Mouton and his team, who were wonderful hosts. In it Rodrigo Costas and I, along with Johan were the presenters. The Master Class was directed at staff from research offices at South African universities, a total of 80 participants.</p>
+<p>In my case, I gave a talk on university rankings on Wednesday, which seems to be a big issue in South Africa as they are targeted by university administrators leading to frustration and futile policies. In the presentation I discussed how university rankings came to dominate the higher education landscape, how they are constructed and the methodological choices that influence the positioning of universities in them.Although at first they relied heavily on survey data, nowadays they are highly dependent on publication and citation data, derived in many cases from Clarivate’s Web of Science and Elsevier’s Scopus databases. This reliance as well as their combination with other non-bibliographic indicators (e.g., Awards or alumni data) introduce important methodological choices which have an enormous impact on their final lists but are quite controversial. I also illustrated how these decisions affect specific universities. Furthermore, we discussed how disciplinary specialization affects universities’ positioning.</p>
+<div class="text-center">
+<p><a href="https://zenodo.org/records/24154790" class="btn btn-primary btn-lg" target="_blank"><i class="bi bi-folder2-open"></i> Link to slides in Zenodo</a></p>
+</div>
+<p>Also some pics from Stellenbosch:</p>
+<section id="gallery" class="level2">
+<h2 class="anchored" data-anchor-id="gallery">Gallery</h2>
+<div class="quarto-layout-panel" data-layout-ncol="5">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
+<p><a href="1.jpg" class="lightbox" data-gallery="gallery"><img src="https://elrobin.github.io/posts/2026-11-26-stellenbosh/1.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
+<p><a href="2.jpg" class="lightbox" data-gallery="gallery"><img src="https://elrobin.github.io/posts/2026-11-26-stellenbosh/2.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
+<p><a href="3.jpg" class="lightbox" data-gallery="gallery"><img src="https://elrobin.github.io/posts/2026-11-26-stellenbosh/3.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
+<p><a href="4.jpg" class="lightbox" data-gallery="gallery"><img src="https://elrobin.github.io/posts/2026-11-26-stellenbosh/4.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
+<p><a href="5.jpg" class="lightbox" data-gallery="gallery"><img src="https://elrobin.github.io/posts/2026-11-26-stellenbosh/5.jpg" class="img-fluid"></a></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
+<p><a href="6.jpg" class="lightbox" data-gallery="gallery"><img src="https://elrobin.github.io/posts/2026-11-26-stellenbosh/6.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
+<p><a href="7.jpg" class="lightbox" data-gallery="gallery"><img src="https://elrobin.github.io/posts/2026-11-26-stellenbosh/7.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
+<p><a href="8.jpg" class="lightbox" data-gallery="gallery"><img src="https://elrobin.github.io/posts/2026-11-26-stellenbosh/8.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
+<p><a href="9.jpg" class="lightbox" data-gallery="gallery"><img src="https://elrobin.github.io/posts/2026-11-26-stellenbosh/9.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
+<p><a href="10.jpg" class="lightbox" data-gallery="gallery"><img src="https://elrobin.github.io/posts/2026-11-26-stellenbosh/10.jpg" class="img-fluid"></a></p>
+</div>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>https://elrobin.github.io/posts/2026-11-26-stellenbosh/</guid>
+  <pubDate>Sun, 25 Oct 2026 23:00:00 GMT</pubDate>
+</item>
+<item>
   <title>La Comisión Europea presenta el informe SRIP 2026</title>
   <dc:creator>N. Robinson-García</dc:creator>
   <link>https://elrobin.github.io/posts/2026-10-06-srip-launch/</link>
@@ -72,7 +139,7 @@
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Más información
+<span class="screen-reader-only">Important</span>Más información
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -105,7 +172,7 @@ Más información
 <figure class="figure">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://unsplash.com/@xxgkz"><img src="https://elrobin.github.io/posts/2026-09-25-mobilis/people-travelling.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Photo by 姚 忠兵 on Unsplash"></a></p>
+<p><a href="https://unsplash.com/@xxgkz"><img src="https://elrobin.github.io/posts/2026-09-25-mobilis/people-travelling.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
 </figure>
 </div>
 <figcaption>Photo by 姚 忠兵 on Unsplash</figcaption>
@@ -116,13 +183,13 @@ Más información
 <section id="summary-of-the-project" class="level1">
 <h1>Summary of the project</h1>
 <p>The overall objective of MOBILIS is to produce new knowledge and insights on the interaction and dynamics of research career networks and international research careers in EU countries, their role in shaping international collaboration and how policy can support improved research careers and their impact in the European Research Area (ERA). Key EU policy documents emphasize the importance of international research careers for the ERA and of creating conditions that both improve the attractiveness of research careers in the EU and their benefits for the EU Research &amp; Innovation (R&amp;I) ecosystem. These stress the need to monitor research careers, improve recruitment and working conditions, develop infrastructure and to promote intersectoral research careers. To address these needs, MOBILIS will utilize a systems-based, multi-methods approach focusing on four specific objectives that frame and guide the work in the project. First, MOBILIS will will combine large data sources (e.g., ORCID, CORDIS, Dimensions, OpenAlex), scientometric applications, and advanced data modelling and analytics to map and monitor international flows of researchers, their knowledge, skills, resources, and careers. Second, MOBILIS will launch large-scale surveys to identify and quantify the factors shaping attraction, retention, career progression, and sectoral mobility of international researchers in the EU. Third, MOBILIS will analyse how international researchers in the EU influence knowledge flows, research collaboration, and research career trajectories. Fourth, based on project results, MOBILIS will develop policy rec-ommendations to improve the attractiveness of research careers in the EU.</p>
-<div class="callout callout-style-simple callout-important no-icon callout-titled">
+<div class="callout callout-style-simple callout-important no-icon callout-empty-content callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<a href="https://cordis.europa.eu/project/id/101334241">MORE INFORMATION ON THE PROJECT</a>
+<span class="screen-reader-only">Important</span><a href="https://cordis.europa.eu/project/id/101334241">MORE INFORMATION ON THE PROJECT</a>
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -165,7 +232,7 @@ Más información
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Slides and recording of the seminar are available
+<span class="screen-reader-only">Important</span>Slides and recording of the seminar are available
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -207,7 +274,7 @@ Slides and recording of the seminar are available
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Slides and recording of the seminar are available
+<span class="screen-reader-only">Important</span>Slides and recording of the seminar are available
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -431,13 +498,13 @@ Lamont, Michèle. 2009. <em>How Professors Think</em>. Harvard University Press.
 </div>
 <p>Last Monday I had the chance to participate as an invited speaker in the I International Edition of the <a href="https://www.bibliometrix.org/home/index.php/school/sssm-2025/sssm2023-description"><strong>Summer School in Science Mapping</strong></a> organized by research team led by Massimo Aria and Corrado Cuccurullo. These are the people behind the wonderful R package <a href="https://www.bibliometrix.org/home/index.php">Bibliometrix</a>, and now also <a href="https://github.com/massimoaria/tall">TaLL</a> (for text analysis). It is a really nice and smart group of people, doing a fantastic job on the development of tools that can be used both, for people with and w/o programming skills. I have been in touch with them for several years, as we have invited them in several occasions to the ESSS to introduce students to their software, and even Dani created a <a href="https://www.youtube.com/watch?v=CoRcJg15XVA">videotutorial in Spanish</a> for the Biblioshiny interface and I’ve used it for my <a href="https://zenodo.org/records/7556999">teaching</a>.</p>
 <p>In this occasion I was invited to talk about <strong>Altmetrics and Open Science</strong>, based on previous lectures I periodically give at the ESSS. I took the occasion to improve my materials, update them and improve the narrative. The lecture went well with an interesting follow up given the multidisciplinary background of the students.</p>
-<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout callout-style-default callout-tip callout-empty-content callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<a href="https://doi.org/10.5281/zenodo.15658289">Download the slides here</a>
+<span class="screen-reader-only">Tip</span><a href="https://doi.org/10.5281/zenodo.15658289">Download the slides here</a>
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -468,13 +535,13 @@ Lamont, Michèle. 2009. <em>How Professors Think</em>. Harvard University Press.
 <p><img src="https://elrobin.github.io/posts/30-05-2025/images/portada.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
-<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout callout-style-default callout-important callout-empty-content callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<a href="https://zenodo.org/records/15551106">Download here</a>
+<span class="screen-reader-only">Important</span><a href="https://zenodo.org/records/15551106">Download here</a>
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -709,7 +776,7 @@ Whitley, Richard. 2000. <em>The Intellectual and Social Organization of the Scie
 <figure class="figure">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><a href="https://www.nature.com/articles/d41586-018-06185-8"><img src="https://elrobin.github.io/posts/24-11-2024/multiauthorship.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="423" alt="Illustration from Davis Parkins, Source: Nature"></a></p>
+<p><a href="https://www.nature.com/articles/d41586-018-06185-8"><img src="https://elrobin.github.io/posts/24-11-2024/multiauthorship.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="423"></a></p>
 </figure>
 </div>
 <figcaption>Illustration from Davis Parkins, Source: Nature</figcaption>
